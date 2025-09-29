@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Las señoritas de hogaño y las doncellas de antaño</title>
+               <author ref="authors.xml/#P54">López Soler, Ramón</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">22207</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_081</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>López Soler, Ramón</author>
+                  <title>Las señoritas de hogaño y las doncellas de antaño</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <date when="1999">1999</date>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmczs2q1">https://www.cervantesvirtual.com/nd/ark:/59851/bmczs2q1</ref>
+                  <bibl type="print">
+                     <author>López Soler, Ramón</author>
+                     <title>Las señoritas de hogaño y las doncellas de antaño</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/1062424">Sabadell</settlement>
+                     </pubPlace>
+                     <publisher>Caballo-Dragón</publisher>
+                     <date when="1998">1998</date>
+                     <bibl type="first">
+                        <author>López Soler, Ramón</author>
+                        <title>Las señoritas de hogaño y las doncellas de antaño</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7007426">Barcelona</settlement>
+                        </pubPlace>
+                        <publisher>A. Bergnes y Comp</publisher>
+                        <date when="1832">1832</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year">1832</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="chapter">
+               <head>Capítulo I</head>
+               <head>El ama y la sobrina</head>
+               <p> El lector tendrá la bondad de trasladarse con nosotros a una hermosa quinta del
+                reino de Granada, donde vivía habrá como veinte años una familia acomodada y
+                virtuosa. Don Alberto Ludueña se había enriquecido en el comercio: y todo su conato,
+                desde que perdió a una esposa querida, fue el dar culta educación a Matilde, única
+                hija suya, en quien brillaban las dotes del ingenio y las gracias de la hermosura.
+                La casa de campo de que hablamos anunciaba por todas partes la riqueza y el buen
+                gusto de su dueño. Verjas, escalinatas, columnas, estanques y jardines formaban un
+                magnífico conjunto, excitando la admiración del peregrino y la curiosidad de los
+                viajeros. Las salas interiores correspondían a esta grandeza exterior, lo mismo que
+                los suntuosos muebles que las engalanaban. Sobre todo una de ellas de forma ovalada,
+                con puerta al fondo correspondiendo al jardín y otras dos colaterales que llevaban a
+                varios aposentos, tenía tal elegancia en las líneas, tan buen gusto en los adornos,
+                que era el sitio predilecto de la familia, y la pieza que regularmente preferían
+                cuantos visitaban la quinta.</p>
+               <p> Allí se hallaba en el momento de que hablamos una joven sobrina de don Alberto
+                enteramente absorta en retocar y pulir cierto dibujo que iba trazando. Un ama de
+                gobierno, mujer antigua en la casa, frisando en los cincuenta de la edad, entraba a
+                la sazón por una de las puertas que hemos dicho, y cariñosamente preguntóle por qué
+                en vez de ir a la cacería con los demás de la casa, había preferido atender a su
+                dibujo.</p>
+               <p> -Porque no tengo mayor inclinación a esos tumultuosos recreos -respondió Leonor, que
+                así se llamaba la joven.</p>
+               <p> -¡Pues qué! -insistió el ama- ¿Ignora usted que la de hoy es más completa y bien
+                combinada que otras veces?</p>
+               <p> -No lo ignoro, y aun he visto desde la torre la magnífica cabalgada. El tío iba en
+                calesa, mi prima Matilde a caballo con su acostumbrada gracia y bizarría... Mire
+                usted, ama, me gustaría mucho, muchísimo, saber montar a la inglesa.</p>
+               <p> -¡Donoso pasatiempo para una señorita!</p>
+               <p> -Pues ¿qué advierte usted de malo en eso? -preguntó la sobrina.</p>
+               <p> -Primero la falta de decoro, y después la sobra de peligro.</p>
+               <p> ¡Oh! Nada hay que temer en cuanto a Matilde, tanto por su diestrísimo manejo, como
+                por ir a su lado el elegante Perceval dando saltos y corvetas con su caballo
+                andaluz, acaso el más brioso de su raza.</p>
+               <p> -¡Su caballo andaluz! -repitió el ama con mucha sorna meneando la cabeza- El caballo
+                del tío, dirá usted mejor.</p>
+               <p> -Ya; pero como siempre se sirve del mismo...</p>
+               <p> -¡Vaya una gracia! Pues si saca usted esas cuentas, es suyo todo lo de la casa
+                supuesto que de todo se sirve y en todo raja y dispone sin empacho ni ceremonia.</p>
+               <p> -Eso, amiga mía, consiste en que la echa de filósofo, de hombre generoso y
+                desprendido.</p>
+               <p> -Sólo cuando el muy botarate haya ganado un caudal con el sudor de su frente, podrá
+                hacer alarde de estas peregrinas virtudes.</p>
+               <p> -¿Y es posible que hable usted así, ama? ¿Usted que lo vio llegar el año pasado con
+                tanta alegría?</p>
+               <p> -Porque a primera vista deslumbra con sus atentos modales, con su despejada
+                gallardía y con la peregrina relación de sus infortunios. Además, aquel servicio
+                hecho al señor don Alberto, aquel rasgo de desinterés en tomar su defensa sin
+                conocerle, y la opinión sobre todo de que venía con ánimo de rendir el homenaje
+                debido a las virtudes de usted...</p>
+               <p> -¡Es posible...! ¿Llegó usted a figurárselo?</p>
+               <p> -Mucho que sí -continuó el ama- siempre galán y obsequioso, siempre buscando su
+                lado, daba muestras de intenciones laudables y de hacer justicia al verdadero
+                mérito. Pero de repente, hija mía, lo he visto alejarse de usted sin que haya podido
+                adivinar la causa de tan súbito desvío.</p>
+               <p> -Yo también lo ignoro -dijo sonriéndose la doncella-. Cuando llegó por la primera
+                vez... habrá como cosa de un año... era yo la única señorita de la casa, pues mi
+                prima Matilde estaba todavía en el colegio de París donde se ha educado. Al verme
+                dio muestras de turbarse; nunca terminaba un discurso con claridad, y regularmente
+                lo interrumpía para dar libre desahogo a media docena de suspiros. Si lo encontraba
+                casualmente en los jardines, era paseándose por las calle más apartadas y sombrías,
+                con el pañuelo en la mano, los ojos hinchados y turbios, y cierto aire de
+                desesperación y delirio que me afligía en extremo; porque mire usted, ama, se me
+                llegaba a figurar uno de esos héroes desgraciados que nos pintan las novelas, y no
+                como quiera, sino con todas las señales del último despecho, como si ya nos
+                hallásemos en las postreras páginas del tomo cuarto.</p>
+               <p> -¡Haya picardía...!</p>
+               <p> -Pues cuenta que nada pondero, que hasta el tío lo llegó a advertir, por manera que
+                nunca nos dejaba solos. Un día que me hallaba en este mismo salón divertida con mis
+                pinceles, arrimó una silla, sentóse junto a mí, y empezó a decirme: ¡Leonor!...
+                ¡Hermosísima Leonor!... Y sin añadir ni una letra inclinó la frente, acercó a los
+                ojos el pañuelo y quedóse como sumergido en un melancólico letargo...</p>
+               <p> -Vamos, y usted ¿qué hizo? Porque la cosa empezaba a tener su intríngulis...</p>
+               <p> -¿Yo? No sabiendo qué decirle me puse a hablar de mis amigas, de mis canarios, de
+                ciertos dibujos que me enviaba la prima y otras mil majaderías por el estilo, hasta
+                que al ver que aún seguía callando tuve que sacar a plaza mi propia historia, y
+                encajéle la manoseada relación de mi orfandad, las riquezas de Matilde y la generosa
+                acogida que me daba don Alberto, siendo así que yo nada tenía ni en méritos
+                personales, ni en bienes raíces, ni en tesoros heredados. Ello sin duda hubo de
+                contribuir en gran manera a su distracción, porque a medida que le iba enterando
+                notaba en su semblante no sé qué mudanza repentina con no pocos vislumbres de
+                impaciencia, curiosidad y despejo. Llamaron a comer, reparé en que lo hizo con más
+                apetito que nunca, por la tarde tomó chocolate, a la noche cenó como si tal cosa, y
+                al día siguiente anduvo algo ojialegre, y al otro mucho más, y dentro de una semana,
+                Dios guarde a usted muchos años, desapareció de la quinta.</p>
+               <p> -Con que ¿todo eso había cuando su merced tomó el portante?</p>
+               <p> -Dijo que iba a Madrid por negocios de suma importancia, hasta que le pareció volver
+                cuando menos lo esperábamos. Y no es decir que deje de mostrarse conmigo muy
+                obsequioso y cortés, pero no ya a todas horas, como solía, sino al hallarnos entre
+                gentes que nos observan.</p>
+               <p> -Paréceme muy extraño... Y lo particular es -continuó el ama levantando un poco la
+                voz- que manda en la casa como si fuera el tío de usted y aún dos puntitos más alto.
+                Aseguro a usted, hija mía, que conmigo han de medrar poco sus aires de protección y
+                sus frasecitas recortadas: no señor; mal año para los que quieren mangonear sin que
+                les cueste un cuarto; mándenme enhorabuena los que me pagan, pero...</p>
+               <p> -Eso no es verdad: nunca he dado a usted la menor cosa, y sin embargo...</p>
+               <p> -Quita allá -respondió el ama- pues ahí es un grano de anís la diferencia. Usted y
+                el señor don Luis son mis hijos adoptivos: yo, yo misma los he criado, educado, y
+                desde que se quedaron ustedes sin amparo... pero ¿qué es esto? -añadió echando una
+                ojeada al dibujo de Leonor- ¡Vaya! ¡Ni más ni menos que la efigie de don Luis! El
+                mismo... el mismo.</p>
+               <p> -Como que lo he sacado -respondió la doncella algo turbada- del cuadro de la familia
+                que está en la galería verde.</p>
+               <p> -¡Qué disparate! ¡Si éste se asemeja mucho más...! Su misma planta, su bondadosa
+                mirada, su picaresca sonrisa... Nada, si es un portento. Nada, nada le falta.</p>
+               <p> -¿De veras? Mire usted, me alegro mucho, porque es un regalo que he pensado hacer al
+                tío cuando llegue su cumpleaños.</p>
+               <p> -¡Y cómo si se parece! ¡Hijo de mis entrañas! Desde que el pobre tuvo que salir con
+                el regimiento apenas hemos sabido de su suerte, y sólo con usted he podido hablar
+                algunas veces de sus bellísimas prendas. No sé qué barruntos tengo de que la
+                señorita Matilde no hace a su mérito toda la justicia que se le debe, pues no se
+                afana por oír hablar de él, ni muestra alegrarse de las prósperas nuevas que hace un
+                año supimos. Hablo de cuando pasó aquel tercio de soldados que venía de los
+                Pirineos, donde anduvo en más que dimes y diretes con las tropas de Bonaparte. Digo
+                a usted la verdad; la señorita Matilde deslumbra por su hermosura, su buen garbo, su
+                elegancia; pero como yo fuese hombre, no me había de casar con ella.</p>
+               <p> -¡Es posible! Lo mejor será que mudemos de conversación.</p>
+               <p> -¿Y por qué motivo?</p>
+               <p> -Porque es harto probable que no me casaré nunca. En el tiempo en que vivimos,
+                cuando no hay un razonable dote que pescar...</p>
+               <p> -¡Pues qué! ¿El tío no dará a usted lo suficiente para establecerse?</p>
+               <p> -Si dará, pero en caso de aceptarlo, también será preciso aceptar el marido que me
+                elija...</p>
+               <p> -Y en eso, señorita -respondió el ama- no deseará mas que lo justo.</p>
+               <p> -Es que tal vez, ahí donde usted me ve, soy algo voluntariosa y descontentadiza...
+                No que a imitación de mi prima exija sensaciones fuertes, raptos violentos, pues me
+                hago justicia y conozco que no soy para inspirarlos; pero quisiera, sí, en el hombre
+                con quien hubiese de unirme una dosis suficiente de razón para que supiese apreciar
+                un cariño sincero y constante, sin echar muy a menos los dones de la belleza y del
+                ingenio, que por desgracia me faltan.</p>
+               <p> -Entiendo, entiendo, hija mía -respondió el ama sonriéndose- lo que usted quisiera
+                es un hombre tan primoroso y acabado como el modelo que se forja esa fértil y lozana
+                imaginación.</p>
+               <p> -No tal: sólo conforme a alguno de los que he conocido hasta ahora.</p>
+               <p> -¿A don Luis, por ejemplo...?</p>
+               <p> -Tal vez -repuso ruborosa la muchacha- porque, mire usted señora Margarita, estoy
+                segura, segurísima de que ha de ser muy feliz la que elija por esposa.</p>
+               <p> -¿Y qué motivo hay para creer que no sea usted la elegida?</p>
+               <p> -¡La elegida! -dijo tristemente Leonor- No, no, querida ama, don Luis es demasiado
+                rico y hará gran carrera en la milicia. ¿Qué proporción, dígame usted, entre tan
+                bellos recursos y la orfandad mía? Por otra parte el tío tiene sus planes, y yo, que
+                lo debo todo a su buen corazón, huiré de contrariarlos, aun cuando me prometiese un
+                éxito feliz.</p>
+               <p> Aún siguieron hablando largo rato el ama y la sobrina; pero como toda la
+                conversación se redujo a lo que llevamos dicho, hacemos gracia al lector de lo demás
+                para instruirle de cosas sobremanera esenciales a la fácil comprensión de esta
+                historia.</p>
+               <p> Ha de saber en primer lugar que el ama, la señora Margarita, era una mujer de pro,
+                bastante gorda y rolliza para criada mayor, con sus puntas de bachillera y
+                respondona. Todo lo suplía, sin embargo, el interés que tomaba por la casa, hijo de
+                su buen corazón y de los muchos años que estaba sirviendo en ella. Era en efecto
+                verdad lo que decía de amar con preferencia a don Luis de Ludueña y a la señorita
+                Leonor; pues a la circunstancia de haberles servido de madre, añadíase el azucarado
+                natural del señorito, y la mansa condición de la doncella. Por aquel tiempo andaba
+                revuelta la España con la guerra que sostenía en su propio territorio contra las
+                aguerridas legiones de Napoleón Bonaparte; don Luis seguía, como hemos visto, la
+                carrera militar; y ya fuese por efecto de la falta de comunicaciones, o por alguna
+                desgracia que le hubiese sobrevenido en los últimos combates, era lo cierto que
+                había muchos meses no daba noticias a don Alberto acerca de su buena o mala andanza,
+                cosa que tenía algo triste y consternada a tan respetable familia. Verdad es que
+                había como un año hicieron alto en la quinta un par de compañías de cierto
+                regimiento que pasaba por el camino real más inmediato, y que oyeron de los
+                oficiales era el don Luis uno de los militares más valientes y peritos del ejército,
+                que merecía entre sus compañeros la reputación primera, y que había logrado
+                adelantos y distinciones honoríficas; pero desde entonces no supieron cosa alguna, y
+                aun este mismo deseo de honra y fama, que tanto les habían encarecido aquellos
+                transeúntes, contribuía a acrecentar sus recelos en orden a la pérdida de joven tan
+                apreciable y completo. En vano leía don Alberto las gacetas y demás papeles públicos
+                que podía procurarse, para rastrear la suerte de su sobrino, en la esperanza de que
+                habiendo visto algunas veces adornados sus artículos con elogios suyos, no dejarían
+                de hacer mención de su muerte en el caso de sobrevenirle esta desgracia. Nada empero
+                hallaba en ellos que satisfaciese su curiosidad; y entre tantos oficiales cuyos
+                altos hechos celebraban, nunca topaba con el nombre antes tan gloriosamente repetido
+                de don Luis de Ludueña.</p>
+               <p> Tal era en el momento de que hablamos la situación de una familia cuyos individuos
+                prestan rica materia a esta verdadera historia. Con la llegada de la señorita
+                Matilde, gallarda joven, educada en París desde su más tierna infancia por tener en
+                aquella capital una tía que la amaba con singular cariño, entregábanse sin cesar a
+                los pasatiempos de la caza y de la pesca; mas no por eso dejaba de vivir en zozobra
+                el bueno de don Alberto, temiendo que el día menos pensado le diesen la noticia de
+                la muerte de su sobrino.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo II</head>
+               <head>El advenedizo</head>
+               <p> Serían las once de la mañana cuando don Alberto Ludueña y el elegante Perceval,
+                seguidos de varios criados, entraban en la quinta llevando como en triunfo los
+                despojos de la caza. Iba don Alberto apoyado en el brazo del joven huésped, al que
+                manifestaba agradecer las cariñosas atenciones que le iba prestando. Ayudábale en
+                efecto Perceval con tales muestras de respeto y cortesía, que lo tomara cualquiera
+                por un hijo solícito y tierno, enteramente dedicado a suavizar las penas que
+                acarreaba la vejez al noble autor de sus días.</p>
+               <p> -¡Pues qué! Margarita -dijo al ama con su afectada eficacia- ¿No ve usted que hace
+                falta la silla poltrona en que suele descansar el señor cuando viene fatigado? Vive
+                Dios, que es preciso tener la cabeza a cuatro vientos para no atinar en esto. Ahora
+                -continuó así que Margarita trajo la silla- dirá usted a Felipe que aliñe el pesebre
+                del caballo, le limpie el sudor y le cubra con la manta; pues de otra suerte corre
+                algún peligro en atención a las ásperas fatigas que trae consigo la caza. Esos
+                caballos andaluces necesitan del mayor cuidado: díganmelo a mí que llegué a contar
+                seis de los más arrogantes y lozanos en mi cuadra antes de sufrir imprevistos
+                contratiempos.</p>
+               <p> -Es usted sobrado bueno y complaciente -dijo a la sazón don Alberto- y si no fuera
+                porque conozco el afecto de que le soy deudor, haríame recelar más navidades de las
+                que cuento. Toma, Margarita... ahí va el sombrero... el bastón... aguarda, mujer: el
+                corbatín... déjalo sobre ese velador. Pero ¿por qué te vas así despechada, y
+                resuelta, y...</p>
+               <p> -Porque estando el señor con usted ya no necesita de nadie.</p>
+               <p> ¡Válgame Dios! -repuso tristemente don Alberto- sabes que nada deseo como la paz
+                doméstica, y no parece sino que te empeñas por lo mismo en perturbarla.</p>
+               <p> -Déjela usted -dijo Perceval interrumpiéndole- las dueñas fiadas, las amas celosas
+                del bien de las familias deben gozar del privilegio de ser algo asperillas y
+                regañonas. Fuera de que es fuerza convenir en que la señora Margarita hace a usted
+                un gran servicio.</p>
+               <p> -¿Se puede saber cuál es? -preguntó el ama sin curarse de suavizar su
+                desabrimiento.</p>
+               <p> -No hay dificultad: quise decir que un viejo intolerante y regañón hace resaltar las
+                virtudes de otro lleno de amabilidad e indulgencia. Por consiguiente, puede usted
+                aplicar el cuento y tener entendido que...</p>
+               <p> -¡Qué! Usted -atajóle Margarita sin poder reprimirse- un aventurero, un...</p>
+               <p> -¡En nombre de Barrabás! -gritó don Alberto- Calla ese pico y vete de una vez a tus
+                quehaceres.</p>
+               <p> -Iréme, señor, iréme sin desahogar mi justo resentimiento con el primero y el único
+                que me ha perdido el respeto desde que sirvo a tan respetable familia... iréme, para
+                evitar que usted se incomode, y que ese hombre continúe divirtiéndose en amancillar
+                la honra de una pobre anciana.</p>
+               <p> Así que hubo salido, murmurando entre dientes contra la desvergüenza de Perceval y
+                la sobrada flema de quien aguantaba su presuntuosa arrogancia, entró Leonor a
+                preguntar cariñosamente a su tío si se había divertido mucho en los pasatiempos de
+                aquel día. Al instante le salió al encuentro Perceval muy afectuoso y cortés,
+                ponderándole, según costumbre, cuánto había sufrido en la cacería por carecer de la
+                satisfacción de que se hubiese dignado honrarla con su presencia. Respondióle Leonor
+                con el candoroso espíritu de bondad que la distinguía, y contemplábalos en tanto don
+                Alberto con singulares muestras de complacencia y ternura.</p>
+               <p> -Extraño mucho -dijo al fin interrumpiéndoles- que Matilde no haya venido a reunirse
+                con ustedes.</p>
+               <p> -Es que se ha empeñado en domar el caballo que trajeron ayer de las dehesas de
+                Córdoba, haciendo que saltase varias veces la barrera levantada al efecto en el
+                bosque inglés del jardín. La he visto alejarse a galope tendido cuando entrábamos en
+                la quinta.</p>
+               <p> -¿Y cómo no se ha opuesto usted a semejante locura? -dijo don Alberto- o por lo
+                menos ¿por qué no ha ido con ella a fin de precaver toda desgracia?</p>
+               <p> -Creí obligación más sagrada el venir sirviendo a usted...</p>
+               <p> -Pues no hay más sino que corramos al jardín por si algún desventurado incidente
+                hubiese castigado la temeraria presunción de Matilde.</p>
+               <p> -No es menester, no es menester -exclamó Leonor- ahí viene con el látigo en la mano
+                y el color muy encendido.</p>
+               <p> Entraba efectivamente entonces aquella hermosísima joven. Gallarda estatura, finos
+                modales, elegancia en la persona, facciones llenas de seducción y de dulzura, eran
+                las calidades que la distinguían a primera vista, dándola en cuantas concurrencias
+                se presentaba la palma de la belleza. Por lo demás, graciosa en su modo de
+                producirse, aguda en la comprensión, rápida, culta y a veces sentimental en el
+                diálogo, cautivaba con el trato a los mismos a quienes había deslumbrado con el
+                esplendor de su hermosura. Las costumbres de Francia le habían inspirado una
+                decidida inclinación a vestirse de amazona, montar a caballo y hacer alarde de
+                cierta impavidez, que parecía ajena de su humor naturalmente pensativo y
+                melancólico. Llegaba entonces ufana y complacida por haber obligado un caballo casi
+                indómito a satisfacer el capricho de saltar una barrera desmesuradamente elevada.
+                Con el violento ejercicio estaba sudorienta y encendida, caíanle sueltos y flexibles
+                sus numerosos bucles por los hombros, y echábase de ver en sus miradas la
+                complacencia del triunfo y el interior prestigio de su audacia.</p>
+               <p> -Bien lo decía yo -exclamó- bien lo decía que era bastante jinete para ponerle la
+                ley.</p>
+               <p> -¡Pues qué! -gritó don Alberto- ¿Habrías tenido la irreflexiva temeridad de
+                traspasar la barrera?</p>
+               <p> Y por tres veces, papá... sólo en la última faltó el brío al pobre caballo y dimos
+                entrambos un gran batacazo en el suelo.</p>
+               <p> -¡Imprudente! ¡Imprudente! ¿Y te has lastimado?</p>
+               <p> -Poca cosa: la fortuna, que di un brinco para que no me cogiera debajo.</p>
+               <p> -¡Muchacha! ¿Y no tenías miedo? -preguntó Leonor.</p>
+               <p> -Así, así: pero hay cierta palpitación que me place en el peligro que se arrostra y
+                se desprecia.</p>
+               <p> -¿Y no te acordaste -observó tristemente don Alberto de que semejante indiscreción
+                podía causar a tu padre un eterno pesar...? ¿Quizás la muerte?</p>
+               <p> -¡Ah! -respondió Matilde enternecida- confieso que no me ocurrió esta idea. Pero
+                sosiéguese usted, papá; prometo no exponerme otra vez a tales riesgos.</p>
+               <p> -Sí, sí, mucho prometer y poco cumplir: cada día te arrojas a nuevas locuras llevada
+                de ese maniático frenesí por todo lo de París. Fortuna ha sido hubiese allá quien te
+                hablase en castellano, pues de lo contrario olvidáraste también de la lengua de tu
+                patria.</p>
+               <p> -Pero, papá mío...</p>
+               <p> -Y tu patria -prosiguió don Alberto- vale tanto como esa Francia, que nos ha venido
+                a quitar el reposo y la industria después que por sus maquiavélicas tramas nos
+                hallábamos sin escuadra naval y sin tropas. Participo a usted, señorita, que acá
+                somos españoles... ¿Estamos? Españoles, digo, sin doblez y sin esas monadas
+                extranjeras que deslumbran a los bobos. No señor: quédense con sus caballos de media
+                legua, y su té, y su vino de Champaña; y vengan acá para nosotros el confortativo
+                Valdepeñas, la olla podrida, y el lozano bridón de Córdoba, sin que lo monten
+                madamitas con ínfulas de marimachos.</p>
+               <p> -¡Viva! ¡Viva! -exclamó Perceval- me precio de buen español y...</p>
+               <p> -Por eso es usted el único que haga honor al rancio Xerez y al sabroso Málaga de mis
+                bodegas. Pero ¿qué es esto? -añadió volviéndose a Matilde- ¿ya te has puesto de
+                malhumor por lo que dije? Vaya, vaya, no fue por más que por el qué dirán. Para mí
+                siempre eres donosa, hechicera y elegante, con que no te me amohínes, y ven a darme
+                un abrazo.</p>
+               <p> Lanzóse Matilde a los brazos de su padre e hízole prometer que consentiría en
+                llevarla a una caza de zorras que habían proyectado anteriormente. Leonor, siempre
+                solícita y afectuosa, trajo a don Alberto las cartas del correo y un paquete de los
+                periódicos que se publicaban a la sazón en la Península, arreglando además la mesita
+                de juego para que se divirtiese con Perceval al de los cientos. Hablaron largo rato
+                del servicio que este caballero hiciera a don Alberto cuando sacó la cara por él sin
+                conocerle, de su buen corazón, de sus desgracias, y de varios asuntos concernientes
+                a la familia hasta que vinieron a fijarse en los sucesos de la guerra.</p>
+               <p> -Según las últimas noticias ya puede ser que se haya firmado la paz -dijo don
+                Alberto.</p>
+               <p> -¿Y nada sabe usted de nuestro primo? -preguntó Leonor.</p>
+               <p> -Esta misma mañana al atravesar el camino real me han dicho unos soldados, que se
+                volvían con la licencia absoluta, se hallaba robusto y sano hace muy pocos meses, y
+                singularmente aplaudido de sus superiores.</p>
+               <p> -Sin embargo -opuso Perceval- este papel trae los pormenores de la batalla de
+                Vitoria, y ninguna mención hace...</p>
+               <p> -A ver, a ver -interrumpió Matilde; y tomando el periódico de manos del caballero
+                leyó en alta voz lo siguiente:</p>
+               <p> «Uno de los regimientos españoles del ejército combinado, hallándose vivamente
+                perseguido de una división enemiga, recibió orden de retirarse y volar cierto puente
+                antiguo para detener a los franceses, deseosos de pasarlo a cuchillo o arrebatarle
+                las banderas. Ya llegaban los enemigos en la opuesta orilla, y a pesar de que
+                humeaba la mecha en la boca de la mina no reventaba el volcán. Mandaron a un
+                granadero veterano que volviese a pegarle fuego: más detúvose irresoluto un instante
+                al cumplir con tan arriesgada comisión.</p>
+               <p> -¿En qué piensas? -gritále su coronel el señor de Ludueña, bizarro conde de
+                Almanza.</p>
+               <p> -En mi mujer y mis hijos... pero a la mano de Dios, mi coronel... los recomiendo a
+                la generosa conmiseración de vuestra señoría.</p>
+               <p> -Tienes razón -exclamó el conde deteniéndole- suelta esa mecha... al fin soy
+                soltero...</p>
+               <p> Y sacudiéndola con brío arrojóse a la mina entre un diluvio de balas, y dentro de un
+                minuto volaron las piedras del puente con horroroso estrépito hasta las nubes».</p>
+               <p> -¿Y cuál fue la suerte de tan valiente oficial? -preguntó Leonor mientras saltaba de
+                sus ojos una lágrima de agradecimiento.</p>
+               <p> -No lo trae la leyenda -respondió Matilde- pero te aseguro que no podría fácilmente
+                consolarme de que hubiese perecido en tan generosa demanda.</p>
+               <p> -¿Cierto? -preguntó Perceval.</p>
+               <p> -Cierto -repuso la joven- Hay en tan noble rasgo un espíritu de pundonor y bizarría
+                que me llega al alma.</p>
+               <p> -Eso ya es un poco fuerte, señorita; aconsejaría yo a usted que se contentase con
+                elogiarlo.</p>
+               <p> -¡Calle! -gritó don Alberto consultando todavía la relación de la gaceta-
+                ¡Ludueña...! Casi diría que ha de ser pariente mío... no obstante que a excepción de
+                mi sobrino Luis todos han tirado por el comercio.</p>
+               <p> -Y que sabe usted bien -añadió Leonor- que no tenemos hidalgos en la parentela.</p>
+               <p> -Hidalgos no, pero hombres de bien muchísimos; y cualquiera persona, como sea
+                valiente y honrada, puede adelantar mucho en la milicia.</p>
+               <p> -Convengo con usted -dijo Perceval- a menos que no le persiga tenazmente el
+                infortunio. Cuando seguía las banderas del ejército, conocí mucho al bravo conde de
+                Almanza.</p>
+               <p> -¿También ha sido usted militar? -preguntó Leonor.</p>
+               <p> -Sí señora, y el conde era mi hermano de armas.</p>
+               <p> -¿De veras? -exclamó Matilde con manifiesto júbilo.</p>
+               <p> -Y tanto -satisfizo Perceval- que arrostrábamos a porfía los mismos peligros y
+                reposábamos bajo de una misma tienda.</p>
+               <p> -En efecto -dijo a esta ocasión don Alberto ocupado entonces en leer su correo-
+                cabalmente tengo aquí una carta en que me hablan de usted, señor don Federico.</p>
+               <p> -¿Cómo de mí? -preguntó algo turbado.</p>
+               <p> -Por supuesto en términos bastante honrosos, pues me dicen que ha servido usted en
+                las guardias Walonas.</p>
+               <p> -Es cierto, y todo el espíritu militar de este distinguido cuerpo exaltaba mi
+                corazón al oír el heroico sacrificio que doña Matilde nos acaba de leer. Harto fácil
+                he sido en creerme ya superior a estas rápidas y brillantes sensaciones.</p>
+               <p> -¿Y a qué fin sufocarlas? -exclamó Matilde- ¿A qué suponer que hayan de amortiguarse
+                para siempre mientras aún se dan batallas y se aplaude donde quiera el pundonor
+                militar?</p>
+               <p> -¡Dios mío! -gritó recorriendo otra carta don Alberto- ¡Qué felicidad para todos!
+                Corred, hijas mías, decid a Margarita que prepare el cuarto de la galería, pronto,
+                sin que le falten finas palanganas, jarros de alabastro con flores, olorosos
+                búcaros, buenas toallas, y la papelera de caoba, y los libros más selectos,
+                instructivos y curiosos de mis estantes.</p>
+               <p> -Pero, señor don Alberto... -dijo Perceval.</p>
+               <p> -Pero, papá... -repitió Matilde.</p>
+               <p> -Nada, nada hijos míos; dejadme entregar a toda mi alegría, pues que llega de un
+                momento a otro nuestro amabilísimo Luis.</p>
+               <p> -¡Válgame el cielo! -exclamaron Matilde y Perceval echándose una significativa
+                mirada.</p>
+               <p> -¿Y es verdad que viene? -preguntó Leonor con candoroso interés- Vuelva a leerlo por
+                su vida, tío, no sea que nos equivoquemos y se nos agüe la fiesta.</p>
+               <p> ¿Qué hablas de equivocarme, ni de fiesta burlada, ni... cuando ya se halla a pocas
+                leguas de aquí?</p>
+               <p> -¿De veras, tío?</p>
+               <p> -Y tan de veras que si andáis torpes en arreglarle la estancia, lo encajo sin
+                ceremonia en mi propio aposento.</p>
+               <p> -Pues voy -dijo Leonor desasosegada e inquieta- voy, y... mire usted, cuando acabe
+                con ese arreglo de trastos me planto en la cúpula de la glorieta del jardín para
+                descubrirlo de lejos y correr a su encuentro primero que nadie.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo III</head>
+               <head>Los tres primos</head>
+               <p> Es fuerza hacer saber al lector que, dejando a parte los extremos y aspavientos de
+                la vieja Margarita, nadie había de ver llegar con tanto júbilo a don Luis como
+                Leonor y don Alberto. Con respecto a la niña no se me pregunte el porqué; y tocante
+                al bueno de don Alberto, bastará decir que tenía formado el plan, años había, de
+                unir en matrimonio al Luisito y la Matildilla, echarles paternal y cumplida
+                bendición, y pasar con ellos largos y apacibles días de filosófica holganza. Pero el
+                diablo, que todo lo añasca, metióse de por medio, y dispuso la cosa de modo que
+                nunca anduviesen muy de acuerdo los dos jóvenes. Y no se piense que fuese quimerilla
+                de hogaño, pues desde niños se advirtiera en ambos tanta disposición a enquimerarse,
+                como se notaba para vivir en santa paz entre la Leonorcilla y el primo. Ni con mil
+                diablos unían los cachivaches o las meriendas, ni paseaban de bracero, ni eran de la
+                misma opinión, ni se pasaba mucho rato sin que anduviese la morisqueta y la zambra.
+                Por lo regular Luis hacía migas con Leonor, y divagaba Matilde por las calles
+                solitarias del jardín cultivando las flores, o deliciosamente embelesada en
+                contemplar algún dibujo de melancólica novela.</p>
+               <p> A consecuencia de tales disposiciones de la niñez fueron manifestándose estas tres
+                personas más o menos íntimas con la edad. El carácter del muchacho descollaba por
+                honrado, puntual y exacto, en lo que se parecía mucho al de Leonor, muy hacendosa y
+                mirada en el desempeño de sus obligaciones domésticas, y en repartir las horas al
+                efecto de que no se quedasen atrás, ni se perturbase el régimen de la familia. Amiga
+                del orden, preciada de honesta, sencilla sin afectación, virtuosa con naturalidad,
+                gustaba de ocuparse y también de un honesto recreo mientras anduviese conforme con
+                la distribución de sus tareas.</p>
+               <p> Las mismas inclinaciones se advertían en el primo: por tan aplicado a las
+                matemáticas, flemático en el cálculo y exacto sobre todo en su ojeada, quisieron
+                destinarle a la difícil carrera de marino; pero la guerra del año ocho, entre los
+                muchos planes que desbarató, echó a rodar también éste; y he aquí que en vez de
+                atisbar la brújula y de mandar la maniobra, colgó del tahalí recia espada toledana,
+                y llevaba enarbolada entre las filas una ínclita bandera. Verdad es que su mérito y
+                sus luces le valieron rapidísimos ascensos; mas no por esto dejaba de mostrar igual
+                perseverancia en el riesgo y serenidad, patriotismo y fortaleza en cuantas ocasiones
+                lo exigían el interés de su honor y la gloria de su país.</p>
+               <p> Por lo que hace a Matilde, en nada se asemejaba a estos dos muchachos. Su figura era
+                algo extranjerada, con su poquito de languidez en los ojos, de fugitiva sonrisa en
+                los labios, el de cuando en cuando tímido suspirito, y aquello de ponerse pálida o
+                de mirar con ternura y pueril desconfianza. Los tres eran bellos y gallardos; pero
+                sobresalían en Luis y Leonor el sencillo aseo y la grave compostura, al paso que en
+                Matilde el seductor aliño y la cultísima elegancia. Manifestábase el semblante de
+                don Luis franco y despejado, el de Leonor inocente e ingenuo, el de Matilde lo que
+                se llama en la moderna solfa sentimental y romántico.</p>
+               <p> Añada el lector a lo dicho la maldita ocurrencia de irse Matilde a París; ponga en
+                su punto lo mucho que influirían en su espíritu las costumbres de aquel verdadero
+                centro de la lechuguinería y el sentimentalismo; y nada tengo que decirle para que
+                se imagine una joven muy culta, almibarada y leída, de corazón tierno, de juicio
+                despabilado, pero con una fantasía llena de lances novelescos, eterna fragua de
+                amantes que se desalentaban, de espadachines que combatían, y de doncellas que con
+                su lío debajo del brazo andaban, bendito Dios, por esos mundos sin hacerle ascos a
+                la noche, ni quedar muy deslumbradas por la luz del claro día. De consiguiente, a su
+                regreso de la capital de Francia parecíale todo lo de acá desacertado y plebeyo; no
+                que dejase de amar en lo íntimo de su alma la naturalidad, el chiste y demás
+                bellezas de su patria, sino que, por un efecto de sus mismas inclinaciones y
+                lecturas, no se hallaba bajo un cielo despejado, sin súbitas tormentas, sin grupos
+                de amontonadas nubes formando aureola a puntiagudas almenas, y sin aquella media
+                tinta, aquel desmayado vislumbre de una luna fatídica y siniestra.</p>
+               <p> Y mientras llena de amagos y displicencias no hacía otra cosa que pensar en los
+                deleites, pasatiempos y sabrosos coloquios de que disfrutara en París, presentóse a
+                sus ojos el caballero Perceval recomendado por cierta atención que le debía don
+                Alberto, y más que todo por su finura, gallardía, buena parla y elegantísimos
+                modales. Desde luego se comprende cuanto prestigio alcanzaría con Matilde, puesto
+                que podía desplegar ante sus ojos el variado tesoro de un caballerito parisiense. Y
+                no es decir que la acompañase en sus paseos, la entretuviese con lecturas, o
+                quisiera fatigar a su lado fogosísimos bridones; pues, sobrado artero para adoptar
+                estos medios rutinarios, antes parecía evitarla y no permitirse el más mínimo
+                contacto con ella. Mirábala sí a hurtadillas, echábala de distraído, y mostrábase
+                desencajado y pálido, sin que pudiera nadie decir que la anduviese persiguiendo, ni
+                que penase interiormente por sus gracias. Muy al contrario, mostraba dirigirse a
+                Leonor, puesto que a ella daba la mano, ofrecía el brazo, o ayudaba a pulir algún
+                dibujo, siempre atento y oportuno a sus menores deseos.</p>
+               <p> Cierto día, en que apenas había parecido por la casa, encontrólo Matilde al
+                anochecer paseando por la parte del jardín más solitaria y sombría. Su hermoso pelo
+                andaba en agradable desorden, sus botas estaban llenas de polvo cual si viniese de
+                prolongado paseo, tenía un libro en la mano pero sin leer en él, y con los brazos
+                cruzados parábase de cuando en cuando enteramente absorto en amargas reflexiones.
+                Matilde, a quien no disgustaba su conversación y extremada gentileza, quería
+                adivinar sin darlo a conocer la causa de aquella aflicción tan constante y
+                peregrina, no porque se lisonjease de ser el objeto de ella, pero un movimiento
+                indefinible del ánimo, hijo tal vez de algún afecto que no se atrevía a sondear, la
+                inclinaba a esta averiguación. Llevada de tal idea, hízose encontradiza con el galán
+                caballero y hablóle como sorprendida en estos términos:</p>
+               <p> -Muy distante estaba de esperar semejante encuentro; según traza busca usted los más
+                apartados sitios que ofrecen las cercanías.</p>
+               <p> -En efecto, señorita -respondió Perceval- como más adecuadas al melancólico temple
+                de mi espíritu.</p>
+               <p> -Perdone usted, amigo mío, pero parece que esa tristeza no tanto sea una inclinación
+                natural, como el desgraciado efecto de imprevistos contratiempos.</p>
+               <p> -Y aunque tal fuera su origen ¿no tendría sobrado motivo para evitar la presencia de
+                otras gentes?</p>
+               <p> -Sin duda alguna -repuso maliciosamente Matilde- a lo menos hasta que diese usted
+                con las que por su mayor instrucción o agrado pudiesen prometerse consolarle y
+                distraerle.</p>
+               <p> -Por desgracia nadie ha querido tomarse esta molestia. Muchos se figuran que mi
+                humor solitario y melancólico nazca de mero capricho, no siendo en realidad otra
+                cosa que el íntimo convencimiento de que me hallo solo en el mundo, sin inspirar a
+                persona alguna aquellos suaves afectos que constituyen la verdadera base de la
+                felicidad y el manantial inagotable de nuestras dulces ilusiones. Nací por azar con
+                índole naturalmente sensible, y he deseado siempre no tanto aquel aura popular,
+                aquel prestigio de salón que no me era difícil adquirir, como el mutuo trato, la
+                fina correspondencia con personas que no condenasen los desvaríos de una imaginación
+                exaltada cual la mía. ¡Ah! Sabe usted cuánto es difícil un hallazgo de esta especie;
+                y esto que sus gracias, su modestia y sus virtudes le dan más facilidad y derecho en
+                adquirirlo. Si quiere usted ser ingenua, no dejará de concederme que los elogios
+                merecidos en las concurrencias y tertulias no equivalen al espiritual deleite de
+                comunicar uno sus ideas, sus desvaríos tal vez, con quien, lejos de desaprobarlos
+                los halague, y lejos de ponerlos en ridículo los aprecie.</p>
+               <p> -Ese modo de pensar, esa elevación de espíritu -respondió Matilde interiormente
+                conmovida- es a un mismo tiempo la delicia y la amargura de las almas melancólicas y
+                compasivas. No dudo halle usted en la soledad los más sabrosos deleites de la vida,
+                y mucho menos que se complaciese en el hallazgo de otra persona de su temple; pero
+                es tan difícil dar con ella en un país donde la educación consiste más bien en la
+                destreza de las manos, que en la cultura del ingenio, que miro como infructuosos los
+                esfuerzos de cualquiera. Cosa es fácil recorrer los pueblos, frecuentar tertulias, y
+                granjearse el aprecio de las gentes; espinoso, empero, imposible tal vez, topar con
+                la persona que nuestro corazón y nuestro espíritu apetecen.</p>
+               <p> -Acaso no es esto lo más triste; sino que cuando se logra conocerla, o no podemos
+                aspirar a su amistad, o se desentiende del predominio que tan justamente
+                alcanza.</p>
+               <p> -No creo haya quien se resista a una comunicación razonable; como demos por sentada
+                la uniformidad de carácter y doctrina.</p>
+               <p> -Pues ¿cómo es, ¡oh Matilde!, que rara vez nos encontramos en nuestro paseo, y que
+                sólo de usted merezca insípida y ceremoniosa cortesía?</p>
+               <p> -Perdone usted, señor Perceval, pero yo soy la que en todo caso debía quejarme de su
+                estudiado extrañamiento. Respeto no obstante los motivos que le dan margen para
+                semejante conducta, porque me interesan muy de cerca la tranquilidad y el decoro de
+                mi prima. No que supusiese a usted capaz de causarle el más leve disgusto; pero a
+                veces un movimiento puramente cortés inspira amargo recelo a un corazón inocente y
+                le presta larga materia para peligrosas cavilaciones.</p>
+               <p> -¿Y cabe en la imaginación de usted que esa señorita, con ser tan amable y linda
+                labrar pudiese mi felicidad? ¡Ah! Por mucho que se distinga entre las demás de su
+                sexo, por mucho que en ella brillen la ingenuidad, la alegría y la inocencia, no hay
+                miedo que desflore siquiera la superficie de un corazón que suspira por los
+                misteriosos raptos de una melancólica ternura.</p>
+               <p> -Luego -dijo Matilde con cierta complacencia interior- ¿no media entre ustedes la
+                seria intimidad que yo supuse?</p>
+               <p> -Nada más, señorita, que una amistad fraternal.</p>
+               <p> -Pues a no engañarme, papá es de mi propia opinión, y aun creo que ha formado cierto
+                plan en orden a esto.</p>
+               <p> -¡Necio de mí! -exclamó Perceval con muestras de afligirse mucho- ¿Cómo no me
+                ocurrió la idea de que lo que era puramente efecto de un natural complaciente
+                interpretarlo pudiesen como un amoroso indicio? Hay además en Leonor una jovialidad
+                tan ingenua y sostenida, que a tiro de ballesta descubre la inalterable calma de su
+                ánimo. Ignoro de qué manera pudo suponerse en ella una inclinación que lleva por
+                caracteres la inquietud, el desasosiego y la tristeza.</p>
+               <p> -Y con todo esto el error de don Alberto ha sido general en la familia. Apenas
+                llegada de París, ya me participaron el proyecto de esta alianza; y bien que no
+                tenía entonces la honra de conocer a usted, la pintura que de su persona me hicieron
+                no pudo menos de hacerme presumir como muy completa la felicidad de Leonor.</p>
+               <p> -Pues bien, amabilísima Matilde, ya penetra usted cuáles son las ideas que me
+                ocupan, los desvaríos que me agitan, los ocultos movimientos de mi corazón,
+                condenado quizás a sufrir en silencio la amargura de un amor sin esperanza; y no
+                puede de consiguiente ocultarse a una señorita tan completa la distancia por la
+                naturaleza establecida entre Perceval y Leonor.</p>
+               <p> -Sí señor: tan fácilmente como la intimidad con persona de más elevadas ideas que mi
+                amada prima...</p>
+               <p> -No acabe usted -interrumpió Perceval- puedo asegurarla que mi repugnancia no ha
+                nacido de ninguna preferencia. Conocí a Leonor cuando mi corazón, libre de todo
+                afecto, me dejaba en absoluta libertad para jurarla un eterno cariño como hubiera en
+                nuestras almas aquel golpe de simpatía, aquella correspondencia espiritual, que si
+                bien hace al amor más melancólico, lo convierte en inagotable fuente de dulzuras;
+                pero...</p>
+               <p> -Debo deducir que después de haberla conocido no disfrutó usted de la misma
+                independencia.</p>
+               <p> Perceval lanzó un suspiro, y volvió el rostro a otra parte dando muestras de querer
+                ocultar alguna repentina turbación. Matilde como discreta no trató de ¡levar más
+                adelante aquel coloquio, y viendo que la noche se iba adelantando propuso al
+                caballero tomar la vuelta de la quinta. Apoyóse en el brazo de Perceval y anduvieron
+                largo trecho sin pronunciar palabra alguna. Era la noche deliciosa y apacible: la
+                luna, elevándose por el horizonte, alumbraba los campos con luz tibia y melancólica;
+                silbaba el céfiro blandamente entre las hojas; embalsamaban el aire las aromáticas
+                flores, y percibíanse el agradable murmullo de las fuentes y los últimos ecos de la
+                flauta pastoril tocada por los zagales que iban conduciendo el ganado hacia la
+                inocente aldea. Figúrese el lector que impresión no haría en Perceval y Matilde este
+                bellísimo cuadro: absortos en sus meditaciones, distraídos tras la plácida ilusión
+                de amarse, no se atrevían a hablar; pero este mismo silencio era más elocuente que
+                un estudiado y artificioso discurso. Después de buen espacio, habiendo prolongado
+                Perceval el camino, se hablaron y descubrieron la mutua estimación que se
+                profesaban. Sin embargo, un observador imparcial hubiera notado tanta dignidad en la
+                dama como humillación y frenesí en el caballero, deduciendo de todo que la
+                inclinación de Perceval era de las más vehementes que conciben los hombres, al paso
+                que contenida la de Matilde en los justos límites del pundonor y la decencia.</p>
+               <p> Varios días se pasaron desde esta primera entrevista, en los cuales eran algo
+                frecuentes los encuentros y los suavísimos coloquios. Insensiblemente la inclinación
+                de Matilde tomó cierto arranque viendo sólo en Perceval a un joven desgraciado y
+                lleno de mérito, a uno de estos héroes de frac y sombrero redondo, que tan
+                ventajosamente descuellan en un salón, como desairados serían en el foro o en algún
+                teatro académico. Y no es decir que él no la amase puesto que rayaba en lo imposible
+                dejar de profesar a aquella elegante joven admiración y cariño; pero era harto
+                cierto que el objeto principal de sus amores más tendía a sus riquezas que a sus
+                gracias, más al gusto de disiparlas que al noble empeño de vivir para únicamente
+                consagrarse a hacerla dichosa.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo IV</head>
+               <head>Todos le halagan,</head>
+               <p>todos le miman,</p>
+               <p>él sin embargo</p>
+               <p>tierno suspira.</p>
+               <p> VILLEGAS</p>
+               <p> Supuesto que ya queda enterado el lector de algunos pormenores indispensables para
+                la inteligencia de nuestra narración, volvamos, si le place, al punto donde dejamos
+                a la familia de don Alberto antes de meternos en las explicaciones antecedentes.
+                Toda la casa, si mal no se acuerda, andaba desatinada y revuelta con la fausta e
+                inesperada noticia del regreso de don Luis, joven de grandes esperanzas y muy
+                querido de la familia. Según las apariencias estaba próximo a llegar; y mientras
+                había corrido Leonor para arreglarle el cuarto y plantarse de atalaya en el jardín,
+                entregábase don Alberto a todo su júbilo en presencia de Matilde y Perceval.</p>
+               <p> -Ved aquí cerca de seis años que no le veo -decía porque según mis cálculos era por
+                el ocho cuando marchó con su regimiento a la defensa de Zaragoza. Vaya, vaya... los
+                muchachos se hacen hombres, y los hombres llegan a viejos y vuelven a ser muchachos.
+                Vamos, hija, alíñate y ponte de fiesta para cuando llegue.</p>
+               <p> -¡Toma! -respondió Matilde- ¿Por un primo quiere usted que gaste tantas
+                ceremonias?</p>
+               <p> -No hallo en efecto para qué -observó Perceval- y sobre todo, que cuando hay gracias
+                naturales es la simple sencillez el adorno que más pega.</p>
+               <p> -No digo que no, señor mío, pero tengo acá mis buenas razones para que la primera
+                ojeada sea muy favorable a la niña. Tú la sabes también, Matilde...</p>
+               <p> -Sí por cierto, papá; aunque no puedo dejar de repetir que nunca me inspirara el
+                primo Luis una de aquellas irresistibles inclinaciones que nacen de la conformidad
+                de los caracteres. Y no dejo de reconocer en él calidades excelentes... es honrado,
+                cortés, fornido... pero nada de elevación en las ideas, nada de entusiasmo varonil,
+                nada de vehemencia en la imaginación... en una palabra, nunca pasará de hombre de
+                bien...</p>
+               <p> -Pero será buen marido -añadió seca y oportunamente don Alberto.</p>
+               <p> -Por supuesto...</p>
+               <p> -Un hombre muy atento a sus negocios, incapaz de faltar y sin permitir que le
+                falten, buen español, buen padre de familias, buen ciudadano...</p>
+               <p> -Por supuesto, por supuesto -interrumpió Matilde con marcado movimiento de
+                impaciencia- pero ¿no se acuerda usted que cuando muchachos nunca andábamos de
+                acuerdo, y que por cualquiera cosa tomaba contra mí la defensa de Leonor?</p>
+               <p> -¿Y por tales bagatelas habrías de desdeñar la más rica boda de todo el reino?</p>
+               <p> -¡Válgame Dios, papá! ¿Es posible que nunca hayamos de pensar sino en acumular
+                riquezas? Harto nos ha favorecido la suerte para que aún nos alucine esta peligrosa
+                manía. Aseguro a usted que si fuese dueña de mí misma, lejos de buscar un hombre
+                lleno de talegas, tendría particular deleite en reparar los caprichos de la fortuna
+                favoreciendo con mi mano a cualquiera joven de mérito, caballeroso, fino, y por lo
+                mismo desatendido e infeliz.</p>
+               <p> -¡Señorita! ¡Señorita! -exclamó Perceval como arrebatado de lo que acababa de oír-
+                Ese modo de pensar une a la palma de la belleza la de la magnanimidad y el
+                talento.</p>
+               <p> -Sí señor -opuso algo mohíno don Alberto- Todo eso es bello, magnífico, pero en
+                teoría... Tales matrimonios causan admirable efecto en las novelas... ahora en
+                cuanto a la práctica ya es otra cosa.</p>
+               <p> En el mismo momento llegó corriendo Leonor para anunciar la llegada de su primo.
+                Pintábase el júbilo de la sencilla joven en la exageración de sus movimientos, en el
+                brillo de sus ojos, en el indeterminado impulso de sus acciones. Apenas podía
+                hablar; apenas le era posible indicar la proximidad de tan apetecido huésped, a cuyo
+                encuentro salieron todos a excepción de Matilde y Perceval, aquella por la
+                intempestiva escusa de ir a consultar al tocador, y éste por el pretexto de dejar en
+                tan plácidos momentos en libertad y soltura a la familia.</p>
+               <p> Pocos se pasaron cuando se reunió en el ovalado salón que ya conocen nuestros
+                lectores, llevando a don Luis como en triunfo, y manifestándole toda suerte de
+                agasajos y de obsequios. Él en tanto, colocado en medio de aquel círculo doméstico,
+                correspondía con noble cordialidad a sus júbilos, enhorabuenas y parabienes. Su tío
+                no se cansaba de mirarlo, Leonor de hacerle preguntas, y la buena Margarita de
+                prorrumpir en patéticas exclamaciones.</p>
+               <p> -¡Siempre los mismos! -decía don Luis- Siempre conmigo tan afectuosos y corteses.
+                ¡Ah! Nada ha cambiado... sólo Leonor en adornarse de nuevas y peregrinas
+                gracias.</p>
+               <p> -Cuando veas a Matilde -dijo don Alberto- hallarás que aún excede a su prima. Basta
+                decir que es la hermosura del país, como que no se pasa día sin que algún
+                impertinente venga a calentarme los cascos para casarse con ella. Pero guarda...
+                tengo acá mis ideas, de las que muy pronto hablaremos, pues recelo que el coronel te
+                haya dado licencia para pocos días.</p>
+               <p> -No la necesito de nadie: yo soy el que me la he dado a mí mismo.</p>
+               <p> -Pues qué -exclamó Leonor- ¿serías tú el coronel?</p>
+               <p> -Y un puntito más, querida.</p>
+               <p> -¿Brigadier? -preguntó sorprendido don Alberto.</p>
+               <p> -Precisamente.</p>
+               <p> -¡Muchacho! ¡Y eso que no llegas a los treinta...! ¡Qué! Si no hay como la guerra
+                para hacer fortuna...</p>
+               <p> -¡Vaya, vaya! -dijo Leonor- y sin tener noticia de ello: y sin que le pusiese más de
+                dos galones en todos sus retratos.</p>
+               <p> -Es que de algún tiempo a esta parte ha habido en el ejército terribles
+                encuentros.</p>
+               <p> -Y por consiguiente -interrumpió don Alberto- ascensos rápidos... pero ¿cómo lo pasa
+                el coronel Álvarez de quien me hablabas en todas tus cartas?</p>
+               <p> -Murió como un héroe en el asalto de Tarragona.</p>
+               <p> -¡Pobre señor! Tanto como te quería. ¿Y aquel general de división que me aseguró tu
+                fortuna y quería nombrarte su edecán?</p>
+               <p> -Cayó lleno de heridas en la gloriosa jornada de San Marcial.</p>
+               <p> -Ya, ya: la guerra es gran cosa para hacer fortuna; con todo aténgome al comercio,
+                amigo Luis. Mis corresponsales no suben tan aprisa; pero al fin, al fin viven largos
+                años y mueren bajo de techo, que es la verdadera incógnita que en esta pícara vida
+                nos proponemos despejar.</p>
+               <p> -Por lo mismo desearía pasar la mía al lado de usted sin atender a más que al
+                dulcísimo embeleso de la doméstica felicidad. Saltó mi corazón de alegría así que
+                descubrí las graciosas torres de esta quinta, y desde luego forjé en mi caletre la
+                resolución de establecerme algún día en su apacible comarca.</p>
+               <p> A todo esto Matilde no parecía: y habiendo sabido don Luis el motivo de su tardanza,
+                manifestaba agradecer a su prima Leonor el no haber aguardado para salir a su
+                encuentro las vanas fórmulas de la etiqueta. Sin embargo, don Alberto no sabía ya
+                contenerse en cuanto a comunicarle el plan que, en orden a la colocación de la
+                familia, había concebido; y haciendo por lo mismo que desapareciesen los criados y
+                quedándose a solas con su sobrino, hízolo sentar junto a sí y hablóle
+                confidencialmente en estos términos:</p>
+               <p> -No dudo que adivinas, hijo mío, el objeto de que te voy a ocupar, pues harto sabes
+                el proyecto de toda mi vida.</p>
+               <p> -Sé -respondió el sobrino- que mi matrimonio con Matilde fue constantemente deseado
+                por su padre y por el mío; pero antes de todo es fuerza cerciorarnos de que en
+                manera alguna le desplace esta alianza. Además, si he de hablar a usted con
+                franqueza, tío, le diré que he tenido siempre cierta inclinación a Leonor, que sube
+                de punto al encontrarla ahora tan gentil, tan gallarda, sin haber por esto
+                disminuido su amabilidad e inocencia.</p>
+               <p> -¡Bah! -respondió el bueno de don Alberto- Dígote Luis que así que veas a Matilde se
+                te desvanecen esos amorosos devaneos. Y por lo que hace a Leonor, tenemos aquí en
+                casa de huésped a un cierto don Federico Perceval, que le manifiesta una pasión
+                vivísima.</p>
+               <p> -¡Calle! ¿Y Leonor...?</p>
+               <p> -Ya sabes cuán difícil es averiguar lo que pasa en el corazón de una doncella, pero
+                tengo mis barruntos de que no le huelen mal las flores que sin cesar le echa el
+                sobredicho galán.</p>
+               <p> -¡Ah! Pues entonces sólo hay que pensar en la felicidad de tan amable niña.</p>
+               <p> -Por supuesto, y tengo la intención de dotarla y establecerla. Ya he dado algunos
+                pasos a fin de tomar luces acerca del carácter y demás calidades de su novio. No era
+                eso fácil, atendido el misterio en que se envuelve: pero como ha servido en guardias
+                supe a quien dirigirme, y los informes recibidos por áridos e incompletos no me
+                satisfacen del todo. Créese que es de una familia no despreciable de Cádiz, que tuvo
+                en otro tiempo un regular caudal, aunque lo ha disipado sin que se entienda el
+                cómo... También hay dudas acerca de si el apellido de Perceval es verdaderamente el
+                suyo; y todo esto, al paso que me confunde, me disgusta y mueve a una averiguación
+                más exacta.</p>
+               <p> -Sí, porque quizás hayan querido calumniarle.</p>
+               <p> -Pero ¿cómo demonios se saca en limpio...?</p>
+               <p> -Deje usted -dijo don Luis tomando la carta- tengo algunos oficiales de Cádiz en el
+                regimiento, y me valdré de ellos para desentrañar ese enredo.</p>
+               <p> -Lindo: y en el ínterin procuraré insinuarle con palabras buenas, almibaradas y
+                corteses que tu llegada ocasionará la de otros amigos, y que por lo mismo aunque la
+                quinta es capaz y...</p>
+               <p> -Muy bien pensado. Y si es digno de mi prima, nada hay que hacer sino casarles, por
+                más que, como ya he dicho, esa sola idea me desazona y me aburre.</p>
+               <p> -Hombre, no seas machaca; te repito que cuando veas a Matilde te vas a quedar con
+                tanta boca abierta y... ¡Calle! por allí viene... Vuelve esa cara, pusilánime, y
+                dime si exageraba al pintártela tan hermosa.</p>
+               <p> -Muy al contrario -respondió don Luis levantándose- Paréceme, tío, que anduvo usted
+                más escaso e injusto en sus encomios.</p>
+               <p> -¿No lo dije? Mira tú si al cabo de mis años no sabré juzgar de esas cosas, siendo
+                así que cuando joven pasaba por uno de los más estirados mozalbetes de
+                Andalucía.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo V</head>
+               <head>Amistad y desinterés</head>
+               <p> Casi consideramos inútil decir al lector que don Luis quedó como deslumbrado de la
+                incomparable belleza de Matilde. Consecuente, sin embargo, a la ingenuidad que
+                brillaba siempre en su conducta, quiso tratarla con la franqueza de parientes y de
+                personas que se habían criado juntas; pero la muchacha mantuvo a raya esas naturales
+                demostraciones guardando con él cierta circunspección y ceremonia. Lo que es don
+                Alberto no veía en esta frialdad mas que un resultado de las costumbres de Francia;
+                y como notó la impresión producida por la belleza de Matilde, no dudaba que sus
+                proyectos de enlace iban a las mil maravillas. Don Luis no quiso formar parte de la
+                nueva cacería dispuesta por esta joven, cosa que al parecer debía herir su natural
+                amor propio. Así se lo dijo su tío; pero viendo que Matilde por un efecto de esta
+                especie de desaire tampoco quería salir de la quinta, arguyó que era por deseo de
+                hablar al joven brigadier, cuyo mérito no podía dejar de hacer en ella una sensación
+                igualmente favorable. Así se pasaron algunos días: Matilde ceremoniosa y reservada,
+                Leonor pensativa y melancólica, y don Alberto siempre atento a la felicidad de los
+                que miraba como hijos, formando de todo risueñas y agradables conjeturas.</p>
+               <p> Pero semejante situación no podía durar largo tiempo.</p>
+               <p> Era indispensable que hubiese serias explicaciones de una parte y otra, o que se
+                llevasen rápidamente a efecto los planes desde mucho antes trazados por don Alberto
+                Ludueña. Disgustado de todo aquel aparato, paseábase una mañana don Luis por el
+                jardín fraguando en su mente proyectos de una próxima partida. Por un lado se le
+                presentaba Leonor prendada, según opinión de don Alberto, del elegante forastero tan
+                íntimo de la casa; contemplaba por otro a Matilde enteramente dedicada a guardar los
+                usos y a cultivar los primores aprendidos en París; en el tío veía a un bondadoso
+                anciano arrimado a su dictamen e incapaz de resignarse a dar otro giro al plan
+                concebido por él en orden al arreglo de la familia; y en Perceval uno de esos
+                hombres cuyo brillante exterior y buena parla se granjean donde quiera la más
+                favorable opinión, tal vez sólo debida al mérito verdadero, aunque por lo mismo,
+                desconfiado, pusilánime y modesto.</p>
+               <p> -Al fin -decía para sí- no hago más que sembrar rencillas y tristezas en esta
+                respetable familia; parece que antes de mi llegada la paz y la jovialidad reinaban
+                en la quinta; ahora empero todos huyen, disimulan, recelan, cual si mi presencia los
+                mantuviese en continua sospecha, o si temieran el fatal término de unir su suerte
+                con la mía. No, no: veo que, a pesar de la rectitud de mis intenciones y de la
+                sobrada sencillez de mis palabras, el mismo destino que me ha hecho más capaz de
+                sacrificarme en el campo de batalla que de brillar en el salón, me persigue con
+                igual encarnizamiento en medio de unos parientes cuya memoria me era aún más grata
+                que la celebridad de mis triunfos.</p>
+               <p> Metióse despechado en un cenador de jazmines, donde permaneció como embebido en
+                estos melancólicos pensamientos, pero distrájolo a poco rato el leve ropaje de
+                alguna persona que muy ligeramente se acercaba; volvió la cabeza, y viendo entrar en
+                el mismo aposento a su prima Matilde, púsose en pie extrañando en aquel retirado
+                sitio tan inesperada visita. Sin embargo, ambos guardaron por algunos minutos
+                absoluto silencio; don Luis esperaba saber la causa de aquella aparición imprevista,
+                y Matilde no hallaba expresiones que le pareciesen bastante propias para
+                declarársela.</p>
+               <p> -Adivino -díjole al fin- cuán extraña parece a usted mi presencia; pero tengo
+                precisión de hablarle, y aprovecho para hacerlo el momento en que todos andan
+                distraídos por la casa.</p>
+               <p> -No obstante, amable prima, antes de meternos en explicación alguna quisiera que
+                desechásemos ese triste ceremonial que nos mantiene a irregular distancia. Nos
+                parecemos más bien a dos enemigos que se acechan, que a dos parientes que se aman; y
+                puesto que son inseparables de nuestra memoria los recreos inocentes de la infancia,
+                así como de nuestra genealogía las conexiones de parentesco que nos unen, soy de
+                parecer que empezásemos por desterrar el usted, y siguiésemos con la ingenua
+                franqueza, que ya debiera haber establecido entre los dos una correspondencia
+                amistosa.</p>
+               <p> -Esto, primo don Luis, dependerá de usted mismo. Creo que mi padre le ha hablado
+                varias veces de sus planes con absoluta confianza.</p>
+               <p> -Porque siempre me habla de usted, querida Matilde, siempre de la hija en quien
+                vive, y en cuyo hermoso semblante...</p>
+               <p> -Luego no le son a usted desconocidos sus proyectos -interrumpió Matilde.</p>
+               <p> -En efecto...</p>
+               <p> -¿Y qué dice usted acerca de ellos?</p>
+               <p> -Nada por ahora.</p>
+               <p> -¿Pues...?</p>
+               <p> -Aguardo algún indicio de la decisión de usted. Me conozco, me hago justicia,
+                Matilde; y cuanto más admiro las brillantes calidades que a usted distinguen, tanto
+                menos espero que suscriba a la voluntad de don Alberto. Júzgome sin embargo digno de
+                la amistad de usted, y la suplico por lo mismo que nunca deje de ver en mí a un fiel
+                amigo y a un cariñoso hermano.</p>
+               <p> -¡Don Luis! ¡Generoso don Luis! -exclamó la joven tendiéndole la diestra y conmovida
+                hasta lo sumo con tan blandas y persuasivas palabras.</p>
+               <p> -¡Bendito sea Dios! -repuso el brigadier- Paréceme que empieza usted a hacerme
+                justicia. He aquí el medio de que nos entendamos y nos apreciemos en lo justo. Ahora
+                bien, a pesar del plan de don Alberto y de la felicidad que a su ver nos promete,
+                sospecho que a usted no place semejante matrimonio.</p>
+               <p> -¿A mí?</p>
+               <p> -A usted, Matilde; que de ello dimana su frialdad al recibirme y la dificultad en
+                concederme una razonable franqueza. ¡Ah! Si hubiera podido imaginar tal desgracia,
+                desde el mismo umbral de la puerta hubiese dicho a usted que me abrazase sin recelo
+                de que quisiera tiranizar su albedrío.</p>
+               <p> -¡Dios mío! ¿Se puede ser más generoso -dijo Matilde y a la par mostrarse menos
+                engreído de tanta generosidad?</p>
+               <p> -Nada de elogios, prima; hállome acostumbrado a tales contratiempos y a desprenderme
+                de mis derechos en beneficio de los demás. Conozco que no he nacido para inspirar
+                pasiones... todo lo que puedo hacer es amar las gentes, sacrificarme por ellas,
+                moverlas a que me profesen una sincera amistad, y no para obligarlas a que me
+                quieran, sino a que por lo menos no me odien. Voy pues en busca de don Alberto a fin
+                de enterarle, persuadirle, y...</p>
+               <p> -Deténgase usted... ¡Ah! Mi padre cifra toda su dicha en este enlace, y así que
+                conozca mi repugnancia me colmará de dicterios, me maldecirá tal vez.</p>
+               <p> -¡Sería posible!</p>
+               <p> -Y sin embargo, ¿qué hacer?</p>
+               <p> -No hay que precipitarse; buscar un medio...</p>
+               <p> -Es en balde, querido don Luis.</p>
+               <p> -Por ejemplo, ¿si el desaire, si la repugnancia salían de mí mismo...?</p>
+               <p> -¡Qué dice usted!</p>
+               <p> -Lo que nadie podrá persuadirse, pero lo que pone a cubierto la desobediencia de una
+                doncella.</p>
+               <p> -¿Y arrostraría usted -repuso con singular ternura Matilde- arrostraría usted, amigo
+                mío, la cólera de un anciano que le ama por favorecer a una infeliz que lo
+                desdeña?</p>
+               <p> -Esa interpretación es injusta; diga usted más bien que haría un sacrificio para
+                granjearme la amistad de una persona que aprecio.</p>
+               <p> -¡Dios mío! -exclamó Matilde singularmente enternecida- ¡Cuán poco conocía el
+                generoso espíritu que a usted anima! ¡Ah! Sólo a usted he de revelar el secreto de
+                mi vida, porque sólo en su hidalgo pecho puedo hallar reunidas la virtud y la
+                prudencia. Pero es fuerza enjugar las lágrimas, reprimir los gemidos, y... siento
+                pasos... ¡Ay de mí!... Acaso esa misma ternura levantaría sospechas contrarias a
+                nuestro reposo.</p>
+               <p> La gente que se acercaba al pabellón eran nada menos que Leonor y don Alberto. La
+                muchacha llevaba un pliego en la mano con muestras de ir en busca de su primo,
+                hablando al mismo tiempo al padre de Matilde con mucha solicitud y calor.</p>
+               <p> -Sí, sí, tío; dígole a usted que era un mozo muy bien plantado, un gallardo lancero,
+                y que traía estos pliegos para el brigadier don Luis de Ludueña, conde de
+                Almanza.</p>
+               <p> -¡Cómo! -dijo Matilde- ¿El conde de Almanza? ¿El mismo cuyos altos hechos de armas
+                leímos con tanto entusiasmo en los periódicos?</p>
+               <p> -El mismo sin género de dudas -respondió Leonor.</p>
+               <p> -Con que, ¿además de brigadier te han hecho conde? -preguntóle complacido don
+                Alberto.</p>
+               <p> -No por mis méritos, tío -respondió don Luis- sino en fuerza de la bondad de un
+                monarca sobrado magnánimo y generoso.</p>
+               <p> -¡Vaya, vaya! -prosiguió el anciano- ¡Y sin decirnos nada! y teniendo cerrado su
+                pico como si se tratase de ocultar alguna picardigüela...</p>
+               <p> -¿Y para qué publicarlo? No era el conde de Almanza el que venía a visitar a tan
+                honrada familia, sino un afectuoso sobrino de don Alberto Ludueña.</p>
+               <p> -Ya; tampoco doy mucho valor a las dignidades y a los títulos, pero un conde ensalza
+                la familia, y sobre todo la joven con quien te cases será mi señora la condesa. ¡Ah!
+                ¡Ah! ¡Ah! Harto columbraba que al fin, al fin, acabarían ustedes por entenderse...
+                Ahora bien, hijos míos, ¿convenisteis en el día de la boda?</p>
+               <p> Al oír esto escapóse una lágrima de los ojos de Leonor, y Matilde y su primo
+                manifestaron dificultad en explicarse.</p>
+               <p> -Por vida de... -prosiguió don Alberto- ¿Si estaréis todavía como dos chiquillos
+                haciéndole cocos al dulce? Vaya, despachaos, porque como tardéis en darme un nieto
+                me faltará tiempo para estrecharlo en mis brazos. Mucho sentiría, hijos míos, bajar
+                al sepulcro sin haber logrado tan lisonjera dicha. ¡Pero calle! ¿Bajas los ojos?
+                -prosiguió mirando a Matilde- ¿Lagrimitas...? ¿Suspiritos...? Digo que no hay
+                flechas en la aljaba del rapazuelo, si no son esos claros indicios de estar
+                muriéndote por el señor brigadier de los reales ejércitos, conde de Almanza,
+                etcétera, etcétera...</p>
+               <p> -¡Ah! Nadie conoce sus méritos como yo misma, ni puede haber persona que más lo
+                aprecie. Lo quiero por lo mismo como un amigo y un hermano.</p>
+               <p> -Como un esposo, majadera -replicó don Alberto- y acábense de una vez tantos
+                arrumacos.</p>
+               <p> -En efecto, tío -dijo don Luis- mi prima está pronta a obedecer las órdenes de
+                usted.</p>
+               <p> -Por supuesto -repuso don Alberto con viveza y júbilo.</p>
+               <p> -Pero en cuanto a mí -prosiguió el conde- siento un obstáculo invencible a que se
+                verifique esta alianza, y necesito acogerme a la indulgencia de una persona tan
+                considerada como usted para...</p>
+               <p> Estas palabras produjeron singular efecto en aquel corto número de personas: don
+                Alberto se quedó estático; Matilde mirando a su primo con muestras de admiración y
+                agradecimiento; y Leonor, como extrañando lo que oía, manifestaba a la vez una
+                indefinible mezcla de alborozo y de tristeza.</p>
+               <p> -¡Es posible! -exclamó después de un rato don Alberto- tú... mi sobrino... mi hijo
+                adoptivo... darías a mis canas tan recia pesadumbre... tú desdeñarías la mano de
+                Matilde, la amiga de tu infancia, la que te destinaba desde su lecho fúnebre el
+                labio moribundo de tu padre...</p>
+               <p> -Crean ustedes todos que semejante negativa cuesta mucho a mi felicidad... pero los
+                militares jóvenes sin un padre que les aconseje, sin un amigo que nos dirija, solos
+                y errantes por el mundo, indiscretamente nos comprometemos y...</p>
+               <p> -No, no -exclamó el tío- eso no es más que un pretexto o una chanza... Aprobabas mis
+                proyectos, suscribías a este enlace, ¿y de repente me anuncias obstáculos que no han
+                existido hasta ahora? ¡Válgame Dios! ¿Dejarías de ser en un momento mi heredero, mi
+                sobrino, y lo que es más un hombre pundonoroso y honrado?</p>
+               <p> -Lo es, padre mío, lo es y lo será siempre -interrumpió Matilde incapaz ya de
+                contenerse.</p>
+               <p> En vano la hizo señas el conde, en vano trató por todos los medios imaginables de
+                que no desmintiera sus palabras; pues preciada de cierta sublimidad de ánimo, que no
+                le dejaba presenciar con calma el sobrado desinterés de don Luis, desentendióse de
+                cuanto quiso significarla, y pronunció las siguientes singularmente agitada y
+                ruborosa:</p>
+               <p> -Déjeme usted, señor conde, déjeme llenar un deber sagrado, pues no es justo que mi
+                pobre padre inocentemente ultraje a la generosidad y la virtud. Sí, yo soy la que
+                rompe este himeneo, yo la que le obligaba a buscar pretextos para diferirlo,
+                yo...</p>
+               <p> -¡Hija ingrata! -exclamó el anciano- ¡Desdeñar a un joven de mérito! ¡Desatender el
+                más próspero partido! No, no; hoy mismo te he de ver enlazada con mi querido
+                Luis.</p>
+               <p> -Por Dios escúcheme usted, tío...</p>
+               <p> -Nada, nada escucho, Luis... digo y repito que sin más dilación se ha de celebrar
+                esta misma noche el contrato.</p>
+               <p> -Y yo me afirmo -repuso seriamente el conde- en que mi prima Matilde sea
+                absolutamente libre para decidirse a favor mío, o de cualquiera otro a quien juzgue
+                más digno de sus prendas. De lo contrario, con harto dolor de mi corazón
+                desapareceré de la quinta, y nunca más me verán por su delicioso recinto.</p>
+               <p> -¡Amigo mío, cuán generoso eres! -decía Leonor.</p>
+               <p> -¡Amigo mío, cuán indigna soy de usted! -repetía Matilde.</p>
+               <p> -¡Y tú también te amohínas, y te enojas, querido Luis! -exclamaba al propio tiempo
+                don Alberto- ¡Válgame Dios! Todos os volvéis contra mí, todos contra el pobre
+                anciano...¿y por qué?... porque se empeña en haceros eternamente felices.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VI</head>
+               <head>Continuación del precedente</head>
+               <p> Determinado don Alberto a verificar el matrimonio sin la menor dilación, no quiso
+                atender a las súplicas de su sobrino ni a las lágrimas de su hija. Persuadido de que
+                la felicidad de Matilde dependía de este enlace, desplegaba el mayor tesón en
+                apresurarlo; y aunque ya no le quedase duda de la absoluta repugnancia de la
+                doncella, creíala efecto de una antipatía pueril o de un capricho, y miraba como
+                obligación suya romper por todo y no meterse en escrúpulos de monja, cuando nada
+                menos se trataba que de acreditarse de buen padre y de hombre capaz de establecer
+                cuerda y ventajosamente la familia.</p>
+               <p> Sin embargo, no procedió en aquel mismo día a la conclusión de tan grave asunto, ya
+                por la distancia a que se hallaban de la capital de la provincia, ya por haber visto
+                que su precipitación había desazonado a Matilde hasta el punto de ponerla enferma.
+                Resolvió aguardar cosa de una semana, conferenciar en el ínterin con su prudente
+                sobrino, y ver el modo de llevar a debido efecto este matrimonio sin ruidos,
+                alborotos, disensiones domésticas, súbitas pataletas, ni demás lances que trae
+                consigo el mal forjado empeño de obrar sin reflexión ni madurez. Y mientras entendía
+                en esto, quiso ocuparse también de la alianza entre Leonor y Perceval, repasando con
+                respecto a éste los informes que había mandado pedir por el conducto de su amado
+                brigadier. Desanimábale que hubiese salido mentiroso el galán don Federico en lo que
+                dijo de haber sido íntimo del conde de Almanza, pues al verse encarar con el ilustre
+                guerrero a quien dieron sus hazañas este título, tuvo que recurrir a la escusa de
+                que su amigo era otro militar que llevaba el mismo dictado. Nadie trató de
+                abochornarle echándole en cara lo falso de esta suposición; pero todos conocieron
+                que se lo imponía la fatua pretensión de haber querido pasar por amigo y compañero
+                del bravo coronel que tanto se distinguiera en la batalla de Vitoria.</p>
+               <p> Los informes exigidos por el brigadier a los oficiales gaditanos de su regimiento no
+                tardaron en llegar. Según ellos, Federico Perceval, hijo de una familia de Cádiz
+                bastante conocida por tener tienda abierta de varios géneros, disipó en poco tiempo
+                su legítima haciendo frecuentes viajes a Madrid y gastando en el regimiento con una
+                esplendidez poco correspondiente a sus haberes. Parece que llevado de la esperanza
+                de casarse con una señora, aunque muy entrada en años, extremadamente rica, dejó el
+                servicio militar, queriendo por medio de este himeneo recuperar las riquezas que
+                había desperdiciado; pero la tienda de su padre echó tal borrón a su alcurnia, que
+                desvaneció en un momento la pasión de la insensata dueña, y quedó mi hombre, como
+                suele decirse, sin hogar y sin bandera. Desde entonces no tuvo más arbitrio que
+                andar de Ceca en Meca atisbando viudas, persuadiendo doncellas, suavizando padres y
+                tutores, y buscando en fin alguna persona menos escrupulosa o ladina que la pícara
+                vieja, que no pudo digerir el palitroque de la tienda. Lo más curioso del caso era
+                que, o por satisfacer su natural vanidad, o por figurarse que fuese más conveniente
+                a sus miras, entraba en cualquiera parte con aires de gran señor, y refería sus
+                desgracias, ponderaba la rancia antigüedad de sus pergaminos, el venerable carácter
+                de sus abuelos, deslumbrando a los incautos, embaucando a los tontos, y dejando para
+                los discretos cierto olor a petardo y a miseria. Por lo demás, sus inclinaciones no
+                eran del todo perversas, de manera que descortezándolo y quitándole ese barniz de
+                fatuidad, podía aún sacarse partido de su despejado caletre con sólo ponerlo en
+                ocasión de lucirlo en alguna honorífica carrera.</p>
+               <p> Estos informes desconcertaron el ánimo que había hecho don Alberto de enlazar en
+                santo nudo a Perceval y Leonor. Pesábale en extremo desbaratar un matrimonio,
+                fraguado en su testaruda mollera para halagar la amorosa inclinación que creyó
+                advertir en la muchacha, y recompensar las oficiosas atenciones que debía al
+                caballero. Bien es cierto que la esperanza que daban de poder todavía aprovechar su
+                agudeza natural, le movía casi a sujetarlo a la prueba; pero desechó semejante idea
+                como perjudicial al futuro bienestar de su candorosa sobrina, y atúvose a su primer
+                pensamiento de alejarlo de la casa, y cortar con él toda suerte de conexiones.
+                Resuelto ya, sólo estaba espiando una ocasión propicia en que limpiarla de su
+                aliñada personita, y quedar por consiguiente más suelto y desembarazado para volver
+                todo su aquel a la boda del brigadier con Matilde.</p>
+               <p> Entre tanto esta joven no podía menos de admirar el hidalgo y generoso
+                comportamiento de su primo. Cuanto más lo veía y estudiaba, reconocía nuevas prendas
+                en él y nuevos motivos de respetarle y quererle. A pesar de lo ocurrido, lejos de
+                manifestarse con ella áspero o desdeñoso, tratábala con más blandura, con más
+                persuasión y agrado, manifestándose, si no amante apasionado y tierno, franco y
+                desinteresado amigo. Sorprendíale la profunda tristeza de su prima, y el notar en
+                sus palabras y modales cierta reserva no tanto ya dimanada de la propia convicción
+                de su ascendiente y sus gracias, como hija de alguna pena interior no menos
+                disimulada que aflictiva; bien que, lejos ahora de evitar su presencia, mostraba
+                complacerse a su lado, y aún buscaba algunas veces su encuentro. No obstante tales
+                demostraciones de buena amistad e inteligencia, sorprendióse viéndola entrar una
+                mañana en su cuarto y anunciarle que le deseaba hablar sin testigos.</p>
+               <p> -¿A mí, señorita? -dijo el joven.</p>
+               <p> -A usted, puesto que en nadie resplandece tanta generosidad y virtud. Conozco que mi
+                desvío causa la desgracia de un anciano a quien todo lo debo, al propio tiempo que
+                me hace pasar con usted por una muchacha ingrata o puerilmente caprichosa. ¡Ah! No
+                soy lo uno ni lo otro; y admiro tanto las nobilísimas calidades que le recomiendan,
+                como me desplacían en otro tiempo los efectos de una educación sólida, considerada
+                por mí como vulgar y plebeya.</p>
+               <p> -¡Amiga mía! ¡Dulce e inconsiderada amiga! Hábleme usted sin repugnancia y sin
+                empacho en caso de que necesite alguno que tierna y apasionadamente la proteja. Tal
+                vez ni mi presencia ni mis palabras revelan toda la bondad de mi corazón; pero
+                póngalo usted a prueba, Matilde, y no se quejará, lo juro, de haberme hecho
+                depositarlo de sus secretos.</p>
+               <p> -Parece -dijo Matilde- que mi padre ha recibido por conducto de usted informes no
+                muy satisfactorios concernientes al señor de Perceval.</p>
+               <p> -Y que lo ponen en un predicamento muy poco favorable, pues casi lo hacen pasar por
+                un caballero de industria.</p>
+               <p> -¡Cielos! -exclamó Matilde- ¿Sería cierto? Acaso lo calumnian; acaso, amado primo,
+                lo denigran, porque no es dado a todos distinguirse como usted, ni granjearse el
+                aprecio de cuantos nos rodean, ni...</p>
+               <p> -Conozco que es a usted sensible esta desgracia, por cuanto va en ella embebida la
+                de una persona tan candorosa e inocente como nuestra prima Leonor; pero las noticias
+                son duplicadas, exactísimos los datos, y las personas que los franquean merecen toda
+                mi confianza.</p>
+               <p> -¿Luego no hay que esperar? ¿Luego no queda otro recurso que mirarlo como un hombre
+                de poca delicadeza, un falsario, un seductor...?</p>
+               <p> -A lo menos, si no del todo, pudieran acomodársele en gran parte estos dictados.</p>
+               <p> -¡En gran parte! Amado primo; ¡en gran parte...</p>
+               <p> -Dígolo en razón a que llegamos a tiempo para que Leonor no sea víctima de sus
+                planes.</p>
+               <p> -¿Y qué diría usted como supiese que no a ella sino a mí se hubiesen dirigido sus
+                obsequios?</p>
+               <p> -Que don Alberto y Leonor y yo y todos nos habíamos equivocado groseramente.</p>
+               <p> -Sí señor -exclamó la joven echándose en el sofá- se han equivocado ustedes; y este
+                hombre, este petardista, este supuesto grande, este insidioso seductor... hace ya
+                cuatro meses que es mi marido...</p>
+               <p> -¡Marido de usted!</p>
+               <p> -Con todas las ceremonias de costumbre, verificadas en el mismo oratorio de la
+                quinta, a presencia de testigos, y bajo la autorización del cura de la capilla. ¡Ay
+                de mí! Mi propia imaginación me ha perdido... Yo, que veía en su persona cuanto
+                ofrece de más culto la nobleza, de más delicado la sociedad, de más pundonoroso la
+                milicia, sólo ya contemplo en él un hombre deshonrado y ruin, abusando con estudiada
+                blandura de una joven poco cauta y de un complaciente anciano que idolatraba en
+                ella.</p>
+               <p> -¡Matilde! ¡Amiga mía! No se desasosiegue usted: el mal es irremediable, y esos
+                suspiros, ese desorden, esas lágrimas no harán más que desazonarla a usted y
+                desazonarnos a todos. Mis deseos serían retarlo, echarle el guante, castigar su
+                impúdica osadía; pero el esposo de Matilde, el esposo de una joven tan linda y
+                apreciable merece otra consideración y otros favores.</p>
+               <p> -¡Infame...! Bien que ocupada siempre de lecturas frívolas, bien que apasionada a
+                las fugitivas ilusiones de la juventud primera, mi corazón permanecía recto y
+                sencillo, obediente siempre a la voz paternal, sumiso a los preceptos de la
+                religión... ¡Ah! No siento mi deshonor, no el sacrificio de mis dichas ni el
+                vergonzoso delito de haber cedido a una seducción que carece de disculpa, sino el
+                fiero golpe que va a recibir ese anciano respetable, cuya carrera no ha sido más que
+                una serie de beneficios y de virtudes.</p>
+               <p> -¡Ah! Sí: no trataré de disimular a usted, pues sería en balde, que semejante
+                contratiempo colmará de indignación y disgusto al indulgente don Alberto; pero me
+                echaré a sus plantas, abrazaré sus rodillas, prometeré, si es necesario, dejar
+                inmediatamente el servicio, y no salir de la quinta, y formar parte de la familia, a
+                trueque de que la perdone a usted y bendiga un matrimonio indiscreto.</p>
+               <p> -¡Hombre generoso...!</p>
+               <p> -Y si pareciera más acertado dar al señor de Perceval un medio de volver por sí
+                mismo y presentarse al mundo con algún prestigio, lo colocaré en mi regimiento,
+                avivaré su estímulo, elogiaré su audacia, y a lo menos nadie podrá reconocer en el
+                esposo de Matilde el antiguo petardista ni el infatuado tendero.</p>
+               <p> -Y yo ¿qué haré para manifestar a usted el exaltado agradecimiento que su corazón
+                magnánimo me inspira? ¡Ay de mí! Un medio, un solo medio me queda con que pagar tan
+                sagrada deuda, pero costoso, sí, sumamente costoso a mi alma desde que se halla como
+                suspensa admirando al primero de los hombres en el que locamente suponía incapaz de
+                elevados sentimientos.</p>
+               <p> Al decir esto quedóse en el mismo sofá apoyada en la mano la mejilla, y
+                melancólicamente embebida en tristes cavilaciones. Contemplóla don Luis algunos
+                instantes compadeciendo su deplorable situación, pero entrando al mismo tiempo
+                Perceval con aire algo suspicaz y descortés, salióse del aposento temiendo no ser
+                dueño de sí mismo al encontrarse tan de sopetón con el seductor de Matilde.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VII</head>
+               <p>Primer resultado de los matrimonios que endilgan las señoritas de hogaño</p>
+               <p> Quedáronse pues los dos esposos en absoluta libertad; y no hallándose reprimidos por
+                las trabas que ante los demás les imponía la necesidad de no divulgar su secreto,
+                hubo entre ellos la conversación siguiente:</p>
+               <p> -Siento mucho, señorita -dijo Perceval mirando de través la tristeza de su esposa-
+                haber venido a interrumpir un coloquio que según todas las apariencias había de ser
+                sentimental y dulcísimo. Sepa usted, sin embargo, que ese señor brigadier, cuyo
+                mérito no disputo, tiene entre sus muchos talentos el de fastidiarme
+                completamente.</p>
+               <p> - Qué es lo que dices? -exclamó sorprendida la hija de don Alberto.</p>
+               <p> -Que antes eras de mi propio dictamen, y que de repente has mudado de parecer, y que
+                todo esto me desplace y me seca de un modo muy particular.</p>
+               <p> -¿Y así ultrajas, amigo mío, al más noble y generoso de los hombres?</p>
+               <p> -Ni pruebas tengo de su nobleza ni de su generosidad; observo sí, que desde que
+                aboga por su propia causa no hay quien le profese aversión ni repugnancia, antes
+                bien procuran todos halagarle y complacerle.</p>
+               <p> -¿Y qué quiere usted decir con esto? -opuso algo enojada Matilde.</p>
+               <p> -Que cuando se ama con el calor y la vehemencia con que yo te quiero, todo nos hace
+                sombra, nos parece un monte, y la acción menos culpable desasosiega y desazona como
+                se aparte algún tanto de la línea natural.</p>
+               <p> -Pues ¿qué pruebas tiene usted?</p>
+               <p> -Positivas, señorita, ninguna; indirectas, muchísimas. Más que nunca me he estado
+                fastidiando en el salón para deslumbrar a todos con mi pretendido amor a la
+                Leonorcilla... Yo mismo la he servido el té, le he batido la manteca, echádole leche
+                en la taza con esas manos pecadoras, y luego hágame usted el favor de aquel libro...
+                tráigame aquel pañuelo... sírvase decir a Margarita que vaya a por las cartas del
+                tío, y...</p>
+               <p> -Pues hasta ahora sufrías con gusto esas bagatelas.</p>
+               <p> -Cómo que no podía pasar por otro punto; pero es lo más gracioso del cuento, que
+                tras de haberme perniquebrado y molido con los sobredichos recados, sin otros mil de
+                que ahora no hago mérito, me ha llamado aparte el señor don Alberto, y con razones
+                muy corteses, con palabras muy blandas y medidas me ha insinuado... ¿estamos?... me
+                ha intimado, repito, que era fuerza saliese de la quinta en razón a que venían otros
+                parientes a ocuparla.</p>
+               <p> -¡Válgame Dios! ¿A tanto llegaron sus sospechas?</p>
+               <p> -Y en esto, señorita, podrá usted reconocer otro de los muchos favores que debemos a
+                ese primo tan noble, tan generoso y tan franco. Hasta ahora era yo el brazo derecho
+                de mi suegro, y para decir verdad no dejaba de costarme algún sacrificio; pero desde
+                que ese conde de nuevo cuño amaneció en la quinta, todo se ha volcado patas arriba,
+                sin que de maldita la cosa me valga arrimarle el sillón, correr por el sombrero,
+                presentarle el peluquín, tocar la tecla del antiguo comercio con Buenos Aires, y la
+                manoseada relación de aquel viaje a Canarias con su huracancito al canto, y...</p>
+               <p> - ¡Señor don Federico! ¿Olvida usted que estamos hablando de mi propio padre?</p>
+               <p> -Ya: pero al fin y a la postre, como decía, me echa de casa sin que sepa más porqué
+                que el de las venenosas directas o indirectas que le habrá estado soplando nuestro
+                muy hidalgo y muy angélico primo. Con que tómese usted la molestia de considerar si
+                podrán ser de mi gusto esos coloquios, esas alabanzas, ese repentino paso del desdén
+                a la confianza, de la oposición a la amistad, y si me hará buen estómago dejar a
+                usted en su compañía mientras divague yo por esos mundos llevando a cuestas la
+                maldición paternal. En resumidas cuentas, amiga mía: no hay que andarnos con paños
+                calientes, sino que hoy mismo le plantas una banderilla al primito, declarando
+                nuestro enlace a mi cachazudo suegro.</p>
+               <p> -¡Yo!... ¡Ah! No tengo valor para ello... antes prefiero morir...</p>
+               <p> -¡Qué disparate! No se mueren las gentes por tan poca cosa... Habrá aquello de ¡hija
+                ingrata! ¡padre amado! con su poquito de lloro, y su muchito de arrullo, y al fin se
+                acaba la fiesta con una bendición y una comida. ¡Estaríamos frescos si se pasara
+                fastidiosamente la vida sin alguno de estos lances!... Ellos la hacen amable, la
+                varían, la amenizan, sobre todo los viejos se mueren por que los envuelvan en
+                semejantes morisquetas.</p>
+               <p> -Yo estoy loca, o sueño lo que por mí está pasando: oigo hablar a usted con tal
+                ligereza de las cosas que más respeto merecen, que no dudo ya que el carácter
+                manifestado hasta ahora no fuese más que un medio de alucinarme y comprometerme.</p>
+               <p> -No se trata aquí de alucinamientos ni de compromisos, señorita, sino de hacer
+                pública una boda que no puede permanecer clandestina. De lo contrario, ¿parécele a
+                usted que podía gustarme andar como un trotaconventos por la comarca, mientras el
+                primito y los parientes se estuviesen holgando acá en la quinta?</p>
+               <p> -¡Es posible! ¡Dios mío...! -dijo Matilde como si cada palabra de su esposo
+                atravesase su pecho con un agudo puñal- ¡Es posible...! Pues bien -añadió
+                volviéndose a don Federico- mi deber es acompañar a usted en su destierro; y por lo
+                mismo, si don Alberto persiste en que salga de su casa, todo lo abandonaré para
+                seguir al que ya es único dueño de mi albedrío.</p>
+               <p> -¿Y daríamos pábulo a los maldicientes con aquello de rapto, seducción y fuga? Muy
+                bueno, muy agradable, muy novelesco, muy cuco; pero muy aéreo, muy secator y muy
+                incómodo. Esto de echar a correr sin llevar una blanca en el bolsillo es perjudicial
+                a la salud, y muy contrario por consiguiente al amor.</p>
+               <p> -¿Al amor?</p>
+               <p> -Al amor, sí señora, porque no estamos en edad de suministrar un argumento a un
+                autorcillo de comedias, sino de disfrutar, de pasarlo bien y de vivir.</p>
+               <p> -Pues no es esto lo que me aseguraba usted cuando no hacía más que ponderar el
+                absoluto desprecio con que miraba la riqueza, y la heroica resolución que le haría
+                sepultarse conmigo en un árido desierto.</p>
+               <p> -Sí, no hay duda, lo dije, lo repito aún, y aténgome no obstante a lo cómodo y a lo
+                positivo, en vez de apelar a lo miserable y a lo aéreo. Conozco que un desierto será
+                muy bueno cuando no se puede uno querer en otra parte; pero feo y así algo
+                desapacible y desabrigadillo siempre que se encuentre medio de verificarlo en una
+                casa de campo, por ejemplo como esta, rodeada de estanques, situada en medio de
+                jardines, y socorrida con diez mil pesos de renta bien ensayados y limpios.</p>
+               <p> -¡Infeliz de mí! Ahora veo el hondo precipicio en que he caído, ahora el desgraciado
+                destino con que me persigue la suerte. Pero no crea usted triunfar tan fácilmente de
+                mi carácter como de mi necia credulidad... Por más que mi padre esté justamente
+                enojado de mi desobediencia, no dejará de proteger la malograda suerte de su hija.
+                Sepa usted que a nadie alucinan ya esos aires de grandeza, esos peregrinos modales
+                con que supo darse al principio desconocida importancia...</p>
+               <p> -¡Hola! Parece que su merced se propasa, parece que olvida el respeto a que someten
+                las leyes...</p>
+               <p> -Lo que desearía olvidar -prosiguió la joven- es que soy víctima de un falso halago,
+                y que mi necia conducta va a causar la muerte de una anciano harto generoso con
+                usted.</p>
+               <p> -Yo he sido, señora mía, el que se ha portado respecto de él con una generosidad
+                poco común, hija de mi escrupuloso pundonor.</p>
+               <p> -Hija, dirá usted, de su espíritu calculista y de la precisión absoluta de buscar un
+                modo de hacer fortuna sin tener que luchar con los inconvenientes de prolongada
+                carrera.</p>
+               <p> -Está bien, Matilde; quiere decir, que soy un miserable, un embustero, un seductor,
+                pero ¿dejarás por esto de hallarte bajo de mi autoridad y eternamente sujeta a las
+                leyes conyugales? Piénsalo bien, amiga mía; vale más que vivamos en paz que echarnos
+                a cada momento en cara nuestros disimulables deslices. Ea, pelillos a la mar, y dame
+                una prueba de tu franqueza diciendo quién diablos ha olfateado el asunto de mi
+                alcurnia.</p>
+               <p> -Mi padre ha recibido cartas que le instruyen de ello en contestación a los varios
+                informes que había pedido.</p>
+               <p> -Ello tarde o temprano se había de descubrir, y aunque me aburre que ese primo de
+                mal agüero haya de ser testigo de las reprensiones con que el suegro nos aturda, al
+                fin es fuerza pasar por tan áspero barranco y hacer rostro a la secatora descarga.
+                Supongo que se halla todavía completamente en ayunas acerca de nuestro enlace.</p>
+               <p> -No sé qué decir a esto, porque lo he confiado al brigadier a fin de tener junto a
+                don Alberto un defensor y un amigo.</p>
+               <p> -Pues dígole a usted, señorita, que no quiero deberle el más mínimo favor. Veamos
+                cómo se ha de arreglar esto, y que hoy mismo salga yo de tanta indecisión y
+                embeleco. Lléveme Barrabás como esta noche no me acueste públicamente con usted:
+                veremos si se le antoja al padre arrojarme entonces de la quinta, y si ese indigesto
+                conde se atreve a hacer pinitos en mi presencia.</p>
+               <p> Dijo, y cerrando la puerta con enojado ímpetu desapareció de la estancia. Matilde,
+                empero, la crédula y desdichada Matilde, permaneció allí largo rato llorando su
+                desventura, y maldiciendo en su interior ese humor sentimental y novelesco que,
+                apoderándose de las jóvenes de nuestro siglo, las hace caer en las garras del primer
+                descabellado espadachín que se propone seducirlas.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VIII</head>
+               <head>Justa desconfianza de las doncellas de antaño</head>
+               <p> El caso es que, a pesar de las amenazas de Perceval, ni su esposa ni su primo se
+                atrevieron a dar cuenta a don Alberto de lo que pasaba en la quinta. Sin embargo, el
+                buen señor echaba indirecta sobre indirecta a fin de que el oculto marido de su hija
+                abandonase la comarca, con lo cual exaltábasele la bilis a don Federico, y no hacía
+                más que afligir con reflexiones y pinturas a su malograda consorte. La cosa se iba
+                haciendo crítica, porque al mismo tiempo entendíase don Alberto con un escribano de
+                Granada y con otros caballeros, que elegía por testigos, a fin de apresurar la boda
+                y tenerlo todo corriente en muy breves días. Por lo que hace a Leonor, estos rápidos
+                preparativos aumentaban de tal suerte su tristeza, que ya no asomaba en sus labios
+                aquella sonrisa tan amable y jovial, verdadera imagen de la tranquilidad de su alma,
+                ni se advertía en sus acciones y palabras la naturalidad y las ocurrencias que
+                formaron otras veces la gala y la diversión de toda la familia.</p>
+               <p> -Escucha, hija mía -díjole en cierta ocasión su primo don Luis- Me parece que andas
+                desacertada o poco cuerda en tomar las cosas con sobrado empeño, y quisiera que
+                haciendo un esfuerzo sobre ti misma prescindieses de lo que no tiene remedio.</p>
+               <p> -¿Qué quieres decirme? -preguntó Leonor.</p>
+               <p> -Que esa melancolía, esa taciturnidad, esas lágrimas, de nada sirven cuando se nota
+                en los hombres algún caprichoso desvío.</p>
+               <p> -¿Y eres tú el que debiera hablarme en tales términos? ¿Tú, amigo mío, el que me
+                echase una plática tan poco digna de la inocente ternura de mi pecho?</p>
+               <p> -Sin duda alguna, como que soy el que más apetece tu felicidad y tu reposo.</p>
+               <p> -¡Ay de mí! -respondió llorando- por desgracia esta misma felicidad únicamente
+                depende de vivir unida al hombre a quien amo con desinterés y pasión. Conozco que es
+                imposible nuestro enlace, porque nunca le perdonaría el mundo haberse humillado a
+                tomar la mano de una huérfana infeliz, sin riquezas, condecoraciones, ni títulos;
+                que desdeñada de las gentes, aborrecida de él mismo, sería para todos un objeto de
+                aversión y de desprecio: y no obstante, tal es la fuerza de mi cariño, tal, amigo
+                mío, la debilidad de mi corazón, que no puedo resignarme al duro destino de verlo
+                acariciando a otra.</p>
+               <p> -¡Pobre Leonor! -exclamó el brigadier tomándole una mano.</p>
+               <p> -Desde ahora deja de tener el mundo el menor atractivo para mí: quisiera huir,
+                encerrarme en un claustro, y que te empeñases para ello con mi tío don Alberto.</p>
+               <p> -¿Yo, amiga mía...? ¿Exigirías de mí que contribuyera a que eternamente nos
+                dejaras?</p>
+               <p> -A lo menos bajo las silenciosas bóvedas de un monasterio hallaré algún alivio en
+                las dulzuras de la religión y en aquellos lúgubres objetos tan conformes al
+                melancólico enajenamiento de mi espíritu.</p>
+               <p> -Pero ven acá, Leonor... ¿Tanto ha de poder contigo un malogrado cariño...? ¿Ni la
+                confianza de Matilde, ni el bondadoso carácter de don Alberto, ni la amistad, la
+                ardiente amistad de tu infeliz primo han de ser suficientes para que puedas
+                sobrellevar con noble esfuerzo tu desgracia? Piénsalo mejor, hija mía; y enjuga
+                ahora esas lágrimas que corren por tu semblante, pues se acerca el tío y no es justo
+                que le aflijamos.</p>
+               <p> ¡Ingrato!, decía interiormente Leonor mientras se iba aproximando don Alberto...
+                ¡Hablarme con tanto desprendimiento...! ¡Con tan disimulada ternura...! Como si no
+                fuese él mismo la causa de mis males...! Como si no estuviera sobrado cierto de que
+                me faltará valor para verlo enlazado con Matilde...!</p>
+               <p> Apenas hubo pronunciado estas palabras salióse de la estancia a fin de que no
+                advirtiese don Alberto la desazón de su ánimo. Fuese a dar una vuelta por los
+                jardines y descubrió a Matilde que se paseaba por ellos entregada como de costumbre
+                a sus solitarias reflexiones. Leonor estuvo mirándola largo espacio sin comprender
+                cuál fuese la causa de su extremado abatimiento, pues creía de buena fe que la
+                persona próxima a enlazarse con su hidalgo y pundonoroso primo era la más afortunada
+                del universo. Con todo, proseguía Matilde silenciosamente su paseo sin reparar en
+                Leonor ni en cosa alguna, llena de cavilación, desaliento y pesadumbre. Muy pronto
+                asomó don Luis por la misma calle en que divagaba la hermosísima heredera; y
+                corriendo a su encuentro, empezaron a hablar los dos en voz baja, pero con
+                singulares muestras de grande interés y ahínco. El alma sensible y enamorada de
+                Leonor no pudo resistir aquel espectáculo, por lo que penetrada de angustia enjugó
+                una lágrima que saltaba de sus ojos, y tomando una dirección opuesta alejóse
+                rápidamente de aquel sitio.</p>
+               <p> A lo menos, decía para sí, no turbe mi presencia la felicidad de que disfrutan; a lo
+                menos vivan entregados a toda suerte de delicias, y nunca se les ofrezca la víctima
+                de un amor descabellado e indiscreto. ¡Ay de mí! Conozco que el cielo justamente me
+                castiga por haber colocado mis pensamientos con presunción imperdonable en un hombre
+                de quien por todos títulos soy indigna. ¡Qué no dirían las gentes si adivinasen el
+                secreto estímulo, la plácida desazón que alimentaba mis necias esperanzas...!
+                Huyamos de una familia a la que sólo debo beneficios, y en la que sembraría
+                desolaciones y tristezas como descubriese el hondo pesar que devora mis
+                entrañas.</p>
+               <p> Así diciendo encaminóse indeterminadamente por una senda que la sacó fuera del
+                jardín y la condujo al reducido templo que servía de oratorio a los habitantes de la
+                quinta. Era una capilla construida poco después de la conquista por los primeros
+                virreyes cristianos que sucedieron al débil y afeminado Boabdil. En razón a su
+                venerable antigüedad y al gracioso arranque de sus bóvedas conservábala don Alberto
+                en su primitiva forma, y no pocas veces se complacía meditando dentro de su lóbrego
+                recinto el valor que desplegaron los antiguos adalides de Castilla para sacudir el
+                yugo de los pueblos berberiscos. De consiguiente, formaba este edificio singular
+                contraste con las líneas de la arquitectura moderna que se advertían en el
+                frontispicio de la quinta, y con la forma griega de los templetes, cúpulas y
+                cenadores que decoraban los jardines. Componíase la fachada de un solo arco,
+                sobremanera sencillo, adornado con una imagen tosca de la Virgen en medio de dos
+                ventanas colaterales con vidrios de mil colores para dar más misterio y recogimiento
+                a lo interior de la capilla. Sostenían allí la bóveda cuatro delgadas y primorosas
+                columnas; y algunas urnas sepulcrales, colocadas en varios nichos practicados en las
+                compactas paredes, servían de ornato al edificio, y dábanle un aire de antigüedad y
+                respeto muy conforme a la época de su fundación y al orden de su arquitectura.
+                Descubríanse aún en muchas de ellas caballeros armados de punta en blanco tendidos
+                sobre la losa fúnebre, o nobles matronas puestas de rodillas orando al parecer por
+                el descanso de aquellos intrépidos caudillos. Escudos de diferente forma, pero
+                igualmente cargados de blasones y trofeos, coronaban la parte superior de tales
+                nichos; y el sinnúmero de turbantes, crecientes lunas, y testas moriscas que
+                llevaban sus cuarteles, revelaban la pujanza y el religioso aliento de los célebres
+                varones que merecieron por sus altos hechos tan condecorados timbres. Añádase a lo
+                dicho la oscuridad y el silencio de aquel templo, la importancia que alcanzaba en
+                las cercanías tanto por el sitio a donde acudían para los divinos oficios los
+                pueblos de la comarca, como por tener competentemente dotados algunos eclesiásticos
+                a su servicio; y se podrá concebir la veneración con que era mirado de todos, y más
+                particularmente de los habitantes de la quinta.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo IX</head>
+               <head>Conversación sumamente original de tres gitanas</head>
+               <p> Con la angustia que oprimía el pecho de Leonor y las ideas de claustro y de retiro
+                que desde algunos días la ocupaban, no podía menos de causar grande impresión en
+                ella aquel inesperado término de su solitario paseo. Figuróse que favoreciendo la
+                Providencia sus miras, la llevaba a tan sagrado asilo como para persuadirla a que
+                dejase el mundo, y buscase en la quietud del claustro la tranquilidad de ánimo que
+                procurarla no pudieron la ingenuidad de su carácter ni la inocencia de su conducta.
+                Subió pues apresuradamente los tres escalones de la capilla, y metióse en ella dando
+                al paso limosna a unas andrajosas viejas que humildemente la pedían sentadas al
+                mismo umbral de la puerta. Apenas se halló dentro púsose de rodillas con objeto de
+                ofrecer al Todopoderoso el inocente sacrificio de sus propias inclinaciones; y
+                hubiera pronunciado sin duda el terrible juramento, que para un alma cándida cual la
+                suya fuera más que suficiente al efecto de encerrarla en un monasterio, a no haberla
+                distraído la conversación que tenían entre tanto las tres viejas pordioseras desde
+                la parte de afuera.</p>
+               <p> -¿Qué es lo que dices ahora? -gritaba la una en tono de reprensión a su compañera-
+                ¿Anduve o no anduve acertada en mi pronóstico? Vaya, habla, mujer: veamos si aún te
+                atreves a compararme con ese sucio pingajo de la tía Carátula en lo que atañe a las
+                cosas de mi arte.</p>
+               <p> -Digo -respondió la otra con voz destemplada y cascarrona- que no andas fuera de
+                tino por lo que respecta a esta pobre niña que tan devotamente se ha entrado en la
+                iglesia; mas no por esto dejo de tener muchísima fe en los vaticinios de la tía
+                Carátula y en sus diabólicos conjuros.</p>
+               <p> -¡Pues malditas seáis las dos! ¿Qué ha hecho hasta el día de hoy para cobrar ese
+                crédito?</p>
+               <p> -¿Qué ha hecho, hermana? -observó la vieja que aún no había tomado cartas en la
+                conversación- Ahí es una friolera; yo misma presencié como anunciaba al mercader de
+                Motril que si seguía andando por la falda de la sierra le saldrían ladrones antes
+                que llegase a la venta. Ella fue la que previno al cosechero de Málaga sobre la
+                recia tormenta que le arrancaría de cuajo las cepas de sus dilatadas vides, y la que
+                prometió pingüe capellanía a don Silvestre cuando no era más que simple sacristán de
+                monjas. Ahora, si estas y otras muchas cosas no dan a la tía Carátula un razonable
+                crédito entre las más ladinas gitanas del contorno, dígote Marta, que alcanzo poco
+                de achaque de hechicerías.</p>
+               <p> -Y tan poco -repuso Marta- que un aprendiz de saludador sería muy suficiente para
+                hacerte perder el juicio. Ven acá, desmemoriada: ¿quién disimuló tus canas, suavizó
+                tus arrugas y dio al incómodo chillido de tu voz un metal apacible y sonoro, si no
+                esa misma pecadora que te está hablando? Pues ¿no te acuerdas ya de cuando quisiste
+                pasar por moza, y alucinar con el blando meneo de tu cuerpo al rico tabernero que
+                vino para recuperar la salud hará cosa de seis años? No niego algún tanto de manejo
+                a la Carátula; pero hoy mismo se cumpla el plazo de que me lleven los diablos si no
+                me atreviese a sonrojarla a sus mismas barbas.</p>
+               <p> -Mucho decir es ese, Marta, puesto que para afrentar y provocar a la Carátula se
+                necesita un corazón lleno de cerdas.</p>
+               <p> -Como no tuviera yo aliento para empresas de más sustancia, maldito si me valía tres
+                ducados al año este peligroso oficio. A la media noche quisiera yo ver a la tía esa
+                corriendo los campos como yo en tiempos que cuelgan a algún malhechor para sacarle
+                los dientes y arrancarle los cabellos. Porque has de saber, boba, que la que logra
+                quedarse con tales ingredientes antes que penda el cadáver veinticuatro horas en la
+                horca, no hay para qué recele que desligue alma viviente sus venenosos
+                maleficios.</p>
+               <p> -¡Oiga...! he aquí porque te saliste aquella noche del pajar sin embargo de la
+                bárbara tormenta que corría.</p>
+               <p> -Mucho; y si te confiase la que armé no pondrías en duda cuanto te llevo indicado
+                acerca de los señores de la quinta.</p>
+               <p> -Paréceme que empiezo a columbrar lo mucho que vales, y digo que la tía Carátula
+                debía tenerse por muy dichosa de barrer con la lengua el polvo de tus abarcas. Pero
+                cuéntame por tu vida ese extraño maleficio, que no podrá menos de darnos lección y
+                entretenimiento.</p>
+               <p> -El caso es que lavando, hace ya muchos meses, en el Torrente del Avestruz en días
+                que pasaba muy rápido, asomó a deshora por el lado opuesto un caballero tan galán y
+                airoso, que se atrajo al momento mi atención, haciendo nacer en mi pecho el
+                desesperado deseo de remozarme, peinar rizados bucles en vez de ásperas canas, y
+                seducir todavía con mi juvenil donaire en lugar de haber de arrastrarme apoyado el
+                corvo cuerpo en ese robusto báculo.</p>
+               <p> -¿Y lo lograste, comadre?</p>
+               <p> -No, simple: no hay arte para tanto, en razón a que está el mulo muy cascado y
+                hediondo; pero juré a lo menos en lo interior de mi ánima servir con todos mis
+                alcances a tan cumplido y elegante mozo. Pues señor; con un secreto conjuro que
+                pronuncié allí mismo obliguéle a entrar en conversación conmigo, y preguntóme con
+                mucho halago si dirigirle sabría al vado por donde más en breve llegase a casa de
+                don Alberto. Por supuesto que me ofrecí con apacible talante a su servicio; y como a
+                nosotras nada se nos oculta, a pocas vueltas vine en conocimiento de como andaba
+                perdido de amores por esa estirada rapaza que llegó de luengas tierras.</p>
+               <p> -Por Matilde dirás, buena Marta.</p>
+               <p> -Por Matilde, y tú has de ver con el tiempo como todo se hace público.</p>
+               <p> -Pues proseguid, hermana, que se nos cae la baba de escucharos: quiera Dios haya
+                pronto buena boda y buen entierro, y podamos pillar razonable limosna, o por lo
+                menos sabrosa y abundante merienda.</p>
+               <p> -Cachaza, Úrsula, que ni la boda ha de faltar, ni a su tiempo tal difunto, que en
+                tropel acuda a las honras cuanta gente pordiosea desde Motril a Granada.</p>
+               <p> -Huelgo de saberlo; pero veamos en qué paró lo del gallardo mozalbete.</p>
+               <p> -A eso voy, curiosa hembra. Al advertirlo pues tan perdidamente flechado, me le
+                ofrecí para enterarle de los pormenores de la casa y ponerle como un guante el
+                rabioso can de la vieja Margarita; y como se precia de liberal en extremo, regalóme
+                veinte reales con los que me equipé de aquel jubón que llevaba de plañidera en las
+                honras del alcalde de Almuñécar, y compré unos alicates, cuatro cabos de vela, y el
+                farol que me servía para salir del pajar tan a deshora. Todo mi afán era que hubiese
+                ahorcado por la cercanías, a fin de preparar mis conjuros. Favorecióme la suerte con
+                haber echado la garra la señora justicia al intrépido Talega, ladrón el más bellaco
+                y cruel de esta comarca. Ni a nosotras perdonaba el muy infame, siete veces azotado;
+                pues que no pudiendo robarnos, nos insultaba y escarnecía por esos caminos reales.
+                Colgáronle en fin para escarmiento de pícaros, y en cuanto dio la media noche miré
+                si estabais durmiendo, y abrí la puerta quedito, y eché unas yescas y encendí el
+                farol, y... pero ¡ay hermanas!... que estaba la noche como garganta de lobo en punto
+                a lóbrega y borrascosa, y a cada paso me parecía tropezar con un hoyo, no que con un
+                barranco, tal vez contra una fantasma que me iban a causar la mutilación o la
+                muerte. La negra honrilla y el deseo de hacer bien me sostuvieron en tan apurado
+                trance, de suerte que no volví pie atrás, antes con no visto denuedo enderecé mis
+                pasos hacia el apartado sitio donde bamboleaba colgado de alta horca el inmundo
+                cadáver de Talega. Viendo, sin embargo, al levantar la luz para tomarle el alcance
+                su rostro desencajado y lívido, el hediondo gesto y la asperísima cabellera, me
+                cogió una alferecía, y empecé a dar diente con diente cual si fuese llegada mi
+                última hora.</p>
+               <p> -¡Qué horror! -exclamaron a un tiempo las dos viejas arrimándose mucho a la
+                supersticiosa gitana.</p>
+               <p> -Pues no fue esto lo más terrible, comadres, sino que me pareció como si aquel sucio
+                espantajo abriese los ojos para mirarme, menease los labios para reprenderme,
+                levantase los brazos para herirme, y...</p>
+               <p> -¿Y no echaste a correr?</p>
+               <p> -¿Qué es correr? Allí me mantuve más arraigada que la Giralda de Sevilla, hasta que
+                recobrando la serenidad y hostigada por el cebo de la maldita ganancia, arrojéme
+                furiosa al cadáver fétido, y cual si luchase con él a puros bocados le desgarré los
+                vestidos, y arranquéle los dientes y los cabellos, y un pedazo de la pringada soga
+                con que le apretaron los verdugos el gaznate por hombre sin ley, codiciador de
+                ajenas bolsas y vidas. Confieso que en medio de esta operación infernal salió de
+                entre los árboles un tristísimo suspiro, y arrojaron las nubes tan inesperado
+                trueno, que a pesar de toda mi audacia y sangre fría deslicéme bonitamente por las
+                estiradas piernas del ahorcado, y en cuanto puse la punta de los pies en la tierra
+                empecé a correr de tal modo que no me alcanzara el más ágil podenco de todo el
+                reino.</p>
+               <p> -¿Y suspiró en efecto?</p>
+               <p> -No sé que decirte, Brígida; pero paréceme que se resintió de veras de la violencia
+                con que yo le arrancaba la recia dentadura.</p>
+               <p> -Te aseguro que sólo de oírte, ¡oh Marta!, se me ponen los pelos de punta; mal año
+                para la tía Carátula y aún para su maestra la bellaca Celestina, la propia que
+                pasearon en triunfo por las calles de Granada, en orden a llevar a debido efecto una
+                acción que se ha considerado siempre como el último esfuerzo de la gitanesca
+                brujería. Ahora bien: doy por supuesto que cargaste con las apestadas reliquias de
+                Talega, y las escondiste en el pajar y armaste a deshora un bárbaro maleficio; ¿cuál
+                fue el éxito de tan espinoso trabajo?</p>
+               <p> -El que debía esperarse. Poco me curaba de saber ya lo que pasaba en la quinta,
+                harto segura de lo infalible de mi medicina: sólo de cuando en cuando asomaba por
+                allí para recibir albricias del caballero, contar a la dama mil lindezas y
+                liberalidades suyas, y persuadir a Margarita que en él les guardaba el cielo un
+                fecundísimo tesoro. Todo iba, como digo, a las mil maravillas, cuando una noche al
+                recogerme, como tenemos de costumbre, en el pajar, acerté a pasar por enfrente de
+                esta misma capilla y parecióme vislumbrar alguna luz por las sutiles rendijas de la
+                puerta. Subo de un brinco esos toscos escalones, póngome en acecho, y descubro por
+                el hueco de la cerradura a la señorita Matilde que con lento y atentado paso se
+                dirigía al presbiterio. Aguardábanla allí el sacristán y el cura, mientras el amable
+                caballero del torrente le daba la mano, la animaba, la arrullaba, la persuadía,
+                hasta llevarla a las mismas plantas del sacerdote donde recibieron entrambos la
+                bendición nupcial. ¡Oh! y cómo aplaudí entonces mi esfuerzo y el recóndito secreto
+                del maleficio. Bien se me alcanzó que la cosa iba de oculto, por lo que no falté al
+                día siguiente a la quinta para felicitar secretamente al caballero. Suspenso se
+                quedó de tal noticia; y tanto para que callase como para remunerar mis servicios,
+                regalóme espléndido, y aún me prometió otras holganzas si continuaba en ser
+                discreta.</p>
+               <p> -¡Vaya con la señora Marta! ¡Y qué mina hallasteis tan inesperada y fecunda!</p>
+               <p> -Pues oiga, hermana, mi buen trabajo me cuesta: tome el farol y pruébelo, a ver si
+                no le flaquean las piernas cuando perciba a lo lejos y en medio de las tinieblas
+                nocturnas la mala peste que arrojan de sí los ahorcados.</p>
+               <p> -Digo -replicó Brígida- que la señora Marta tiene razón en cuanto a que su hacienda
+                es fruto legítimo de sus sudores; mas no por eso debía dejar de hacernos merced,
+                siquiera de una saya de bayeta, o alguna manta verde en que abrigarnos cuando repita
+                la estación sus inclemencias.</p>
+               <p> -No procedí yo de esta suerte cuando me deparó la fortuna un protector de tanto
+                aquel como el contrabandista Becerra.</p>
+               <p> -Pues montas -insistió la Brígida- que nos has de regalar, comadre, o de lo
+                contrario ya puedes echar a mi lengua cien candados. ¡Bonita soy yo para dejar de
+                cumplir con mis deberes de cristiana, y aguantar tales embelecos contra un señor tan
+                caritativo como el amo de la quinta!</p>
+               <p> No haya más, comadres, que yo prometo agasajaros con dos onzas del tabaco que le
+                robé tiempo atrás a Fray Ambrosio, el limosnero capuchino que suele recorrer esos
+                pueblos tan provisto de santas amonestaciones para los adultos, de consejos para los
+                ancianos, y de estampitas para los niños. Al canto su par de medias azules bien
+                remendadas y limpias; y si no me muestro más garbosa, atribuidlo a que ese pendón de
+                mi hija me roba cuanto me encuentra.</p>
+               <p> -Basta con lo dicho, Marta; y si otra vez te regalasen los novios, no andarás tan
+                escasa con tus amigas.</p>
+               <p> -Por supuesto: así se me presentara ocasión de hacerles merced como aquella en que
+                cierta hembra de mi rancho previno, según supe después, al perfumado señorito, que
+                en la feria de ahí de Alama estaban alborotadas las gentes hasta haber insultado al
+                mismo don Alberto. Todavía el otro no se había presentado en la quinta, pero iba a
+                caza de ocasión propicia para ello; y asiendo de los cabellos la que se le
+                anunciaba, corrió a la feria, y sacó la cara por el viejo, y gritó más que nadie, y
+                todos se le pusieron tamañitos, de modo que se granjeó el agradecimiento de don
+                Alberto y la admiración de toda su familia.</p>
+               <p> -Pues no dejaría de untarle las manos por tan señalado favor.</p>
+               <p> -Pero era la hija del torero Malamuerte, y por consiguiente como si lo hubiese
+                tomado el mismo diablo.</p>
+               <p> -¡El diantre de la rapaza! Porque se ve con un palmito de cara y más erguida que un
+                ciprés, no piensa más que en pulirse y repulirse, concurrir a las ferias, bailar el
+                zorongo, repiquetear la cachucha, y consultar el aliño de su preciada personita con
+                todos los arroyuelos de la comarca.</p>
+               <p> -He aquí porqué le deseo el mismo fin que a la orgullosa Matilde, así como mucho
+                amor y muchísima buenandanza a la angelical doncella que está orando en la
+                capilla.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo X</head>
+               <head>Nueva sorpresa</head>
+               <p> Aún siguieron hablando un buen espacio las tres viejas, dando pábulo con su charla a
+                la curiosidad de Leonor, que no menos aterrada que curiosa aplicaba el oído a sus
+                palabras. Horrorizáronla las descripciones de la infame Marta, confundiéronla las
+                extrañas especies que vertía, pero figurósele todo un atajo de mal forjadas mentiras
+                al efecto de captarse la grosera admiración de sus comadres. ¿Cómo había de
+                persuadirse el enlace que entre Matilde y Perceval suponía, sabiendo a no poder
+                dudarlo que estaba próxima a casarse con su primo? Comenzó con todo a hacer alto en
+                los fingidos obsequios del galán forastero, en la clase de inteligencia que reinaba
+                entre él y su prima; a lo que añadiendo mil y mil lances y circunstancias,
+                insignificantes al parecer, pero muy significativas desde entonces, entró la duda en
+                su pecho y púsose a meditar seriamente en el asunto. Tampoco echó en saco roto la
+                escena del cenador, el abatimiento que aquella misma tarde había observado en
+                Matilde, y mucho menos haberla visto por la mañana ante el retrato de don Luis
+                colgado en la galería verde, y mirarlo con singular ternura, y correr al mismo
+                tiempo por su desmejorado semblante tal cual lágrima fugitiva. Este último recuerdo
+                levantaba nuevas dudas y abría inmenso campo a su espíritu para sutiles y enredadas
+                cavilaciones.</p>
+               <p>Conocíase además infeliz y desgraciada, pensaba con mucha modestia de sí misma, y
+                vino por fin a fijarse en que Matilde estaba enamorada de don Luis, que el enlace se
+                iba a celebrar sin tardanza, y que la parla de las gitanas no era más que un tejido
+                de bellaquerías y embustes.</p>
+               <p> En esto hacíase de noche; y la capilla, únicamente alumbrada por dos lámparas
+                semicirculares que colgaban de la bóveda, estaba ya sumergida en las más densas
+                tinieblas. Asustóse de verse sola en aquel sombrío recinto, y al levantarse para
+                volver a la casa la detuvieron a deshora unos tristísimos ayes que detrás del altar
+                mayor se percibían. Una puerta había en aquel lado, pero sólo para los habitantes de
+                la quinta en razón a que facilitaba el paso a las escaleras de caracol que conducían
+                a la tribuna. Extrañó por consiguiente que alguno se hubiese introducido por ella,
+                puesto que sólo don Alberto tenía la llave; y en la sospecha de si fuese individuo
+                de la familia, anduvo vacilando entre huir o quedarse, a tiempo que la sorprendieron
+                varias exclamaciones en cuyo eco reconoció al momento el metal de voz de su tío. Sin
+                hacer el menor ruido deslizóse por entre las columnas y púsose en paraje donde poder
+                oír lo que hablaban, por si era cosa que reclamase la asistencia de los habitantes
+                de la quinta. Allí, pues, envuelta en las mismas sombras de la capilla, agobiado el
+                corazón y llena la mente de lóbregas ilusiones, escuchó con sobresalto al principio
+                y con gran sorpresa después las siguientes palabras:</p>
+               <p> -Nada me digas -exclamaba don Alberto- tu generosidad no hace más que aumentar ante
+                mis ojos su criminal desenvoltura: déjame recoger mi espíritu en el religioso seno
+                de esta capilla, e implorar siquiera de la misericordia divina el consuelo que me
+                niega una hija desobediente e ingrata.</p>
+               <p> -Con todo, tío -respondió afectuosamente don Luis- paréceme que mi amor y mi respeto
+                valen algo más que la repugnancia y aversión que usted me muestra. Conozco el agudo
+                golpe que ha recibido usted; pero toda vez que Matilde está arrepentida, y que
+                prueba ya en este mismo momento toda la amargura de su desgracia y los
+                remordimientos de su conducta, sería una crueldad desesperarla y aburrirla con
+                ofrecer a sus ojos la más terrible consecuencia de sus juveniles errores.</p>
+               <p> -¡Y qué! -repuso el anciano- ¿No tiene harto merecido todo esto con haber burlado
+                las esperanzas del más tierno de los padres? ¿Qué se había negado hasta ahora a su
+                fantasía o a sus más pueriles caprichos? ¿No era la dueña de toda mi hacienda, la
+                que disponía de mi casa y mi persona? Déjame, déjame, hijo mío; no me persigas con
+                importunas súplicas hasta este último asilo de los que en ninguna parte encuentran
+                consuelo, amistad o descanso.</p>
+               <p> -Pues bien, obedeceré a una instancia tan poco conforme a la ternura de usted y a la
+                mansa condición mía, y usted sucumbirá bajo el peso de sus cuitas, y Matilde lo
+                acompañará a la tumba, y ese galán seductor quedará dueño de todo, y nuestra
+                inocente prima huérfana, infeliz y abandonada en la tierra.</p>
+               <p> Aquí hizo un movimiento cual si quisiera verdaderamente salirse de la iglesia, pero
+                don Alberto le contuvo apretándole la mano y dando franco paso a un diluvio de
+                lágrimas. Ellas desahogaron su despecho, y sintiéndose aliviado en el momento de
+                verterlas, volvió tiernamente los ojos a su sobrino, y soltó la voz a semejantes
+                razones:</p>
+               <p> -Detente, hijo mío, detente; no me abandones tú también, pues no tendré entonces
+                quien me cierre los ojos ni quien recoja mis últimos suspiros. Todavía antes que
+                baje a la tumba quiero tentarlo todo a fin de que esa desgraciada no sea tan infeliz
+                como a mí me ha hecho. He aquí el medio de que se acuerde de su padre así que la
+                deje mi muerte sin apoyo en el mundo, entregada al flujo disipador del almibarado
+                pisaverde que ha elegido. ¡Oh mengua! La hija de mis entrañas, la heredera de mis
+                bienes, la imagen de la mujer más virtuosa que haya hecho la felicidad de un mortal,
+                vivir sometida a un hombre sin pundonor y sin carrera, tan propio para pasar la vida
+                entre los perfumados y cigarreros mozalbetes de un café, como indigno de granjearse
+                el aprecio de gente grave, pundonorosa e hidalga.</p>
+               <p> -Sin embargo, no ha sido inútil la seria conversación que he tenido con él. Paréceme
+                haber descubierto en lo íntimo de su alma ciertos resabios de pundonor, del que, con
+                el beneplácito de usted, pues ya tengo el de Matilde, me propongo sacar un favorable
+                partido.</p>
+               <p> -¿Y qué partido, querido Luis? ¿Quieres que se doblegue el duro tronco, cuando
+                descuidaron de inclinarlo en tiempos de su lozanía y su verdor?</p>
+               <p> -Ya sabe usted que ha servido en el ejército, y que vive en el día con el carácter
+                de retirado. Pues bien: yo haré que se anule tal retiro, y que con el mismo grado de
+                teniente que tenía vuelva a servir en mi propio regimiento. Queda a mi cargo
+                inspirarle las verdaderas ideas del pundonor militar, y conseguir por todos los
+                medios posibles que borre de su nombre la fea tacha de calavera y petardista.</p>
+               <p> -¿Y juzgas, hijo mío, que aún puede prometerse mi desgraciada hija una suerte, si no
+                muy próspera, por lo menos tolerable?</p>
+               <p> -Lo creo así, y que reunidos dentro de algunos años en esta misma quinta
+                contribuiremos todos a la felicidad de usted, y a que pase sus últimos días
+                cariñosamente halagado por la tierna solicitud de sus hijos y sus nietos.</p>
+               <p> -¡Ah! No me lisonjeo de tal dicha: acabáronse para mí los placeres de la vida, y a
+                ti te encargo consolar a esa mal aconsejada mujer, que ya no me atrevo a nombrarte,
+                y a suavizar el solitario abandono de mi inocente sobrina.</p>
+               <p> Abrazáronse entonces sintiendo uno y otro algún desahogo de sus penas. Don Luis
+                había logrado al fin enterar a don Alberto de un acaecimiento tan contrario a su
+                reposo; y el pobre señor de Ludueña hallaba en la ternura del sobrino un motivo no
+                pequeño de consolación y halago. Pero ¿quién podrá explicar la novedad que causó a
+                Leonor el inesperado conocimiento de estos sucesos? Sentía hasta lo sumo la
+                desgracia de su tío, enternecíase al ver la generosidad de don Luis, y vislumbraba
+                un débil rayo de esperanza en orden a los inocentes movimientos de su pecho.
+                Postróse al pie del ara y elevó al Ser Eterno una dulcísima plegaria para que se
+                dignase desvanecer los pesares de su tío, hacer feliz a Matilde, y recompensar al
+                conde de Almanza de los esfuerzos con que procuraba la felicidad de la familia.
+                Fuese después en busca de su prima y abrazóla y acaricióla refiriéndola cuanto había
+                oído, y dándola las mayores esperanzas en orden a lo venidero. No fuera tampoco muy
+                fácil bosquejar el tierno coloquio de estas dos jóvenes: Leonor reprendía dulcemente
+                a Matilde por no haberla considerado digna de su confianza, al paso que esta le
+                repetía haber temido los justos reparos de su verdadera virtud. Esforzábase aquella
+                en asegurarle el consentimiento de don Alberto, por creer, como era natural, que
+                estaba enamorada hasta lo sumo de su elegante esposo; pero Matilde, disimulando lo
+                desgraciada que empezaba a ser con él, no hacía más que elogiar al brigadier, y
+                persuadir a Leonor la vivísima pasión que casi sin pretenderlo le había sabido
+                inspirar. Esta muchacha apenas daba crédito a tan fausto anuncio, y sólo repetía con
+                lágrimas que era una pobre huérfana, e indigna por todos títulos de aquella ilustre
+                alianza.</p>
+               <p> -¡Ojalá -exclamó Matilde- hubiese sido tan modesta y tan mirada com tú! Presumía
+                demasiado de mí misma, y creí que las mujeres debían ser obsequiadas en el mundo con
+                no menores arrebatos, mimos y genuflexiones que en las comedias.</p>
+               <p> En esto llegó el brigadier, y adelantándose Matilde le presentó a Leonor diciéndole
+                que le cumplía la palabra de agradecerle en lo poco que podía sus señalados
+                favores.</p>
+               <p> -Pero Leonor no puede ser feliz conmigo -dijo don Luis- pues a causa del desvío de
+                Perceval está decidida a meterse en un convento.</p>
+               <p> -No por eso -respondió Matilde- sino porque iba usted a enlazarse con otra.</p>
+               <p> -¡Sería posible! -interrumpió con viveza- Óigalo yo de tu labio, amable niña, y dime
+                si no es vana la ilusión que me hace concebir nuestra Matilde.</p>
+               <p> -Vamos -añadió ésta- ¿A qué vienen ahora esas lágrimas? ¿A qué el ponerse colorada y
+                ruborosa? ¡Ay de mí! ¿Amarga tanto una alegría como el más hondo pesar...</p>
+               <p> -No, no la hostigue usted, no la violente, querida Matilde; déjela en su libre
+                albedrío para que francamente diga hasta qué punto he de dar crédito a la próspera
+                nueva que usted me anuncia.</p>
+               <p> -¡Leonor! ¡Dichosísima Leonor! Levanta tu candoroso semblante, déjate ya de
+                suspirar, pon un término a esas tristes demostraciones de tu júbilo si no quieres
+                que debilitándose el esfuerzo que estoy haciendo obligada de una sincera gratitud,
+                me veas caer desfallecida entre tus brazos.</p>
+               <p> Faltábale efectivamente la voz, poníase pálida, presentaba su angélico rostro la
+                imagen del desmayo y la agonía, y todo hacía sospechar que estuviese próxima a ceder
+                al desaliento de que hablaba. Leonor se arrojó a sus brazos para sostenerla,
+                alargando al propio tiempo una mano a don Luis, que imprimió en ella sus labios con
+                el más noble y amoroso entusiasmo. Así los sorprendió don Alberto, y su corazón
+                paternal recibió a lo menos un blando esparcimiento en la patética demostración de
+                aquella fraternal alianza, sobre todo cuando corriendo los tres a acariciarle y
+                saludarlo, le prometieron no abandonarle y suavizar los postreros instantes de su
+                vida.</p>
+               <p> El bondadoso anciano previno a los criados y dependientes de la quinta los dos
+                matrimonios de Matilde y de Leonor, esforzándose en poner alegre rostro como si
+                hubiese marchado la cosa según el discreto impulso que se había anteriormente
+                propuesto. Todos aplaudieron la ocurrencia: y cuando supo Margarita que su querida
+                ahijada había de casarse con don Luis, se le arrasaron los ojos de lágrimas, y echó
+                millares de bendiciones a su tío bienhechor. Verdad es que templaba este gozo la
+                amargura de ver entregada a manos de un aventurero la gallarda y hermosísima
+                Matilde; pero todo lo sobrellevó con paciencia en atención a la felicidad de Leonor
+                y a las instancias de don Alberto.</p>
+               <p> Entre tanto, o porque tratase de mudar de conducta, o por ver ya satisfechas su
+                ambición y sus ideas, portábase Perceval con notable miramiento hacia su esposa, y
+                manifestaba a don Alberto las atenciones de un hijo agradecido y respetuoso. Sin
+                embargo, mientras se aguardaban las dispensas correspondientes no reinaba en los
+                habitantes de la quinta aquella alegría franca, voluntaria y natural que formaba
+                antes el cuadro más halagüeño de toda la comarca. En las delicadas maneras de don
+                Federico había algo de violento y estudiado; suspiraba don Alberto cuando
+                contemplaba embebidos en agradable coloquio a Leonor y a don Luis; y la brillante
+                Matilde, aquella para quien habían sido las cabalgadas, las comidas, las
+                iluminaciones y las fiestas, aquella que todo lo llenaba, animaba y embellecía, más
+                triste ahora, más pensativa y solitaria, ni corría los jardines, ni aparecía en la
+                quinta, ni apenas se hallaba en parte alguna. Íbase comúnmente a larga distancia de
+                aquellos lugares donde nada la recordase al parecer los últimos acaecimientos de su
+                vida; y allí reclinada junto al margen de una solitaria fuente, solía pasar las
+                horas embelesada, no en las dulces imágenes que habían extraviado su corazón, sino
+                en el tristísimo cuadro de sus disculpables errores. ¿Y qué es lo que veía en ellos
+                que de tal suerte llamaba su atención? ¡Ah! Las virtudes y el heroísmo de aquel que
+                injustamente persiguiera y cuyos lazos quiso evitar no obstante de ser, cual lo
+                conocía ahora, el hombre más digno de un amor ilimitado y eterno. Fútiles
+                pasatiempos, esplendorosas concurrencias, azucaradas lecturas, todo había
+                desaparecido de su mente, porque nada la ocupaba mas que la idea de su indiscreción
+                y su infortunio. Desde la conversación en que manifestó su esposo un egoísmo muy
+                contrario a la novelesca generosidad con que quiso distinguirse, era vano el empeño
+                de Perceval para remediar aquel primer rapto de su genio. Por mucho que procuraba
+                mantenerla en la misma ilusión con que supo alucinarla, no desaparecía su humor casi
+                insocial, ni la insondable tristeza de su ánimo. Muy al contrario, prefería a sus
+                oficiosas protestas las ingenuas caricias de Leonor, y los desinteresados cuanto
+                formales ofrecimientos del conde.</p>
+               <p> Tal era el cuadro que presentaba la familia de don Alberto Ludueña. Nadie dejaba de
+                advertirlo, nadie de adivinar que en aquella casa había habido un cambio repentino
+                de la jovialidad al desplacer, y de la franqueza a la reserva; mas no por esto se
+                penetraba el desapacible acaecimiento que había dado margen a tan desagradables
+                mudanzas. No debemos pasar en silencio que don Luis hacía los mayores esfuerzos a
+                fin de renovar los antiguos movimientos de libre y desembarazada alegría; y que si
+                bien no era fácil conseguirlo, lograba algunas veces que cesase la poca
+                inteligencia, y diesen treguas al áspero alejamiento que los ponía de mal
+                talante.</p>
+               <p>Conclusión</p>
+               <p>¡Bendígalos Dios!... Se casan</p>
+               <p>MORATÍN</p>
+               <p> -Vaya, vaya -decía la vieja Margarita poco tiempo después de verificados los
+                acontecimientos referidos en los capítulos anteriores y mientras estaba arreglando
+                la elegante pieza ovalada donde pasó la primera escena de esta verdadera historia-
+                Vaya, vaya, parece que al fin vinieron las suspiradas dispensas, y que no habrá
+                palurdo del término que no dé con gusto cuatro cabriolas en celebridad de la boda de
+                mi querida Leonor. Pero, ¿a qué te encantas, muchacha? -añadió volviéndose a una
+                doncella que la ayudaba- Ea, arregla esas sillas, sacude esos espejos... vivo,
+                mujer; que no parece sino que se hayan de casar de aquí a tres años.</p>
+               <p> -Bien está, señora Margarita, pero sepa que por mucho que una se mate, es muy en
+                balde.</p>
+               <p> -¿Y por qué, bachillera?</p>
+               <p> -Porque no hay quien lo agradezca.</p>
+               <p> -Siempre has tenido tú algo de pizpireta y mucho de picudilla. ¿Qué especie de
+                agradecimiento esperabas? ¿Que te nombrasen por cumplir con tu obligación abadesa de
+                san Pablo?</p>
+               <p> -Mire usted; otras menos avispadas que yo habrán sostenido el báculo, pero no lo
+                dije por tanto, sino porque la señorita Matilde no echa ya de ver el afán que los
+                demás se toman por las cosas, y de consiguiente maldito el estímulo que una tiene al
+                efecto de dejarlo todo limpio, aliñado y corriente.</p>
+               <p> -En eso no dices mal; y cuando me acuerdo del tiempo en que una hilacha suelta, o
+                una partícula de polvo le causaba una jaqueca, no puedo sino hacerme cruces de la
+                fría indiferencia con que ahora lo ve todo.</p>
+               <p> -¿Y por qué será?</p>
+               <p> -¿Por qué...? ¿Por qué...? Qué sé yo... pues al fin se casó a gusto, y viene fuera
+                de sazón ese humor tan mohíno e insociable que muestra.</p>
+               <p> -He aquí lo que yo digo... ¡Pero qué! ¡Si los hombres en el día son el demonio! Deje
+                usted que la digan amores, y la pondrán desconcertada y distraída; pues hágame el
+                favor de que nos caiga la bendición del cura, y ya puede dar un sempiterno adiós a
+                las risas, los donaires y las danzas.</p>
+               <p> -¿Y qué sabes tú de eso, rapaza? Más valiera cuidases de que nunca a las once
+                faltasen las sopitas al amo, que si no procuramos sostenerle a fuerza de vigilancia
+                y de método, paréceme nos pega un chasco cuando menos lo esperemos.</p>
+               <p> -Y mire usted, señora Margarita, sería una desgracia para todos, porque señor más
+                bueno y concienzudo no pienso servirle en todos los días de mi vida. Aquí para entre
+                las dos, mejor querría que se muriese el amo joven, que rabia por hacerse servir
+                como un marqués, siendo así que públicamente dicen se vino a la quinta sin un
+                cuarto.</p>
+               <p> -¡Vaya un piquito agudo, mujer! -exclamó el ama- ¡Ay! ¿Y cómo te he de quitar la
+                mala maña de andar siempre en chismes y caérsete la baba cuando a tu sabor destrozas
+                la honra de tus señores?.</p>
+               <p> -Vamos con tiento, señora Margarita, que a usted tampoco le disgusta... Y sobre todo
+                que siempre miraré de mal ojo al que no guarda a una dueña como usted todo el
+                miramiento que se debe.</p>
+               <p> -¿Por quién lo dices, picotera?</p>
+               <p> -¿Por quién...? Por ese mismo que defiende, tan tieso y perfumado, envuelto en un
+                corbatín de siete varas, y metiendo con las botas más ruido que diez carretas.</p>
+               <p> -¡Ah! Sólo él ha sido la desgracia de cuantos viven en la quinta, y eso que anda
+                ahora algo cabizbajo y que se le ha aplacado un tantico la desatinada furia con que
+                a puros zapatazos quiso mandarnos a todos. Pero al fin, al fin está casado con doña
+                Matilde, y cuando el amo cierre los ojos cátatelo absoluto señor de estas
+                haciendas.</p>
+               <p> -Noramala para el tal don Guindo con ínfulas de señoría...</p>
+               <p> -¡Otra! Ya veo que no has de callar, y que por la lengua y por las patas te habré de
+                plantar en la calle cuando menos te lo pienses.</p>
+               <p> -Pues si me da rabia y...</p>
+               <p> -Lo que tal vez te dé rabia es que desde que das en la flor de que te dulcifiquen y
+                enamoren, no levantas un pie ni das una media vuelta sin que te creas hechizar a
+                cuantos te miran.</p>
+               <p> -Vaya, que usted la ha tomado conmigo, señora Margarita, siendo así que soy la que
+                más le ayuda y la que saca siempre la cara...</p>
+               <p> -Bueno, bueno; vete allá dentro, y prepáralo todo para cuando se dirijan los novios
+                con toda solemnidad a la capilla.</p>
+               <p> Era en efecto verdad que en aquel mismo día se celebraba la boda de don Luis con
+                Leonor, y se ratificaba la de Perceval con Matilde. Habían por fin llegado las
+                correspondientes dispensas, y don Alberto deseaba a lo menos antes de morir asegurar
+                la felicidad de sus sobrinos. Porque lo que temía la señora Margarita no era
+                infundado: su salud iba en decadencia desde que no sólo había visto frustrados sus
+                proyectos, sino enlazada su única hija con un hombre de dudosa conducta, el cual
+                había conseguido por medio de una vileza el premio a que ardorosamente aspiraban las
+                gentes más acomodadas e ilustres de todo el reino.</p>
+               <p> Serían como las diez de la mañana cuando salieron los novios de la quinta en medio
+                de gentil comparsa de criados, paisanos y arrendadores, y de un numeroso y
+                lucidísimo concurso compuesto de los principales parientes, de los oficiales del
+                regimiento del conde, y de cuantas personas notables moraban en todo aquel
+                territorio. Disparábanse tiros, pronunciábanse vivas, soltábanse palomas,
+                entonábanse epitalámicas canciones, y ofrecíase en fin el vistoso, alegre y
+                animadísimo cuadro de una boda lugareña, unido al serio y brillante aparato de una
+                alianza cortesana. Tampoco dejaron de concurrir los más acreditados violinistas de
+                cuatro leguas a la redonda, y bandadas de mendigos que hacía tiempo esperaban aquel
+                día de universal solaz y refocilo. Pero un observador discreto, a quien no
+                deslumbrasen estas dilatadísimas oleadas, hubiera sólo reparado, por el contraste
+                que con los demás formaba, en un anciano pálido y decaído contemplando con ojos
+                mustios aquel bullicioso espectáculo, y en una joven que, a pesar de la lozanía de
+                sus años y de las gracias de su persona, podía competir con él en punto a
+                taciturnidad, melancolía o decaimiento.</p>
+               <p> De esta suerte y llevados como en triunfo, entraron las dos parejas en la gótica
+                capilla. Reparó Leonor que las tres viejas, cuyo coloquio tanto la asustó en cierta
+                ocasión, estaban sentadas junto a la puerta, y que se deshacían echándola peregrinas
+                y extravagantes bendiciones. Cuando todos estuvieron dentro, volvióse Marta a sus
+                comadres, y preguntóles en voz baja si les había engañado en el anuncio de la
+                boda.</p>
+               <p> -Verdad de Pero Grullo -respondió Brígida- harto era de prever que esta caritativa
+                muchacha tarde o temprano había de hallar un esposo.</p>
+               <p> -Pues ahí está la cosa, pese a mí, que yo os dije se casaría con ese mismo militar
+                que la introduce en la iglesia.</p>
+               <p> -Con todo eso, hermana, lo mismo dijo en otra ocasión la tía Margarita sin que
+                pretenda pasar por adivina ni hechicera.</p>
+               <p> -¿Sabes cómo te acreditaras un poco? -replicó la Úrsula- haciendo que tras de la
+                boda viniese aquel entierro que también nos prometiste.</p>
+               <p> -Pues no lo dudes, sucederá ni más ni menos de como dije; y si quieres que te hable
+                claro, repara cuando salgan en lo más lucido de la comitiva, y verás como viene
+                entre los mismos novios el difunto.</p>
+               <p> -¿Qué difunto, mujer?</p>
+               <p> -El propio en cuyo final obsequio iremos la tres de plañideras y lloronas. ¿Dudas?
+                Pues no hay más sino que metas el ojo por entre las piernas de los acompañantes
+                hasta fijarlo en el círculo donde van los novios, y encontraráste ahí con un señor
+                ya decrépito sin embargo de que no llega a los sesenta, apoyado el corvo cuerpo en
+                un báculo, sin que tome parte en el júbilo universal ni en sus labios asome la
+                sonrisa, antes por todos estilos anunciando un espíritu que decae, un aliento que se
+                apaga, y no vacilarás en creer cuanto te reitero y anuncio.</p>
+               <p> ¡Válgame Dios, mujer! ¿Con que según trazas no ha de ser otro el que muera sino el
+                propio don Alberto?</p>
+               <p> -El mismo, comadre, el mismo...</p>
+               <p> -Pues no te regocijes de ello, que era apacible por demás y muy amigo de los
+                pobres.</p>
+               <p> -Ya, ya, pero al del torrente y a mí nos dio malísimos ratos.</p>
+               <p> -Siempre fuiste, ¡oh Marta!, codiciosa y vengativa. Mirad que modo de proteger la
+                tribu acabando con un señor piadoso para ensalzar a un aventurero, que en cuanto
+                pille los cuartos tratará de establecerse en Granada o en la corte.</p>
+               <p> -Pues ¿qué pena tienes de ello? ¿Habrá mas que levantar el campo y plantar también
+                nuestros ranchos en otro punto?... Y es cosa que nos conviene, porque si averiguaran
+                estos alcaldes de monterilla la mano que cortó la soga con que colgaron a Talega, no
+                había de parar un gitano a veinte leguas en contorno.</p>
+               <p> Ya en esto salían los recién casados de la iglesia, y agregándose las gitanas al
+                acompañamiento siguiéronlos hasta la quinta, donde hubo para todos pastoril danza,
+                abundante comida e inesperada limosna. Tres días duraron las fiestas, única cosa en
+                que rigurosamente se observase el antiguo deseo de don Alberto. Una vez pasados,
+                volvióse a quedar sola la familia de los Ludueñas; y como se había concluido la
+                guerra, fuele fácil a don Luis alcanzar licencia para razonable temporada. Inútil
+                consideramos ofrecer a los ojos del lector una animada pintura de la felicidad que
+                disfrutaba este caballero en compañía de su amable esposa, felicidad que en ningún
+                tiempo vio debilitada o desmentida. Su carácter, naturalmente metódico y honrado,
+                iba siempre perfectamente de acuerdo con el de Leonor, que no sólo lo miraba con
+                singular cariño, sino con la respetuosa deferencia que se debía a sus virtudes. Por
+                su medio alcanzó Perceval una tenencia en el regimiento; y si bien no siguió largo
+                tiempo la milicia, tampoco abusó en demasía de la autoridad que la naturaleza y las
+                leyes le daban sobre Matilde. Atribuíalo la gente lugareña, de suyo maliciosa y
+                chismera, al admirable pulso con que previniendo tales desórdenes, dictó don Alberto
+                el testamento; pero nosotros, menos amigos de sátiras y enredos, nos complacemos en
+                darle un origen más noble, como por ejemplo el deseo de borrar sus anteriores
+                extravíos, y presentarse en el mundo con el beneplácito de una conducta algo
+                recomendable por sí misma. No podemos disimular con todo que nunca manifestó a su
+                esposa aquel amor apacible y duradero que nace del corazón y forma la inalterable
+                dicha de un matrimonio. Tan pronto apasionado, tan pronto frío, era difícil reducir
+                a cálculo sus pasiones, y aun averiguar la causa radical de sus fugitivos arrebatos.
+                Al parecer no había nacido para casado, sino para representar el papel de un lord
+                espléndido, elegante, enamorado y vagamundo.</p>
+               <p> Pero de todos estos personajes el que se llevaba la atención de las gentes por la
+                compasión que inspiraba y el afecto que se atraía, era Matilde. Su tristeza cambió
+                de carácter: de apacible y superficial convirtióse en sombría y taciturna; apagóse
+                el extraordinario brillo de sus ojos, desaparecieron las rosas de sus mejillas, su
+                sonrisa indicaba la desesperación o la angustia, y sus palabras revelaban a pesar
+                suyo la inconsolable pena de su espíritu. En vano el conde y su esposa procuraban
+                distraerla: al parecer sólo vivía para cumplir con el último deber de una hija; y
+                cuando hubo cerrado los ojos y recogido el postrer aliento del autor desgraciado de
+                sus días, pasaba sobre su tumba los ratos que no permanecía contemplando el retrato
+                de su primo. Cuanto más se esforzaban todos en quererla y consolarla, más ella
+                evitaba su encuentro, hasta que no siéndole ya dado desoír sus consejos, acusábase
+                con lágrimas de la muerte de su padre manifestándoles con esto cuán fundada fuese la
+                causa de su tristeza. ¡Ah! No nos atrevemos a decir si existía otra de igual
+                influencia; pero el continuo llanto de sus ojos, sus reprimidos suspiros, y el mismo
+                deseo de hallarse sola y de que nadie advirtiese la más leve señal de su malograda
+                ternura, daba sobrado margen a la sospecha de que interiormente amaba y se
+                desesperaba y consumía. ¡Sirva a lo menos su desgracia de aviso a los padres y de
+                ejemplo a los tutores para que prefieran a la brillante y peregrina cultura de las
+                señoritas de hogaño, la honesta, sencilla y piadosa educación de las doncellas de
+                antaño!</p>
+            </div>
+         </body>
+      </text>
+</TEI>

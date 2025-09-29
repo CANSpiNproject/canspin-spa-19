@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Marcelo o los peligros de la Corte</title>
+               <author ref="authors.xml/#P51">Olavide, Pablo de</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">18669</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_070</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>Olavide, Pablo de</author>
+                  <title>Obras narrativas desconocidas</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <date when="2001">2001</date>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmc7m065">https://www.cervantesvirtual.com/nd/ark:/59851/bmc7m065</ref>
+                  <bibl type="print">
+                     <author>Olavide, Pablo de</author>
+                     <title>Obras narrativas desconocidas</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000056">Peru</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/7005821">Lima</settlement>
+                     </pubPlace>
+                     <publisher>Biblioteca Nacional del Perú</publisher>
+                     <date when="1971">1971</date>
+                     <bibl type="first">
+                        <author>Olavide, Pablo de</author>
+                        <title>Los peligros de Madrid</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                        </pubPlace>
+                        <publisher>D. Joseph Doblado</publisher>
+                        <date when="1800">1800</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year"/>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div>
+               <p>Don Marcelo de la Vega era un caballero distinguido, que habia heredado de sus padres
+                un rico mayorazgo, y vivia noblemente en la ciudad de su nacimiento. Estaba casado
+                con Doña Martina de Cerbera, hija de los condes del Castillo, la amaba mucho, y ella
+                le hacia muy feliz. Ambos habian recibido una escelente educación, y siendo de un
+                natural dulce y juicioso, vivian con mucha paz en la mas apacible union. Dos hijos
+                que tenian la fomentaban y entretenian, y su crianza los ocupaba. Eran estimados de
+                toda la ciudad, pasaban por ejemplos de virtud, y parecia que no era posible añadir
+                nada á su felicidad.</p>
+               <p>Marcelo, aunque ya padre y esposo, conservaba todavia el candor y la pureza de la
+                edad inocente. El cielo le habia dotado de un gusto invariable para todo lo que es
+                sólido, verdadero y honesto; y la costumbre y la educación le habian enseñado á
+                cumplir todas sus obligaciones con exactitud, á contener sus deseos, y moderar sus
+                placeres. Su espíritu naturalmente justo y su corazon generoso y sensible le hacian
+                practicar continuamente virtudes de todas especies. Distribuia con mano liberal y
+                secreta una parte de sus rentas en buenas obras. Como por otra parte habia adquirido
+                muchos conocimientos útiles, y los cultivaba continuamente, esto le daba ocupaciones
+                agradables; pero la compañia de una esposa tan virtuosa y entendida como amable
+                completaba su dicha.</p>
+               <p>Este matrimonio gozaba de toda la felicidad permitida al hombre en la tierra; pero
+                por una especie de fatalidad un dia se habló en su casa de las fiestas reales, que
+                se disponian en Madrid. Uno de los concurrentes ponderó mucho lo que se preparaba
+                para ellas, añadió que él estaba en ánimo de ir á verlas, y preguntó á Marcelo, si
+                él iria. Este respondió, que no habia pensado en ello; pero la ilusion que produce
+                la corte desde léjos, y los ensanches á que siempre se inclina la opulencia, le
+                despertáron el deseo. El mismo personage contribuyó mucho a reforzarle, diciéndole,
+                que un hombre tan rico como él no debia negarse este placer, y sobre todo, que debia
+                ir una vez á tomar idea de la corte, en donde únicamente se puede encontrar lo que
+                puede satisfacer el gusto: que Madrid era un teatro vasto donde se renuevan con
+                frecuencia las decoraciones y donde se varían las escenas: que su grande movimiento
+                divertia la vida, hacia pasar con dulzura, y sin sentir el tiempo: en fin, que él
+                solo podia contentar espíritus grandes, para quienes son estrechos los límites de
+                una ciudad.</p>
+               <p>Alguno dijo, que valian mas el reposo y la paz; pero él replicó, que esta era también
+                su ventaja, pues á pesar de su inmenso torbellino, era fácil, si se queria, vivir á
+                solas, ó no vivir mas que con pocas gentes, y bien escogidas: que en una corte tan
+                populosa habia para todos los gustos: que el que ama los placeres continuos de
+                comedias, paseos y fiestas, solo allí se los podia procurar sin fatiga, y á poca
+                costa: que el que se sentia con inclinacion á las letras y las artes, allí solamente
+                puede encontrarlas reunidas, porque allí solamente estaban los grandes talentos, los
+                ingenios fecundos, y los espíritus de mayores luces: que en fin Madrid era el
+                paraiso de la España.</p>
+               <p>Un anciano que estaba allí dijo friamente: yo he estado muchas veces en Madrid, y lo
+                que he visto es muchos cortesanos frívolos y corrompidos, que se burlan grandemente
+                de los provincianos bisoños, que los van á admirar. Confieso que en todos los
+                grandes pueblos, donde hay mas hombres y caudales, el esterior debe ser mas lucido,
+                la instrucción mas estendida, y el estilo mas culto: que deben conocerse mejor las
+                leyes de los usos, y los caprichos de las modas: en fin, que los que allí viven,
+                deben saber mejor lo que se llama ciencia del mundo, que no un pequeño número de
+                ciudadanos, que no sale de su rincon, y vive encerrado en la corta esfera de una
+                ciudad sin pensar mas que en su familia, y en los afanes de una fortuna moderada,
+                que apenas le puede dar una subsistencia suficiente.</p>
+               <p>Pero la esperiencia me ha enseñado, que el que vive así tiene otras recompensas, y
+                quizas mayores. Las frívolas y aparentes ventajas de las cortes tienen
+                inconvenientes mas graves, y que deben inspirar temor. Esas luchas de la ambicion,
+                esas vanas ostentaciones de la riqueza, esas fiestas, diversiones y placeres no
+                constituyen al hombre verdadero, ni á la criatura racional y estimable, y traen
+                consigo mil peligros, que la embelesan y degradan. El deseo de agradar, y parecerse
+                á los que se distinguen, quita á cada uno su fisonomía personal, y obliga á todos a
+                vivir con una máscara en la cara. La virtud mas probada puede disminuirse ó
+                alterarse, comunicando demasiado con el vicio. No es fácil precaverse y eximirse de
+                la corrupcion moral de esta epidemia, que infecta los pueblos populosos y sobre todo
+                al que es capital del imperio. En cuanto á mí, yo no creo que la especie humana gane
+                nada en acercarse mucho. Sin duda que cuando sea muy numerosa, aumentará los gustos
+                de la vida, multiplicará sus conocimientos, y aumentará sus falsos placeres; pero
+                ¿cómo? á costa de la verdad y la virtud. Las almas pierden su energía, sus
+                sensaciones entorpecidas son menos vivas, el amor de la honestidad se debilita, las
+                necesidades se multiplican, y los corazones inocentes y puros se corrompen. Yo tengo
+                para mí, que el que puede vivir cómodamente en su pais, hará muy bien en no
+                moverse.</p>
+               <p>Estando en estos entraron otras visitas, y se mudó de discurso; pero va el golpe dado
+                por el primero de los que hablaron, habia hecho grande impresion en el corazon de
+                Marcelo. Desde aquel instante se levantó un deseo de ir á Madrid. Muchos dias estuvo
+                perplejo, y sin decidirse; pero habiendo sido vencido por su imaginacion, y por el
+                anelo de contentar su curiosidad, fué á proponer su pensamiento á Martina. Esta que
+                no amaba mas que las ocupaciones de su estado, y que no pensaba sino en la crianza
+                de sus hijos, procuró disuadirle, diciéndole, que pues eran tan felices en su pais,
+                y que tenian bastante con que divertirse en su propia casa, qué necesidad tenian de
+                ir á buscar ni placeres, ni aventuras. Pero Martina, la decia Marcelo, nosotros
+                somos jóvenes, ya tenemos dos hijos, y el cielo nos ha dado bienes de sobra, ¿qué
+                mal harémos en divertirnos un poco en ver estas fiestas, y conocer á Madrid?</p>
+               <p>¿Pero no has oido el otro dia á aquel anciano tan sensato, que nos decia el riesgo de
+                corromperse en esos grandes mundos? Eso es bueno para los jóvenes inespertos, la
+                decia Marcelo, para los que no están radicados en los principios de virtud; pero tú
+                y yo hemos pasado la edad de las ilusiones, tenemos hijos: yo tengo la ventaja de
+                tener por esposa la muger que adoro: no hay hermosura en la tierra que pueda robarte
+                la menor de mis aficiones: ¿qué riesgo pues puedes temer? -No temo ninguno; pero
+                pues estamos tan bien, me parece inútil y ridículo dejar lo cierto por lo que no es
+                seguro. ¿Qué pueden añadir á tu felicidad las fiestas que pasan, y un Madrid en que
+                no has de vivir? -Pero quedan recuerdos, se hacen amigos, y en fin, en Madrid, como
+                en todas partes, se puede vivir, como vivimos aquí; esto es, con moderacion, y
+                divirtiéndose6 con el cuidado de no abandonarse á la disipacion, ni al
+                remordimiento.</p>
+               <p>Pero ¿de dónde te viene ahora esta idea? ¿Porqué este nuevo deseo de estender tus
+                gustos y placeres? ¿No tienes bastante con tu casa, con el cuidado de tu hacienda,
+                con tus dependientes y criados, con tus hijos y tu muger? Me parece que si tú amaras
+                bien todo esto, no pensaras en dejarlo por buscar fiestas, y gentes nuevas. Mira,
+                como yo no amo otra cosa que á mis hijos y á tí, nada de eso me hace falta. Y aquí,
+                en Madrid y en un desierto, no habrá mas fiesta para mí que tú y mis hijos; pero
+                pues te ha venido esta fantasía, y que si no la satisfaces, podrás tener disgusto,
+                yo no quiero oponerme á ella. Anda enbuenhora, y yo te esperaré, criándote tus
+                hijos: te confieso; que tu ausencia me causará mucha pena. Dejar de verte es la
+                única cosa que me puede afligir, y en Madrid puede haber muchos enemigos de mi
+                corazon. Yo no tengo otro mérito que el de amarte, y si fueras á olvidarme, si
+                otra... ¡Ay, Marcelo! no olvides estas dos inocentes criaturas que te deben la vida.
+                -Martina adorada, ¿tú puedes ni siquiera imaginarlo? Querida amiga, ¿tú puedes temer
+                que el amor con que te idolatro...? ¡Ay! es muy vivo, muy puro, invariable y eterno,
+                pues está fundado sobre la estimacion, la confianza, y el conocimiento de tus
+                virtudes, y si yo quiero ir á la corte, es porque espero que tú vengas, que te
+                diviertas, y que no nos separemos un minuto. En fin, despues de muchos discursos y
+                debates, la dócil y obediente Martina, no queriendo oponerse á un deseo, que parecia
+                tan decidido, se sometió á lo que veia ser gusto de su esposo, y partió para Madrid
+                con él y sus hijos.</p>
+               <p>Marcelo llevaba cartas de recomendacion para diversos personages de la corte, que le
+                recibiéron muy bien; pero el que gustó mas que todos, fué un cierto Marques de
+                Dombal, porque le pareció muy amable, muy oficioso, y con todas las calidades que
+                podian hacer un buen amigo. En efecto, tenia la mas bella presencia, y mostraba un
+                espíritu fino y delicado: parecia como de treinta y cinco años: siempre habia vivido
+                en la corte y el gran mundo, y habia adquirido todas las gracias: se veia en él un
+                aire de nobleza, que imponia respeto, y forzaba á la consideracion: todas las
+                palabras que salian de sus labios, llevaban consigo una fuerza, y un atractivo que
+                ganaba los corazones; en fin, todo lo que rodeaba su persona, tenia una especie de
+                prestigio, que hechizaba las voluntades, y decidia en su favor.</p>
+               <p>Pero este hombre, que tenia un esterior tan amable, escondia el corazon mas
+                corrompido. Su único objeto era gozar, divertirse, dominar; y de estas pasiones
+                nacian todas las máximas, y las acciones de su vida. Ya habia disipado una inmensa
+                fortuna en locos devaneos de su juventud, y entónces trataba de recoger una parte
+                por todos los medios que podia. No conocia otro dios que el placer, y miraba como
+                errores del vulgo las verdades mas respetables; pero su astucia ocultaba en su
+                corazon este modo de pensar tan odioso, y solo se descubria con mucha precaucion á
+                sus mas íntimos amigos. Su gran principio era el pensar, que el mundo es un teatro,
+                en que cada cual hace su papel, y que el hombre hábil debe saber hacerlos todos,
+                segun lo exijan las circunstancias, y sus intereses. En efecto, nadie sabia como él
+                quitarse y ponerse todas las máscaras que le acomodaban.</p>
+               <p>Con este talento pernicioso tenia tambien el de ser un lisonjero muy insinuante y
+                solapado. Apénas entraba en una concurrencia, cuando se ponia á observar la parte
+                flaca, ó la opinion dominante de los que la componian, y con grande habilidad para
+                distinguirla tenia la de saber aprovecharla. Marcelo le pareció un hallazgo, una
+                mina de oro, que le podia ser muy útil. Desde luego era rico; pero á pesar de su
+                opulencia era caballero de provincia, y estaba lleno de las ideas vulgares. Todavia
+                era honrado y honesto, tenia lo que se llama buenas costumbres, deseo y amor á la
+                virtud. Era pues preciso empezar por corromperle y seducirle con el atractivo del
+                placer, porque una vez que se cae en este lazo, no se reflexiona mas. Es verdad que
+                esta empresa parecia difícil, porque por un lado Marcelo no era un jóven inesperto y
+                novicio. Ya habia pasado la fuga de la edad mas peligrosa, y estaba acostumbrado á
+                una conducta arreglada, y por otra venia acompañado de una muger tan linda que era
+                dificil hallarla en Madrid competidora; pero á pesar de todo, Marcelo era ardiente,
+                petulante, y muy sensible á todo lo que le agradaba: seguia con ardor todos sus
+                gustos: su corazon era noble, crédulo y confiado; en una palabra, muy fácil de
+                engañar. Un carácter de este temple, cuando se desvía de la virtud, se precipita mas
+                profundamente. Sobre estos fundamentos, y con la esperanza de sacarle dinero, y
+                gozar de sus placeres, aquel hombre abominable empezó á poner en planta el proyecto
+                de su iniquidad.</p>
+               <p>Desde luego se dedicó á acompañarle y divertirle. Su objeto era hacerle conocer que
+                le era tan necesario, que no podria vivir sin él. Al principio echó los ojos sobre
+                Martina: su primera idea fué tambien seducirla, y hacerse dueño de la casa; pero á
+                poco tiempo conoció que seria tiempo perdido, y que aventuraba su confianza, y la de
+                su marido. Con este desengaño su corazon empedernido, que no se dejaba dominar por
+                la vanidad ni por el gusto, y que todo lo calculaba por su interes, se retiró
+                prontamente, y ántes de que Martina conociese nada. Por el contrario habiendo
+                reconocido su virtud y su solidez, no la hablaba mas que del honor, ni alababa sino
+                á las que tenian reputacion de virtuosas, de manera que Martina se avergonzaba de
+                haber podido sospechar de él alguna vez, le trataba con estimacion y confianza,
+                dando gracias á Dios de que hubiese dado á su marido un amigo tan respetable. El
+                impostor tragaba modestamente el incienso, y se reia en secreto de la credulidad de
+                Martina.</p>
+               <p>Con su marido hacia otro papel. Marcelo imbuido de sus falsos estudios, y de algunos
+                malos libros, habia tomado cierto gusto por las disputas metafísicas, que son tan
+                fáciles, y que no son más que el abuso del raciocinio, pues en vez de añadir órden y
+                claridad, embrollan mas las ideas, y cuya resulta es, que no siendo posible
+                entenderse, se cae en la oscuridad y el pirronismo. El Marques habia conocido este
+                flaco de Marcelo, y le entretenia con discursos de esta especie, que le iban
+                pervirtiendo. Un dia hablaba con él del placer, y le dijo: el placer, amigo mio, es
+                el único móvil, y el alma universal de todo lo que existe. Echad la vista sobre esta
+                inmensa cantidad de criaturas que viven, se animan y nos circundan. ¿Qué es lo que
+                las agita, las atrae, y las junta? El placer. Es verdad que en el mundo nadie lo
+                dice, que todos se ponen una máscara, que se llama decencia; pero con este salvo
+                conducto cada cual lo busca, y con aire de cumplir lo que el mundo exige, todos
+                satisfacen en secreto lo que le piden los sentidos. Esta es la marcha general á la
+                reserva de pocos fanáticos ó estólidos.</p>
+               <p>Marcelo se azoró oyendo una doctrina tan horrible; pero contenido por la superioridad
+                del Marques, apenas se atrevió á decirle: ¿pues qué la imaginacion, el corazon y la
+                virtud misma no tienen sus placeres, y acaso mas finos y agradables? En cuanto á mí
+                confieso que cuando puedo socorrer á un infeliz, cuando acaba el dia sin que tenga
+                que baldonarme nada, cuando cumplo con honor mi palabra, cuando veo á mi esposa
+                segura de mi fidelidad, cuando no doy ningun mal ejemplo en mi familia, y que con mi
+                aplicación consigo establecer el órden, y hacerla feliz, siento, digo, que tambien
+                yo lo soy; esto me causa un placer verdadero, y me da mas gusto que ningun otro que
+                se pudiera imaginar. Si te examinaras bien, dijo el Marques, vieras que todo eso no
+                es mas que orgullo y vanidad, que en nada de eso tienen los sentidos parte alguna, y
+                que los sentidos son los únicos intérpretes, los fieles ministros de la
+                naturaleza.</p>
+               <p>Por ejemplo, ¿qué comparacion puede haber entre hacer una nueva conquista, y triunfar
+                de la resistencia de una hermosura que nos gusta, y entre todos esos insulsos
+                placeres que me citas? Marcelo, yo conozco los hombres y las cosas, y no es fácil
+                engañarme. Por mas amable que sea tu Martina, es preciso que ya haya perdido para tí
+                el atractivo de la novedad, y esto es haber perdido mucho. Si no, confiésalo de
+                buena fe. Tu muger no puede inspirarte ahora la misma deliciosa embriaguez, el mismo
+                impaciente ardor, que tú sentíste los primeros dias. Mis deseos han podido perder
+                parte de su vivacidad, respondió Marcelo, pero otra dicha mas dulce y mas durable
+                les ha sucedido, y yo la estimo mas. Ahora miro á mi muger no solo como una persona
+                destinada á estos placeres de que hablas, y que me quita los deseos de otros, sino
+                como la mas tierna, y la mas querida amiga: como una criatura preciosa, que me ha
+                estendido la existencia en dos hijos, cuyas figuras nos repiten las nuestras, y
+                cuyas virtudes serán tambien las suyas.</p>
+               <p>Todas esas son ideas morales de que suelen ocuparse los que no conocen el mundo, y
+                que no pueden hacer comparaciones. Pero ¿qué diferencia de esos frios y alambicados
+                sentimientos á los vivos y variados placeres...? Yo me detengo aquí, aunque el
+                Marqués no se detuvo, ni tuvo rubor de esplicar á Marcelo, con pretesto de la
+                confianza, y con la capa de la filosofía, las máximas detestables, que mi pluma no
+                se atreve á referir.</p>
+               <p>Su designio era acostumbrarle poco á poco á estas conversaciones perniciosas, y
+                familiarizarle con los principios pervertidos, para prepararle al golpe de teatro
+                que le prevenia. El Marques tenia una amiga, que despues de haber servido de objeto
+                á su corrupcion, era entónces por su rara hermosura, por sus muchas gracias y su
+                inaudita astucia, el instrumento de que se valia para reparar por su medio todos los
+                ménoscabos, que le habian causado sus desórdenes: era el móvil con que lograba todas
+                sus astucias. Esta muger estraordinaria no tenia mas que veinte años, pasaba por
+                viuda, y debió á la naturaleza todos los medios de seduccion, que el trato de las
+                gentes habia perfeccionado. Lo mas peligroso en ella era, que tenía el arte de
+                esconderlos: que sabia afectar un aire de sencillez, un tono de candor y de
+                ingenuidad, que engañaba á los mas diestros. Cuando queria, sus dos ojos negros y
+                grandes, acostumbrados á todo el arte con que el amor inflama los corazones, eran
+                dos hechizos á que no se podia resistir. Su tez era tan limpia como blanca, y fuera
+                de otros muchos encantos, sabia dar á sus palabras un halago tan dulce, un interes
+                tan vivo, que no era fácil desprenderse de ella, cuando determinaba apoderarse de un
+                corazon.</p>
+               <p>El Marques concibió, que una muger de esta especie debia ser un escollo muy peligroso
+                para el ardiente, inesperto y cándido corazon de Marcelo; porque la artificiosa
+                Cipriana, como una sirena seductora, sabia dar á las espresiones mas indiferentes
+                todo el interes y el atractivo del amor: sabia afectar una sensibilidad esquisita,
+                una delicadeza tierna, y al mismo tiempo una ingenuidad, un candor y una tan noble
+                sencillez, que parecia que un niño la podia engañar, y no dudó que el alma nueva,
+                sensible y crédula de Marcelo no se enredase entre redes que le serian tan bien
+                tendidas. Despues de haberla instruido de su proyecto, despues de haberla esplicado
+                el carácter fácil, y las demas circunstancias del recien venido, y de haberse
+                concertado con ella sobre lo que debian hacer, el Marques empezó á poner en planta
+                su designio. Una tarde de verano se salió á pasear con Marcelo á las orillas del
+                Manzanáres. Con pretesto de hacer ejercicio, dejando el coche, echáron pie á tierra,
+                y gobernando el Marques la accion, dirigieron los pasos hacia los parages mas
+                solitarios; pero todo esto tenia su designio particular.</p>
+               <p>Desde luego la soledad prepara mejor el alma á que reciba impresiones profundas. Por
+                otra parte la hermosura nunca es mas activa que cuando se deja ver con simples
+                adornos en medio de los hechizos de la naturaleza. El bosque ameno en que vaga, la
+                dulce sombra que la cubre, y el campo solitario en que no se distrae la atencion que
+                inspira, añaden mucho interes á la curiosidad, y la permiten que se satisfaga por
+                entero. A la vuelta de una pequeña eminencia que les escondia los objetos, repara
+                Marcelo en una dama elegante que estaba sola, y parecia embebida en la lectura: se
+                sorprende á la vista de un espectáculo tan amable como poco comun, y se lo hace
+                reparar al Marques, que tenia la vista en otra parte.</p>
+               <p>En efecto Cipriana (porque era ella) esperaba allí su presa en la aptitud mas
+                estudiada. Vestida con todas las gracias que podian relevar su hermosura, estaba
+                como recostada sobre un verde tapiz de yerba, que esmaltaba vistosas flores. Parecia
+                Flora en medio de su imperio, ó la Diosa de Citera cuando esperaba á Adónis. Su pelo
+                negro y desordenado en encrespados rizos emulaba los derechos de la naturaleza, que
+                sabe seducir sin pretension, y adquirir nuevas gracias con su mismo descuido; tenia
+                en las manos un libro, corrian sobre él algunas lágrimas, y estaba tan empapada en
+                su lectura, que no se apercibió de los que la admiraban.</p>
+               <p>Pero el Marques, advertido por Marcelo, echa la vista sobre ella, y despues de
+                haberla considerado, le dijo: ¡Ah! esta es una señora viuda de mucha distinción, muy
+                estimado por su hermosura y sus grandes talentos. Yo la conozco poco, porque no
+                gusta de visitas. Toda la corte desea ir á verla; pero despues de su viudez no
+                quiere recibir á nadie y vive casi en la soledad. Pasa por una persona tan cumplida
+                como virtuosa y viendose tan jóven, por el cuidado de su reputacion, se ha condenado
+                á tanto sacrificio. No ostante, la conozco bastante para poder acercarme á
+                saludarla; si quieres, nos podemos llegar. Marcelo, que no deseaba otra cosa, se lo
+                suplicó, y el Marques llegándose hacia ella, la saluda. A las primeras palabras
+                levanta la cabeza, y con este movimiento les deja ver todo el espectáculo de su
+                hermosura peregrina. El pobre Marcelo ve pasar por delante de sus ojos un rayo de
+                luz mas rápido que un relámpago, y que busca el camino de su corazon.</p>
+               <p>El Marques la dice: esa lectura debe ser, señora, muy interesante, pues merece que la
+                honreis con vuestras lágrimas. Si señor, le responde ella con un tono de voz dulce y
+                enternecido, que añadia mucho prestigio á la aventura del encuentro. Yo leia los
+                combates de un corazon enamorado, que luchaba contra su inclinacion en favor de la
+                virtud, y las que tenemos una alma tierna y sensible sabemos cuán doloroso es
+                resistir á los halagos del gusto, y sofocar las inclinaciones del propio corazon.
+                Diciendo esto, se pone en pie con un movimiento ligero, y manifiesta con esta accion
+                la flexibilidad de un talle no ménos elegante y gracioso que fino y delicado. Se
+                prosigue la conversacion, y la astuta Cipriana desenvolvió en ella todas las sales y
+                gracias de un espíritu ligero y chistoso con que las mugeres piensan que se dan otro
+                nuevo atractivo. No eran mas que las frases triviales y frivolas que las que tienen
+                pretension al talento saben y repiten continuamente; pero el buen Marcelo, que no
+                habia oido en su vida un estilo á su parecer tan brillante y gracioso, y que creia
+                fruto de mucho ingenio y grande instruccion, bebia sin sentirlo un halago seductor
+                que le hechizaba por instantes. El Marques no perdia ninguno de sus movimientos.</p>
+               <p>Lo que Marcelo pudo saber de Doña Cipriana por aquella conversacion fué que era viuda
+                de un militar, que la habia dejado con poca fortuna: que se habia casado con él por
+                amor, habiéndole sacrificado muchos pretendientes, y sobre todo uno que era muy
+                rico, y estaba bien colocado en la corte; pero que el cielo por su desgracia la
+                habia hecho nacer con una sensibilidad tan esquisita, que era siempre víctima de su
+                corazon: que su marido, aunque pobre, le habia gustado mas que los otros y que ella
+                le habia preferido á todas las grandezas y riquezas: que esta era la causa de sus
+                desgracias, porque ella no conocia ni estimaba otra cosa en el mundo, que satisfacer
+                sus inclinaciones, ni veia otra felicidad que la union de dos corazones, cuando la
+                simpatía produce en ellos la conformidad de sentimientos: que á pesar de la
+                mediocridad de su fortuna no sentia haber perdido tan ricos establecimientos como
+                pudo tener, porque la hubiera bastado vivir con el objeto que habia preferido; pero
+                que la muerte la habia privado del único hombre, que era capaz de recompensarla de
+                tantos sacrificios.</p>
+               <p>Que habia llorado mucho su pérdida, y que se habia determinado á no amar más á
+                persona ninguna por no esponerse á igual peligro. Es verdad que ella sabia bien que
+                una alma tan tierna y sensible como la suya no podia ser feliz sin amar; pero
+                ¿dónde, ó cómo podria encontrar un corazon digno del suyo? Un corazon que supiese
+                sentir, reconocer y estimar la delicadeza, el desinteres, y la constancia con que
+                ella sabia amar? Hasta allí no habia conocido ninguno que mereciese que ella pusiese
+                en él los ojos, y que no le queria buscar: que ella no amaba mas que por el gusto de
+                amar: que así no queria mas que el amor, y que un hombre sin fortuna, y en un
+                desierto que la supiese amar, valdria para ella mas que todos los reyes de la
+                tierra: que sabia que estas eran ideas platónicas, de que no sacaria mas que
+                pesares, pero que nadie se hace á sí mismo, y que el cielo le habia dado este
+                carácter.</p>
+               <p>Que viendo lo poco que los hombres saber amar, y que los amores del siglo eran tan
+                viles ó tan falsos, y estában tan lejos de la delicadeza, del desinteres y ardor con
+                que solo pueden ser dulces y felices, se habia en fin resuelto á renunciar á toda
+                idea de amar, á no volver á casarse, ni vivir mas que para sí y que esta era la
+                causa porque vivia tan retirada, sin querer tratar con un mundo que le causaba
+                horror: que todo su deseo era sepultarse en la oscuridad de un convento, adonde
+                ocultaria á sus ojos la vista de tanta falsedad como veia entre las gentes.</p>
+               <p>A esta proposicion de convento gritaron el Marques y Marcelo diciendo, que era una
+                idea horrible querer sepultar tantos encantos: que ella era digna de adornar y
+                mejorar al mundo, y que no faltaria algun corazon sensible y generoso que conociera
+                el precio del suyo. La conversacion se estendió en estos y otros discursos de la
+                misma especie, de tal manera, que la noche los sorprendió, y estaba ya muy oscuro
+                cuando lo advirtiéron. Ella les pidió licencia para retirarse; ellos la propusieron
+                conducirla á su casa; ella se escusa diciendo, que no estaba acostumbrada á recibir
+                visitas; ellos porfian diciéndola, que eran amigos íntimos: que el uno era
+                forastero, y el otro hombre sin ceremonia, y que tenia el honor de ser conocido de
+                ella, y que así no podia haber inconveniente en que la sirviesen con su coche hasta
+                dejarla en su casa.</p>
+               <p>Cipriana resistia siempre, y fué menester mucho combate para reducirla; pero al fin
+                las repetidas instancias la vencieron, y se entró con ellos. Llegáron á su casa, y
+                viéndose forzada a cumplimentarlos, les propuso si querian descansar un instante en
+                lo que ella llamaba su retiro filosófico. El templo era digno de la deidad. No era
+                grande; pero le ennoblecian el gusto, el aseo, y una agradable simplicidad. Cipriana
+                les hizo los cumplimientos de su casa con el aire las gracias, y la facilidad que
+                enseñan los ejemplos de las gentes distinguidas, y que dan decencia y dignidad á
+                todo lo que hacen; pero continuamente les pedia perdon de no poder recibir mejor á
+                personas tan dignas, y se escusaba con su estado de viuda, con su poca fortuna, y su
+                entera separacion de todo trato.</p>
+               <p>Este es, les decia, el solitario asilo en que gozo de mi misma, en que vivo para mí,
+                y en que sepulto mi alma, que se halla muy mal cuando á su pesar las circunstancias
+                la obligan a verse en el torbellino de las gentes. Mi sistema, señores, es que cada
+                uno debe conocer su genio, su humor, y los impulsos de su corazon para arreglar por
+                ellos su conducta. Yo he conocido que el mio es muy diferente de los que veo, y que
+                no piensan mas que en divertirse y disiparse. Yo me conozco. Desde que amo no sé mas
+                que amar, y fuera muy infeliz, si no me viera correspondida con el mismo ardor que
+                soy capaz de sentir. Y pues es imposible encontrar un corazon del mismo temple que
+                el mio, he tomado mi partido, que es vivir conmigo á solas. Aquí es donde vivo sin
+                que nadie me inquiete, aquí donde paso mi vida en una melancolía agradable, aquí
+                donde siento el placer de ser independiente, y aquí en fin donde me consuelo con la
+                seguridad de no temer la ingratitud y la perfidia, y que puedo gobernar con mi razon
+                y mi prudencia los impulsos naturales de mi muy peligroso corazon.</p>
+               <p>Nada es tan atractivo, ni que haga tanto efecto en el alma de un hombre poco
+                esperimentado en los artificios de las mugeres, como la idea de que una de ellas con
+                un corazon sensible y delicado huya del mundo, y no quiera vivir mas que para el
+                hombre que ama. Todas estas espresiones llenaban de entusiasmo y ardor al ardiente y
+                crédulo Marcelo. Así la miró como una heroina sin compañera, y no concebia cómo en
+                la corte los primeros señores no se la disputaban á porfia. La visita fue larga, y
+                cuando los dos amigos se volvian, no habláron de otra cosa que de este prodigio de
+                discrecion, hermosura y virtud. El Marques volvió á decirle, que era una señora muy
+                estimada: que todos buscarian su sociedad si ella no se negara tan obstinadamente á
+                toda solicitud: que era una gran fortuna que ellos hubieran tenido una casualidad
+                tan favorable; pero que pues habian sido tan felices, era menester aprovecharla,
+                porque era muger única, y que tambien era menester ver cómo hacerla tomar amistad
+                con su muger, que tendria gusto en tratar una señora de su especie, digna de ella, y
+                capaz de entretenerla y divertirla.</p>
+               <p>Marcelo se tragó todo el anzuelo, y apénas llegó a su casa, cuando contó á su muger
+                todo el suceso pasado. Las almas buenas y puras difícilmente son sospechosas y como
+                Martina no pensaba mas que en dar gusto á su marido, le dijo, que estaba pronta á
+                hacer lo que quisiera; pero este allanamiento no era mas que obediencia, y el
+                Marques dispuso las cosas de modo que Marcelo iba todos los dias á ver á Cipriana, y
+                que Martina la veía muchas veces. Aunque el corazon de la dulce Martina no le
+                hablaba por ella, queria dar gusto á su esposo, y por entónces este motivo le
+                bastaba; pero las mugeres tienen un talento particular para conocerse, y por mas que
+                Cipriana se valia de todas las armas de su astucia para encubrirse, Martina no tardó
+                en sentir que aquel carácter no la convenia. Por una especie de instinto su alma
+                noble y generosa, sin poder esplicarse el motivo, se cerraba á todos los cariños
+                lisonjeros que le hacia la artificiosa sirena.</p>
+               <p>Martina no amaba en el mundo mas que á su marido y sus hijos, ni se divertia con nada
+                sino con ellos, todo lo demas era para ella insulso y extraño. No conocia otra
+                bienaventuranza en la tierra que la de un matrimonio bien unido. La parecia que para
+                una muger que ama la virtud, las obligaciones mas dificiles son delicias, que los
+                gustos de su corazon son sus deberes, y que solo ellos deben interesar á una muger
+                virtuosa. En efecto, ¿qué deleite puede compararse con la dulce embriaguez, que
+                produce en el alma la satisfaccion de un amor que puede confesarse con decoro, y que
+                obtiene la correspondencia, la confianza y la estimacion de lo que ama? Esta era la
+                idea que Martina se habia formado de su amor, y hasta entónces su marido parecia
+                haberlo visto con los mismos ojos; pero despues de algunos dias ya hacia mas
+                frecuentes y mas largas ausencias de su casa, y cuando volvia á ella, no mostraba
+                tanto gusto ni tanta satisfaccion como ántes. Esta diferencia era al principio tan
+                ligera, tan imperceptible, que el mismo Marcelo no la sentia; pero no se escapaban á
+                los ojos atentos de Martina.</p>
+               <p>Entretanto el Marques y Cipriana concertaban la ruina del infeliz Marcelo, y
+                calculaban los momentos en que debia arrojarse en el precipicio. Sin duda que los
+                malvados no saben ser amigos. Para serlo son menester virtudes; pero cuando la
+                necesidad los junta, y pueden ayudarse, el interes es un resorte, que adquiere casi
+                toda la fuerza de la amistad. El incauto Marcelo corria al precipicio, y sus pasos
+                eran ya tan rápidos, que Martina no pudo dejar de apercibirlos. Un dia que estaba
+                mas inquieta y apesadumbrada, le dijo: yo no sé, amigo mio, si me engaño, y empiezo
+                por pedirte perdon; pero me parece que faltara á la franqueza del amor, si pudiera
+                disimular lo que me inquieta. Mucho deseo engañarme: pero, Marcelo, me parece que
+                estás mudado, que ya no me hablas con la antigua ternura, que cuando tus hijos
+                vuelan á tus brazos, no los abrazas con el amor y alegría que ántes, y que alguna
+                vez hasta sus caricias te importunan. No te puedo esplicar la pena que esto me
+                causa. Me figuro que ya es el principio de nuestra desgracia, porque nosotros no
+                vivimos mas que para adorarte, y si fuera posible... Marcelo sorprendido con estas
+                dulces quejas, y sintiendo el torcedor de la conciencia, se desata en llanto, la
+                abraza y la interrumpe para decirla: ¿cómo puedes, mi única amiga, mi adorada
+                esposa, desconfiar de tu marido? No, tu esposo es, y será siempre tu amante. Corre
+                luego á sus hijos, estampa en ellos sus labios, y añade: ¿qué estos pedazos de mi
+                corazon me importunen? No, jamas, jamas, y no solo son y serán mi única felicidad,
+                sino que ellos bastarán para acordarme siempre lo que debo á su madre, que es la
+                esposa de mi corazon. No temas de mí, Martina mia. Yo no sé lo que he podido hacer,
+                que haya producido esas inquietudes; pero déjame examinar mi corazon. Yo escudriñaré
+                hasta sus mas ocultos sentimientos, y si hallare alguno... Pero no; yo no puedo
+                tener mas que los que debo á mi Martina y á mis hijos.</p>
+               <p>Marcelo se retira con el alma agitada, porque las dulces quejas de su esposa le
+                habian hecho sentir que su conducta las merecia. Esta fué una luz funesta que le
+                pasó por el alma, y que le descubrió verdades que le escondia su pasion; pero no se
+                las mostró mas que á bulto, y quiso examinarlas mas despacio. Impaciente de verse
+                solo se va á su gabinete, cierra la puerta, y se sienta junto á una mesa. Allí por
+                la primera vez se agita para penetrar su corazon. Se pregunta á sí mismo con
+                franqueza y severidad, y se horroriza de ver como poco á poco se ha dejado empeñar.
+                Tiembla viéndose al borde de un abismo, y contemplando su espantosa profundidad,
+                ¡que! se dice, ¿yo he podido dejarme embelesar por los atractivos, ó por el mérito
+                de una muger que no es la mia? ¿Yo me espongo á dejarla, tomando tanto imperio sobre
+                mi corazon, y á que se debilite el amor que debo á mi muger y mis hijos? ¿Seria yo
+                tan insensato, que haya dado entrada á una nueva pasion, hasta enamorarme de
+                Cipriana? Esta idea le llena de inquietud, y no podia considerarla sin terror.</p>
+               <p>Pero su pasion ya muy formada queria seducirle, y le decia: ¡qué dices! ¿No es
+                posible, cuando se encuentra una muger de un merito extraordinario, tener el gusto
+                de verla, de oirla, de admirar las gracias de su espíritu, hacer justicia á sus
+                talentos, estimarla, buscarla, y entregarse á la dulzura de su trato, sin faltar por
+                eso á su deber? Este pensamiento le halaga, y quisiera detenerse en él; pero muy
+                presto la conciencia con su luz pavorosa le muestra los peligros, y exclama: ¡ah,
+                Marcelo! ¡vil Marcelo! ¿tú quieres engañarte? Pero ¿cómo puedes disimular que te has
+                mudado; que ya no eres el mismo? Tiembla, huye de la inclinacion que te arrastra. Ya
+                has perdido la calma de la virtud; miráte inquieto, perplejo, y buscando los medios
+                de conciliarla con tu pasion. ¿Quieres una prueba mas clara de que ya empiezas á ser
+                culpado?</p>
+               <p>No (esclama levantándose con ímpetu), no, no es prudente familiarizarse con el
+                riesgo. Ya es preciso tomar un partido, y el mejor es huirlo. Aquí es necesario
+                valor contra sí mismo. Pocos dias han bastado para hacerme casi prevaricar, otros
+                podrán cegarme. Yo me resuelvo á huir de Cipriana, y de todo lo que pueda fomentar
+                en mi corazon su memoria. El sacrificio es duro, y sin duda me costará mucho; pero
+                es necesario para mi reposo y el de mi familia, necesario para mi virtud. Un hombre
+                de bien no está mas dispensado que su muger de guardarle fidelidad. El honor y la
+                religion le obligan con la misma fuerza. Yo he jurado á Martina un amor inviolable.
+                ¿Y qué no es ella muy digna de este amor? ¿No es la madre de mis hijos? ¿Qué dirán
+                ellos cuando crezcan, si saben que su padre ha sido un hombre frívolo, y que ha
+                causado penas á la mejor de las mugeres? ¿Cómo podria yo presentarme á su vista? Voy
+                á ver al Marques, y él me ayudará, porque es mi amigo.</p>
+               <p>Cuando Marcelo iba á salir, el Marques entra, y viéndole, con un aire agitado le
+                dice: ¿qué tienes que parece estás inquieto? Sin duda que lo estoy, respondió
+                Marcelo, y pues estamos solos, yo voy á derramar mi corazon en el seno de la
+                amistad. ¡Dombal! ha dias que me confundo á mí mismo. Doña Cipriana. -Y bien, ¿qué
+                tiene? ¿qué hay? -No hay nada; pero, amigo, es muy amable, demasiado amable, no
+                hallo otro medio para conservar mi honor y mis obligaciones que no volver á verla.
+                -¿Qué dices? -Que estoy resuelto á cortar toda relacion con tu amiga, y que voy á
+                trabajar para olvidarla. Bien sé que me costará mucho; pero la religion, la
+                felicidad de mi esposa, de mi familia, y la mia propia lo exigen absolutamente.
+                Busca pues algun pretesto decente para que no vuelva á venir á mi casa, ni ver á mi
+                muger, porque en cuanto á mí yo no volveré á la suya. -Escucha, Marcelo, y vamos con
+                prudencia, porque estas especies de rupturas necesitan de grandes miramientos. El
+                público las sabe con sorpresa; con esta ocasion dice lo que es, y lo que no es.
+                Hombres como nosotros le debemos respeto, y no debemos conducirnos como pudieran dos
+                rústicos aldeanos.</p>
+               <p>Si estás enteramente determinado á romper esta amistad, ve aquí lo que dos hombres de
+                nuestra crianza y nacimiento pueden hacer. Lo primero es disminuir tus visitas poco
+                á poco, y con mucho tiempo y destreza. Empezarémos porque vea poco á tu muger, y
+                despues te irás tú retirando sucesivamente. Permíteme, amigo, que te diga, que es
+                singular y ridículo no poder ver á una muger amable, sin enamorarse de ella como un
+                loco, y que yo no hubiera debido esperar esto de un hombre de tu juicio. Pero dime,
+                Doña Cipriana, ¿te ha dado á entender que le gustas, y que desea contraer contigo
+                algun comercio de amor? -No; pero el mucho trato con una muger tan seductora puede
+                hacer fácilmente que la amistad se transforme en los delirios del amor, y yo, amigo,
+                jamas me perdonaria una flaqueza tan indigna. Yo amo á mi muger y mis hijos, y no
+                quiero ni debo amar mas que á ellos. Ya ves que te hablo con franqueza, porque se
+                que no abusarás de ella. Gobiername pues con tus consejos. Yo te obedeceré, pero
+                sácame del laberinto en que me veo.</p>
+               <p>El Marques se alegró de ver que se dejaria gobernar por sus consejos, y lo que le dió
+                gusto sobre todo fue conocer lo herido que estaba el corazon de Marcelo, pues aunque
+                le veia batallar contra sí mismo, no dudó que con sus perfidas astucias, le pondria
+                presto en estado de que le fuese imposible superar su pasion. El sencillo Marcelo se
+                sometió á todas sus ideas, y adoptó sus disposiciones. La primera fué, que el
+                Marques conseguiria con maña de Cipriana, que disminuyese sus visitas á la Marquesa,
+                y salió diciendo, que iba á ver cómo podia persuadirla; pero fué á hacerla saber su
+                victoria, los progresos que va habia hecho en el corazon del provinciano, y el
+                sistema de resistencia que este se proponia. Despues de haberse burlado del
+                inocente, convinieron en que ya era tiempo de combatirle, y poner en planta todas
+                las baterías.</p>
+               <p>La viuda empezó á sentirse un poco indispuesta, y no podia salir de casa; pero poco
+                despues su mal iba aumentándose. No habia nada peligroso, pero eran vigilias
+                nocturnas, y un cierto mal estar continuo que no la dejaba sosegar. Este estado la
+                inspiraba una cierta languidez, que aumentaba el poder de su hermosura; porque la
+                daba un colorido de melancolía, que le añadia un nuevo grado de interes. Marcelo,
+                persuadido por el Marques, creia que lo menos que podia hacer para cumplir con la
+                humanidad, la compasion y los buenos procederes, era enviar á saber de ella, y
+                hacerle de cuando en cuando algunas visitas. Así lo hacia, y aunque el estado de la
+                viuda, su dulce melancolía; y la aliñada simplicidad con que le recibia eran
+                suficientes estímulos para un corazon ya resentido: y aunque ella misma hubiera
+                animado el lenguaje de sus ojos, y la melodia lastimosa de su voz, Marcelo precavido
+                contra tantos peligros, eludia con sus esfuerzos los ataques de tantos enemigos.</p>
+               <p>Una noche que fué á verla solo, la encontró con la pluma en la mano. Cipriana al
+                instante que le ve se turba, toma el papel que escribia en la mano, y le hace
+                pedazos. La accion fué tan viva, y la turbacion tan visible, que Marcelo no pudo
+                dejar de estrañarla. Ella como que se recobra de un movimiento indeliberado le dice:
+                vos estrañareis mi atolondramiento, pero mas os sorprenderéis cuando sepais que sois
+                vos á quien escribia este papel que acabo de romper. ¿A mí señora? dijo Marcelo. A
+                vos mismo, respondió ella. En verdad que mi accion era un poco ligera, y puede ser
+                tambien que os hubiera parecido ménos decente. Yo doy gracias á Dios de que os ha
+                traido para interrumpirme, y hacérmela reflexionar. Siempre es tiempo de corregirse,
+                y ya habeis visto con qué prontitud me he corregido; pero en verdad que no me
+                conozco. Yo me hallo tal, que ni siquiera sé lo que hago. ¡Ay, señor Don Marcelo! yo
+                no soy digna mas que de lástima.</p>
+               <p>No bien dijo estas palabras, cuando se le escapan las lágrimas, que ella procuraba
+                contener: Marcelo turbado y confuso, no sabiendo lo que todo aquello queria decir,
+                con el fuego en el corazon, y el agua en los ojos la dice enternecido: Señora ¿vos
+                llorais? -Sí, Don Marcelo: yo lloro, y no hago otra cosa que llorar cuando nadie me
+                ve. Si supierais mi suerte deplorable, si vierais las angustias de mi corazon, y el
+                miserable destino á que estoy condenada... ¡Qué desgracia ha sido la mia! ¿Porqué
+                habeis venido á Madrid? ¿Porqué me habeis encontrado cuando yo huia de todos los
+                ojos? Y aquí redoblaba sus sollozos. Poco despues haciendo un esfuerzo sobre sí,
+                para poder articular las palabras, y con un tono fuerte y decidido, le añade: Señor
+                Don Marcelo, escuchadme: es preciso, absolutamente preciso que dejemos de vernos:
+                vos sois casado, y yo no quiero perder ni mi reposo ni mi libertad. La virtud no se
+                defiende sino huyendo.</p>
+               <p>El pobre Marcelo estaba inmóvil, atónito, y todos sus sentidos en un trastorno y
+                revolucion que no es posible concebir. No sabia qué hacer, ni se determinaba á
+                retirarse ni á pedir mayor esplicacion de lo que tanto se dejaba entender: pero la
+                activa sirena, para fijar su indecision, le vuelve á decir: una muger virtuosa no
+                debe esconder ni su flaqueza ni su peligro. El medio de vencerse es juzgarse con
+                severidad, y tengo tan alta opinion de vuestra virtud, que no me he detenido en
+                mostraros mi enfermedad, para que vos mismo me ayudeis á curarla. Ya veis los
+                efectos, yo me seco y me consumo insensiblemente, y la muerte no tardará en poner
+                fin á mis tormentos; pero entretanto ayudadme á sanar de esta infeliz inclinacion.
+                Yo amo mucho á vuestra muger, y no quiero ofenderla: yo conozco vuestras
+                obligaciones y las mias, y veo que debemos evitar tratarnos. Esto es precisamente lo
+                que os escribía.</p>
+               <p>El Marques que lo escuchaba todo, creyó que ya era tiempo de hacer su papel. Entra
+                como si viniera de fuera, y finge asombrarse de la situacion en que los halla,
+                porque Cipriana parecia abatida con el desórden de su dolor, y Marcelo como fuera de
+                sí: pero despues de algun silencio, ella le dice: vos venis á tiempo, y pues sois
+                amigo de los dos, decidnos lo que debemos hacer. Ya sabeis que yo quiero ser siempre
+                dueña de mi libertad, pero me ha sorprendido una inclinacion, que traidora se cubria
+                con el velo de la amistad. Don Marcelo es la causa. Decidme ¿no debo huirle y
+                separarme de él para siempre? Ya tú sabes Marques (la interrumpe Marcelo) la pasion
+                que te he confesado, y que se aumenta todos los dias: yo sé que debiera oir las
+                voces de la razon y huirla; pero me falta valor para dejar de verla: yo no puedo ni
+                dejar de admirar tanta hermosura ni privarme de discursos tan llenos de amabilidad y
+                dulzura. Pero ¿porqué no podemos ser amigos? La virtud puede proibirnos el amor,
+                pero nos permite la amistad.</p>
+               <p>Ve aquí lo que yo queria deciros la interrumpe al malvado Marques, y este es un
+                tratado que ninguno de los dos puede rehusar. Los dos teneis un corazon sensible,
+                que pudiera inflamarse. Lo que importa pues es que cada uno le sujete y le dirija:
+                pero seria lástima que dos almas tan dignas la una de la otra se separasen por temor
+                de un peligro que pueden evitar: y pues no quereis ni debeis reposar sobre el amor,
+                reposad sobre la amistad, que tambien tiene sus dulzuras. No temais ningún riesgo:
+                yo estaré á vuestra vista, yo seré vuestro ángel tutelar, y si os veo la menor
+                flaqueza, la menor sospecha de una pasion que debeis combatir y superar, al instante
+                os separo. Es preciso que mi amigo sea siempre fiel á su muger, que es muy amiga
+                mia, y una persona que amo mucho: pero con tal de que esto sea, no veo inconveniente
+                en lo demas. Vos Doña Cipriana, sois una filósofa, que sabreis añadir gracias á la
+                amistad, sin que se le pueda baldonar nada. Marcelo no es libre, es esposo y padre;
+                pero un trato inocente y desinteresado no perjudica á nadie. Gustar de la hermosura
+                para venerarla, y de el talento para admirarle no es delito. Su esposa no puede
+                llevar á mal que Marcelo conozca lo que valeis, y que os tribute sus respetos. Sed
+                pues amigos, trataos como tales, y continuad viendoos como haciais ántes. Nadie
+                puede censurar una amistad pura y desinteresada.</p>
+               <p>Es claro que el débil Marcelo debia recibir sin resistencia las leyes que se
+                imponian. Seducido por su propia flaqueza y halagado con la pasion de Cipriana le
+                habia fingido, no hizo nuevo esfuerzo para quitarse la venda de los ojos: con el
+                pretesto de abandonarse á la amistad, dió nuevas fuerzas á su amor, y cada dia se
+                aumentaba su violencia. Con pasos de gigante corria al precipicio. La aficion
+                marital y hasta las dulces emociones de la paternidad se iban aflojando poco á poco.
+                No ménos se debilitaban los sentimientos apacibles de la inocencia, la estimacion de
+                sí mismo, y la inquietud del alma, sentimientos preciosos, que hacen la felicidad de
+                las almas delicadas, y que cuando una vez se pierden, no es tan fácil volver á
+                recobrar.</p>
+               <p>Todos los dias el corazon de Marcelo se sentia encadenar con prisiones mas fuertes, y
+                sentia perder alguna de sus antiguas ventajas. Su carácter se endurecia, su humor se
+                agriaba. Ya no se le veia ni su pasada dulzura de genio, ni la acostumbrada amenidad
+                de sus costumbres. Estas calidades son las únicas que pueden hacer dulce y delicioso
+                un empeño irrevocable, que autorizan la religion y la virtud. Mucho se habia mudado.
+                Se le veia triste, pensativo y disgustado. Ya no buscaba tanto ni las tiernas
+                caricias de Martina, ni los inocentes juegos de sus hijos. Ya estos no le
+                interesaban con sus dulces halagos, y Marcelo no parecia el mismo.</p>
+               <p>La sensible Martina se apercibia demasiado de esta transformacion, pero por no
+                afligir á su marido, no se permitia la mas ligera queja. Al contrario, cuando veia
+                el semblante de Marcelo cubierto de nubes, ponia en el suyo una serenidad
+                inalterable: no combatia sus procederes poco delicados, y algunas veces sus durezas,
+                sino con mas vivas pruebas de amor, ó con finezas nuevas. Una de sus amigas que
+                adivinó sus pesares, acusaba esta conducta de flaqueza; pero ella le decia: yo no
+                creo que mi marido se estravíe, porque es muy virtuoso; pero si por desgracia se me
+                escapara, yo no quisiera llamarle ni con escándalos, ni con baldones que pudieran
+                acabar de irritarle: tarde ó temprano volverá en sí, y conocerá que en ninguna parte
+                puede estar mejor que en su familia, porque nadie puede amarle tanto.</p>
+               <p>Por otra parte es dificil dar pena ó afligir á lo que se ama; y si Marcelo pudiera
+                ofenderme, yo no dejaria por eso de amarle. Contenta con llorar en secreto, no le
+                haria ver mas que mi amor: creeme amiga. La mayor parte de las mugeres infelices,
+                porque sus maridos las descuidan, dejarian de serlo, si en vez de los lamentos y las
+                quejas, no opusieran mas que la paciencia y la terneza. Estas son las armas que la
+                naturaleza ha dado á nuestro sexo, para defenderse contra la tiranía de los hombres.
+                Está segura de que yo, y mis hijos (que se conducirán por mis consejos) triunfarémos
+                siempre en el corazon de Marcelo: que él nos buscará siempre y no se fijará más que
+                entre nosotros; pero ya te digo que estoy cierta de que no puede tener culpa alguna,
+                y que yo la tuviera, si me abandónara á sospechas injustas. ¿Dónde hallará un
+                corazon tan tierno y tan agradecido como el mío? ¿Qué gusto puede sentir igual al de
+                abrazar sus hijos? La verdad es que mi marido tiene un pleito, y que esto es quizas
+                lo que altera su humor; pero nuestras caricias consolarán sus penas.</p>
+               <p>Un dia que Marcelo, volvió á su casa con aspecto mas áspero y desagradable, Martina
+                observó que apartaba los ojos de ella, con una especie de terror, y que los fijaba
+                en el suelo. Con deseo de calmarle, se le quiere acercar, pero él la huye como si la
+                temíera. Parecia que le agitaban los terrores de una mala conciencia. Su muger le
+                pregunta lo que tiene. El guarda un silencio pavoroso, y solo se le escapan
+                espresiones duras y llenas de furor. La tierna y muy sensible Martina, no puede ya
+                contener las angustias que la estrechan el corazon; se deshace en llanto, y viene á
+                arrojarse entre los brazos de su esposo; pero él la rechaza, y quiere sacudirse de
+                ella, para esquivarse á sus caricias. Ella redobla sus sollozos, y le dice: ¿así
+                correspondes á mi amor? ¿Qué delito es el mío para tanto castigo?</p>
+               <p>Retírate Martina. Yo no te acuso de nada. Tú eres un ángel, pero yo soy un demonio:
+                déjame porque quisiera verme sepultado en lo mas profundo de la tierra. -¡Qué!
+                Marcelo ¿tú tienes penas, y no quieres que tu esposa las sienta contigo? ¡Marcelo
+                mio, mi amigo! ¡Mi esposo no quiere derramar su dolor en el seno de su mejor amiga?
+                -Ya no lo eres; yo debo perder hasta tu amistad y estimacion: ya no merezco mas que
+                tu desprecio y tu odio. -¿Mi ódio? ¡Aun cuando tú me dieras la muerte con tu mano,
+                cuando yo misma quisiera, me seria imposible, no digo odiarte, pero ni siquiera
+                fingir un sentimiento tan horrible? No, amigo de mi corazon: cuando tú me arrancaras
+                la vida, yo te besara la mano. -No me digas esas cosas: yo no las merezco, y me
+                haces mas culpado. -Pero Marcelo, aunque hubieras dejado de amarme, aunque me
+                hubieras sido infiel, yo te perdonara, y no pudiera dejar de amarte siempre. -¡Seria
+                verdad adorada Martina, que tú fueras tan buena... tan generosa...! ¡esposa mia!...
+                ¡Martina! ¡yo soy el mas culpado de los hombres!</p>
+               <p>Marcelo se entrega entónces á todos los estremos del dolor, y en medio de un diluvio
+                de lágrimas confiesa á su muger, que despues de haber combatido la mas violenta
+                pasion, acaba por fin de rendirse á ella. Yo habia creido dominarla (la dice), yo
+                pensaba que no era mas que amistad; pero estoy corrido, avergonzado y jamás me
+                consolaré. Yo he sido infiel á mi querida Martina yo he olvidado todos mis
+                principios de honor, de religion y de virtud: yo he desmentido hasta aquí mi pura y
+                tranquila constancia, y en fin he deshonrado á mi familia, á mis hijos, y á mí
+                mismo. Siento, veo y reconozco todo el esceso de mi desvarío; pero yo me castigaré,
+                y ya empiezan á castigarme mi implacable dolor, y mi voraz remordimiento.</p>
+               <p>Querida Martina, yo te he perdido: ya tu infame marido no es digno de tí: tú tambien
+                has perdido al honrado, virtuoso y feliz Marcelo. Este se ha desaparecido, y en su
+                lugar no te queda mas que un brutal, un adúltero, un mal esposo, y un infame padre.
+                Este monstruo abominable no merece ya el nombre de marido de una muger tan pura y
+                respetable como tú. Tambien ha perdido sus derechos, sus títulos, su reposo y su
+                propia estimacion. ¡Ah pérfido amigo! Tú eres la causa de mi desastre, porque me has
+                hecho conocer esta sirena peligrosa. Pero, Martina, dulce Martina, ¿no me dices
+                nada? Tú me habias prometido perdonarme, ¿porqué pues estás tan pálida? ¿Porqué ese
+                llanto? ¿Porqué cierras los ojos?</p>
+               <p>Martina procura recobrarse, y despues de alguna pausa le toma la mano, y le dice: no
+                estrañes este primer movimiento de mi dolor. Yo no sabia que era posible partir un
+                corazon. -¡Ah Martina, no me lo baldones! Yo no he partido el mio, siempre ha sido
+                todo tuyo. Este ha sido un engaño de mis sentidos, un momento de error, y yo lo
+                espiaré toda mi vida. ¿No me perdonas? -Sí, amigo, yo te perdono; pero deja correr
+                estas lágrimas que se escapan: ellas se detendrán, y ya está todo olvidado: no
+                hablarémos mas que de nuestro amor. Diciendo esto corre á sus hijos, los trae entre
+                sus brazos, y presentándoselos á su marido, le dice: Marcelo, ¿Cipriana te dará
+                jamás dos hijos como estos? Oyelos que te hablan en favor de su madre. La infeliz no
+                tiene los atractivos de la otra; pero sabe quererte mejor, pues que no vive mas que
+                para amarte. Entónces los dos esposos se abrazan, confunden sus lágrimas, dan los
+                mas tiernos besos á sus hijos, y se juran de nuevo un amor eterno.</p>
+               <p>Despues Marcelo corre á casa del Marques. Este se espanta, viendo el desórden con que
+                viene. Amigo le dice, ¿qué te ha sucedido? -¿Tú mi amigo? Jamás lo fuiste, aunque
+                tus impuros labios profanaban este augusto nombre. ¿Tú mi amigo? Tú me has hecho
+                perder en un instante el fruto de una vida honrada y virtuosa, tú me has hecho
+                llevar la muerte, el dolor y la angustia hasta el corazon de la muger más
+                respetable, y digna de un amor que no emponzoñaban los remordimientos, pero que
+                ahora va á ser el objeto de mi eterno pesar. Bárbaro, tú has sido mi asesino: anda á
+                contar á tu digna amiga la pena y el despecho en que me ves, cuéntala la angustia
+                que me oprime por haber sido tan débil, por haber cedido á un momento de error.
+                Dila...</p>
+               <p>El Marques queria interrumpirle; pero Marcelo no le daba lugar, y continuó diciendo,
+                dila, que no me espondré mas, que no volveré á verla, que sus encantos no podrán
+                quitarme otra vez la razon, y hacerme tan culpado como sus hechizos han logrado
+                hacerme en un momento de delirio. Dila que yo la huiré para olvidarla, y apartar de
+                mi vista imágen tan odiosa. Y tú, inhumano, alábate, complácete, jáctate de haberme
+                arrastrado hasta el abismo. Ya está Martina instruida, ya se lo he contado todo, ya
+                sabe que la he ofendido, y que tu funesta compañia, tus consejos perniciosos y tu
+                espíritu seductor son los que me han precipitado. ¡Anda, pérfido, tan indigno del
+                nombre de amigo! Tus ojos no volverán á verme jamás. Antes de que Dombal pudiese
+                responder á este torrente de injurias, Marcelo corre presuroso á encerrarse en su
+                casa, y pedir otra vez uno y muchos perdones á su muger. La dulce Martina se los
+                ratificaba de nuevo, y le añadia nuevas finezas mas sensibles.</p>
+               <p>La viuda supo el funesto efecto que su condescendencia habia producido en el corazon
+                de Marcelo, y no estaba poco picada de que estas fuesen las gracias que le diera;
+                pero ella y Dombal se consoláron, porque uno y otro habian sabido sacar de Marcelo
+                cantidades considerables con título de préstamos. No ostante, como la farsa habia
+                durado poco, no habian tenido tiempo de sacar cuanto deseaban. Esto les afligia, y á
+                Dombal sobre todo; pero su inagotable espíritu inventivo piensa que á pesar de todo
+                el furor con que ha visto á Marcelo, este es tan cándido y visoño, que podrá
+                engañarle otra vez, y con esta idea le escribe un papel, que decia así: «Marcelo, me
+                es indispensable hablarte un instante: no es para que se quejen la amistad ó el
+                honor ofendido: te doy mi palabra de que no me oirás una queja; pero es menester que
+                te hable sobre tus intereses, y te espero».</p>
+               <p>Marcelo no se acordó de la máxima que dice: que no se debe hacer ningun tratado con
+                los malos, y que cuando fuera preciso sacrificarles su fortuna, es conveniente huir
+                de ellos. Tambien se olvidó de la máxima que enseña que nadie debe confiarse en sus
+                propias fuerzas. Se sentia tan indignado de su caida miserable, que le pareció que
+                no tenia que temer; que ya vuelto á la virtud y al amor conyugal, era incapaz de
+                caer otra vez, y como le hablaba de intereses, y que tanto el Marques como Cipriana
+                le debian cantidades considerables, le pareció que debia á sus hijos el cuidado de
+                recobrarlas. Con estas ideas va á buscar al Marques, y se le presenta con la firmeza
+                de un hombre que no teme ni su cólera, ni otro desliz. El hábil cortesano no le hace
+                el baldon mas ligero ni le da la menor queja y solo le habla de lo que debe, y del
+                deseo que tiene de satisfacerle. Con este motivo, afectando la mas noble y
+                escrupulosa exactitud, le dice: que está en ánimo de vender todo su patrimonio para
+                no ser deudor de un hombre, que ya no quiere ser su amigo; que la gratitud es
+                intolerable cuando no la sostiene la amistad, aunque no ha hecho nada para
+                desmerecerla.</p>
+               <p>Aquí deja escapar algunas señales de terneza y dolor, que no dejáron de enternecer al
+                cándido corazon de Marcelo. El astuto Marques se apercibe, y le repite golpes mas
+                sensibles. Cuando ya le pareció maduro, le añade: Sí, Marcelo, tú eres un ingrato.
+                No puedo negar que te debo mucho, y que te estoy muy obligado por la fineza con que
+                me has favorecido cuando lo necesitaba; pero está tranquilo: yo te satisfaré por
+                entero: no te faltará un real de tu dinero: tú serás pagado. ¿Pero quien me pagará á
+                mí del amor que me debes, del pesar y de los perjuicios que me va á producir esta
+                ruptura? Ya ves que no te hablo como ofendido; que sé despojarme de todo lo que es
+                orgullo y vanidad, para no mostrarte mas que la pena de un corazon sentido, y de una
+                ternura lastimada; porque la verdadera amistad se olvida de todo, para no acordarse
+                mas que de su propio dolor. Pero ¿qué quejas puedes tener de mí? ¿Cuál es mi delito,
+                sino el de querer disfrutar contigo de las visitas de una muger amable, que la
+                suerte nos proporcionó? ¿Es culpa mia el que tú te enamoraras de ella; y si ella y
+                tú transformais en pasion lo que no debia ser mas que un trato inocente y agradable?
+                ¿Es mi culpa, si tú has abusado de una muger que ha tenido la flaqueza de ceder á la
+                pasion que has sabido inspirarla?</p>
+               <p>¿Y cómo la recompensas, Marcelo? ¿Es este el proceder de un hombre honrado? ¿Cuál es
+                su delito tampoco, sino de haberte querido con demasia? ¿Y tú se lo pagas, no solo
+                abusando de su flaqueza, sino corriendo á divulgarla, á deshonrarla y envilecerla?
+                ¿No podias ser ingrato sin añadir una indiscrecion, que no se permiten los hombres
+                menos delicados? Marcelo, tú conoces poco las mugeres, si piensas que puedan
+                perdonar agravios de esta especie. ¿Y á quién vas á hacer esta enseñanza? A tu misma
+                muger. ¿Te imaginas que pueda olvidar nunca que la has sido infiel? ¿Qué necesidad
+                tenia de saber este secreto? Que ames á tu muger, que la prefieras á todas, y que
+                ella ocupe sola tu corazon, esto es justo, y ya has visto como he alabado siempre tu
+                conducta estimable en esta parte; pero era menester ó resistir mejor á los hechizos
+                de Cipriana, ó pues tuviste la desgracia de caer, no debias deshonrarla,
+                contándoselo á tu muger, ni ponerla en estado de perder la vida de vergüenza y de
+                dolor.</p>
+               <p>Ya Marcelo estaba medio vencido. Ya se decia que habia estado muy imprudente, y que
+                no debia ni haber afligido á su muger con esta indiscrecion, ni haber quitado á
+                Cipriana su honor; que su remordimiento le habia hecho injusto y ménos honrado. Pero
+                cuando oyó que estaba para perder la vida, le dió un vuelco el corazon, y temblando
+                de miedo, pregunta al Marques: ¿cómo perder la vida? -¿Lo puedes dudar? le responde
+                este. Ella ha sabido tu frenética locura, y lo que has hecho con tu muger. Desde
+                aquel instante está fuera de sí, una violenta calentura la ha postrado en el lecho,
+                y el médico teme que no pueda acabar el dia. -¡Dios mio! ¡qué es lo que dices! -Que
+                ya está moribunda, y que va á pagar con la vida la flaqueza de un momento. Pero
+                ciertamente no eras tú el que debia hacérsela pagar, pues que no la ha hecho, sino
+                por ceder á tus ruegos, obligada del amor que te tenia.</p>
+               <p>¡Ay Marques! yo me avergüenzo, y si pudiera socorrerla... -¿Qué socorro cabe ya? Yo
+                vengo de verla, y ya es tarde para todo. Si vieras con todo eso como habla de tí,
+                como no se le escapa una palabra que te pueda ser injuriosa, como me decia que te
+                amaba siempre, y como te disculpaba; te aseguro que me rompia el corazon. ¿Creerás
+                tambien que lo único que la inquieta es el embarazo en que se halla de tu deuda, y
+                que no tiene otro deseo que el de pagarte antes de morir? Esta mañana me decia: si
+                yo pudiera hablar un instante con el para que se hiciera cargo de todo lo que dejo,
+                y que pueda satisfacerse, yo muriera contenta.</p>
+               <p>Ya Marcelo estaba cubierto de lágrimas, y despues de haber estado un rato pensativo,
+                le dice: yo no quisiera que me quedase el escozor de haber sido inhumano con una
+                muger. ¡Dios mío! ¿porqué no nos hemos contentado con ser amigos...? -Ya esas
+                reflexiones son inútiles, y Cipriana se muere. Yo no tengo la vanidad, tú me has
+                quitado el derecho de aconsejarte; pero la verdad es que la infeliz no tiene ya mas
+                que un soplo de vida, y que si quieres ser humano con ella, no debes perder
+                instante, porque podrás encontrarla sin ella. Marcelo cada vez mas afligido vuelve á
+                caer en una meditacion profunda, da muchos suspiros, se pasea desatentado por el
+                cuarto, y al fin dice: yo habia jurado no volver á ver una muger tan peligrosa, y
+                que me ha sido tan funesta. Yo me lo habia prometido á mí mismo, y se lo habia
+                prometido á mi esposa; pero Martina es tan benéfica y generosa, que si supiera... En
+                efecto ¿Cipriana está tan mala? -No te respondo de que la encuentres viva. -Vamos
+                pues, vamos otra vez, y que esta sea la última. Yo iré á verla esta tarde. -¿Me das
+                la palabra? -Sí; pero con condicion de que no volveré. -Cuando no dieras mas que un
+                consuelo á esta desgraciada muger, seria un acto de humanidad.</p>
+               <p>Ya el Marques tenia concertada su comedia con Cipriana; pero al instante corrió á
+                avisarla para que todo estuviera pronto, y ve aquí como los hombres de bien son
+                siempre víctimas de los inicuos, porque no tienen malicia para penetrar sus ardides.
+                El buen Marcelo se fué á su casa, y contó á Martina el estado en que se halla
+                Cipriana, y el deseo que tenia de verla para arreglar sus cuentas. Martina le dice
+                al instante: amigo, corre, y no tardes en ir. La caridad nos obliga á socorrer y
+                consolar á los que estan en los últimos momentos, y en ellos no hay delito que no
+                deba obtener perdon. Infeliz el corazon duro y vengativo, que á la vista de la
+                muerte no se siente desarmar. Anda, y consuela á esa pobre muger: dila, que la
+                compadezco mucho, que yo quisiera poder darla la vida; que me ha causado muchas
+                penas; pero que se las perdono, y que no me acuerdo mas que de las suyas.</p>
+               <p>Marcelo va; pero ¡qué espectáculo se le presenta! Toda la casa parece despojada.
+                Hasta en la alcoba no habia mas que un pobre lecho en que estaba Cipriana, y todo
+                presentaba el aspecto de la indigencia mas estrecha. No se veia otra cosa que una
+                mesa vieja, en que habia un talego que parecia contener dinero, y al Marques que
+                estaba á la cabecera de la moribunda. Marcelo se asombra de ver que todo está tan
+                desguarnecido y miserable, y por señas pregunta al Marques la causa de esta novedad;
+                pero la enferma le responde: acercaos, Señor: este ha sido un sacrificio necesario,
+                y es mi primer paso para la sepultura: yo os debia, vos me habeis prestado vuestro
+                dinero con mucha generosidad: mi obligacion era pagaros, y he vendido cuanto tenia
+                para tener el consuelo de satisfaceros antes de morir. Ahí teneis el dinero. Me ha
+                sido preciso despojarme en vida hasta de lo mas necesario para cumplir con una deuda
+                tan sagrada; pero al fin ya está hecho, y presto no necesitaré de nada.</p>
+               <p>Mis penas, mi vergüenza, mis humillaciones y pesares me quitan la vida. Vos conoceis
+                á quien debo todas mis amarguras; pero yo pido al cielo, que le haga tan feliz como
+                él me ha hecho desdichada. Aquí no puede detener sus lágrimas, y solo añade: no
+                puedo mas, y pues que Dios me da el consuelo de haberos pagado ántes de morir, solo
+                os pido que le pidais por mí, que me perdoneis, y que no me negueis vuestra
+                compasion. Marcelo aturdido, confuso, y con el corazon destrozado de todo lo que
+                miraba y oia, echaba ojos de compasion sobre la enferma, y admiraba su noble
+                proceder. ¡Qué! despojarse de todo (decia) cuando mas necesitaba de ello, á causa de
+                su enfermedad, solo para poder pagarle, esto era un acto tan generoso y sublime que
+                le llenaba de respeto á aquella muger. Se queja con dulzura de que se le haya creido
+                tan bárbaro, que se haya hecho por él tanto esfuerzo: protesta que no tomará el
+                dinero: pide al Marques que haga rescatar lo vendido, y que se emplee en curar á la
+                enferma.</p>
+               <p>Le añade en secreto, que este golpe acaba de abrirle los ojos: que una muger que se
+                conduce de esta manera, es una heroina: que su accion es sin ejemplo: que la que ha
+                podido hacerlo, tiene mucha virtud y honradez: que está penetrado de dolor por lo
+                que ha hecho: que quiere reparar sus imprudencias, y sus injusticias á toda costa, y
+                que presto volverá á verla. Luego se acerca al lecho de Cipriana, procura
+                consolarla, y la habla con el tono del interes mas vivo, con el aire de la amistad
+                mas tierna, y en fin se despide de ella para volver, diciéndose á sí mismo: esta es
+                una muger muy estimable; yo he sido un bárbaro, y si Dios la da vida, seré su fiel
+                amigo, y seré cuanto es posible ser suyo, escepto amante. Este fué el proyecto con
+                que salió, y volvió á encargar al Marques que viera si era posible hacer que cuando
+                él volviera, ya encontrase la casa mas decente, y bien prevenida de todo. Yo
+                quisiera, le dijo, sacarla de las garras de la muerte, ó á lo menos endulzarla los
+                horrores de su fin. Dombal, esta es una muger rara y admirable. Martina la conocerá,
+                y no volverá á estar celosa de ella, y si Dios la da vida, será nuestra amiga.</p>
+               <p>No bien el crédulo Marcelo estaba al pie de la escalera, cuando ya aquel par de
+                malvados se burlaban de su bobería, y se reian de la comedia que habian representado
+                con tanta habilidad; pero Marcelo llevaba en su corazon por un lado la dulce alegría
+                que produce una buena obra, y por otro el disgusto de haber visto á Cipriana en tan
+                fatal estado. Pedía al cielo que no muriese, y ya, para en caso de que se recobrara,
+                se proponía el plan de conducta que debia tener, y en el cual no veia peligro de
+                caer otra vez. Al otro dia volvió á verla, y le dice, que se encuentra mucho mejor,
+                porque el placer de haberle visto, y las atenciones que ha tenido con ella, la han
+                dado la salud. Y así despues de darle las gracias, le dice: no hablemos mas de
+                nuestros errores, los dos perdimos un momento la razon, y harto me cuesta: pero esto
+                se acabó. Desde hoy quiero ser la mejor amiga de vuestra muger. Yo seré la que no os
+                dejará olvidar lo que la debeis, y nos animaremos mutuamente á la virtud.</p>
+               <p>Para en adelante os ofrezco la amistad mas pura y desinteresada, que tendrá tambien
+                un nuevo estímulo en mi gratitud. Al instante que me desahogue de ciertos cuidados,
+                os pagaré lo que ahora os debo de nuevo. Es tan dulce deber á las personas que se
+                estima... Olvidemos pues nuestros defectos, y no seamos desde hoy mas que tiernos
+                amigos. Si por mi flaqueza yo fuera mas débil, si pudierais observar, que á pesar de
+                mis resoluciones me desvío de la mayor pureza, corregidme, y ponedme otra vez en los
+                límites de una amistad virtuosa. La respuesta de Marcelo fué la que se podia esperar
+                de un corazon fácil, que se abria á todas las ilusiones, y que se tragaba todos los
+                anzuelos. Se propuso en efecto seguir este plan con exactitud.</p>
+               <p>La enferma mejoraba como por milagro. Cada dia iba desenvolviendo nuevos encantos en
+                sus talentos, y nuevas gracias en su corazon. Marcelo la veia todos los dias, y ya
+                era tan amigo del Marques como ántes. El mal hacia progresos rápidos. Ya no era
+                ilusion: ya era consentimiento deliberado. El marido de Martina empezaba á ser mas
+                delincuente. Bien hallado con su mal, ni queria examinar lo que sentia, ni hablaba
+                mas á su muger de Cipriana. Ya la ocultaba el número de visitas que la hacia; así
+                sucedió lo que debia suceder. Una pasion que no se arranca de cuajo, tarde ó
+                temprano echa por tierra al que la sufre, y por eso Mentor no deja á Telemaco en la
+                orilla, sino con inflexible mano le precipita entre las aguas; y así Marcelo, que no
+                supo arrancarse del peligro, poco á poco fué perdiendo de vista todas sus ideas de
+                amistad y pureza. Se embriagó con la copa dorada del veneno mortífero, y en fin
+                volvió á violar sus juramentos, su honor, la religion, el carácter de esposo, y cayó
+                de bruces entre los brazos de la inmunda Cipriana.</p>
+               <p>Desde aquel instante todos los monstruos que acompañan al vicio, se apoderaron de su
+                corazon. El se hizo pródigo, insensible á los intereses y al amor de su familia. En
+                su alma se aflojáron todos los resortes de la naturaleza. Ya no acariciaba, ni amaba
+                á hijos. La dulzura y la resignacion de Martina eran baldones mudos que le
+                atormentaban, y procuraba evitarlos, huyendo. Cada vez que venia á su casa, su
+                conciencia le servia de un torcedor importuno, que con grito sordo, pero pavoroso le
+                asustaba, y le condenaba á esconderse. Los remordimientos le espantaban; pero él
+                procuraba acallarlos como un reo, que quisiera no escuchar la voz del juez que le
+                intimida.</p>
+               <p>La infeliz Martina, que lo observaba todo, y que veia no solo que habia perdido el
+                amor de su esposo, sino que este perdia la casa y el patrimonio de sus hijos, no
+                sabia qué hacer. No le quedaba otra esperanza que la de su paciencia, ni veia otro
+                medio para lograr una resolucion que le fuera favorable, sino el de su dulzura y
+                buenos procederes. Su prudencia era tan delicada, que queria esconderle hasta sus
+                lágrimas; pero estas se desquitaban cuando estaba sola. Un dia que daba algun
+                desahogo á su dolor, un hijo suyo, que ya tenia seis años, la sorprende en su cuarto
+                anegada en su llanto. La inocente criatura se enternece, y llorando tambien vuela á
+                sus brazos, y la dice: ¿qué tienes, mamá? ¿Porqué lloras? -Yo tengo, hijo mio,
+                muchas penas. -¿Es que no tienes que comer? Toma este pan de mi almuerzo, yo no
+                almorzaré, y cometelo tú. La madre, dándole un beso mojado con su llanto, le
+                responde: no, hijo, no es pan lo que me falta; pero hay disgustos mas sensibles.
+                ¡Quiera Dios que no los tengas nunca! -¿Qué tienes pues? -Yo temo que nos veamos
+                reducidos á la indigencia. -Mamá, ¿qué es indigencia? -Es, hijo mio, que nos falte
+                todo, y hasta la comida y los vestidos. -¡Ay, mamá! toma mis vestidos, y cuanto
+                tengo. Yo tendré mas gusto en vertelos á tí, que no á mí. Cuando sea grande nada te
+                faltará, y te amaré mejor que mi papá, que ya no está con nosotros, ni viene á
+                consolarte; pero yo estaré siempre contigo, y te acariciaré, porque nunca estoy
+                contento, sino cuando te veo, y te abrazo. -Hijo, pues me amas tanto, di á tu padre
+                cuando le veas solo, que yo lloro mucho, y que me muero de dolor: él entenderá esto.
+                -Yo se lo diré, mamá, yo se lo diré, aunque no le amo tanto como a tí. -Hijo, haces
+                mal, tú debes amar á tu padre: Dios te lo manda. -Pero nadie me ha mandado que te
+                ame, y yo te amo tanto. -El mismo Dios te manda que ames á tu padre y á tu madre. No
+                olvides, hijo, lo que te encargo; díselo á tu padre. -No lo olvidaré; basta que tú
+                lo quieras.</p>
+               <p>En efecto, poco después vuelve Marcelo con un aire mustio y abatido. Su corazon
+                estaba devorado con la vergüenza y los remordimientos, huia hasta de los ojos de
+                Martina, y no sosegaba hasta verse en el destierro de su cuarto. La presencia de las
+                personas virtuosas es un tormento para los malos que conocen sus culpas. Su hijo,
+                que le ve irse á su cuarto, corre tras él con las gracias de la inocencia, que por
+                desgracia duran muy poco, y no se recobran otra vez. Luego que estuvo con él, le
+                dijo: ¡Padre! ¿sabes que mamá se muere de pena, y que no hace mas que llorar? -Anda,
+                déjame en paz, le responde Marcelo. -¿Cómo? le dice el niño: ¿no quieres que te
+                abrace? Pero haz que mamá no llore tanto, porque yo no puedo dejar de llorar cuando
+                ella llora, y al instante se deshace en llanto.</p>
+               <p>A vista de espectáculo tan tierno, Marcelo se sintió conmovido. Habia empezado á
+                rechazarle; pero entonces viéndole tan afligido, se enternece, le llama, le pone
+                entre sus brazos y se disponia á hablarle con halago y ternura. Quizas este era el
+                momento, que el cielo destinaba para el triunfo de la naturaleza, y el consuelo de
+                Martina; pero por desgracia dos amigos del Marques, esto es, dos perversos de su
+                especie, que tambien lo eran de Marcelo, pues ya no tenia otros, entran á su cuarto,
+                y le disipan estas tiernas impresiones, que hubieran podido conducirle al desengaño
+                y arrepentimiento. ¡:Cuántos corazones estraviados por la corrupción del mundo
+                sienten estos instantes de favor, y los dejan pasar! ¡:Cuántos encuentran esta
+                semilla de virtud, y la dejan morir, porque el soplo emponzoñado del vicio los
+                vuelve á corromper! Pocos son los que en medio de sus costumbres corrompidas no
+                sienten alguna vez estos estímulos; pero son ménos los que saben recogerlos y
+                aprovecharlos.</p>
+               <p>Marcelo se volvió á olvidar de su hijo, de su muger, y de todas las leyes del honor.
+                Su pasion subió al mas alto punto de embriaguez. Era un delirio frenético, que cada
+                dia se aumentaba. Sus prodigalidades disipáron su fortuna, y ve aquí como obligado á
+                llenarse de deudas, sus acreedores le atormentan. En su casa ya faltaba todo, y
+                estaba muy cerca de verse en la triste situacion de la miseria. No solo habia
+                consumido su propio patrimonio, sino hasta el caudal de su muger. Martina habia
+                condescendido con todo, y ya no la quedaban mas que sus diamantes; pero Marcelo era
+                ya tan bárbaro que no tuvo rubor de pedírselos. Martina harta de pesares, acosada
+                por las necesidades, y temerosa de que la falte pan para sus hijos, se atreve á
+                negárselos. El se indigna, se enoja, la trata con dureza, la cubre de oprobios.
+                Martina sufre, no le responde nada; pero le escribe este papel.</p>
+               <p>«Yo moriré sin baldonarte nada, sin quejarme, y sin que salga de mis labios una
+                palabra que te pueda humillar. Así no te escribo mas que para esponerte mi conducta.
+                Ya has visto que jamas se ha desmentido, que mi amor ha sido sin ejemplo, y mi
+                condescendencia sin límites. Quizas ha sido demasiada. La esposa no debia olvidar
+                que era madre. Yo te lo he sacrificado todo, sin disimularme que mi facilidad era
+                dañosa á tí mismo y á mis hijos. Ya es tiempo de que me detenga en medio del despeño
+                á que nos precipitas. No por mí: porque ¿qué son la fortuna ni los intereses para
+                una muger que no puede vivir mucho, y de quien tú te has olvidado? sino por tí
+                mismo, y por tus hijos. No me arranques el último pedazo de pan que os queda. No des
+                lugar á que yo tenga el dolor de saber cuando muera, que tú y ellos quedais sin
+                recurso. ¡Ay, Marcelo! ¡mi siempre adorado Marcelo! ¿podia esperar esto de tí?</p>
+               <p>Este papel produjo mucho efecto en el corazon de Marcelo porque no era insensible, ni
+                bárbaro; pero todos sus movimientos se perdian en la detestable sociedad que
+                dominaba su alma. Esta es la marcha ordinaria de las pasiones. Empiezan por ceder
+                por flaqueza; pero presto adquieren la dureza del vicio, y acaban por la
+                inhumanidad. Así se ve que personas sensibles y virtuosas poco á poco, y de error en
+                error llegan á la barbarie de los malvados. ¡Qué comunes son estos ejemplos! ¡Y qué
+                precauciones no se deben tomar en lo escesivo de las inclinaciones y amistades! Un
+                objeto indigno basta para conducir al corazon mas honrado al estremo de vileza en
+                que estaba el infeliz Marcelo.</p>
+               <p>Cipriana y el Marques, que ya habian conocido el mal estado de los negocios de
+                Marcelo, concertaron entre sí dejarle, y abandonar al infortunio una víctima, á
+                quien habian chupado ya toda la sangre, y que ya no podia serles útil. Este es
+                tambien el término ordinario de todos los amores y amistades, que no tienen mas que
+                al interes por objeto. Ya se disponia Cipriana á buscar un pretesto para cerrarle7
+                su puerta, cuando por casualidad un comerciante que venia de Méjico, oyendo el
+                nombre de Marcelo, manifestó mucha curiosidad, y quiso informarse de todas sus
+                circunstancias. Despues que Cipriana y el Marques le dijéron lo que sabian, él les
+                volvió á decir: este Don Marcelo de la Vega será muy presto el hombre mas rico de
+                España. Este discurso les sorprende, les agita, y le preguntan el cómo? El les
+                responde: la muger de Don Marcelo tiene en Méjico un pariente que goza de una
+                inmensa fortuna, fruto de cuarenta años de trabajo. Yo sé que á mi salida estaba muy
+                enfermo, y que ya habia hecho un testamento, en que deja por heredera á su parienta,
+                y en defecto de esta á su marido.</p>
+               <p>¡Qué; le dice el Marques, si la muger de Don Marcelo falta, ¿es él quien lo debe
+                heredar todo? -Así es, y en mi juicio ya estará muerto, porque los médicos no le
+                daban un mes de vida. Yo he deseado encontrarle para darle esta buena noticia, sin
+                poderle ver en ninguna parte, y como parto esta noche para Francia, donde me llevan
+                mis negocios, no se lo podré decir; pero pues es amigo vuestro, dadle esta noticia,
+                que no puede dejar de agradarle. Ellos se lo prometiéron y el comerciante se
+                fué.</p>
+               <p>No bien quedaron solos cuando se abandonaron al delirio que les causaba esta
+                impensada noticia, y la esperanza de apropiarse de toda aquella riqueza. Lejos de
+                seguir el proyectado plan de despedirle duramente, no piensan mas que en los medios
+                de redoblar sus lisonjas, caricias y artificios para atraerle con mas fuerza.
+                Arreglan lo que deben hacer, y la primera condicion para lograr sus fines es que no
+                sepa nada de la fortuna que le espera. Ambos se prometen guardar el secreto, y no
+                perder instante para empezar su trama.</p>
+               <p>Viene Marcelo, y encuentra á Cipriana sola; pero muy triste y pensativa. El inquieto
+                y cuidadoso la pregunta ¿que tiene? Ella muestra mucha dificultad en esplicarse: el
+                insiste, y despues de muchas escusas y repulsas, le dice al fin; pues estamos solos,
+                voy á descubrirte mi corazon. Yo no puedo tener ningun secreto para el hombre que
+                adoro: ya ves la agitacion en que estoy, y que no puedo disimular mas tiempo; yo
+                queria ser la víctima única, pero veo que tú también lo serás, y esto es lo que me
+                aflige. ¡Ay Marcelo! ¿qué es lo que hemos hecho? ¿En que abismo nos hemos
+                precipitado? El amor nos ha seducido, y lo peor es, que cada día siento que te amo
+                mas: y diciendo esto, derrama un nuevo torrente de lágrimas, que la hacia mas
+                interesante.</p>
+               <p>Marcelo, temblando, sin entender lo que queria decirle, y temeroso de alguna
+                resolucion contraria á su amor, la dice: ¿No soy ya bastante infeliz y mi destino
+                quiere prepararme otros golpes? -¡Ah! ¡qué estos golpes no son crueles sino para mí!
+                ¡para mí, que no podré vivir sin ti! -Pero ¿qué quieres? Yo no puedo remediarlo. Los
+                remordimientos vienen á emponzoñar mi felicidad, y no me dejan gozar de ella. Al
+                principio mi feliz ceguedad no me dejaba ver mas que la dulzura de mi amor, pero
+                ahora mi razon me descubre mis delitos, y sobre todo uno, que es el peor de todos.
+                Marcelo, por causa mia tú has perdido tu virtud, la felicidad que hallabas en tu
+                familia, y hasta el amor de tu muger; de esa muger tan buena, y que hubiera sido mi
+                amiga, si fuera posible amar á la que nos disputa el corazon, que es el único objeto
+                de nuestro amor. ¡Ay Dios! ¿adónde me ha conducido una pasion tan fatal? ¡Ah
+                Marques! ¡qué mal me has hecho, contribuyendo á mi flaqueza, y cuanto me cuesta
+                haber perdido el dulce sistema de mi tranquila indiferencia!</p>
+               <p>Pero en fin mas vale tarde que nunca. Escúchame Marcelo, y tenme lástima. Ya has
+                visto que eran muy dulces para mí los lazos que nos unian, y te declaro que nunca me
+                han sido mas que ahora, que tú eres el único hombre que ha sabido llenarme el
+                corazon, el único que he amado, y el único que amaré, y que nunca te he amado tanto
+                como ahora que voy á perderte. -¿A perderme? -Si, Marcelo. Yo se que me costará la
+                vida; pero este partido, aunque tan duro, aunque tan horrible, es indispensable, es
+                necesario. -¿Que me dices? ¿tienes valor para...? -Ya no podemos dejar de abrir los
+                ojos, ya es tiempo de quitarnos la venda que nos oculta el esceso de nuestros
+                estravíos. Considera un poco lo que soy yo á los ojos del mundo, á los tuyos, á los
+                mios propios. ¿Cómo es posible que me lo disimule? ¿Qué papel hago? El de una
+                manceba, el de una adúltera. No puedo pues ser mas que un objeto de desprecio. ¿Y
+                cómo me puedo consolar? Yo sé que me amas, pero tambien quisiera que me
+                estimaras.</p>
+               <p>Marcelo estaba ya de rodillas, protestándola, que no solo la ama, sino que la estima
+                y adora, pero ella le interrumpe para decirle: No nos engañemos: ya la venda se me
+                ha caido de los ojos, ya veo la verdad, ya la escucho que me habla, que me condena,
+                que me enseña las leyes que debo seguir, y ya veo que es preciso seguirlas: imítame:
+                una muger ¿tendrá mas valor que tú? Separemonos, Marcelo: no volvamos á vernos. Yo
+                iré á llorar en el retiro mas oscuro mis flaquezas, mi amor, un amor... No, yo no
+                viviré largo tiempo; pero tendré el consuelo de morir, sabiendo, que ya vives bien
+                con tu esposa, que logras la estimacion de todos, y que tú tendrás lástima de mí;
+                porque te compadecerás de una infeliz que ya ni siquiera podrá verte. Bien sé que
+                por mas que haga, tú reinarás siempre en mi corazon, y que tu memoria me le
+                destrozará. Este será mi mayor tormento: pero ¿qué he de hacer? pues no puedo
+                dejarte de amar.</p>
+               <p>Todo esto fue pronunciado con un diluvio de lágrimas. El crédulo Marcelo derramaba
+                otro, y la decia: ¿cómo ¡cruel! tú puedes resolverte á separarte de mí? ¿No sabes
+                que me quitarás la vida? -Marcelo no hay remedio: demasiado he vivido ya olvidada de
+                la razon y el honor. El nombre de tu manceba ó tu querida es un título de oprobio, y
+                yo quisiera sepultarle conmigo en el centro de la tierra: á lo ménos yo me iré lejos
+                de Madrid, donde nadie me vea, donde tú no estés: pero ¡ay! ¿dónde irá mi corazon
+                que no lleve consigo la imágen del hombre mas querido? ¿Porqué el cielo no me hizo
+                vuestra esposa? La tuya es la única muger que me inspira envidia. ¡Qué dichosa es,
+                pues puede gloriarse de quererte, y yo, infeliz de mí, que te amo mil veces más, yo
+                debo esconderme y avergonzarme de este amor! A Dios, á Dios Marcelo. Lo que mas me
+                aflige en este lance es que ahora no puedo pagarte lo que te debo. -¿Qué me hablas
+                de pagarme? Yo soy el que te debo hasta la vida, pues sin tí me fuera insoportable.
+                Es verdad que he perdido mi fortuna; pero yo me consolaba pensando que tú me
+                quedabas, y ahora ¿quieres abandonarme? -¡Marcelo! Yo apelo á tu misma probidad. Tú
+                dices que me amas. Si esto es verdad, tú debes mirar por mi honor. Este exije que yo
+                me sacrifique, que nos separemos, que nos olvidemos. -No, yo no podré jamas. -Tú
+                debes ser el que me fortifique. El verdadero amante debe ser un amigo desinteresado.
+                Yo aspiro á merecer tu estimación y la mia propia, y no puedo merecerla mientras no
+                sea mas que tu manceba. Esto no corresponde mas que á tu esposa.</p>
+               <p>Estas palabras despiertan una idea terrible en el espiritu del desolado amante, y la
+                dice: Martina está enferma, y no puede vivir mucho. Si yo quedara libre todo se
+                remediara. -¿Qué dices? -Que entónces yo pudiera satisfacer tus deseos y los mios.
+                -¿Te casarás conmigo? -Al instante. -¿De veras? -¿Puedes dudarlo? -¿Te atrevieras á
+                asegurármelo por escrito? -Con todos los escritos y juramentos del mundo. -Pues
+                bien, si esto es verdad, escúchame: tú me conoces: tú sabes como te amo, y que en
+                nada me conduce el interes: firmame pues un papel en que te obligues á darme cien
+                mil pesos si, en el caso de estar libre, no te casas conmigo. Si me lo firmas
+                entónces haré cuanto quieras. -¡Cien mil pesos! Ya ves que en el estado actual de mi
+                fortuna... -No importa: ¿tú comprendes que jamas me servire de este escrito? Pero
+                quiero tenerle para poder representártelo á ti mismo en caso necesario... En fin yo
+                me valgo de este medio como de todos los que puedan asegurarme tu mano, aunque no
+                dejo de conocer que es ridículo: porque ¿de qué me sirvieran todas las riquezas del
+                mundo sin tu corazon? Un amor como el mio no se puede pagar mas que con amor.</p>
+               <p>El insensato escribe y firma lo que la viuda le dicta. Ahora, le dijo esta
+                (recibiendo el papel) puedo tomar un partido menos severo, porque la idea de poder
+                ser un dia tu muger, me hace ménos vergonzoso nuestro trato. La esperanza de un
+                himeneo me puede justificar. Yo deseo que viva Martina, pero á lo ménos ya puedo
+                esperar ser tuya. Ahora amo á un hombre que, cuando pueda, será mi marido.</p>
+               <p>La pobre Martina estaba con efecto tan lánguida y desfallecida, que no prometia vida
+                larga. Ya ni siquiera desahogaba su dolor. Petronila, que era la sola criada que la
+                habia quedado, era tambien el único confidente de sus penas. La infeliz se secaba
+                sin consuelo. Tomaba á sus hijos entre sus brazos para bañarlos con sus lágrimas, y
+                los rechazaba. Escribia á su marido, y apénas acababa un papel, cuando le hacia
+                pedazos. Ya no tenia mas que la muerte delante de los ojos, y esta imágen la
+                consolaba algunas veces de sus penas; pero cuando consideraba que sus hijos iban á
+                perder en ella su único arrimo, esta idea la traspasaba de dolor. Pedia al cielo
+                socorro, y se quejaba con Petronila de su injusto esposo.</p>
+               <p>Cipriana se aplaudia con Dombal de su habilidad, y del cómo habia logrado su
+                artificio. Ella habia sabido tomar todas sus precauciones con tanta destreza que en
+                ningun caso podia temer la vigilancia de la justicia, y no se contentaban los dos
+                malvados con los cien mil pesos, pues no dudaban que Martina no podia durar mucho, y
+                estaban seguros de disfrutar todos los tesoros que Marcelo esperaba: solo el mismo
+                Marcelo estaba pesaroso, porque desde que volvió en sí, y pudo reflexionar sobre
+                aquel acto, no se pudo disimular el indigno hecho que acababa de hacer. Haberse
+                obligado á tomar nuevas cadenas sin estar rotas las que tenia: haber prometido á una
+                mujer darla la mano, sobre la ceniza caliente de la suya, todo esto le parecia
+                horrible, y no comprendia cómo el delirio de la pasion le podia conducir á tanto
+                esceso. Empezó á entrever el carácter interesado de Cipriana. Tampoco es fácil
+                sofocar esta voz secreta de la conciencia contra una mala accion; y el esposo de
+                Martina no podia sufrir su remordimiento interior. Este disgusto se aumentó mucho
+                cuando va á ver á la víctima que él mismo arrastra al sepulcro, y que lánguida y
+                desfallecida, léjos de importunarle con sus quejas, no le hace ver mas que
+                indulgencia, cariño y amor; pero tal es el carácter del vicio, que cuando se
+                reconoce delincuente, se irrita contra sí mismo, y no pudiendo disculparse, se hace
+                inhumano y feroz. Marcelo lo era con Martina, y respondia á sus caricias y finezas
+                con durezas y brutalidades; pero no podia acallar la voz secreta que le perseguia.
+                Ella le gritaba: Martina está viva, ¿y tú has hecho á otra muger una promesa odiosa,
+                delincuente y sacrílega? No te falta mas que echarla tú mismo en su sepulcro: ¿y qué
+                otra cosa haces cuando la ves consumida de dolor, y la abandonas? ¡Infeliz Marcelo!
+                ¡Tú quitas la vida á tu muger! ¡Tú privas á tus hijos de su madre! ¿Se puede reparar
+                esta pérdida? ¿Quién será su consuelo, pues ha largo tiempo que ya no pareces padre?
+                Vamos, se decia, á arrancar este papel que me deshonra, y que sea despojo de las
+                llamas. Otras mil ideas le pasaban por la imaginacion; pero apénas veia á Cipriana
+                cuando de todo se olvidaba, y solo se acordaba de su amor.</p>
+               <p>Entretanto su desolada esposa, víctima del dolor que la consumia, estaba ya postrada,
+                y en manos de los medicos. Cansada ya de una vida tan triste, esperaba la muerte con
+                indiferencia; pero dócil á la voz de la religion, se abandonaba á los socorros del
+                arte, y consentia en tomar los remedios que se la prescribian. Se la habia ordenado
+                una medicina, y esperaba la hora para tomarla: pero de repente entra Petronila,
+                trayendo en el semblante todas las señales del terror, y sin poder articular una
+                palabra. Martina se espanta al verla, y la dice: ¿qué tienes amiga? ¿Qué ha
+                sucedido? ¿Dónde está mi marido? ¿Qué es lo que le amenaza? Sácame de inquietud.
+                -¡Ay Señora! la dice, no me hableis de vuestro verdugo. El peligro es para vos
+                misma. No tomeis esa medicina, que está envenenada. -¿Envenenada? -Sí, Señora, es
+                veneno. -¡Qué dices! -Que tengo horror de deciros este secreto, pero es preciso
+                salvaros. Han puesto veneno en ella, y sin duda por orden de vuestro esposo. -¿De
+                Marcelo? ¿Del hombre que yo adoraba y adoro todavía?</p>
+               <p>El golpe de esta inesperada y terrible noticia altera tanto el corazon de la infeliz
+                y ya desfallecida Martina, que se siente morir, y un súbito desmayo la hace perder
+                los sentidos. Estuvo largo tiempo fuera de sí, sin poder pronunciar una palabra. Al
+                fin se desata en un copioso y lastimero llanto, y cuando pudo hablar, decia: ¡Santo
+                Dios! ¿Mi marido desea mi muerte? ¡Ah! si mi religion no me lo prohibiera, ¡cómo
+                sabria vencer mi repugnancia, para que Marcelo quedara satisfecho! -No, Señora, no
+                lo quedaria, y en esta ocasión yo me atreveria á desobedeceros. -¡Ay amiga! si
+                Marcelo quiere mi muerte, ¿cómo podemos impedirla? Mira, cuando ahora evitemos este
+                golpe ¿podremos escapar de otros? Ya debes ver que mi sentencia está pronunciada.
+                ¿No conoces que tarde ó temprano lo ha de lograr? Pero dime ¿estás segura que esto
+                viene de mi marido? -¿Y lo podeis dudar despues del modo con que os trata? No basta
+                haberos reducido á la miseria, el bárbaro tambien quiere enterraros. -Pero ¿estás
+                bien segura? -Yo lo he sabido todo de la boca de una criada de la detestable
+                Cipriana. Ella ha venido desalada á decirme, que un hombre debia venir á echar
+                veneno en el remedio que se os preparaba. Yo he visto venir á uno, y sin duda que lo
+                ha echado.</p>
+               <p>Martina repetia, ¿podia yo esperar esta barbarie? ¡O Marcelo! ¡Tú, por quien
+                únicamente queria vivir! Tú, á quien ya habia perdonado, y que nunca he dejado de
+                querer, ¿tú, deseas y procuras mi muerte? ¿Y para que te tomas este afan? ¿Porqué no
+                dejas esta obra a mi dolor? El basta para acabarme, y ya no puede dejarme vivir
+                mucho. Petronila, no llores, tengamos valor, solo te pido un servicio, y es el único
+                que me harás. Yo siento que voy á morir. Este golpe acaba de estinguir la poca vida
+                que me quedaba; pero cuando muera, di á Marcelo, que aunque he sabido que me queria
+                apresurar la muerte, no he dejado de amarle y perdonarle. Recomiéndale mis pobres
+                hijos; pero, amiga, me viene una idea. Yo quiero escribirle todos los tormentos de
+                mi corazon, y tú le darás mi papel despues de mi muerte. En efecto, toma la pluma, y
+                con una mano trémula escribe estas palabras, que iban todas bañadas con su
+                llanto.</p>
+               <p>«Doy mil gracias al cielo de que me quite la vida en un momento, en que con tanto
+                ardor solicitas mi muerte. Le agradezco que su bondad haga que no te sea necesario
+                este delito, y que te libre de un eterno remordimiento; pero ¿cómo no has conocido
+                que tu afan era inútil, pues para matarme me basta mi dolor? Sabe para consuelo
+                tuyo, que no es el remedio emponzoñado el que me mata, sino las penas de mi corazon.
+                No me quejo de mi suerte; porque, gracias al cielo, estoy inocente, y voy á caer en
+                los brazos de un Dios dulce, que es mi amoroso padre. Pero ¿quién servirá de madre á
+                mis pobres hijos? ¿Será Doña Cipriana? ¡Ay, Marcelo! si se supieran tus designios,
+                si se descubre que has echado veneno en mis remedios, ¿cuál seria tu castigo? ¿Cuál
+                seria el deshonor de mis hijos? ¡Dichosa yo, pues con mi muerte te escuso, y les
+                escuso males tan terribles! Yo muero con la esperanza de que un dia abrirás los
+                ojos, y que conocerás la diferencia que hay entre una muger honesta, que jamas ha
+                querido mas que á su esposo y sus hijos, y entre otra que... pero tú la conocerás.
+                Yo te perdono y te disculpo, porque sin duda será ella la que te habrá aconsejado, y
+                quizá conducido tu mano; pero Dios nos juzgará: yo la abandono á sus
+                remordimientos.</p>
+               <p>A Dios, pues, querido Marcelo, trata mejor que á su madre á los infelices frutos de
+                nuestra union. Acuérdate que no tienen en la tierra otro protector. Jamas sabrán que
+                tú has intentado privarlos de su madre, y te amarán como yo. Si alguna cosa podrá
+                espiar este delito, será que los ames, y los cuides. Yo no te pido otra recompensa
+                de mi muerte. ¡Que desgracia es romper con tanta violencia unos nudos, que el amor
+                mas tierno habia tejido! Pero no te olvides de que hay un Dios justo, y no tardes en
+                ocurrir á su clemencia. A Dios, adorado Marcelo, á Dios para siempre».</p>
+               <p>Martina dió este papel á Petronila, que se deshacia en llanto, y la dice: ocúltame
+                esas lágrimas, y no disminuyas mi valor: Mira, amiga, tú le darás este papel, y le
+                dirás tambien, que mi último suspiro fué por el. Petronila procuraba esforzarla, y
+                la decia: señora, no os abandoneis á vuestro dolor: vivid para castigo de esos
+                infames, y que no consigan sus deseos malvados: vivid para vuestros hijos y para mí;
+                pero Martina la replicaba: Petronila mia, una vida como la que yo tengo, ¿te parece
+                digna de ser conservada? ¿Qué puedo ya esperar, sino penas y disgustos? Pero me
+                queda otra gracia que pedirte, y es, que guardes un silencio inviolable y eterno
+                sobre este triste y funesto secreto. Si se llegara á traslucir, el autor de mis
+                penas seria rigurosamente castigado. Tú comprendes cuál fuera su castigo, y cómo la
+                mancha se estendiera hasta mis pobres hijos. Querida Petronila, dame la palabra de
+                que no se lo dirás á nadie. Tú eres buena, tú me amas, y no permitirás que yo baje á
+                la tumba con este desconsuelo.</p>
+               <p>Petronila desolada, y sin poder sosegarse, despues de muchos esfuerzos la da palabra
+                de que guardará el secreto. Martina se saca entónces un anillo del dedo, y se le da,
+                diciéndola: guarda esta sortija en memoria de tu ama desdichada. Poco vale; pero es
+                todo lo que te puedo dar. ¡Cuánto siento no poder corresponderte mejor! Traéme ahora
+                á mis hijos, para que recojan mi último suspiro. Yo quisiera escusarles este
+                espectaculo de dolor; pero no puedo negarme el consuelo de estrecharlos todavía en
+                mis brazos desfallecidos. Petronila va, y vuelve trayendo por la mano á los dos
+                niños. La tierna madre les prodiga millares de besos, mezclados con gemidos y
+                sollozos. ¡Hijos mios! les decia: ¡hijos queridos de mi corazon! de aquí á un
+                instante ya no tendreis madre. Petronila, ten cuidado de llevártelos á tiempo, para
+                que no vean mi deplorable fin. Déjalos sobre mi seno miéntras me dura la razon; pero
+                cuando veas que mis sentidos se turban, y que ya no puedo sentir, ni conocer,
+                llevátelos contigo, y procura consolarlos.</p>
+               <p>Entónces juntando sus manos, y fijando sus ojos en el cielo, se pone como quien
+                dirige una fervorosa oracion, y como si aguardara el momento de verse en la
+                presencia de Dios. La afligida criada, no sabiendo ya que decir á su ama, y pensando
+                que esta iba á dar su postrer aliento, corre hacia la puerta para llamar gente,
+                cuando Marcelo llega precipitado y despavorido. Echa los ojos por la pieza, y viendo
+                un vaso de remedios sobre la mesa, va, le toma, y le arroja por tierra. Martina lo
+                repara, y le dice; ¿eres tú Marcelo? La criada alborozada le dice: yo lo decia,
+                señor: vos no podiais ser tan bárbaro. Pero Marcelo no la escuchaba, transportado y
+                fuera de sí se habia echado entre los brazos de Martina, y la apretaba con los
+                suyos, diciéndola: ¡Martina mia! ¡dulce esposa de quien me reconozco muy indigno!
+                ¿Quizas habrás podido imaginar que yo fuera tan bárbaro que quisiera quitarte la
+                vida? Pero no: mi iniquidad no ha llegado á tanto. Demasiado culpado soy por haberte
+                quitado mi corazon; pero ya vengo á volvértele, y ponerle á tus pies. Ya vas á verle
+                destrozado de remordimientos, y lleno de dolor, de arrepentimiento y amor. Yo lo sé
+                todo, todo, Martina mia; pero este atentado no era mio: era de ese monstruo... de
+                esa infame, que habia turbado mi razon: esa muger abominable es la que ha intentado
+                quitarte la vida.</p>
+               <p>Diciendo esto se anegaba en su llanto, y llenaba á su muger de caricias. Martina
+                estaba absorta y sorprendida, y apenas podia entender lo que veia; pero sentia
+                confusamente que todos aquellos movimientos le eran favorables, y su alma se iba
+                abriendo poco á poco á las dulzuras del consuelo. Abrazaba á su marido, y parecia
+                que su vida se aumentaba por instantes, Petronila se aprovecha de un momento para
+                dar á Marcelo el papel de su ama. Marcelo le lee, se agita de nuevo, y volviendo á
+                enlazarse con su esposa, la dice: sí, adorada Martina, yo soy un infame: yo he
+                violado las leyes del honor, del amor y de la religion; pero ¿has podido pensar que
+                fuera tan horrible, que me valiera de un veneno?... ¿Que yo pudiera ser tu
+                asesino?... ¡O Dios! ¡Qué idea tienes de mi! No, yo no puedo soportarla, ¡cielo
+                piadoso! Yo veo tu providencia: mi muger iba á ser víctima de su dolor, y me creia
+                su homicida: tú no lo has permitido. ¡Ah! Cipriana malvada, no te librarás de mi
+                venganza. ¡Miserable! tú verás á dónde van mis fuerzas.</p>
+               <p>Marcelo estaba tan fuera de sí, tan agitado, que no pudiendo sostenerse, fué menester
+                que se sentara. Entónces toma á sus hijos en sus brazos y con voz alterada y
+                dolorida les dice: ¡hijos mios! ¡mis tiernos hijos! vuestra madre iba á morir,
+                creyendo que yo era el autor de su muerte. No, no, mi iniquidad no ha llegado á
+                tanto. Dos malvados me han engañado, me han seducido, me han hecho cometer mil
+                errores; pero no les bastaba mi infamia; tambien querian la muerte de vuestra madre;
+                y diciendo esto, volvia á caer en el delirio del furor. Dejaba á los hijos para
+                enlazarse con su madre, y se desenlazaba de esta para ir á abrazar á sus hijos.
+                Cuando pudo sosegarse un poco, les contó como la criada de Cipriana le habia
+                descubierto este misterio de iniquidad, para que lo impidiese. En el mismo momento
+                llega la misma criada, que venia cuidadosa de saber si su aviso habia llegado á
+                tiempo para estorbar el golpe, y les confesó, que al principio creyó que Marcelo
+                estaba noticioso del proyecto, y que por eso no lo habia descubierto sino á
+                Petronila; pero que habiendo sabido despues, que no, y que Cipriana y el Marques
+                eran los únicos autores, se habia determinado á descubrírselo también á Marcelo,
+                para que lo estorbase.</p>
+               <p>Esta misma criada les añadió: pero aun me falta deciros la causa de su proyecto. Mi
+                ama ha sabido que vuestra esposa tiene un pariente muy rico en Indias... Es verdad,
+                dijo Martina, yo se que tengo un pariente, aunque ha mucho tiempo que no tengo
+                noticias. -Pues bien, este se ha muerto ó está para morirse, dejandoos por heredera
+                de todo, y Cipriana queria sucederos, y casarse con Don Marcelo; por esto queria
+                despacharos... ¡Ah! si esto fuera cierto, dijo Martina á su marido, la herencia
+                vendria apropósito para reparar tus quebrantos, porque desde ahora te la cedo por
+                entero: yo no quiero mas riquezas que la de poseer tu corazon, y conservarle. ¡O
+                cielo! esclama Marcelo, ¡que generosidad! ¿Cuándo ó cómo podré agradecer tantos
+                beneficios? Esposa mia, yo no las quiero tampoco mas que para tí y nuestros hijos, y
+                para hacer que me perdones mis delitos; pero es menester castigar á los
+                malvados.</p>
+               <p>Apénas pronuncia estas palabras, cuando toma su sombrero con ademan de salir: Martina
+                quiere detenerle con sus gritos; pero él no oye, y corre presuroso á casa de
+                Cipriana. Esta, que aguardaba con inquietud noticias de los efectos del veneno,
+                viéndole venir tan despavorido y precipitado, se imagina que viene á informarle de
+                la muerte de Martina, y se preparaba á afectar lágrimas y gemidos. Así le dice: ¿qué
+                tienes Marcelo? ¿Qué vienes á decirme? ¿Estaria tu muger en peligro? Sí, infame, la
+                responde, sí, monstruo de perfidia y horror, mi muger ha estado en peligro, y ha
+                visto la muerte muy cerca; pero la providencia velaba sobre ella, y la ha librado de
+                tus furias. Gracias á Dios, tu atroz delito ha sido inútil. Ya lo sé todo: ya
+                conozco el corazon que abrigas en tu seno: tú te has burlado de mí: tú has engañado
+                mi simple credulidad: tú querias devorar mi nueva fortuna, la herencia de América;
+                pero otro premio te aguarda.</p>
+               <p>En esto ve que el Marques iba á entrar, y levantando la voz, añade: tú le partiras
+                con este traidor, que tampoco se escapará de un infame suplicio. Desde aquí voy á
+                denunciar á entrambos, y sabed que tengo pruebas y testigos. Los jueces decidirán lo
+                que mereceis. Temblad, ¡miserables! Vos habeis abusado de un corazon bueno, fácil y
+                crédulo; pero vosotros le habeis enseñado á endurecerse, y él os perseguirá sin
+                compasion. Vosotros habeis sabido darme los golpes mas crueles; pero yo sabré
+                vengarme. Los dos inicuos estaban confundidos. ¡Tan terrible es la verdad para los
+                corazones que se sienten culpados! El Marques tartamudea algunas palabras,
+                reclamando su amistad. -Infame, le responde, ¿esa palabra puede salirte de la boca!
+                ¡Tú me hablas de amistad! ¡Tú que me has clavado un puñal en el pecho! ¡Tú que me
+                has quitado mas que mi fortuna, corrompiendo mi virtud y mi honor! ¡Tú que eres
+                verdugo de mi muger! ¡Tú que querias que muriese, acusándome de este horror! Yo
+                destrozaria tu infame corazon con mil golpes de mi mano, sino quisiera dejar al
+                verdugo el oprobio de mancharse con tu sangre. Yo te llamaré delante de los jueces,
+                tú les contarás los servicios que me ha hecho tu amistad, y ellos sabrán darte el
+                premio que mereces. Pero ¿en qué me detengo? Allá voy.</p>
+               <p>Cuando iba á salir, entra Martina apoyada sobre Petronila, y casi sin aliento, por el
+                esfuerzo que habia hecho para venir. Estaba pálida y descolorida y parecia
+                moribunda. No ostante detiene á su marido, y le dice: ¿adónde vas, Marcelo? Yo he
+                sospechado tu intencion, y vengo á pedirte una prueba de la nueva amistad que me
+                prometes. Marcelo no podia creer sus ojos, y entre sorprendido y disgustado la dice:
+                ¿eres tú Martina? ¡Tú en esta casa! ¡Tú con estos monstruos, que han intentado
+                quitarte la vida! ¿Qué es lo que quieres? -Yo no pido mas que una gracia, y la
+                espero de mi marido. Yo sé todos los pesares que me han dado, y que me han hecho mas
+                mal que privarme de la vida, pues me han privado de tu corazon; pero solo con ver,
+                que á pesar de sus iniquidades le recobro, quedarán bastante castigados. Créeme,
+                esposo; los delitos llevan consigo su más cruel castigo.</p>
+               <p>Cipriana y el Marques se echan á los pies de Martina. Nada es tan bajo y cobarde como
+                un delito descubierto. La aseguran de su arrepentimiento, y la piden que calme el
+                justo furor de su marido. Marcelo se muestra inexorable, y repite muchas veces, que
+                quiere entregarlos al rigor de la justicia. Martina les responde: yo no creo mucho
+                que esteis arrepentidos, y fuerais muy dichosos si pudierais sentir los
+                remordimientos, que debe escitar vuestra conducta; pero sabed que no me engañais, y
+                que si suplico á mi marido, es por mí sola. Yo me he prometido libraros de un
+                castigo público, para ver si con el tiempo corregís vuestra vida abominable, y
+                espero que Marcelo desempeñará mi promesa. Este no queria; pero las instancias y
+                solicitudes de Martina fuéron tan vivas y tan repetidas, que al fin se vio obligado
+                á ceder. Prometió, que por sí no daria la queja, pero que si se le preguntaba, no
+                podria esconder la verdad.</p>
+               <p>Martina contenta con esto, le sacó de aquella casa abominable, y se le llevó consigo.
+                Desde aquel momento pareció que empezaba á vivir nueva vida con nuevo corazon. Esta
+                experiencia afirmó su virtud, y en adelante volvió á ser buen marido, padre
+                escelente, buen ciudadano, y hombre de bien á todas luces. Todos los dias crecia
+                tanto en el amor y la veneración de su esposa, como en el cuidado y la atencion, que
+                daba á sus hijos y familia. Poco despues les llegó la noticia y los caudales de su
+                herencia. Marcelo hizo un justo y bien entendido uso de sus riquezas, aprendió á
+                conocer los infelices y los necesitados, y gozó de la inefable felicidad de enjugar
+                sus lágrimas, y de darle alivios y consuelos con sus beneficios. Martina no fué
+                ménos dichosa. Vió crecer á sus hijos en su seno, y en medio de los buenos ejemplos.
+                La indigna Cipriana cayó en la mayor miseria, y murió en un hospital devorada de
+                dolores y remordimientos. Dombal, no pudiendo sufrir el desprecio de la corte y del
+                público, se vió forzado á espatriarse, y sus nuevos delitos le condujéron al
+                suplicio; pero Marcelo y su muger gozaron de la felicidad que se permite á los
+                mortales en la tierra. Viviéron muchos años, se amaron hasta el postrer suspiro, y
+                muriéron casi juntos, dejando una posteridad feliz y virtuosa.</p>
+            </div>
+         </body>
+      </text>
+</TEI>

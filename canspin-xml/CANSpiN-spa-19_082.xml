@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Cristianos y moriscos</title>
+               <author ref="authors.xml/#P56">Estébanez Calderón, Serafín</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">19382</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_082</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>Estébanez Calderón, Serafín</author>
+                  <title>Cristianos y moriscos</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <date when="2008">2008</date>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmcwp9z1">https://www.cervantesvirtual.com/nd/ark:/59851/bmcwp9z1</ref>
+                  <bibl type="print">
+                     <author>Estébanez Calderón, Serafín</author>
+                     <title>Cristianos y moriscos</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                     </pubPlace>
+                     <publisher>León Amarita</publisher>
+                     <date when="1833">1833</date>
+                     <bibl type="first">
+                        <author>Estébanez Calderón, Serafín</author>
+                        <title>Cristianos y moriscos</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                        </pubPlace>
+                        <publisher>León Amarita</publisher>
+                        <date when="1833">1833</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year">1833</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="chapter">
+               <head>Capítulo I</head>
+               <p>Otros declararon a sus naturales las cosas extrañas y peregrinas por interpretación,
+                y perpetuaron las propias para un claro ejemplar en la memoria de las letras, dando
+                a cada cual su medida como jueces de la fama, y testigos de la verdad.</p>
+               <p>Luis del Mármol </p>
+               <p>Fresca y apacible tarde del otoño hacía, y como domingo alegre después de vísperas,
+                por gustoso recreo se derramaban allá en los ruedos y ejidos del lugar los
+                habitantes rústicos de cierta aldea, cuyo nombre, si no lo apuntamos ahora, es por
+                hacer poco al propósito de la historia que vamos relatando. Baste sólo decir que el
+                tal lugar estaba en lo más bien asentado de la Andalucía, para saber que era rico, y
+                que no distando sino poco trecho de la ciudad de Ronda, disfrutaba del sitio más
+                pintoresco y de más rústica perspectiva que pueden antojarse a los ojos que se
+                aficionan de las escenas de riscos, fuentes y, frescuras.</p>
+               <p>Aquellas buenas gentes, digo, unas subían a las más altas crestas de los montes, para
+                divertir los ojos en la sosegada llanura del mar, que allá al lejos se parecía;
+                otras se entraban por entre las arboledas y frutales de tanto huerto y jardín como
+                cercaban la aldea, y aquí o allá grupos de mancebos granados o muchachos de corta
+                edad se entretenían en jugar al mallo y en tirar la barra, o en soltar al aire
+                pintadas pandorgas con la mayor alegría del mundo.</p>
+               <p>Entre tanto, ciertas personas más graves y de mayor autoridad, como desdeñándose de
+                participar de aquellos entretenimientos, o comunicarse con tales gentes, buscaban
+                separadamente su recreación, paseándose por cierta senda muy sombreada de árboles, y
+                apacible por todo extremo.</p>
+               <p>Esta senda era la que conducía al principal pueblo de la comarca, y por ello, y por
+                no ser tan riscoso el terreno por aquella parte, ofrecía cierta apariencia y
+                espaciosidad muy de molde para emprender un buen paseo, que por tácito
+                consentimiento de los paseantes, tenía su término en una blanca capilla, alzada a
+                San Sebastián por el buen celo de los cristianos viejos que habitaban entre los
+                moriscos de aquellas quebradas.</p>
+               <p>El césped que crecía al pie de los tapiales de las heredades contiguas ofrecía
+                asiento en todo lo largo del camino, y los ramos y follaje que rebosaban por cima de
+                los setos y bardales, formando una bóveda de verdura, templaban los duros rayos del
+                sol, o las asperezas del viento, en las estaciones rígidas del año.</p>
+               <p>En cierta anchura que abría la senda a distancia igual de la aldea y de la bendita
+                capilla, al lado de una fuentecilla fresca, de clara y sonante agua, y bajo la
+                frondosa sombra de dos nogales hermosos, estaba sentado un personaje, no de la mejor
+                catadura, y que por ser sujeto de razonable influencia en este cuento, no será fuera
+                de propósito presentarlo en este punto con ayuda de cuatro pinceladas.</p>
+               <p>Su estatura estaba entre los dos extremos, ni muy alto ni muy bajo, bien que si se
+                tomaba en cuenta cierta curvatura de la espalda, que bien le embebía y menguaba dos
+                pulgadas, más se alejaba de esta que no de aquella medida: ciertas muletas que al
+                lado tenía mostraban no conservar sus piernas un paralelo bien exacto, y un parche
+                que le oscurecía el siniestro ojo lo daría por tuerto, a no ser que lo encendido,
+                bermejizo y fontanero del otro no lo pusiese casi en opinión de ciego, para todo el
+                que tropezaba con tal figura.</p>
+               <p>El traje no era de gala, y distaba mucho de lo profano, pues del zapato hasta la
+                rodilla no había más adorno que una pierna viva, que si bien tostada por el aire,
+                daba lástima, por sus formas y su vigor, que adoleciese el amo de aquel achaque de
+                la cojera. Desde la rodilla remaban unas medias calzas de mal pardillo, condecorado
+                con los cuatro títulos de revuelto, roto, raído y remendado, y con esto y un mal
+                gabán pasado con mangas por los hombros se cumplía la buena traza de aquella
+                persona, si es que no contamos un zurroncillo como de pastor que le adornaba las
+                espaldas.</p>
+               <p>La cara de este mendigo (pues tal nombre antes que cualquiera otro merecía) estaba
+                muy lejos de parecer tan triste como su mal porte pedía; muy al contrario, y con
+                gran maravilla del que lo viera, mostrábase alegre y nada desatalentado, y más bien
+                avenido con las burlas, que no con lástimas y quejumbrerías. Estaba sentado con gran
+                sosiego, halagando con una mano el lomo de un buen gozque, que le servía a un tiempo
+                (rareza extraña) de sincera ayuda y de amigo desinteresado, mientras que
+                risueñamente así hablaba con un muchacho, que frontero de él se veía sentado,
+                respondiendo a las curiosas preguntas que le enderezaba el de las muletas.</p>
+               <p>-Con que dime, Mercado, ya que tus ojos linces por medio de tu bien cortada lengua me
+                enteran y dan razón de lo que mi vista menguada no alcanza alrededor suyo, dime,
+                repito, ese que pasó tan mesurado, ¿es el recién venido para completar las dos
+                docenas de cristianos viejos que viven entre esta canalla morisca?</p>
+               <p>-Sí, hermano, este es Pero Antúnez, el viejo.</p>
+               <p>-¿Este es el que presta un celemín, y recoge dos fanegas de grano de los perros
+                descreídos?</p>
+               <p>-Hermano, sí.</p>
+               <p>-He ahí una usura -respondió el soldado- que ningún mal acarrea ni al cuerpo ni al
+                alma. ¿Y el otro que le acompaña era Juan Molino, el corchete ganzúa, que lleva
+                cuenta de los moriscos que ni van ni vienen a la iglesia?</p>
+               <p>-Sí, hermano.</p>
+               <p>-¿El que la hace pagar gallina por falta, o maravedí por descuido?</p>
+               <p>-Sí, hermano.</p>
+               <p>-Bueno, bueno; he aquí el primer corchete que no ejecuta el mal, cumpliendo con su
+                empleo. ¿Y pasó también la dueña Bermúdez, la que adoctrina a las cristianillas
+                nuevas, y las pellizca si no le toman sus aleluyas, y las repellizca si no la dan
+                sendas blancas por ellas?</p>
+               <p>-Sí, hermano, ya pasó.</p>
+               <p>-¿Y el arcabucero Jinez, y el soldado Pinto, y el herrador Ortuño, todos han ido su
+                paso, eh?</p>
+               <p>-Sí, sí, hermano.</p>
+               <p>-¿Y ninguno ha dicho, buen ciego, hermano Cigarral, tome ahí esa tarja, o relámase
+                con ese buen cuartalejo de pan?... Vaya, vaya, fuerza será dejar el paso libre a
+                estos cristianos viejos, y ponerse delante de los que no tienen tanta injundia de
+                rancio en la caridad; pero; ¿quién que tenga sangre pura castellana alargará la mano
+                ante estos miserables aljamisados, que por ladinos que sean siempre huelen sus
+                pensamientos a Mahoma, como sus palabras a la algarabía? Más vale morir por
+                hambre... Pero, alto allá, Mercado hijo, gente suena... Principiaremos las lástimas
+                por si ablandamos la dureza de alguno de estos hombres de pedernal.</p>
+               <p>-Sí, hermano -respondió Mercado-, pasos se sienten, y no haría mal en repetir la
+                retahíla.</p>
+               <p>Y de como esto oyó el del gabancillo y muleta, el manco y de entrambos ojos mal
+                parado, aquel emparchado y este manantial y bermejizo, así comenzó a perorar:</p>
+               <p>-¡Oh, caballeros, gente honrada, acudan a socorrer a un león de España, que aquí y
+                allá y por diversas regiones y apartados países ha dado bizarras muestras de su
+                persona en muchos encuentros y batallas, asaltos y escaramuzas; el que siempre
+                acompañó al rayo de la guerra, el glorioso imperante don Carlos, y que se encontró
+                en cuanta jornada de importancia ha tenido lugar de diez años para acá; al que se
+                halló, tuvo parte, y puso mano en aquella famosa de Pavía, rindiendo a más de cuatro
+                que decían mon dieu, y al que miró no de lejos aprisionar al rey Francisco, y no
+                quiso su mala estrella ponerle tan cerca, que le cogiera alguno de aquellos
+                diamantes tamaños como nueces que llevaba al cuello, cosa que el Rey de los
+                lamparones no le hubiera hecho mayor mal, y a mí estorbara estos pesados trabajos!
+                ¡Señores, al soldado pobre que ha sido blanco en su cuerpo de sendas rociadas de
+                arcabucería, botes de las lanzas, y cintarazos de los infantes! ¡Al soldado,
+                señores, al soldado que forzó sobre el campo de batalla a decir viva España, y en
+                distintas y endiabladas lenguas, al francés, al tudesco, al esguízaro, al italiano,
+                al turquesco, y cuantos soldados hay en el universo mundo; al estropeado, mal parado
+                y peor herido arcabucero Moyano del Cigarral! ¡Caballeros, gente honrada, acudan,
+                alivien, ayuden y den socorro al más granado de la compañía del bravo Francisco de
+                Carvajal, al arcabucero Moyano...! Pero Mercado hijo, nadie mosquea; ¿es que vuelven
+                atrás, o que se traga la tierra a los paseantes?</p>
+               <p>-No, hermano: los pasos del que viene siguen muy reposados, y suenan muy al compás;
+                pero el ramaje, que tanto se inclina y enmaraña por este sitio, roba al alcance de
+                los ojos lo que permite al sentido de las orejas.</p>
+               <p>-Si vienen con mucha pausa, es sin duda el doctor y boticario Gorgueran, el médico,
+                que cura por igual todos los miembros del doliente.</p>
+               <p>-El médico, si anda a compás, tose sin medida, y ya por este son le hubiera yo
+                conocido.</p>
+               <p>-Pues si él no es, será el notario Candurgo, cristiano viejo venido de Berbería.</p>
+               <p>-No será él; pues a serlo, vendría entonando algún buen salmo, para probar que sabe
+                latín, y que es de los buenos y añejos.</p>
+               <p>-Pues, diablo, será el sacristán, tercera autoridad y persona grave del pueblo.</p>
+               <p>-Nones y más nones, que a ser él, ya entenderíamos algún ofertorio, que por buen
+                ejemplo vendría entonando.</p>
+               <p>-Puesto -respondió Cigarral- que ni viene el doctor, ni suena el notario, ni asoma el
+                sacristán, trinidad y compañía la más grave que está al comienzo y cabeza de este
+                pueblo, no hay más que decir, sino que esa persona que autorizadamente marcha, y
+                paso pasito llega, no es ni puede ser menos, y sin ofensa de parte, que el sardesco
+                lucero, jumento principal de don Antonio Gerif, que a esta hora y cotidianamente
+                pasa, en conserva de algún sirviente, por regalos, frutas y flores de la huerta que
+                el rico Antón posee con tantos jardines allá en el río.</p>
+               <p>Y era así, como sospechaba el buen entender del estropeado Cigarral; pues decir esto
+                y salir de entre las ramas y verdura que ocultaban la vista, un jumento lozano y de
+                cabeza entonada, fue todo un punto, y allí mismo, y sin más parecer ni mejor
+                licencia, dio al aire el cuello, y mostrando una boca risueña soltó dos o tres
+                golpes de diapasón que si no muy armoniosos, no por eso dejaron de ser repetidos y
+                revocados por la ninfa Eco, y llevados de monte en monte. Y nada de este cuadro
+                ofrecía por sí algo de extraordinario; pues este nuevo interlocutor, que tomamos la
+                libertad de ofrecer al leyente, como siempre, a la propia hora y en el mismo punto y
+                sitio tomaba algún descanso, saludaba por las más veces con toda su garganta aquel
+                asueto a su fatiga.</p>
+               <p>-Víctor, víctor -dijo Cigarral-, así haya consuelo con esta visita, como bien me
+                suenan a mis orejas estos ásperos sonidos. Plegué a Dios que lleguen tiempos en que
+                el clarín de la fama no sepa repetir sino estos sones de mi buen amigo, y sírvale de
+                premio tal corona, por las buenas obras de que me es portador.</p>
+               <p>Y no se engañaba en esto tampoco el cojo soldado; pues saltando quien cabalgaba en el
+                rucio, así le decía, entregándole algo de vianda y algunos otros regalillos, que
+                para entretenimiento de los dientes le sacó de los serones que adornaban al rucio;
+                regalillos que bien pudieran despertar el paladar de un penitente, no que de hombre
+                tan apetitoso como el soldado.</p>
+               <p>-La hermosísima María -le dijo- me encomienda os dé estas limosnas, que hoy domingo
+                son más abundantes y de mejor gusto que otro día: mucho se encomienda a vuestra
+                memoria, y aún más a las oraciones que digáis a la Santísima Virgen.</p>
+               <p>-Llegue ella al cielo -respondió el estropeado- como yo la subiré y ensalzaré, y
+                encomendaré con palabras y pensamientos, hasta donde alcance mi humilde
+                merecimiento, puesto que ni todo el lugar en junto, ni cada su morador
+                apartadamente, ni el cristiano viejo por caridad, ni el morisco por el respeto que
+                se debe a un soldado de Su Alteza como yo, me han dado tanto en un mes, como esta
+                hermosísima doncella en un solo día. Lástima es que la naturaleza al sacarla del
+                vientre de su madre, la dotase de tanta hermosura, dejándole así poco que hacer al
+                resplandor de belleza que lleva consigo la caridad; pero cierto es que si la mujer
+                es hermosa por sí, con la ayuda de su blando corazón y piadosa condición, menos que
+                hermosa, es un ángel sobre la tierra, y arcángel será la hermosísima María.</p>
+               <p>-Amén, amén -respondieron a una el muchacho Mercado y el mensajero del asno, quien,
+                al seguir su paso, le dijo al soldado:</p>
+               <p>-Con algo de desabrimiento habláis de nosotros, pobres moriscos, y a fe a fe que no
+                sino moriscos son estos bocados que coméis, y no sino morisca es esa María que tanto
+                alabáis, y que todos bendecimos.</p>
+               <p>-Buen Ferri -respondió el soldado-, yo no hablo mal de la gente de tu nación, sino
+                por esas malas voces que corren de vuestra mala creencia; por lo que toca a María,
+                ángel es y ángel se estará, y libre se encuentra de tan negra mancha; yo la fío y la
+                confío, y desde el niño Mercado, monaguillo de hopa y bonete, que esto escucha,
+                hasta el licenciado y cura Tristán, y los dos beneficiados, darán la vida por ella.
+                Esto en cuanto a fe y creencia, que por linaje y sangre, quien tiene como ella
+                sangre de reyes, ninguna mácula le puede caber. ¿Quién no respeta a los Granadas y
+                Benegas? Con que así, hermano Ferri, sosegaos, y no echéis a mala parte lo que
+                apunto y digo, que honrado sois, y honrado me conocéis, y, sobre todo,
+                agradecido.</p>
+               <p>-La paz de Dios te acompañe, soldado -dijo el Ferri-; Dios es grande, Dios es
+                misericordioso, y mira por los suyos.</p>
+               <p>-Al diablo por estos tornadizos -dijo el estropeado Cigarral, así como vio trasponer
+                al morisco hortelano-; al diablo por estos tornadizos que siempre responden con
+                sentencias y palabras de compás y medida, que huelen todavía al Alcorán, como
+                pólvora al azufre, y como vasija al primer caldo que encerró en ella. Pero Mercado,
+                alto allá y no murmuremos, que a fuer de agradecido, más hace el morisco con ser
+                mensajero dadivoso que yo con callarle sus puntas y collares. Quédate conmigo,
+                monaguillo insigne, que quiero con parte de estos regalillos pagar la buena gracia
+                con que me acoges y hospedas toda noche en tu encogido aposento, librandóme así del
+                frío que derrama el zaguán de la iglesia o las plagas que derrama y llueve el mesón
+                único que permite gallardamente el señor duque a estos infelices vasallos. Todavía,
+                amigo Mercado, habrás de pagar tu costa en este banquete, vaciándome algunas de las
+                vinajeras que habrás puesto, cual sueles tú, a recaudo, como varón prudente, pues
+                sabes que el agua del cielo no siempre baja cuando hace sequía, y que para entonces
+                sirven y tienen su acomodo y aplicación los aljibes y depósitos, y aunque no tanto,
+                siempre me contentaré con una buena azumbre para mí solo, pues a ti ningún provecho
+                pueden hacerte estas bebidas ardientes, que en la primera edad previenen y disponen
+                a los muchachos para ser sanguinolentos y coléricos, faltando así a la mansedumbre y
+                humildad, que tanto nos encargan nuestros padres y maestros. En cambio partiré
+                contigo todos estos adminículos y bastimento, y te alcanzaré, como mejor pueda,
+                sendos jarros de agua de la fuente alta de la plaza, para que te refrigeres y tomes
+                todo placer a la comida.</p>
+               <p>-Admito -respondiole el de la hopa-, amigo Cigarral, tan cordial convite, y en lo del
+                vino nada me advierta, bastándole saber que muy bien sé y se me alcanzan las
+                franquicias, gajes y libertades del oficio del despensero y sisón, para renunciar a
+                lo más bueno y mejor parado de lo apartado, y puesto a seguro por estas mis manos, a
+                hurto del sacristán. Pero entornad la parla inoficiosa, que ya vuelven de la capilla
+                por lo alto del pueblo todos los paseantes que fueron para lo bajo; y siendo así que
+                poco o más nada les entra ni vuestra humildad, ni menos penetran vuestras plegarias
+                estropeadas, soldadescas y lagrimosas, poned en campaña las buenas partes de vuestro
+                gozque Canique, que lo que vos no alcanzáis, acaso lográranlo sus buenas gracias,
+                saltos, danzas y donaires.</p>
+               <p>-Así sea -dijo Cigarral-; y dándole dos palmadas a su gozque Canique, este se aliñó y
+                preparó diligentemente para algo de importancia.</p>
+               <p>En tanto iban allegándose los paseantes, y en cuanto los sintió a tiro el estropeado,
+                así dijo al gozque:</p>
+               <p>-Salid, don Canique, can honrado y placentero, y dad cuatro vueltas de villano o de
+                Bran de Inglaterra por lo alegre o autorizado, según más os conviniere, ante los
+                altos señores que os miran, todo por darles gusto y placer.</p>
+               <p>Y esto diciendo, con dos tejoletes que movía entre el meñique y pulgar de la
+                siniestra, y un tris con tras que sacaba de los palos de las muletas, formaba una
+                como manera de compás, que el can bailador se esforzaba por coger con sus patitas
+                traseras lo más galanamente posible. Lo que no lograron las lástimas, lo alcanzaron
+                las danzas y saltos caninos, cual presumió Mercado, y todos los vinientes se pararon
+                formando corro, admirando y celebrando los donaires de la alimaña. El estropeado,
+                con algo más de aliento, ya cautivada la atención de su auditorio, proseguía
+                diciendo:</p>
+               <p>-Ahora, don Canique, haced la salva por el rey de Francia y los otros príncipes de la
+                cristiandad.</p>
+               <p>Y el perro daba tres ladridos alegres.</p>
+               <p>-Ahora haced la mesura al señor emperador, vuestro señor natural.</p>
+               <p>Y el perro cruzaba las manitas, y bajaba humildemente la cabeza.</p>
+               <p>-Y ahora -repetía- cantad las alabanzas a don Lutero y otros canes de herejes, peores
+                y peorísimos que vos.</p>
+               <p>Y el avisado can aullaba como un diablo del infierno.</p>
+               <p>-Ahora emplead las súplicas y pedid albricias, comenzando por el más rico y
+                concluyendo por el más dadivoso.</p>
+               <p>El perro, que debía haber un mal espíritu en el cuerpo, así como esto oyó, se puso a
+                los pies de aquel Pero Antúnez, usurero honrado, que, como ya se apuntó, prestaba un
+                celemín, y recogía dos fanegas. El buen avaro, bien como se vio señalado y
+                proclamado por el más rico del auditorio, dio un paso atrás, y poniéndose entrambas
+                manos en los bolsillos, daba al diablo al perro, y apellidaba aquello por algo de
+                brujería. El perro, aunque seguía en sus genuflexiones y zalemas, nada alcanzaba;
+                hasta que enfadado el cojo por la esterilidad del tiempo, y la mezquina condición de
+                tanto estante y ningún donante, así dijo a su cofrade, sirviente y amigo.</p>
+               <p>-Pues, amigo Canique, lo que no dan ni prestan, fuerza será tomarlo; entrad a saco a
+                estas buenas gentes, como allá en antaño en el asalto y sacó de Roma; mas contad y
+                advertid que no les habéis de tomar, sino de lo superfluo y profano, dejándoles
+                entera la piel, y menos interesar algo del tegumento de las carnes, y sin detracción
+                alguna, que todo lo demás, camisa inclusive, os lo fallo y declaro por buena y
+                legítima presa.</p>
+               <p>Decir esto, y como cobijarse el maligno gozque con ligereza y travesura del mismo
+                diablo, fue todo un punto, no habiendo arremetida en que no dejase alguna prenda por
+                despojo bajo la salvaguardia del soldado, volviendo a la carga más desesperadamente,
+                brincando, latiendo, lanzándose y agazapándose, siempre huyendo y siempre burlando
+                los quites y reparos de aquella gente salteada. Esta, ya por lo intempestivo del
+                asalto, y ya por la placentera traza del amo y sirviente, no acordaron en lo que les
+                acontecía, hasta que vieron a los pies del soldado quién el lenzuelo del bolsillo,
+                quién la caperuza, cuál la gorra y hasta la dueña Bermúdez miró con escándalo sus
+                venerables tocas, siendo prenda pretoria del burlador soldado. Este tocó a recoger
+                diciendo:</p>
+               <p>-Alto y parad, hermano Canique: bien lo habéis hecho, y ahora rescatemos estos
+                trofeos, quiero decir, que nos los rescatarán, trocándolos por blancas y ochavos, no
+                de otra suerte que hizo vuestro capitán y el mío, Francisco Carvajal, en aquel de
+                Roma. Y no os parezca mal esto, señores, ni se me amostacen por tal niñería, que mi
+                capitán Francisco de Carvajal en aquel saco de Roma, como ya dije, no encontrando su
+                parte de despojo, pues se entretuvo harto en pelear, al revés de otros que medran
+                más, mientras menos refriegan con los enemigos, tomó traza y medio para enmendar el
+                disfavor de la fortuna; pues encontrando con uno como vos, seor Candurgo (hablaba
+                con el notario del lugar), que era el notario de la santa Dataría, le pidió 200.000
+                escudos, que no dándoselos el italiano, puso a pique de poner fuego a un monte de
+                papeles que de la notaría sacamos sus soldados a la inmediata plaza, para hacer
+                lumbradas y candelarias; pero el notario, que daba mucha importancia a tanto papel,
+                y que por ello le había amagado por aquel flanco mi capitán y vuestro señor,
+                Canique, queriendo conservar las buenas cosas que allí se guardarían, sin más
+                espera, y como deuda que tiene aparejada ejecución, le contó los 200.000 escudos a
+                mi capitán Francisco Carvajal, que ahora en gracia de Dios y por méritos de sus
+                manos, conquista y arregla esos imperios del Perú.</p>
+               <p>Los circunstantes, que no se maravillaban menos de aquella tarabilla que de las artes
+                caninas del don Canique, mitad enfadados, mitad placenteros, rescataron por este a
+                aquel ochavo o blanca cada uno la parte que perdieron de despojo, si exceptuamos al
+                usurero Antón, que enroscándose como sierpe, y guareciéndose en sí propio contra el
+                suelo, cual erizo breñal, se libró de ser prendido en el primer asalto, y que ahora
+                durante la plática se escurrió silenciosamente, dándose albricias que por su
+                industria y buen ánimo pudo libertarse de todo empeño y de toda multa.</p>
+               <p>El campo quedaba ya del todo en todo despejado, según entender del soldado y del
+                muchacho de la hopa; pero aquel, alzando los ojos, vio que tenía ante sí a otra
+                tercera persona extraña, que sin duda había ocupado lugar al concluir el asalto del
+                perro, y el saco de los paseantes.</p>
+               <p>Este nuevo personaje, vestido por aquella manera, mitad morisca, mitad castellana,
+                que aún usaba la nación vencida, bien mostraba cuya era su estirpe; si bien el buen
+                porte de sus arreos, lo venerable de su barba, y el respeto que derramaba su
+                persona, mostraba por otra parte no ser de vulgar condición. Este personaje fue el
+                primero que rompió el silencio, diciéndole al soldado:</p>
+               <p>-Mal hacéis en despojar, ni aun en burlas, ni por un ardite, a vuestros cristianos
+                viejos; pues tenéis a tiro modo más llano de medrar, tomándolo todo de los moriscos.
+                Lo que perdone la farda, lo que dejen las socaliñas y lo que olviden las derramas,
+                tomadlo vos antes que otros de vuestros compatricios; tomadlo, que según vuestros
+                doctores y políticos entendidos, estamos a merced, y lo que nos dejéis, eso debemos
+                agradecer. Con todo ello, bien me place el donaire con que habéis burlado a tanto
+                cristiano viejo. Entre tanto, si queréis venir esta noche, entrad en mi casa, y
+                asistiréis a la fiesta que doncellas y mancebos celebran hoy por el natalicio de mi
+                sobrina, tu bienhechora. Quedad a Dios, y si mi sobrina María salta del puente acá,
+                decidla que paso voy, para que pueda alcanzarme, pues no me vendrá mal la ayuda de
+                su brazo para subir el último recuesto.</p>
+               <p>El venerando don Antonio Gerif, pariente de los destronados reyes de la Alhambra,
+                siguió el camino diciendo estas palabras, acompañado de una inclinación respetuosa
+                del soldado y del muchacho; pues este poder tienen los grandes infortunios de las
+                personas elevadas, que imponen el respeto hasta a los mismos enemigos.</p>
+               <p>Entre tanto que esto pasaba, el de la hopa revolvía una al parecer como bolsa que
+                divisó en el suelo, allí en el mismo sitio donde el usurero Antúnez se atrincheró,
+                encorvándose y encogiéndose para no ser salteado por los tropeles del Canique.</p>
+               <p>Ya el muchacho se disponía a forzar insolentemente la bolsa y revolverla y
+                registrarla sin comedimiento alguno, cuando el soldado, levantándose de su asiento,
+                que ni tenía cojín ni respaldo, diligentemente se acercó al muchacho, increpándole
+                su intento, diciéndole:</p>
+               <p>-Alto allá, y entrégueme ese despojo, trofeo de mi sirviente Canique. El esclavo
+                adquiere para su señor, según toda buena regla de derecho, y nadie me disputará el
+                señorío que ejerzo sobre mi perro; y mirad, Mercado, en prueba de ello, cómo reclama
+                con su inquieto latir, lo que le pertenece de derecho.</p>
+               <p>El monaguillo repugnaba y tomaba el largo, el cojo insistía y le daba caza a pesar de
+                su manquedad de piernas, y el can, como práctico ya en tal guerra, brincaba y
+                saltaba a las espaldas del muchacho, conociendo bien que no hay como amenazar la
+                retirada para perturbar al enemigo.</p>
+               <p>Nadie sabe dónde hubiera ido esta disputa, si Mercado, viéndose en tanto apremio y
+                asedio, no hubiera dicho:</p>
+               <p>-Repórtese, señor Cigarral; su amigo soy, y prendas tiene de ello: si vuestro
+                sirviente hizo el despojo, yo lo he restaurado con mi hallazgo; y bueno será que, si
+                encontramos por sano y bueno el alzarnos con la presa, partamos como buenos
+                hermanos, partiendo así las acechanzas al diablo, que quiere invadirnos y ponernos
+                en rifa. Además, que cualquiera de entrambos que se disgustara haría mal tercio y
+                peor obra al compañero, llevándole nuevas al usurero de la bolsa perdida.</p>
+               <p>Parecieron tan elocuentes tales razones al uno, y le mostró tal fuerza el último
+                argumento, que afirmándose en las muletas, y asegurándose en tierra el zoquete que
+                le sobrellevaba la pierna, así dijo alargando la mano al monaguillo:</p>
+               <p>-Tus palabras, niño, son tan discretas como razonables; en lo de la partija, si hay
+                materia partible, estaba concedido sin ser demandado, pues tanta estimación me
+                merecen tus buenas gracias; y como estaremos juntos hasta tarde, en tanto tiempo
+                haremos toda composición, es decir, que en tu aposentillo, una cosa tras otra y por
+                su orden, iremos ejecutando lo de la cena, lo de las vinajeras y lo de la visita y
+                partija de la bolsa; a no ser que nos asistan razones que muevan a principiar por la
+                bolsa, por preferencia a su linaje y calidad, en lo cual ni podrán agraviarse ni los
+                bastimentos ni la bebida.</p>
+               <p>Acaso no concluyera tan presto este coloquio burlón como maligno, a no ser que el
+                perro, dejándolos de un salto, no arrancara a correr con toda su carrera hacia un
+                sitio señalado de esta escena.</p>
+               <p>Para mejor inteligencia deberá entenderse que el terreno, que por allí formaba una
+                falda espaciosa, estaba dividido por un hondísimo tajo, practicado por la acción
+                lenta de las aguas, o por alguna otra explosión rabiosa de la naturaleza allá en los
+                remotos siglos. De lejos no se advertía esta abertura horrible; pero de cerca
+                parecía un anchísimo foso por donde pasaba un río entero, que desde lo alto solo se
+                escuchaba mugir pausadamente, divisándose apenas una como faja de plata, sin más
+                distinción ni claridad; pues tal y tanta es la altura desde donde se mira.</p>
+               <p>Por lo más encumbrado, en tiempos antiguos, practicaron los moros cultivadores de
+                aquellas fértiles asperezas, un puentezuelo o arcaduz, estribando entre las peñas de
+                aquellos abismos, por donde hacían pasar las aguas de un lado a otro, para regar los
+                jardines y vergeles de la parte inferior. Este puente acueducto se había roto y
+                derrumbado por su clave, ya por la injuria del tiempo, o ya por consecuencia de las
+                revueltas pasadas; mas los aleros del arco, no estando sino separados por vara y
+                media o dos varas, muchas personas de agilidad y soltura, por librarse del cansancio
+                y fatiga de bajar un gran recuesto, y volver a subir la rambla empinada que conducía
+                a la aldea, de un salto ligero, salvando así el tajo, se miraban casi casi tocando a
+                las primeras casas. Aunque el salto no era peligroso, todavía helaba de temor el ver
+                lo profundo del abismo, las negras bocas que se abrían en las paredes cavernosas del
+                tajo y el haber de andar cuatro o seis pasos por el pretil no ancho del puente y
+                arco dividido.</p>
+               <p>El verdín de la humedad resbalaba mucho; pero unos cuantos golpes de espadaña y
+                juncia, nacidos entre la fábrica y mantenidos por la frescura, prestaban ayuda y
+                apoyo para los atrevidos pasajeros, y hacia este sitio salvaje y pintoresco fue
+                adonde vieron partir Cigarral y Mercado al tercer interlocutor de la escena, el
+                insigne gozque Canique.</p>
+               <p>Allí dirigiendo los ojos, y a pesar de lo que ya anochecía, vieron desprenderse desde
+                el boscaje obscuro de la ribera opuesta, una como sombra aérea, ligera como el
+                viento, que, deslizándose sobre el pretil del arco destruido, y salvándolo de un
+                vuelo, que no de un salto, se acercaba ligeramente entre los saltos y caricias del
+                gozque.</p>
+               <p>-Ya sabía yo -dijo el soldado- que la acometida alegre del perro no pudiera ser sino
+                por la llegada de la hermosísima María; él paga con sus fiestas y escarceos sus
+                obligaciones de agradecimiento, así como yo las guardo en lo más íntimo del corazón,
+                para manifestarlas en tiempo que puedan ser de algún útil.</p>
+               <p>En esto llegó aquella tan celebrada por hermosa, tan amada por su piadosa condición y
+                tan respetada por su religiosidad, y cierto que así como llegó y descorrió el velo
+                que pendía de las tocas de su cabeza, mostró maravillosamente que aún pasaba su
+                belleza al encarecimiento de la fama. Su traje era aún el usado por la nación
+                vencida, esto es, toda la profusión oriental, realzada por los golpes de gracia y
+                capricho añadidos por los moros de Granada, que hacían de su vestido un adorno tan
+                lindo, como peculiar a aquel país. El pelo recogido, las trenzas vagando por las
+                espaldas, daban una picante extrañeza a su rostro, iluminado dulce y
+                melancólicamente con ojos del linaje del Yemen. Dos leves y riquísimas girándulas de
+                oro y esmeralda, pendientes de sus breves orejas, mostraban la riqueza de su dueño,
+                así como una cruz que adornaba su joyel, mostraba la creencia de la doncella.</p>
+               <p>-Dios os guarde -dijo.</p>
+               <p>Y los cielos parecían que habían hablado por su boca; tal fue su acento de armónico y
+                delicado, y el soldado, con su mejor gracia posible, replicó:</p>
+               <p>-Si no Dios, al menos los ángeles están en nuestra compañía; vuestro sirviente, dama
+                hermosa, ha cumplido con vuestro dadivoso encargo, y mirad lo que mandáis, que
+                obligación tengo de obedeceros, aunque menester fuera ir a las tierras del Catay, o
+                a la noche de la Noruega; mandad, señora, y no reparéis en este entorpecimiento de
+                mi persona, apoyada en rodrigones de palo; mandadme, que tal fuerza haría la
+                voluntad, que todavía se hiciese obedecer cumplidamente de la ligereza del
+                cuerpo.</p>
+               <p>-Os lo agradezco en el alma, bravo soldado; pero esas tierras apartadas que por mí
+                queríais visitar, no se miran holladas por los tercios españoles. ¿No es cierto?</p>
+               <p>-Doncella -replicó el soldado-; yo no sé qué rincón del mundo no habrán ya visitado
+                mis compañeros; pero cuando dejé las banderas del emperador, quedaban nuestros
+                tercios en Alemania, prestos para pasar el Danubio, y el que obedecía al bravo como
+                mancebo Lope de Zúñiga, ya os he dicho...</p>
+               <p>-Adiós, soldado -le dijo la doncella, dando un blando suspiro-. Adiós.</p>
+               <p>A pocos pasos de distancia volvió hacia el soldado, y le dijo:</p>
+               <p>-Esta noche hay velada en la casa de mi tío; podéis allá ir a recoger limosna. De
+                este modo miraréis bien como cristiano viejo (y la doncella se sonreía
+                agradablemente), que estos festejos distan mucho de las zambras y supersticiones con
+                que los mal intencionados acusan a los de mi nación.</p>
+               <p>-Sí, iré, hermosísima María -replicó el estropeado-; pero entended que, aunque el
+                mismo fiscal del diablo soplara y acusara a cuantos moriscos hay desde el Cairo
+                hasta aquí, solo así como os viera en un lugar bastaría para sobreseer y desistir de
+                todo pensamiento sospechoso, cuanto más que de otras demostraciones más vigorosas;
+                pues donde vos estáis, bien así como la noche de la luz, han de ir a mil leguas
+                Mahomilla y don Satanás.</p>
+               <p>No pudo oír replicar el soldado, pues María ya traspuso por entre las sombras de los
+                árboles desde la primera palabra, y la blanca alcandora que vestía flotaba entre el
+                verde oscuro de los ramos.</p>
+               <p>María se acercaba hacia la aldea diligentemente, para ayudar con su brazo los
+                cansados pasos de su tío en el subir el recuesto fatigoso que ya hemos apuntado.</p>
+               <p>Llegó al apoyo de piedra, que servía de arranque a la subida, sitio donde siempre era
+                esperada, y no encontrando al anciano tío, ocupó, mientras aguardaba, aquel asiento,
+                entregándose a las imaginaciones que la soledad, lo apacible de la hora y la edad
+                breve de dieciocho años llevan siempre consigo en el blando corazón de una
+                mujer.</p>
+               <p>A un lado y otro volvía los ojos con tierna inquietud, hasta que dejando ir su
+                diestra y linda mano debajo del pecho, y con la siniestra manteniendo la hermosura
+                de su mejilla, fija la vista en la luna, que ya parecía entre los cielos, estuvo
+                estática un breve instante, hasta que, dando un blando aliento, y casi sin abrir los
+                labios, y como si esta armonía se le deslizara furtivamente por ellos, cantó esta
+                cantinela, por aquel tono triste y penetrante de los cantares moriscos:</p>
+               <p>Cantinela</p>
+               <p> ¡Dónde estás, </p>
+               <p>dónde estás, amigo mío! </p>
+               <p>Ora acaso gala y brío </p>
+               <p> mostrarás </p>
+               <p>cabe el Elba o Reno frío. </p>
+               <p> Fiera lid, </p>
+               <p>fiera lid y sus azares </p>
+               <p>tú prefieres, o ir por mares, </p>
+               <p> bravo Cid, </p>
+               <p>a este suelo de azahares. </p>
+               <p> No más ya, </p>
+               <p>no más ya tu mente amada </p>
+               <p>en placer embelesada </p>
+               <p> llorará </p>
+               <p>los vergeles de Granada. </p>
+               <p> Pienso en ti, </p>
+               <p>pienso en ti con dulce empeño, </p>
+               <p>cuando el plácido beleño </p>
+               <p> me da, sí, </p>
+               <p>con tu imagen, blando ensueño. </p>
+               <p> Otra flor, </p>
+               <p>otra flor de más belleza </p>
+               <p>prenda acaso tu fineza </p>
+               <p> con su amor: </p>
+               <p>¡Ay mi Dios, qué cruel tristeza! </p>
+               <p> Mientras yo, </p>
+               <p>mientras yo, apartada y sola, </p>
+               <p>canto y lloro con mi viola: </p>
+               <p> «No irás, no, </p>
+               <p>del pecho de tu española». </p>
+               <p>Al llegar aquí, la titulada doncella, sintió una mano desconocida que la llamó en el
+                hombro, y estremeciéndose y volviendo el rostro, miró entre las ramas levantarse las
+                blancas tocas de un turbante, y luego un mancebo saltar gallardamente ante sus ojos,
+                diciéndola:</p>
+               <p>-No te asustes, prima, esposa y señora mía; tú, hermosa Zaida, como te nombra el
+                corazón mío, oh bellísima María, como te nombran nuestros altivos vencedores,
+                queriendo así los soberbios, trocándonos los nombres, arrebatarnos los títulos y
+                motes de nuestra elección; tú, Zaida mía, has visto llegar la luna de Rajeb, término
+                puesto por nuestro tío para este enlace afortunado, única dicha que les resta a los
+                dos vástagos de los reyes de Granada, a los descendientes de los califas de Oriente
+                y sucesores de los omíadas de Córdoba. Este término deseado lo vi llegar en estas
+                costas de Berbería, donde buscaba apoyo para sacudir la funesta servidumbre que nos
+                agobia: desde allí, alegre con mil promesas, y más alegre con las esperanzas de mi
+                ventura, me embarqué en una goleta, que antes de ahora me hubiera echado en estas
+                playas de España, a no tener que esquivarse de las galeras de Leiva, que han vuelto
+                de Sicilia. Al fin hace tres días que tomé tierra a despecho de los corredores y
+                atalayas de la costa, y llegando como llegué a esta aldea, donde sabía que era
+                aguardado de los míos, y abrazando a nuestro tío en esas casas que se ocultan entre
+                las alamedas, he venido a presentarme a tus ojos, ya para llevarme yo mismo las
+                albricias, si tal merezco, o para anticiparme a la pena, si es que mi desgracia no
+                alcanza otro premio.</p>
+               <p>Luengos instantes estuvo la hermosa morisca, fijos los ojos en la tierra sin
+                articular palabra alguna, hasta que pasando la mano por la frente, como si pidiera
+                ayuda a su discreción, algo más sosegada, le respondió al mancebo de esta
+                manera:</p>
+               <p>-No sé, primo y señor, cómo es -si vuestra memoria no os ha abandonado-, que os
+                atrevéis a entrar por las puertas del alma mía, llamándome por otro nombre que el de
+                María, único que reconozco, único que quiero, y sólo por el que responderé de hoy
+                más hasta la muerte. Esta irrevocable determinación mía bien os mostrará cuál sea mi
+                pensamiento en esas locas esperanzas de coronas y de imperios. Si es que nuestra
+                miserable nación ha de emprender algún día el imposible de su libertad, aguarde a
+                que los vencedores castellanos adolezcan de la misma enfermedad y corrupción que
+                desmayó a los moros de Boabdil; y tomen este largo plazo, y conténtense o resígnense
+                al menos con él, ya que no supieron, o no pudieron, o por no lo decir, no quisieron
+                defender su libertad y su independencia, dejando para un mañana incierto, lo mejor
+                que parecía, en un hoy seguro de seguras y firmes esperanzas.</p>
+               <p>No quiera Dios que mi nombre ni la sangre de donde vengo entren a parte, para
+                provocar tamañas desdichas sobre nuestros antiguos vasallos, y menos para
+                arrebatarles la mísera fortuna que les resta, dándoles, en cambio, la servidumbre y
+                la muerte. Si alguna esperanza pueden tener las que nuestro tío ha podido inspirar
+                sobre mi posesión, fuerza será que abandonen vuelos tan locos y osadías tan
+                temerosas, por lo mismo que son tan atrevidas. No alhambras, no coronas quiero, no
+                ansío ni por esclavos ni por tesoros, no anhelo por las fiestas ni por las zambras;
+                quietud quiero, mi hogar me basta, los bienes de mis padres me sobran en parte; y
+                puesto que mi dicha me ha dado una en una región santa, en ella quiero morir a
+                trueque de los mayores bienes, ya que bienes queréis llamar a los que, si se
+                consiguen, han de comprarse en tantos duelos, fuerzas, lágrimas, hogueras y muertes.
+                No, primo, si os pude considerar árabe lejos de mis ojos, abanderizando el África,
+                confiándoos en la fe berberisca, y combatiendo inútilmente en la Goleta y Túnez
+                estos mismos castellanos que queréis vencer en nuestro país, nunca presumí, que en
+                ánimo morisco, quien nació ya cristiano, viniese a ofrecer su amor a quien no
+                quisiera ver un príncipe en un amante, sino sólo un caballero.</p>
+               <p>-No más, Zaida -le interrumpió el mancebo-, tu palabra última revela cuánto pasa en
+                tu corazón. Esa fe de que tanto blasonas acaso se sostiene más en ti con la memoria
+                de un caballero, que no con las pláticas de las misiones; más con el recreo de los
+                papeles y endechas, que con la lectura de catecismos; pero no cuentes con burlar a
+                nuestro tío, ni burlar las esperanzas mías. ¡Vive Dios!...</p>
+               <p>Algo más de colérico hubiera dicho el moro, a no haber llegado el viejo Gerif, quien,
+                apoyándose en aquellos dos reales vástagos de su familia, los hizo andar hacia la
+                aldea, él pensando en las grandezas pasadas de su estirpe, el mancebo en su
+                engrandecimiento futuro, y María, en el bien pasado, las angustias presentes y en lo
+                incierto del porvenir.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo II</head>
+               <p>En tanto de esto, el estropeado y Mercadillo, sentados en la celdilla del campanario,
+                noble aposento del monaguillo, a la pabilosa luz de una de tantas candelillas como
+                sisaba el muchacho, entrambos repasaban los papeles y envoltorios de la bolsa que
+                olvidó el honrado usurero. Al cabo de buena pieza, no pudo más el soldado, y
+                dijo:</p>
+               <p>-¡Vive Dios!, que todo el dinero lo tiene el bueno de Antúnez situado a ganancias,
+                tal es la esterilidad de su bolsa. Pero en trueque papeles a carga: no queda más
+                remedio... nóminas... listas de préstamos... no resta más senda, Mercado amigo, que
+                aplicarle a este prestamista la receta que mi capitán Francisco de Carvajal le
+                aplicó al susodicho notario romano, el de los 200.000 escudos. O múltese Antúnez, o
+                sus papeles sufrirán el auto de fe más riguroso que ha visto Toledo. Pero alto allá:
+                este otro papel es de fresca data, y envuelve otro papel cerrado y sellado con
+                blasones y armerías. Antúnez no se contenta ya con la delgada usura de los aldeanos,
+                y presta también a los grandes señores. Pero leamos; y en seguida así leyó el
+                soldado:</p>
+               <p>«Buen Antúnez: He llegado con órdenes de S. M. a la Algecira en las galeras de Leiva:
+                vuestras cuentas las he aprobado; no por ellas, sino para asunto de importancia
+                quiero estar a recaudo en esa aldea y en vuestra casa, a hurto de todo curioso, por
+                dos o tres días. Ese billete entregadlo, y vuestra vida me responde de vuestra
+                fidelidad.</p>
+               <p>D. Lope de Zúñiga.</p>
+               <p>-Mejor dijera -dijo el soldado-, vuestro dinero me responde, y fuera mayor
+                encarecimiento. Pero este don Lope y de Zúñiga, y viniendo con órdenes y en las
+                galeras de Leiva, no puede ser sino el superior de un tercio y amo mío; y ahora
+                recuerdo, Mercado hijo, que oí decir que tenía heredamiento por estos rincones de
+                Andalucía. Este don Lope, amigo Mercado, es el más valiente hombre del mundo, capaz
+                de dar el último maravedí, como la última estocada, si aquel le obliga u este le
+                ofende. Y te digo esto para que moderes esa curiosa picazón que leo en tus ojos y
+                que quisiera penetrar e insinuarse por los poros y resquicios de este cerrado
+                billete; bien así como si fueses pegajosa humedad que todo lo traspasa. Modera,
+                repito, esa picazón, pues no nos valiera, si hiciéramos tal demasía, aunque nos
+                sepultásemos en el nicho último de la honda bóveda de las ánimas. Entre tanto
+                resolvamos y fallemos qué hemos de hacer para obligar al que mata, es decir a don
+                Lope, para agradecer a la hermosa, quiero decir, a María, y para multar al honrado
+                usurero.</p>
+               <p>Grandes debates tuvieron, y divididos en pareceres se mostraban entrambos amigables
+                componedores, hasta que cansados por el fastidio, más que no convencidos por buenas
+                razones, ejecutoriaron por capítulo principal, primero callar tal descubrimiento con
+                la debida discreción, teniendo presente entre varios fundamentos la soberbia
+                condición y brazo fuerte de aquel misterioso don Lope. En segundo, que el billete
+                buscaría el soldado medio aquella noche en la fiesta para ponerlo en manos de María;
+                y último y final, que el rescate que se lograra por los demás papeles del honrado
+                Antúnez se dividiría entre los dos, el soldado y el de la hopa, salvo el quinto, que
+                antes de todo debería sacarse en pro y beneficio del gozque Canique, que tanta parte
+                tuvo en aquella buena ocasión.</p>
+               <p>El soldado recogió sus ayudas y muletas, aseguró el zoquete que mantenía la siniestra
+                rodilla, y en conserva de su gozque enderezó derecho a la casa de Gerif, donde se
+                admitían en fiesta aquella noche los principales moriscos de la aldea.</p>
+               <p>La casa de Gerif era de apariencia; la puerta de entrada salía a uno como vestíbulo
+                ancho y espacioso, sostenido en redondo por arcos moriscos, formado cada uno por
+                cuatro pilastras arabescas. En medio surtían tres fuentes de agua cristalina,
+                encerradas en cercos de álamo y albahaca puesta en tiestos de búcaro y azulejos:
+                macetas de amáraco y verdones halagaban el olfato o la vista, según fuera el sentido
+                que quisiera recrearse en tales plantas; y como al frente hubiese tres puertas que
+                daban a los huertos y jardines, y como estos iban subiendo en anfiteatro a medida de
+                lo que allí se enriscaba la sierra, se gozaba desde el vestíbulo de la mejor vista
+                del mundo entre doseles de enredadera y celinda, entre pirámides de verdura o entre
+                obeliscos altos de jazmines, álamos y cipreses.</p>
+               <p>Los pimpollos de las parras y los ramos de la madreselva, asaltaban desordenadamente
+                aquella estancia, trayendo hasta en medio de ella los colores de la púrpura y los
+                olores del ámbar, pareciendo todavía más encantada esta escena con los golpes de
+                luces y luminarias que iban por las cornisas de las columnas, con las girándulas que
+                se mecían en los arcos y con los fanales pintados y faroles caprichosos que se
+                sostenían de los ramos y pimpollos de los huertos.</p>
+               <p>Mucho concurso llenaba ya la casa cuando llegó el soldado a los umbrales.</p>
+               <p>Las costumbres árabes, alteradas antes que puestas en olvido, y las usanzas
+                castellanas admitidas y siempre repugnadas, daban mucha extrañeza a este
+                festejo.</p>
+               <p>Las doncellas moriscas con sus tocas en la cabeza, con sus velos arrojados sobre el
+                hombro, con sus alcandoras pintadas, con sus carcajes de oro al comienzo del
+                borceguí y sus brazaletes de piedras en las manos, ponían el colmo a su aliño con el
+                alheño de los ojos.</p>
+               <p>Este afeite, ideado para dar mayor realce a los ojos, daba al rostro femenil una
+                expresión de voluptuosidad irresistible para los moros españoles, y nunca fue
+                posible arrancar este uso hasta que aquella infeliz nación fue descuajada de sus
+                hogares.</p>
+               <p>Entre la turba alegre de aquellas bellas orientales, y sobre los almohadones de
+                damasco, se hallaba María o Zaida, como la nombraban los moriscos celosos, y que
+                miraban en ella un vástago de sus pasados reyes. María sola descuidó el afeite de
+                sus ojos, ya por despreciarlo como ocioso, o porque fiase más en el poderío de los
+                suyos.</p>
+               <p>En la parte inferior, y separados enteramente de las que ellos llaman el cielo en la
+                tierra, estaban los mancebos adornados con los bordados más ricos y con toda la
+                ataujía oriental.</p>
+               <p>Los añafiles y atabales, los albogues y tamboriles resonaban alegremente por la
+                estancia: algunos mancebos ya habían dado muestras de su destreza ensayando los
+                asaltos y bailes que tanto tenían de desenfado árabe, como de galantería
+                castellana.</p>
+               <p>El primo de María, Muley para los moriscos, y don Fernando entre los españoles, como
+                desdeñando de emplearse en tan frívolo pasatiempo, sirviéndole de arrimo una de las
+                columnatas, no pensaba sino en sus proyectos, y solo parecía asistir en la zambra
+                por el ahínco con que derramaba a veces la vista en su hermosa María. El mancebo,
+                venciendo por su riqueza a cuantos le rodeaban, sobresalía por su gentil estatura,
+                descollando sobre los más aventajados en todo lo alto de la cabeza.</p>
+               <p>A este propósito llegaba nuestro estropeado a la puerta, y allí encontró dos
+                castellanos que así hablaban:</p>
+               <p>-No hay duda, amigo Juan, sino que esta zambra tiene más apariencia que lo usual y
+                ordinario. Se suena que cierto mozo principal ha tomado tierra en esas calas de la
+                costa, viniendo de Berbería, y que a su buena venida es este festín y zambra. A fe a
+                fe que todavía no ha entrado ni un cristiano viejo; ¿y cómo han de venir si no los
+                llaman? ¿Y cómo han de ser llamados, si los descreídos quieren estar solos para sus
+                prácticas y maquinaciones? Vamos, hermano, que vos como alguacil, y yo como persona
+                de autoridad del pueblo, debemos dar cuenta de todo al alcalde de nuestro
+                Ayuntamiento.</p>
+               <p>Y al partirse, y reparando en el soldado, añadió el otro:</p>
+               <p>-Este Cigarral todo lo asalta y con todos se comunica: bien va, y será recibido a las
+                mil maravillas, que a falta de otras hechicerías, bien podrá prestar a la chusma las
+                buenas habilidades de su gozque.</p>
+               <p>Entre tanto, el estropeado entró seguido de su perro, y sin cuidarse del mal ojo y
+                sobreojo con que muchos le miraban, soltó sus palos y tomó asiento en el suelo entre
+                la gente inferior de la familia, poniendo por trinchera de sus rodillas al perro,
+                que asentado con mucha compostura sobre sus piernas, se apoyaba en las zarpas
+                delanteras alzando el cuello, levantando las orejas y mirando atentamente a su
+                bienhechora María, a quien saludaba de su mejor modo, moviendo mansamente la cola.
+                Acaso el agradecido perro la hubiera saludado más señaladamente desde lejos y a
+                despecho de la fiesta, si no sintiera la mano de su señor, que según sus cuentas le
+                mandaba quietud y silencio, y así todo quedó tranquilo.</p>
+               <p>María se sonrió blandamente al ver entrar el soldado; este, contento con tal
+                distinción, bajó humildemente la cabeza con tanta cortesía como reverencia, y al
+                alzarla se encontró con la vista de Muley, que le miraba con ojos de desprecio y de
+                una cólera mal reprimida; pero el soldado, con gran enojo de algunos y mayor
+                maravilla de todos, no huyó su rostro de tan feroz mirada, antes bien la provocaba
+                con su gesto maligno y burlador.</p>
+               <p>Acaso la zambra se hubiera turbado desde aquel punto, a no ser porque María,
+                dejándose vencer de tanto rogar y tanto suplicar, no pulsara la vihuela y entonara
+                maravillosamente por lo blando y expresivo, el siguiente:</p>
+               <p>Romance</p>
+               <p> En un alazán brioso </p>
+               <p>por entre bravos jarales, </p>
+               <p>huyendo, huyendo Jarifa </p>
+               <p>en grupas va con su Zaide. </p>
+               <p>El caballo va contento, </p>
+               <p>contentos van los amantes, </p>
+               <p>el corcel por ir saltando, </p>
+               <p>los dos por ir a gozarse. </p>
+               <p>Cabalgan los dos, cabalgan </p>
+               <p>por entre oscuros breñales, </p>
+               <p>que quien a hurto camina </p>
+               <p>de ocultas sendas se vale. </p>
+               <p>La vuelta van de la playa, </p>
+               <p>huyendo el odio de un padre, </p>
+               <p>para echarse en un esquife </p>
+               <p>y en Tremecén repararse. </p>
+               <p>Ya llegan a la alta cumbre, </p>
+               <p>ya ven azular los mares, </p>
+               <p>ya ven mecerse las velas, </p>
+               <p>ya piensan hollar la nave. </p>
+               <p>Mira, mira, dice el moro; </p>
+               <p>mira, mi amada, cuál salen </p>
+               <p>inquiriendo nuestras huellas </p>
+               <p>los jinetes del algarbe. </p>
+               <p>No temas, ella responde; </p>
+               <p>no temas, mi bien, mi Zaide, </p>
+               <p>que un encanto aquí me asiste </p>
+               <p>que presto a los dos nos salve. </p>
+               <p>Es un listón prodigioso </p>
+               <p>fadado con hados tales, </p>
+               <p>que dos que con él se ciñan </p>
+               <p>cierto, invisible se hacen. </p>
+               <p>Probemos, Zaide, probemos, </p>
+               <p>usemos mágicas artes, </p>
+               <p>y en su insensata pesquisa </p>
+               <p>nuestros verdugos se cansen. </p>
+               <p>Desdobla el listón Jarifa, </p>
+               <p>con él se anuda a su amante, </p>
+               <p>cuando de presto ¡oh, qué espanto! </p>
+               <p>ven una sierpe soltarse. </p>
+               <p>El fiero dragón se enrosca, </p>
+               <p>los ciñe en negros dogales, </p>
+               <p>el pecho para oprimirles </p>
+               <p>y los pies por cautivarles. </p>
+               <p>Que tal listón receloso </p>
+               <p>dar hizo a Jarifa el padre </p>
+               <p>para que hallase la muerte </p>
+               <p>donde sus gustos buscase. </p>
+               <p>Llega el rey enfurecido </p>
+               <p>vibrando el sangriento alfanje, </p>
+               <p>y abriole el pecho a Jarifa </p>
+               <p>y el cuello dividió a Zaide. </p>
+               <p>La algazara en los plácemes y vivas fue grande, los instrumentos redoblaron sus ecos
+                y las bendiciones llovían sobre doncella tan hermosa, tan coronada y cumplida con
+                cuantas dotes halagan los sentidos y cautivan el alma.</p>
+               <p>El soldado no podía resistirse en tanto a la admiración que le movía aquella estancia
+                y aquella riqueza; allá en su imaginación todo lo confería con las mejores y más
+                ricas cosas del mundo que había contemplado, y para sí decía.</p>
+               <p>«Estos moros denles agua, y os sacarán verdura de una peña; denles verdura, y os
+                darán un jardín, y con jardines y su idea, allí os levantarán una alhambra donde
+                mismo se os antoje el pedirla. Ellos dicen que su paraíso no es sino vergeles; pero
+                entre tanto, y por lo que acontecer puede, no son sus moradas, sino otros tantos
+                paraísos. ¡Descreídos! ¡Y nosotros siempre astrosos y sin tener un árbol donde gozar
+                la sombra y la frescura!»</p>
+               <p>Mientras esto él imaginaba, un suelto mancebo danzaba en medio del cerco lo más
+                galanamente posible. Hería el suelo tan blandamente, que no parecía sino que se
+                deslizaba por sobre el pavimento, o que algunos hilos invisibles le sostenían de
+                arriba y le columpiaban al son de la música. Con la mano diestra mostraba un adufe
+                revuelto con listones de colores, y que engarzando mil campánulas y pequeñuelos y
+                sonantes címbalos, correspondían, ya viva, ya suavemente con la armonía de los
+                músicos. A veces el danzador, en medio de su carrera, pasaba y repasaba ligeramente
+                el adufe por debajo de sus hombros, a veces lo lanzaba perdidamente por los hombros,
+                y como si estuviese atado a la voluntad del mancebo, siempre le venía a las manos
+                limpia y galanamente. Los ojos se perdían en tantas ruedas, sesgos y revueltas;
+                involuntariamente todos seguían el cadencioso moverse del que danzaba, y todos,
+                inmóviles en sus asientos, todavía se engañaban fantásticamente, creyendo cada uno
+                ser el bailador, que no el que real y ciertamente llevaba la danza.</p>
+               <p>Cada cual de aquel concurso, tanto hermosas como galanes, fue dando, para contento de
+                todos, cumplidas muestras, aquellas de sus gracias y estas de sus destrezas,
+                aplaudiendo siempre y cordialmente el soldado a todo, como si tuviese mayor placer
+                en ella, por lo mismo que recogía aquellas visualidades que el encogido arcaduz de
+                un solo ojo, y este también lisiado y enfermizo. Pero también tuvo que ponerse en
+                plaza y público anfiteatro, pues no faltando quien adivinase las buenas gracias del
+                gozque, los chistes del amo y las retahílas que relataba, todos apremiaron al
+                estropeado para que divirtiese la fiesta, no pudiendo excusarse este de tanto ruego,
+                ya por la demanda y ganancia que pudiera haber, ya por cierta idea que le bullía en
+                su magín.</p>
+               <p>Ello es que todo era hacerse consejos y consultas sobre aquel negro billete del don
+                Lope, y de ver cómo podría hacerle llegar a verdadero recaudo, según y conforme del
+                deseo de su dueño.</p>
+               <p>Según las veras y ahínco con que trazaba esta trama el soldado, bien parecía tener
+                alguna estrecha obligación que le inducía a ello; pero de ello, quier que fuese, es
+                cierto que pidió la vihuela, y después de acordada y de dar las palmadas a su
+                gozque, comenzó este a saltar de buena manera y el amo a tocar por la escuela más
+                extremada del mundo; hubo lo del rey de Francia, lo del saludo al emperador, el
+                besar las plantas de la más hermosa, el señalar las que estaban de boda, y otros
+                donaires de tal parecer.</p>
+               <p>En todas las gracias del gozque se veía una preferencia señalada por su bienhechora
+                María, no habiendo vuelta en que no diese muestras de sumisión o contento cuando
+                pasaba cabe la hermosa morisca. Cuando la señaló por la más bella nadie paró
+                atención en ello, pues cada cual en su imaginación aprobaba lo mismo, y era fácil
+                imaginarse que el gozque estaba ya adiestrado en el donaire; pero cuando la señaló
+                también por estar de boda, y que como queriendo huir de ella y como buscando otra en
+                quien hacer señalamiento, y no encontrándola, volvió a María y la señaló
+                definitivamente; el gozque dejó entonces escapar un gemido tan lastimoso, que erizó
+                el cabello a todo el concurso. Pero esta impresión fue pasajera y como relámpago en
+                noche serena; así pasó como fue olvidado enteramente en la memoria.</p>
+               <p>El soldado, llamando a sí el perro, prosiguió:</p>
+               <p>-Ahora, don Gozque, vais a ser mensajero del amor, oficio que requiere examen de
+                destreza y títulos de fidelidad; cuidado con trocar los frenos, que de tan lastimoso
+                descuido suelen provenir grandes desaciertos, y en ello vuestro buen nombre debe
+                quedar a salvo de cargo y responsabilidad. Tomad la posta, y tanto dure vuestro
+                viaje como dure la música y la letra de vuestro amo. Y esto diciéndole, y pasándole
+                la mano por la boca como si le pusiese algo en ella, y después inclinándose a su
+                oreja como para encomendarle alguna cosa, lo dejó ir, agarrándose él a la vihuela,
+                la que rasgueando diestramente, cantó con ella:</p>
+               <p>Motete</p>
+               <p> Mensajero, </p>
+               <p> corre y ve, </p>
+               <p>corre y ve presto y artero, </p>
+               <p>y de ausente caballero </p>
+               <p> llévale </p>
+               <p> a su amor </p>
+               <p>el billete más sincero. </p>
+               <p> No está lejos, </p>
+               <p> muy más fiel, </p>
+               <p>muy más fiel a tus consejos: </p>
+               <p>busca ansioso los reflejos </p>
+               <p> de un clavel </p>
+               <p> que dejó </p>
+               <p>entre búcaros y espejos. </p>
+               <p>El gozque corría desesperadamente en torno de los festejantes: dio tres vueltas, y a
+                la tercera, cuando cesaba la cantinela de su amo, saltando delante de María,
+                provocando las caricias de ella con sus donaires y juegos, no descansó hasta que
+                aquellas blancas manos de espuma y armiño viniesen halagosamente sobre su figura
+                canina, y entonces, como si tuviese un instinto superior a su naturaleza (tanto
+                puede el arte), lo dejó caer y depositó entre las manos de la doncella el billete
+                que tantas ansias y anhelos había arrancado a diversas personas.</p>
+               <p>María, que muy bien entendió la inteligencia del cantar, y que ni una mínima palabra
+                de él dejó ir de su memoria, viendo las señas casi discretas del perro, recordando
+                que por aquel mismo tiempo en que estaba debería tener nuevas de su ausente,
+                percibiendo en aquel punto un papel entre sus manos, y, más que todo, sintiendo
+                levantarse en su alma mil esperanzas de contento y gusto, no pudo resistirse de
+                tomar aquel mensaje y, lo que es más, de tomarle encubiertamente y sin dar sospecha
+                a nadie. Su discreción alcanzaba la tempestad que hubiera alzado si a la borrascosa
+                condición del primo, y al receloso natural del tío, y al odio de todos los moriscos
+                para con sus vencedores, hubiera venido a juntarse una sospecha verificada al punto
+                con la prueba plena de un billete.</p>
+               <p>Muley o don Fernando (pues cualquiera de estos dos nombres no da ni quita nada a lo
+                riguroso y altivo de su condición) seguía con el alma, que no con los ojos, todo el
+                curso de aquella farsa; y si bien es verdad que si no vio el embutir del billete en
+                la boca del gozque, ni el pase del tal depósito a las manos de María, siempre
+                sospechó que allí hubiese algo que se escondía de la atención común. Por lo mismo, y
+                para salir de tanta incertidumbre, puso en obra al punto el pensamiento que le
+                sugirió su recelosa sospecha.</p>
+               <p>-María -dijo dirigiéndose a la hermosa prima-, hoy es el día de tu natalicio y esta
+                la hora de media noche, hora en que tantos prodigios suelen verificarse. Las
+                doncellas de nuestra familia es fama que en tal día y en igual hora pueden sacar
+                ciertas maravillas del mundo invisible, o curar alguna dolencia rebelde según
+                quieran y según las fórmulas sabias y poderosas que empleen. Pues bien, no hagas
+                nada de prodigioso, pero prueba (pues a ello debe moverte tu natural compasión),
+                prueba, repito, tal poder en ese lisiado pobre, y ya que, aunque cristiano viejo,
+                asiste a nuestros regocijos, saque de ellos, además de la limosna, un bien que en
+                balde querrían dárselo los suyos.</p>
+               <p>Así como habló Muley todos fueron de su parecer, y allí fue rogar a María y Zaida,
+                pues cada cual la nombraba según su mayor o menor afecto a la religión santa, y
+                muchos la llamaban por entrambos nombres.</p>
+               <p>María repugnaba honestamente tal empeño, pero las súplicas fueron tantas, el objeto
+                se lo presentaron por tan piadoso y tanto de encarecimientos y halagos fueron y
+                vinieron, que al fin, dándose por rendida y confiando en la negativa del soldado,
+                que como cristiano viejo no admitiría tales prácticas, replicó:</p>
+               <p>-Puesto que a despecho de mi gusto habreme de vencer a lo que se me pide, todavía no
+                me prestaré a ello si el mismo soldado no me lo permite no callando, sino que quiero
+                oírle yo misma la súplica de su boca.</p>
+               <p>-Hermosa María -le replicó alegre el soldado-, no sólo deseo que toméis parte en este
+                consuelo mío, sino que os lo suplico lo más rendidamente posible, que aunque yo no
+                tengo en mucho tales prácticas, le doy en trueque tal encanto a la belleza, y tal
+                fuerza y poder a la intercesión de un ángel, que sólo con que vos pongáis mano en
+                ello ya me cuento por curado y franco y libre de lisiadura y de ceguera.</p>
+               <p>A esto oír se levantó María entre turbada y pesarosa, y desdoblando un listón, lo
+                pasó por la rodilla manca del soldado, aquella que apoyaba sobre el zoquete de
+                madera, y asimismo, relatando en silencio, unos como versos o nóminas, ató luego los
+                dos cabos del listón, diciendo:</p>
+               <p>-Mendigo, así te engarce tu rodilla como enlazados quedan estos dos cabos; y decir
+                esto y levantarse el soldado, arrojando el palitroque de la rodilla, y repetir a
+                gritos ¡milagro, milagro!, fue todo un punto.</p>
+               <p>Todos quedaron absortos, unos dudaban, los más se afirmaban en la verdad de aquellas
+                prácticas, y María, apartada al lado, y espantada de semejante maravilla, se
+                deshacía en protestas de que ella no tenía parte en aquella máquina diabólica,
+                prometiendo no repetir más nunca tan pernicioso ejemplo, y asegurándose con la mano
+                puesta en la cruz del joyel, parecía que ella buscaba un testigo que certificase de
+                su inocencia. Entre tanto, el soldado, a voz de contrapunto, clamaba así:</p>
+               <p>-Otra palabra, bella María, y de todo punto desaparece mi triste lisiadura, y otra y
+                última intercesión y desaparece mi ceguera.</p>
+               <p>Los del baile aplaudían, muchos preguntaban, todos respondían, gritaba el soldado y
+                saltaba y latía estruendosamente el perro. Todo era algazara, todo confusión; de
+                repente ábrense las puertas de la calle y vense entrar por ellas el Ayuntamiento de
+                los cristianos viejos con todo el aparato de justicia, el alguacil Molino, de
+                vanguardia, y la dueña Bermúdez, en la rezaga.</p>
+               <p>-Mirad -dijo esta-, ¡oh, reverenda justicia!, dónde están mis adoctrinadas; huyen mi
+                enseñanza saludable y se entregan a sus zambras, y no advierten en traer con ellas a
+                la prudencia y virtud personificadas en una dueña; los luengos mantos espantan a los
+                almaizares y alcandoras; vigilancia alerta, reverenda justicia.</p>
+               <p>-Callad, dueña Bermúdez -dijo el alguacil-; aquí hay algo de mayor cuantía que
+                vuestros chismes dueñescos; aquí hay prácticas, aquí nóminas luego debe haber
+                multas.</p>
+               <p>-Utique -replicó el notario.</p>
+               <p>-Pues mirad ahí, por sí mismo -prosiguió el honrado alguacil- la pierna de palo del
+                soldado Cigarral curado de golpe y por persona que no tiene ni puede tener título
+                para ello. ¿Qué es esto, señor? Es fuerza ver fin y punto a las contemplaciones;
+                también suenan ciertos rumores de moros berberiscos saltados en la playa, y que se
+                abrigan en estos contornos. ¿Qué es esto, señor; no hay justicia? ¿Se han de
+                permitir por más plazo los tratos y contratos de los rebeldes, la murmuración y las
+                sediciones? ¿Qué es esto, señor? ¿Señor, dónde estamos?</p>
+               <p>Nadie sabe dónde hubieran llegado los apostrofes y acriminaciones del multador
+                alguacil Molino, corchete ganzúa, según el buen dictado e intitulación del soldado,
+                si una inesperada peripecia no le cortara el rápido vuelo de su elocuencia.</p>
+               <p>El suceso fue un bien asentado golpe de revés en la pecadora boca, que dio con el
+                orador y su elocuencia en tierra, y volviéndose el caído y todo el concurso a ver de
+                qué mano se había disparado el ballestazo, vieron salir por delante de todos el
+                airado cuanto venerable Gerif, quien buscando con la vista al alcalde para
+                encomendarle sus quejas, así como tropezó con él, así le dijo:</p>
+               <p>-No creyera yo que donde estáis vos tomara, en son de reprimenda, la palabra persona
+                tan mezquina de condición, como de menos valer por su ejercicio, y tanto más
+                tratándose de agravio con persona de mi calidad.</p>
+               <p>Yo, por ser quien soy, por alcalde del Ayuntamiento de los míos, si vos lo sois de
+                los cristianos viejos, y por las honras que el rey quiere que sean guardadas a los
+                hijos y parientes de los reyes, bien puedo festejar a quien se me antoje, no
+                admitiendo en mi compañía sino a quien me iguale, o a los que por estrecho de
+                amistad me obliguen a ello.</p>
+               <p>Fue interrumpido aquí el ilustre Gerif por el alcalde del Ayuntamiento viejo por mil
+                excusas y cortesías, las que subieron de punto así que vio a María ser como el astro
+                que presidía aquel sarao.</p>
+               <p>-Bien habéis hecho -añadió a Gerif- en corregir de tal modo al alguacil por su
+                demasía, siendo mi venida por curiosidad y festejo, y de modo alguno por enmienda ni
+                admonición.</p>
+               <p>Calmose entonces la alarmada ira de los unos y el odio ardiente de los otros,
+                vistiéndose otra vez los aceros de las espadas y dagas, ya casi desnudas y prestas a
+                encender en fuego aquella que principió dulce y apacible fiesta.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo III</head>
+               <p>Trocada en sosiego la inquietud pasada, las cosas volvieron a su orden primero,
+                recobrando la fiesta la turbada alegría. Los nuevos entrantes tomaron su lugar,
+                según y conforme a su calidad y condición, logrando al fin la dueña Bermúdez el
+                verse presidiendo la banda de aquellas palomas, no tan blandas y obedientes como
+                ella quisiera.</p>
+               <p>El buen Antúnez, el usurero honrado, también fue de los entrados de antuvión,
+                buscando medio, si no para hallar el perdido envoltorio, al menos para dar parte de
+                todo a María, y conferir con ella qué artes podrían trazarse, para recobrar cosa de
+                tanto interés. Él, pensando tan ahincadamente en ello, manifestaba a los que le
+                conocieran su flaco, cuánto esmero ponía aquel vampiro de la hacienda ajena, para
+                ver aprobadas sus cuentas, y que las diese su amo y señor don Lope por de buena
+                data.</p>
+               <p>Así que, ganando un lugar, y deslizándose por aquí, y pasando por acullá, haciéndose
+                el poste a veces, afirmándose otras, y siempre mejorando de puesto, ello es que al
+                fin se puso a tiro silencioso del objeto de su viaje, término y blanco del correo
+                perdido, la hermosa María. Esta, que en algún intervalo se procuró tiempo para leer
+                el billete, ya se miraba por él instruida de la venida de su amante a Algeciras, y
+                de cuan próximamente habría de llegar oculto a la aldea. Así que al punto que el
+                perdidoso le habló de su desgracia, la morisca le consoló con la noticia de que ya
+                el papel estaba en sus propias manos, que no fue menos que volver el alma al cuerpo
+                de aquel pobre, y restañar la herida por donde sospechaba él que perdiera su
+                hacienda, y con ella la vida.</p>
+               <p>Ya iba el usurero, como quien por el sedal busca el pez, a preguntar de dónde vino el
+                hallazgo del billete, para introducir al punto la petición de su bolsa perdida, sus
+                papeles y apuntamientos; tal iba a preguntar, cuando de pronto o como viniendo de
+                los cercos huertos, se dejaron oír las puntadas más blandas y dulces, y el
+                instrumento más celestial que aquellos habitadores habían oído; tal era la extrañeza
+                y la dulzura de la música.</p>
+               <p>-Alto allá -dijo para sí el soldado-; esto que suena es arpa, y quien la toca, fuera
+                de ser de los diestros, ha cursado mucho por los castillos y torres góticas de la
+                Alemania.</p>
+               <p>Entre tanto, cesando de sonar sola y señera el arpa, sus tonos llegaron de nuevo a la
+                fiesta, casados con razones de esta</p>
+               <p>Balada</p>
+               <p> ¡Ay de mí! </p>
+               <p>¡Ay de mí, dulce tesoro! </p>
+               <p>Por ti sólo a quien adoro </p>
+               <p> dejo, sí, </p>
+               <p>gloria, lid, clarín sonoro. </p>
+               <p> El laurel, </p>
+               <p>el laurel de la victoria </p>
+               <p>no borró, no, nuestra historia, </p>
+               <p> ni amor fiel </p>
+               <p>nunca, nunca en mi memoria. </p>
+               <p> El azul, </p>
+               <p>el azul de bellos ojos, </p>
+               <p>y la taz de albores rojos </p>
+               <p> a un gazul </p>
+               <p>no le curan sus enojos. </p>
+               <p> Que de allá, </p>
+               <p>que de allá región tan fría </p>
+               <p>con ilusa fantasía </p>
+               <p> volará </p>
+               <p>al jardín de Andalucía. </p>
+               <p> ¡Ay Dios!, quién, </p>
+               <p>¡ay Dios!, quién un sol no deja, </p>
+               <p>por besar, con blanda queja </p>
+               <p> de su bien </p>
+               <p>una mano por la reja. </p>
+               <p> Tú, clavel, </p>
+               <p>tú, clavel, con tus dos soles </p>
+               <p>me hallarás en tus crisoles, </p>
+               <p> el más fiel </p>
+               <p>de los nobles españoles. </p>
+               <p>Cuáles fueron los pensamientos y contrarias resoluciones que estos acentos levantaron
+                en los ya recelosos e inquietos corazones de las diversas personas del festejo, no
+                es cosa que se sujetaría a fácil explicación: basta decir que María esperaba, que el
+                soldado reía, que amenazaba Muley, que Gerif se inquietaba, el usurero temía, y que
+                todos, ya curiosos, no ansiaban por mejor cosa que ver con los ojos aquella persona
+                que tan bien halagaba los oídos con su canto y su destreza.</p>
+               <p>Muchos se dispersaron diligentemente por ver quién primero introduciría aquel cantor
+                en el festejo; pero aunque tantos corrieron y rondaron la casa, fue vana toda
+                diligencia, y así se volvieron como habían ido.</p>
+               <p>Muley, disimulando el mal reprimido coraje que le hervía en el pecho, venciéndose por
+                aclarar sus sospechas, o reprimir las muestras de su cólera, se acercó al estropeado
+                ya medio sano, y en voz baja le dijo:</p>
+               <p>-Mira, soldado; en todo lo que aquí se pasa hay algo de oculto, que conozco y no
+                alcanzo: si yo me hubiera dejado ir a la mano de mi enojo, ya hubiera descendido el
+                castigo, antes que la discreción mía quisiera satisfacerse de las artes que aquí se
+                juegan; pero puesto que mi discreción ha hablado, quiero oírte decirme qué mensajes
+                tienes con Zaida, con María quise decir, y quién puede ser esa persona que cantó
+                poco ha.</p>
+               <p>El soldado escuchó sin la menor turbación del mundo hasta el fin el razonamiento de
+                Muley, y sin dar importancia ni a lo que oyó, ni a lo que él decía, respondió:</p>
+               <p>-María, como se llama -y no Zaida como tú mal nombraste-, es mi bienhechora, y los
+                agradecidos con los bienhechores tenemos ciertas obligaciones que no se pueden
+                revelar. No sé, aunque bien sospecho, quién sea ese cantor que tanto te asusta; pero
+                puesto que tú hablaste de discreción, yo la tengo bastante para no afirmar sino
+                aquello que no sé ciertamente y sin duda alguna; mas siendo cierto que entrambos
+                somos discretos, callémonos y soseguémonos, que, o yo me equivoco mucho, o la voz de
+                ese cantor, de oírla hemos, no tan lejos y más a orilla de nosotros.</p>
+               <p>Y haciendo una breve pausa el soldado para dirigir la vista hacia donde aguzaba las
+                orejas el gozque que al lado tenía, volviéndose con aire maligno y de triunfo a
+                Muley, que le miraba con dos ascuas de vidrio que no con dos ojos, le dijo a este
+                riéndose:</p>
+               <p>-Hele ahí, Muley.</p>
+               <p>Y todos revolvieron la vista hacia las puertas de los huertos, y vieron llegar airosa
+                y sosegadamente, mitad de caballero y mitad de camino, al mancebo más bizarro que
+                pintarse pueda la imaginación. El talle era galán, la estatura aventajada, el rostro
+                hermoso, y con una gravedad en él, y tal autoridad en su frente, que bien mostraba,
+                con todo de estar en sus floridos años, los cargos de cuenta que habría desempeñado.
+                Una ropa corta de fino paño pasada por los hombros le cubría hasta la rodilla; las
+                calzas eran a la francesa, que solían llamar de Francisco I, y las botas eran de
+                gamuza de Flandes: todo mostraba que venía del lado allá de Europa, y cuando no,
+                bastaría a certificarlo su arpa pequeña que traía en la mano, y ayudando a
+                sostenerla por los hombros con una banda encarnada.</p>
+               <p>-Caballeros y doncellas -dijo-, no os parecerá descortesía que un pasajero, que a la
+                dicha camina por aquí haya osado turbar vuestro regocijo con su presencia; pero bien
+                se podrá perdonar a un español que vuelve de tierras extrañas el deseo de gozarse en
+                los festejos de los suyos, y mucha nobleza me muestra este aparato para que no
+                confíe hallar agasajo en vuestra cortesía.</p>
+               <p>-Caballero -le repitió el anciano Gerif-, seáis el bienvenido; y puesto que nos
+                honramos con vuestra persona, bien os podéis regocijar en este concurso cuanto
+                cumpla al gusto vuestro, pues el valor de vuestra persona nos paga colmadamente
+                favor tan corto.</p>
+               <p>Muley hubo de reportarse de nuevo con la hospitalidad concedida por el tío al
+                incógnito pasajero, y rabioso y despechado cuanto más se veía obligado al disimulo,
+                se derribó otra vez sobre el arrimo de las columnas, atalayando como un neblí desde
+                el cielo, cuanto pasaba en derredor suyo.</p>
+               <p>Nuevo y mayor aliento tomó el festejo con la llegada del caballero, necesitándose de
+                la turbación agradable de los sones, de los acentos y de la blanda algazara del
+                festejo, para que María pudiese esconder, bajo la fuerza del disimulo, las más
+                contrariadas impresiones que probaba en aquel punto. Ella, clavando los suyos en el
+                entrado, no hacía sino seguir el corriente de cuantos hermosos ojos había en el
+                concurso, que unos por curiosidad y otros por afición, todos se fijaban en el
+                caballero; pero María miraba en él algo más que no un viajero vulgar.</p>
+               <p>La banda roja que sujetaba el arpa y un anillo que le vio brillar en la siniestra
+                mano, le bastara a probar que tenía delante a don Lope, si ella ya con su vista no
+                hubiera recogido aquella galana figura, para conferirla con el retrato que llevaba
+                en su corazón, sacando de todo en claro que quien se hallaba delante era
+                verdaderamente su antiguo y fiel amante, tantas veces pregonado por la fama en
+                Italia y Alemania, y tan altamente estimado por el emperador Carlos V. Para mayor
+                placer suyo, pues ya sin duda alguna estaba bien segura de quién era, hubo de oírle
+                las endechas siguientes, que al mismo son del arpa cantó el caballero, vencido de
+                tanto encarecimiento como se le hacía:</p>
+               <p>Endechas</p>
+               <p> Galán que te marchas, </p>
+               <p>por muerto te cuenta, </p>
+               <p>que amores ausentes </p>
+               <p>no hay cosa más muerta. </p>
+               <p> Son, sí, los amantes </p>
+               <p>una vida entera, </p>
+               <p>dos cuerpos y un alma </p>
+               <p>que un nudo los sella. </p>
+               <p> Pero en los dos ellos </p>
+               <p>hay tal diferencia, </p>
+               <p>que muere el que es ido, </p>
+               <p>y vive el que queda. </p>
+               <p> Acaso el estante, </p>
+               <p>porque bien parezca, </p>
+               <p>duelos por tres días </p>
+               <p>al ido celebra. </p>
+               <p> El lienzo a los ojos </p>
+               <p>acerca o aleja, </p>
+               <p>mojado por ellos </p>
+               <p>en llanto de fuerza. </p>
+               <p> Por cumplir se viste </p>
+               <p>las tocas más negras, </p>
+               <p>tocas que al domingo </p>
+               <p>en galas se truecan. </p>
+               <p> Memorias pasadas </p>
+               <p>se van como niebla, </p>
+               <p>finezas del día </p>
+               <p>sol es que penetra. </p>
+               <p> Y airoso mancebo </p>
+               <p>que el coso pasea, </p>
+               <p>y tercia la capa </p>
+               <p>y ronda la reja. </p>
+               <p> Terceras mediando </p>
+               <p>(mal hayan terceras) </p>
+               <p>los ganados juros </p>
+               <p>del ausente hereda. </p>
+               <p> Las glorias presentes </p>
+               <p>el olvido engendran, </p>
+               <p>fabrican mudanzas </p>
+               <p>las nuevas ternezas. </p>
+               <p> Y en tanto el ausente </p>
+               <p>gime, llora y pena, </p>
+               <p>y en acento triste </p>
+               <p>cantando se queja: </p>
+               <p>Mal haya quien fía </p>
+               <p>en mujer que queda. </p>
+               <p>La intención que el cantor dio a los últimos versos tan ahincada, el acento tan
+                blando, y las circunstancias tan claras, que María, sin estar más en sí, dejó asomar
+                a sus ojos las lágrimas más tiernas y de más amor y ternura; pero acaso al volver la
+                cabeza, y al encontrar la airada vista de Muley, que ni un átomo perdía del canto ni
+                de las lágrimas, fue tal el susto que sobrecogió a la ya tan combatida amante, que
+                temerosa y confundida se sintió tomar de tan cruel desmayo, que apenas tuvo tiempo
+                de dejarse caer en los brazos de las doncellas que alrededor estaban.</p>
+               <p>De un salto se hubiera puesto a los pies de la hermosa el rendido caballero, si su
+                voluntad no hubiera impedido un brazo vigoroso que le sujetó, así como sucedió el
+                desmayo, y se preparaba para acercarse a la desmayada.</p>
+               <p>-¿Quién sois vos? -gritó con voz de tigre Muley-. ¿Quién sois vos para venir a turbar
+                los festejos de la gente principal, y poner asechanzas a las esposas de quien vale
+                más que vos?</p>
+               <p>-¿Quién ha de ser -dijo el usurero, que conociendo a su amo, quería así ganarle
+                sagazmente el ánimo-, quién ha de ser, sino, el noble caballero don Lope Zúñiga
+                Dávalos Guzmán y Pacheco, heredero ricamente en estos contornos, señor de las villas
+                de Alchor y Ferreyra, merino que fue de la reina, paje del rey, comandante de su
+                tercio, querido del emperador, y...-no se oyó más; pues Muley, con un bote que tiró
+                a don Lope, principió el estruendo más espantoso.</p>
+               <p>Don Lope, que verse sujetado, apostrofado, desasirse, tirarse a fuera, y poner una
+                daga en la mano, todo fue uno, no hubiera escapado de alguna grave herida del
+                furioso golpe de Muley, a no llevar vestido bajo la ropa un fuerte jaco milanés.
+                Reparado así tal golpe, la revuelta comenzó encendidamente pues los moriscos a una
+                voz decían:</p>
+               <p>-Favor a nuestro príncipe Muley, muerte a los castellanos.</p>
+               <p>Don Lope, aunque sin espada, manejaba la daga tan viva y diestramente, que en
+                derredor de su persona parecía haber abierto ancho foso en cuanto alcanzaba su brazo
+                armado, que le ponía a cubierto de los más briosos; pero el furor de Muley le
+                estrechaba mucho, y su peligro crecía a cada instante. Los cristianos viejos que
+                allí se encontraban, prevenidos por la mano, y no dispuestos para tal revuelta,
+                apenas podían desembarazarse de la multitud morisca, y de la estrechez del lugar. En
+                esto, que todo fue obrar en un átomo de tiempo, se oyó la voz del soldado que
+                dijo:</p>
+               <p>-Hermano Cigarral, la curación que principió María conclúyala el peligro de mi amo y
+                señor.</p>
+               <p>Y decir esto, y arrojarse sobre las muletas, y despejarse con la una mano este ojo
+                enfermizo, y garfiarse con la otra, y arrojar aquel negro parche, y tirar por el
+                caballete de la una muleta, y sacar una terrible espada, y tirar del otro palo y
+                repetir otro igual acero, fue cosa hecha antes que vista.</p>
+               <p>-En vuestra ayuda soy, y a vuestro lado me tenéis, don Lope -dijo el soldado-,
+                acordémonos de Pormán y cierra España.</p>
+               <p>Con esto, y por esto, aquellos que parecían miembros tan doblados, enrevesados y
+                encogidos, mostraron tal elasticidad y vigor, que abriéndose calle el soldado con
+                tanto desenfado como bizarría, revuelta una capa al brazo, se le vio, sin saber
+                cómo, al lado del valiente caballero, ya armado este con una de aquellas espadas de
+                máquina que sacó el soldado.</p>
+               <p>Era de ver en tanto la confusa gritería, las lástimas de las mujeres, los parasismos
+                de estas, los ruegos de aquellas, y los llantos y aflicciones de todas. Cuáles
+                caían, cuáles se apresuraban por coger a hurto las puertas, buscando seguridad en la
+                fuga, y cuáles, estas eran las más principales, formando corro alrededor de María,
+                manifestaban querer dividir una suerte común, rogando a unos y suplicando a otros,
+                que difiriesen para otro caso tanto encono y tanta pelea.</p>
+               <p>Dos espadas tan diestra y poderosamente manejadas pronto ladearon la victoria a la
+                banda cristiana. Muley, a despecho de todos, contenía a los suyos, reparándose y
+                mejorándose como más a cuento podía; pero un enemigo, con quien no contaba, le puso
+                a la merced de sus contrarios. El pícaro gozque, como si entendiese el peligro en
+                que se encontraban los suyos, o porque estuviese adiestrado también para jugar tales
+                piezas, ello es que desde el comienzo de la danza, no se entretenía sino en pasar y
+                repasar, enredar y tropezarse entre los pies de los moriscos, derribando a muchos,
+                embarazando a no pocos, y procurando, al fin, la prisión de Muley, pues
+                atravesándose muy al propósito a las espaldas del moro, cuando este rompía en
+                retirada, se enredó miserablemente, y cayó en tierra sin más poderse recuperar.
+                Todos cargaron sobre él; pero las espaldas de sus dos contrarios, ya amigables
+                custodios, le libertaron de todo insulto.</p>
+               <p>-Levantaos -le dijo don Lope.</p>
+               <p>-No hará tal -replicó el alcalde-, sino para entregarse a merced de la justicia,
+                tanto y más, cuanto que corren voces de venir don Fernando Muley de las costas de
+                Berbería.</p>
+               <p>El Gerif, a cuyo desplacer tuvo principio tan grande revuelta, y que por más
+                demostraciones que hizo no pudo apaciguarla, quiso interponer su respeto para
+                excusar de la prisión a su sobrino; pero todo fue en balde, pues las sospechas de
+                que andaban en tratos de rebelión, y apellidarle príncipe durante la refriega, eran
+                capítulos de no fácil enmienda. Sin embargo, la autoridad de don Lope alcanzó el que
+                Muley asistiese como prisión en la propia casa del alcalde, mientras él acallaba los
+                unos, y podía prestar favor a los otros.</p>
+               <p>Hecha cata y cala de los botes, tendientes, estocadas, tajos y mandobles de la
+                revuelta, resultó, como casi siempre, ser mayor la salva que el provecho, quiero
+                decir, que todo se redujo a no muchos levantes de espadas y a cuatro abolladuras de
+                cabeza. El miedo de ofender a las mujeres no permitía a los combatientes herir con
+                el acierto que hubieran empleado a medirse cuerpo a cuerpo y en campo raso. Sin
+                embargo, de ello, se dejaban sentir unos lamentos tan tristes, que todo el mundo
+                creyó haber acontecido mayor desgracia; pero tales duelos y lastimerías no eran más
+                que los sollozos de la Bermúdez y los gritos del usurero; de aquella por otras tocas
+                que acababan de perder, y de este por mirarse roto y manchado en todas las
+                galas.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo IV</head>
+               <p>Era la misma hora, era el propio lugar y frontero al puente aquel roto, debajo de los
+                hermosos nogales y al lado mismo de aquella fuente clara, se miraba un hombre
+                sentado, pero de muy distinta traza a la del mendigo ciego y lisiado con quien nos
+                comunicamos en conocimiento al comienzo de esta historia.</p>
+               <p>Este personaje, muy al contrario, parecía gozar de la mejor agilidad de sus miembros,
+                se hallaba en lo más duro y viril de los años, que no llegaban a los cuarenta, y con
+                muestras tales de robustez y fuerzas, que si causara empacho viéndole saltar y
+                defender delante de uno algún puesto o calle, en trueque haría el más confiado del
+                mundo a quien lo trajese consigo y mirase al lado.</p>
+               <p>Unas calzas de gamuza, muy traídas y llevadas, aunque todavía de buen servicio, le
+                tomaban aquellas piernas, antes tan de rúbrica y garabato: unos follados de colores
+                se sujetaban a una veste soldadesca que llegaba en medias mangas a la mitad del
+                brazo, tomadas las vueltas anchas con colorado tabí. La veste se cerraba sobre un
+                coleto fuerte y robusto, que abultando algún tanto las espaldas, concluía en la
+                misma muñeca defendiendo el brazo. Una valona azul, si no erizada, al menos con
+                mucho engrudo, le encanutaba el cuello; y un sombrero campanudo de copa, galán, con
+                plumas, ancho de faldas, y estas tomadas por delante con cuatro puntos de sirgo
+                dorado ponían cabo y fin a la tal figura. Estupenda filisberta toledana tenía entre
+                las rodillas, apoyándose las manos en ella, una daga flamenca le parecía en la
+                cintura, y en su traza picaril y en su catadura aviesa y maligna cualquiera le
+                juzgara de la genealogía y linaje de los famosos Rinconete y Cortadillo.</p>
+               <p>Sentado como se hallaba, así y en media voz, y esta ronquilla, y más asomada a lo
+                bronco que a lo apacible, se entretenía cantando de esta manera:</p>
+               <p>Moreto</p>
+               <p> Nací muy pobre, </p>
+               <p> ¡oh, qué dolor!, </p>
+               <p>bien pobre aún soy: </p>
+               <p>mas esto es hoy, </p>
+               <p> mañana, no. </p>
+               <p> Que quien desprecia, </p>
+               <p> ¡viva el valor!, </p>
+               <p>en lid la muerte, </p>
+               <p>al fin la suerte </p>
+               <p> lo coronó. </p>
+               <p> Lid haya y guerra, </p>
+               <p> sí, ¡vive Dios!; </p>
+               <p>bien corra el dado, </p>
+               <p>y de soldado </p>
+               <p> a conde iré. </p>
+               <p> Navarro y otros, </p>
+               <p> ¡son más de dos!, </p>
+               <p>soldados fueron, </p>
+               <p>por do subieron </p>
+               <p> yo subiré. </p>
+               <p> Mi rey don Carlos </p>
+               <p> ¡entre en París!, </p>
+               <p>y Dios y él solo </p>
+               <p>de polo a polo </p>
+               <p> han de reinar. </p>
+               <p> Y por premiarnos, </p>
+               <p> ¡grano de anís!, </p>
+               <p>tal bizarría, </p>
+               <p>ya Dios envía </p>
+               <p> de orbes un par. </p>
+               <p> Capitán, tente, </p>
+               <p> ¡bravo español!, </p>
+               <p>Pizarro aguarda </p>
+               <p>que una alabarda </p>
+               <p> falta al Perú. </p>
+               <p> Que lo que vale, </p>
+               <p> ¡o miente el sol!, </p>
+               <p>un pica bravo, </p>
+               <p>¡oh, insigne cabo!, </p>
+               <p> lo sabes tú. </p>
+               <p> Iré a esas tierras, </p>
+               <p> ¡vamos allá!, </p>
+               <p>me haré de oro, </p>
+               <p>de algún rey moro </p>
+               <p> que venceré. </p>
+               <p> O para colmo, </p>
+               <p> ¡gusto será!, </p>
+               <p>de suerte tanta, </p>
+               <p>con una infanta </p>
+               <p> me casaré. </p>
+               <p> Tendré esclavillos, </p>
+               <p> ¡ah!, ¡ah!, la, la, </p>
+               <p>rubís, topacios, </p>
+               <p>cuatro palacios </p>
+               <p> y un gran confín. </p>
+               <p> Y señor noble, </p>
+               <p> ¡lará, lará!, </p>
+               <p>con mayorazgo, </p>
+               <p>de algún hartazgo </p>
+               <p> moriré al fin. </p>
+               <p>Al darle a tales coplas, cantadas, como suele decirse, a palo seco, sin compás ni
+                ayuda de instrumento alguno, y solo con la buena o mala compañía de su áspera
+                garganta, hele ahí que asoma por alto de la senda un galán y sobremanera bizarro
+                caballero, que siendo el mismo que la pasada noche se presentó en fiesta, todavía se
+                ostentaba ahora con todos los arreos de galas, plumas y argentería convenientes a la
+                gentileza y calidad de don Lope de Zúñiga.</p>
+               <p>El ciego, con vista y lisiado sin manquedad, ahora nuevamente restaurado en todo el
+                valor de sus piernas y bien corregido y enmendado en el desembarazo de sus miembros,
+                así como vio llegar al caballero, destocándose el sombrero y ahinojándose
+                reverentemente, le comenzó a decir:</p>
+               <p>-Perdón, perdón, y mil veces piedad para el buen Mateo del Cigarral, soldado pica que
+                fue de la compañía de Francisco Carvajal en Italia, arcabucero después en el tercio
+                de Zamudio, y después continuo de la ilustre persona del ilustrísimo caballero don
+                Lope de Zúñiga. Yo me confieso, señor, que sin enmienda a los pasados yerros cobré a
+                vuestra orden los cien ducados en Gante del burgués Guillermo Goffren: confiésome,
+                asimismo, que sin mandato, ni contraseña de maese de campo, ni otro superior, con
+                más arrojo que discreción los puse a lidiar, usurpando el título que no tenía de
+                señor de ellos, en aquel negro negociado de palo y pinta. Confiésome -y es la peor
+                confesión-, que no embargante mi pericia y consumada experiencia, fui roto, vencido
+                y dado tan a merced, que a no ser por un real de a ocho que me dieron de barato,
+                sabe Dios lo que fuera de mi estómago, quiero decir de mi persona. ¿Cómo, señor,
+                después de tan infeliz jornada volveros a presentar mi pecadora catadura? ¿Cómo
+                llevaros a juicio mi conciencia tan sucia, como limpias y escuetas las garduñas
+                manos? Llorando mi desgracia, recordando mis muchos merecimientos, teniendo los
+                galardones atrasados, donándome de los golpes futuros y despidiéndome en mente, no
+                solo de vos, sino de aquellos cautivos cien ducados, tan llorados como perdidos,
+                resolví volverme para España y buscar partido en esas aventuras de las Indias.</p>
+               <p>No pagar feudos a mesones y hosterías, no siendo tan devoto para romero, y
+                sospechando que mi vestido de soldadesca me reclutase a fuerza viva para esas
+                banderas de Italia, resolví cobijarme uno de tantos disfraces como aprendí y estudié
+                con la noble caballería de la industria. Largas han sido mis peregrinaciones,
+                aventuras curiosas me han asaltado, y con ellas os entretendré las horas de camino o
+                los ocios de viaje, estos por mar o aquellas por tierra, si es que merezco por mi
+                atrición y contrición timore et tremore, volver a tomar asiento en su servicio y
+                asistir cercano a su ilustre persona. Siempre cuento, con buena justicia y equidad,
+                que en contraria balanza de estos pecadillos y deslices, se me pondrán en cuenta y
+                data, no los servicios de soldado, pues para premiar vos no sois Emperador, sino mi
+                buen ingenio en el tiempo que os serví, la grata voluntad que siempre os tuve y
+                tantas cuchilladas como di a vuestro lado en diversas ocasiones. No os cargo nada ni
+                aprecio en pizca los últimos cintarazos de anoche, pues la salud que cobré
+                inopinadamente y la curación que se operó en mi lisiadura, las tomo y apunto por
+                buena, legitima y muy sobrada solvencia.</p>
+               <p>Quién sabe dónde hubieran ido los dislates, burlas y tarabillas del soldado Moyano
+                del Cigarral, si don Lope no le hubiese levantado con el mayor afecto, abrazándole y
+                comenzándole a hablar de sus pasadas peregrinaciones y aventuras.</p>
+               <p>En suma de cuento, ello es que don Lope le endonó y perdonó a Cigarral las atrasadas
+                trabacuentas, inclusive los cien ducados del burgués Goffren, lidiados y vencidos en
+                el negro negociado de palo y pinta, concluyendo aquella ceremonia con que la buena
+                maula entrase de nuevo al servicio de don Lope.</p>
+               <p>Cigarral le añadió a este, por qué sucesos caminando para Sevilla en busca de flota
+                para el Perú y en lenguas de su capitán Carvajal, había llegado a aquella aldea,
+                donde su disfraz mendigante, moviendo la piadosa condición de María, dilató de un
+                día a otro día su peregrinación hasta aquel trance.</p>
+               <p>-No dudando yo -proseguía el soldado-, sirviéndome de disculpa para este mal
+                pensamiento los sucesos ahora acontecidos, y sin que sea visto agraviar en un tilde
+                la caridad de María, que para las obras pías dispensadas al lisiado Cigarral han
+                intervenido y valido en mucho los merecimientos de don Lope de Zúñiga, porque os
+                hago saber, señor, que allá relatando, aquí mintiendo, y siempre alterando la
+                verdad, como hace todo viajante, acerté a nombrar en una de tantas novelas vuestro
+                apellido y condición, y no hay duda que desde entonces merecí más atención y
+                agasajo, si no digo mayor caridad y limosna, de esa hermosísima señora de vuestros
+                pensamientos.</p>
+               <p>Luengo espacio confirieron los antes conocidos y ahora nuevamente confirmados amo y
+                escudero, sobre los medios de poner en práctica una entrevista con María, ya
+                indudablemente celada, y muy de cerca puesta en custodia por Gerif, su tío, desde
+                los sucesos de la noche.</p>
+               <p>La historia puesta ya en este punto, no será fuera de propósito advertir qué
+                circunstancias había, y qué pensamientos animaban a los más principales de estos
+                nuestros personajes.</p>
+               <p>Don Lope, alcanzada licencia del emperador para enlazarse con la ilustre cuanto
+                hermosa doña María de Granada, así como llegó en las galeras de Leiva y tomó tierra
+                de España, no pensó sino en ser él mismo mensajero de tan agradables nuevas; y con
+                poco séquito e infinitas esperanzas quiso llegar lo más luego a la aldea donde sabía
+                asistir la amada suya.</p>
+               <p>Receloso de que el odio altivo de aquella familia destronada le burlase sus anhelos y
+                su amor, había querido interesar en todo al emperador, quien por su parte miraba con
+                placer aquellos enlaces que pudieran apartar de toda revuelta a los renuevos de los
+                Granadas.</p>
+               <p>Los moriscos, siempre fija la vista en su independencia y su venganza, no apartaban
+                su cariño de aquella familia que por tantos años había sostenido en España el
+                vacilante poder de los árabes haciendo de Granada la ciudad más hermosa del mundo.
+                El descontento de la nación vencida tuvo sus intercadencias según y como que la
+                política de la Corte los halagaba o los oprimía; pero siempre es cierto que mal
+                avenidos con la religión que habían abrazado a la fuerza, sentidos con las fardas y
+                gabelas con que eran pechados, ofendidos de las ordenanzas que les pregonaban, y
+                rabiosos con la altivez de los vencedores, no esperaban sino ocasión adecuada para
+                revolverse, tentando para ello los vecinos reinos de África, y el nuevo y formidable
+                poder que desde Constantinopla amenazaba a toda la Cristiandad.</p>
+               <p>Gerif, que alcanzó en pie en su años primeros el Señorío de la Alhambra, no podía
+                separar de su memoria aquel esplendor pasado, como ni de su alma la afición más
+                vehemente por su nación desgraciada, mirando gustoso por lo mismo las revueltas que
+                tramaba su sobrino Muley.</p>
+               <p>María temblaba con tales apariencias, pues su madre, que tomó el agua de bautismo de
+                aquel arzobispo de Granada, a quien por alabanza llamaron el Santo los moriscos,
+                imprimió a su hija el más tierno apego a la religión cristiana. Empeñada en los
+                amores de don Lope, y éste ausente con el emperador en la jornada de Alemania, vivía
+                huérfana, lejos de los palacios de Granada, alegrando con su presencia los cansados
+                ojos del anciano Gerif.</p>
+               <p>Muley, prendado de las gracias de su prima, él mismo se la había destinado y nombrado
+                de antemano para premio de sus anhelos y corona de su trabajo desde que diese el
+                grito de independencia, conociendo al mismo tiempo que nada podría ejecutar más bien
+                visto como este enlace para aficionarse más y más las voluntades de sus moriscos.
+                Gerif, aunque de intento no apremiaba en nada a María por los amores de Muley, con
+                todo ello bien la demostraba el placer que habría viendo así unidos los últimos
+                vástagos de los Granadas, como decían los cristianos, o de los Benezeritas, según
+                los genealogistas árabes.</p>
+               <p>Don Lope, sospechando por lo menos alguna de tan capitales asechanzas, ardía por
+                verse con María para pintarle más vivamente lo que solo apuntó en el billete que
+                llegó a sus blanquísimas manos por los peregrinos medios que ya hemos relatado.
+                Estos y otros iguales pensamientos, ni más lisonjeros ni menos recelosos, pasaban
+                por la mente del caballero mancebo, durante el coloquio de Cigarral, lo cual leído
+                por la sagacidad escuderil de este, sin más tardar le habló a su amo de esta
+                manera:</p>
+               <p>-Por cierto, señor, que muy mucho agraviáis mi alta capacidad, y en bien poco tenéis
+                mi ingenioso magín, si así os inquietáis por tan poca cosa; dejad penas y sabed que
+                en manos está el son que sabrán a buen tiempo coger el compás. María pasa
+                cotidianamente y a esta hora por este mismo sitio, viniendo de los huertos que para
+                su recreo tiene Gerif en esas quiebras del valle. Si, como es presumible, viendo
+                enemigos en campaña, Gerif resuelve estar a la defensiva sin desamparar muy mucho
+                los muros de su casa, ya tiene encima corredores que le batan la estrada muy de
+                cerca; y si temeroso y cauto en demasía, ha determinado levantar puentes y
+                rastrillos y declararse en asedio formal, ya le he escurrido entre los propios suyos
+                tal espía, que muy presto nos informará de todo movimiento enemigo. El mancebillo
+                Mercado, muchacho despabilado y despierto, avizora las rejas de María, y mi gozque,
+                que lleva delantera en esto de avisado, se encuentra en este propio instante donde
+                vos querríais hallaros, esto es, ante los ojos de la muy alta y muy ilustre señora
+                doña María de Granada, otorgada esposa de... pero hele, hele por do viene nuestro
+                mensajero el gozque, que nos dará lenguas de todo.</p>
+               <p>A más andar, corriendo y escarceando llegó el adiestrado y entendido perro, trayendo
+                entre sus dientes un listón de ciertos colores misteriosos. Amor y cita, y cita a la
+                media noche, dijo Cigarral, si no me mienten estos jeroglíficos amorosos; y diciendo
+                esto, tomando con maligna reverencia de boca del gozque aquél billete no escrito, le
+                puso en manos de don Lope, quien no reparó o quiso no reparar en las socarronerías
+                de aquella buena maula, ansiando por ver la noche rayar en lo más alto de su
+                carrera.</p>
+               <p>Eran las doce, y cercanos a las tapias de un jardín dilatado, se miraban dos hombres
+                silenciosamente inmóviles y los rostros cubiertos con misteriosos embozos. Un can,
+                asentado tan calladamente como si entendiese la alta ocasión en que se encontraba,
+                avizoraba las celosías de una reja, y el sosiego era tanto, que se percibían
+                desprenderse las hojas de los árboles, que derramándose de rama en rama, se
+                arrastraban someramente por el suelo al blando céfiro del otoño.</p>
+               <p>En esto se oyeron gritar blanda y prolongadamente los quicios indiscretos de la
+                ventana, y María apareció tras de la reja, teniendo al punto cerca de sí a su
+                enamorado amante.</p>
+               <p>Si no hay pluma tan rápida que pueda seguir con su vuelo la elocuencia animada de un
+                coloquio amoroso, menos contento quedara de su intento todavía si ensayara repetir
+                punto por punto las primeras razones de dos amantes que, separados por largos días,
+                de pronto se ven juntos por uno de tantos caprichos como tiene la fortuna: pues lo
+                sentido de las quejas, pues el fuego de las razones, pues la inflexión de la voz, y
+                la turbación, y el placer, y el desenojo, y los éxtasis y mil y mil otras nonadas
+                tan fugaces como deliciosas, más bien son para imaginadas y sentidas, que para
+                concebirse y explicarse.</p>
+               <p>Al fin, desahogados con tales pláticas algunos de los suspiros que a entrambos pechos
+                oprimían, y desanudados con el gusto algunos de los suspiros engendrados en tanta
+                ausencia, la hermosa morisca, oyendo los intentos de su amante y pesando en
+                contrarias balanzas lo que pedía el amor con la situación de don Lope y la ilustre
+                condición suya, así le dijo:</p>
+               <p>-No os podré encarecer bastantemente, señor y esposo mío -pues tal nombre me lo
+                sugiere el amor y lo merecen vuestras finezas-, no os podré encarecer, repito, en
+                cuánto os estimo tanta constancia, y tanta demostración galante y fina de vuestra
+                voluntad; baste deciros que si el amor no os hubiese ya dado, y tanto tiempo ha,
+                toda la posesión de mi albedrío, el agradecimiento sólo pudiera ser que me obligase
+                para abriros las puertas del alma mía: mas puesto que mi afición toda es por amor,
+                bueno será que lo debáis a este antes que a otro cualquiera sentimiento, que siendo
+                aquel el más poderoso de los hijos del corazón, a él obedecen todos, y todos los
+                hermanos siguen ciegamente los fallos de su voluntad.</p>
+               <p>Bien sabe mi Dios con cuánto gusto obedeciendo la vuestra, que no es otra que la mía,
+                y siguiendo el mandato del emperador, desde mañana os daría la mano de esposa aun en
+                la estrecheza de esta aldea; pero don Lope, padre tenéis y lo que el Rey manda,
+                bueno es que sea con asentimiento de los que tienen natural y necesaria autoridad
+                sobre nosotros. No os ocultaré cuánto me disgusta dejaros de obedecer en esto, por
+                lo mismo que sé cuánto riesgo corremos de naufragar en nuestras esperanzas. El
+                desdén con que los castellanos comienzan a mirar a los de la nación mía, y
+                principalmente vosotros los hidalgos, cosa es tan dura, que hace temblar de rabia al
+                menor de los vencidos, y de noble furor a la familia de los reyes. Si otra de menor
+                condición que la mía pudiera contentarse con ser admitida fríamente en linaje como
+                el vuestro, lo que debo a mis padres y el respeto que me tengo, me imponen la triste
+                obligación de rehusar cualquiera alianza en que el orgullo castellano crea
+                únicamente dar una piadosa hospitalidad a la nieta de los reyes de Granada.</p>
+               <p>Partid, don Lope, a vuestro palacio; alcanzad licencia de vuestro padre; sepa yo que
+                en mí querrá abrazar una hija y no mirar de reojo a la esposa de su hijo; volved tan
+                amante como ahora os mostráis y vuestro gusto y el mío se cumplirán colmadamente
+                sabiendo que ni fuerzas humanas podrán arrancar vuestra imagen del pecho mío durante
+                tal ausencia, y que ni el orbe entero me evitará un monasterio si el ser quien soy
+                me obliga a rehusar el amor vuestro.</p>
+               <p>A estas palabras y a las ideas que ellas resucitaban en su alma, la hermosa morisca
+                no pudo detener el llanto, y aplicando en sus ojos un blanco lienzo, se entregó por
+                algunos instantes a lo más acerbo del dolor.</p>
+               <p>En esto, el gozque, alzando las orejas en ademán de inquietud, comenzó a murmurar
+                mirando hacia un cabo de las tapias, y a la luz de cierta lámpara que ardía delante
+                de una imagen apartada, se dibujó la negra sombra de un bulto que observaba el
+                jardín y la reja, y que viendo ocupada la calle, torció otro camino sin aguardar a
+                ser alcanzado por los pasos diligentes, si bien silenciosos, de Cigarral.</p>
+               <p>No estaban ociosos, en tanto, los ruegos del amante, ni sus lágrimas escaseaban, ni
+                sus encarecimientos disminuían; pero por más que representó don Lope el peligro de
+                que fuese ella importunada por Muley, suplicada por Gerif, y obligada por todos a
+                cosa que aguase las esperanzas de entrambos, con todo, pudieron más en María las
+                imaginaciones de ser mirada con menos valor que debiera por parte del padre de su
+                amante y de su linaje orgulloso.</p>
+               <p>Obligados, al fin, a separarse, los amantes aseguraron sus promesas, poniendo al
+                cielo por testigo de sus juramentos santos, quedando María en aguardar y resistir, y
+                don Lope, en alcanzar de su padre, y volver antes de mucho a poner fin a tantas
+                inquietudes y aflicciones.</p>
+               <p>Amaneció un día turbio y revuelto como ya del corazón del otoño, y don Lope disponía
+                su viaje para aquella misma tarde. Un guía debiera bajarlo a Marbella para desde
+                allí tomar una fusta y remar hasta Motril y luego caminar a Granada, huyendo así lo
+                más posible de los abanderizados monfíes, que eran salteadores moriscos. Entre esta
+                ocupación y los pensamientos del amor, dividía sus imaginaciones, cuando entrando
+                Cigarral, le dijo:</p>
+               <p>-Tomad, señor, este papel, que Mercado os trae de la parte de Muley, el aprisionado
+                en casa del alcalde.</p>
+               <p>Don Lope, abriéndolo, leyó de esta manera:</p>
+               <p>«Un príncipe de Granada a un castellano:</p>
+               <p>»Si mi palabra y mi honra no me hubieran tenido preso donde mis manos no podían
+                vengar mis injurias, anoche mismo hubiera bañado con tu sangre las rejas de
+                María.</p>
+               <p>»Yo quiero, o probar tu hierro de Flandes, o hacerte probar mi acero de Damasco; mas
+                para ello tú solo puedes procurarnos tal placer sacándome hoy mismo al fiado de esta
+                prisión, cosa por cierto fácil a tu autoridad. Quiero vengarme con todo ese aparato
+                que vosotros, menos sentidos y más artificiosos que nosotros, llamáis generosidad y
+                caballería.</p>
+               <p>»Para inflamar tu cólera, te diré que a despecho del mundo, tu amada será mi esposa;
+                pero esto es poco para un árabe si no ve el color de la sangre de su rival. A la
+                tarde espero estar libre y al anochecido verme contigo a la ribera opuesta del
+                puente entre los árboles del bosque.</p>
+               <p>Muley.»</p>
+               <p>Aún todavía don Lope no había segundado la lectura del enfurecido billete, cuando
+                entró de nuevo el soldado diciendo:</p>
+               <p>-Día es de postas y correos; mi gozque, que ha corrido el campo, ya a esta hora trae
+                este billete, que si no es de María deberá ser de algún pintor, pues ni el famoso
+                Lucas, ni Icíar, ni otro alguno de los de la péndola hará ni más ni bien asentada
+                letra, ni más delicados perfiles.</p>
+               <p>Confuso y turbado don Lope rompió la nema, y vio que así decía el papel:</p>
+               <p>«Lo que anoche mismo os negaba, hoy os lo suplica encarecidamente María. No solo me
+                quieren apartar de vos, sino de esta mi tierra querida de España, llevándome a esas
+                costas de África. Muley con los suyos me arrancará esta noche de los brazos de mi
+                tío quien no podrá o no querrá oponerse a tal violencia por amor a Muley y al ahínco
+                con que desea conservar los derechos de nuestra familia. Dos galeazas tunecinas
+                esperan para esta facción y rondan en los ancones de la playa.</p>
+               <p>»Aunque de vos me ayude para desviar de mí riesgos tan grandes, solo será para que me
+                dejéis en un monasterio, el más a mano, hasta que de vuelta de Granada o me saquéis
+                de él para ser vuestra, o me dejéis allí para ser de Dios.</p>
+               <p>»Al principiar la noche me aguardaréis cerca del puente, y todo pronto para
+                acercarnos a parte de que no perdamos valor.</p>
+               <p>María.»</p>
+               <p>Perdido de cólera don Lope, y entre los dos terribles escollos de la honra y del
+                amor, revolvía en su alma mil medios para poder asistir al desafío de Muley y
+                amparar los miedos tan bien fundados de su señora. Resuelto al fin, llama a su
+                escudero y le presenta el estado de las cosas.</p>
+               <p>Cigarral, que no se turbara ni por venir rodando de una torre abajo, le dijo:</p>
+               <p>-Todo es nonada y asunto ninguno. Aunque mejor fuera poder sacar de esta aldea seis o
+                cuatro buenos arcabuceros, la gente cristiana de ella es tan poco belicosa, que solo
+                el boticario es quien maneja cosa de guerra, y eso son las espátulas; pero vuestros
+                dos criados parecen gente de punta; a ella agregaremos ese muchacho, Mercado, que
+                más talle tiene de paje ahora y luego de alférez, que no de andar entre badajos y
+                candelillas, y con estos tres y nosotros dos bien podemos desafiar a veinte. El
+                camino de aquí a Ronda es corto, la priesa que nos daremos mucha, y si vos os tomáis
+                el cargo de abrir un par de puntos a la cabeza medio bautizada de Muley, después
+                mientras se emparcha y acuden los suyos, ya nosotros estaremos en salvo puerto, a no
+                ser que encomendéis a la punta de vuestra espada visite bien visitado el pecho de
+                ese jayán, y lo dejéis y esto sería lo mejor, de manera que no piense en moverse de
+                aquí hasta el día del juicio.</p>
+               <p>La planta de la empresa resuelta, pizca más pizca menos, de esta manera, don Lope
+                cuidó de que Muley pudiese estar en libertad al momento preciso, y su confidente y
+                escudero fue para armar a Mercado, alicionar a los criados y tenerlo todo a punto,
+                como experimentado maese de campo.</p>
+               <p>La tarde se cerró temerosamente en lluvias y ventisca, tomándola por la mano así
+                antes de tiempo las sombras de la noche. Las nubes aglomeradas y empinándose en las
+                cumbres, levantaban unas como montañas cenicientas que juntaban la tierra con el
+                cielo, resaltando más y más aquel color pálido con otras nubes espantosas que
+                volaban inciertamente por la agitada atmósfera. Las crecientes de las sierras se
+                despeñaban por las quiebras desesperadamente, convirtiendo en mar el río que
+                caminaba por aquellas hondas negruras del Tajo, donde y en lo más alto se alzaba el
+                puente destruido. El mugir de aquel abismo llegaba a los oídos sobre todo el
+                formidable estruendo que revolvía entonces la naturaleza, cual el rugido del león,
+                venciendo poderosamente el aullido de las otras fieras, él solo hiela y desmaya más
+                al extraviado caminante.</p>
+               <p>Tímida María, dejaba entonces los umbrales de su casa, encaminándose hacia el sitio
+                de la cita, y tres veces tuvo que arrancarse de ellos con toda la fuerza de su alma:
+                tal repugnancia probaba y oculto horror al emprender aquella aventura. Al fin,
+                animada y más resuelta con el peligro de verse arrebatada al África, y allí mirarse
+                combatida ferozmente en su amor y en su religión, se arrancó del querido hogar y
+                atravesó los jardines y huertos, llena de amargura y zozobras.</p>
+               <p>La tempestad aumentaba, y María iba entre la oscuridad y los árboles hacia el puente
+                destruido, asustada y temerosa con mil imágenes y fantasmas.</p>
+               <p>Para colmo de amargura, no tardó en sentirse seguida del anciano Gerif, quien
+                receloso de alguna resolución peligrosa, pues ya conocía cuan a disgusto de María
+                era el emprender la fuga al África, no apartaba los ojos de ella. Por lo mismo, así
+                como ella salió por | los jardines, no iba Gerif lejos de sus huellas.</p>
+               <p>El desgraciado anciano, que fiaba en su sobrina hermosa la dicha de los breves días
+                que le quedaban sobre la tierra, no acertaba a vivir sin ella ni un solo instante.
+                Arrastrado más que no convencido por las furias de Muley, ya se arrepentía de haber
+                dado por su culpa razón a María para creerse arrebatada de España. El desvalido
+                anciano, ora aquí, ora allá, pensaba ver los blancos velos de su sobrina revolar
+                entre las sombras, y entonces, alzando su desmayada voz, la decía:</p>
+               <p>-No me huyas, mi Zaida; no me huyas, mi María (pues yo te daré el nombre que tú mejor
+                escojas). ¡Por qué huir así de tu viejo tío! ¡Quién me acertará a predecir este tan
+                amargo trance! Cuando sola y huérfana quedaste, yo fui tu apoyo, yo tu amorosa
+                madre, y ahora, que me ves anciano y desvalido, escoges este momento para dejarme;
+                húndeme antes en el sepulcro, y luego vete, que así cumpliendo antes conmigo podrás
+                cumplir mejor y a salvo con el gusto tuyo. ¡Con el gusto tuyo, que bien quiera Dios
+                no convertírtelo en amargo acíbar! ¿Quién te ha dicho que esos castellanos mirarán
+                nunca con amor a la sangre mora? Deja, deja que ese que te me roba conozca el hastío
+                de amarte, y pronto encontrarás los desdenes del señor. ¿Y cómo piensas tú que los
+                suyos te tratarán? El menor de ellos piensa hombrearse con los reyes. Mira, mira lo
+                que pasa en todo el mundo; cada castellano es un rey, y buscan otros mundos antes
+                desconocidos para mandar y esclavizar. ¡Ay, si tú hubieras visto los tuyos reinando
+                en la Alhambra, con cuánto desdén y no mirarías ese amante, esos hidalgos!... ¡Ay,
+                si tú los vieras a los castellanos matando los tuyos, ultrajando los tuyos, y llenos
+                de sangre insultar nuestros palacios y nuestras mujeres! Pero no me huyas, María. Ya
+                ves cómo te llamo cual tú lo quieres; no me huyas, María; tú, tan piadosa para los
+                extraños, ¿serás dura sólo para los tuyos, y guardarás la más inaudita crueldad para
+                tu tío, para quien fue tu apoyo y amorosa madre? Pues esto último quiero
+                repetírtelo.</p>
+               <p>La menor de estas razones destrozaba los más íntimos secretos del blando pecho de la
+                infeliz María: derramaba lágrimas, y caminaba, lloraba y corría hacía el puente,
+                asustada siempre por la fuga al África, y por el horror de la apostasía.</p>
+               <p>Gerif, que arrastrando y volando (pues estos nombres encontramos merecían sus
+                desiguales pasos), habiendo mejorado algún tanto su carrera, alcanzó por dicha a ver
+                más distintamente a la fugitiva sobrina.</p>
+               <p>-No me huyas -la repetía-, no me huyas, y dame tu brazo para sostenerme, pues de
+                cansado me desmayo, y no acierto a dar un paso. Ven, ven, mi María, yo te libraré de
+                que te arrebaten para el África; si tú tienes tanto apego a esta tierra infeliz,
+                también, ¡ay!, yo le tengo, por mi mal. Ven, ven, María, yo te daré todo gusto fuera
+                de separarme de ti: yo quiero ser contigo, verte conmigo, y bajar a la tierra entre
+                los brazos tuyos. Mírame cómo lloro; no hayas pena de que ya abogue por Muley;
+                concédeme tú el no dejarme, y yo alzo la mano en mis súplicas. Mira, yo quería verte
+                unida con quien es tu sangre, y con quien te amara como a sus ojos; pero ahora ya te
+                pido lo contrario, pues no es aquella tu voluntad: tampoco quiero que mates el gusto
+                tuyo arrojando esos amores; ama a ese cristiano; pero, por Dios, no dejes a tu tío:
+                mírame, mírame cómo desfallezco.</p>
+               <p>El gozque, que estaba en el puente y en la mitad opuesta del arco, como esperando a
+                su bienhechora, comenzó a latir gozoso, percibiéndola entre las sombras y los
+                árboles. Ya se disponía saltando a recibirla, cuando María, oyendo las razones
+                lastimosas de Gerif, anudada de dolor la garganta, y ahogado el pecho con mil
+                suspiros y angustias, vacila y se detiene, y olvidada de todo, resuelve volver al
+                querido tío, abrazarlo y no desampararlo. Tales quejas le habrían quebrantado un
+                pecho que tuviese de pedernal, no que el suyo tan lleno de agradecimiento y piedad.
+                Ya volvía amorosa y anhelante, cuando al dar el primer paso oye en la ribera opuesta
+                el reñir de las espadas. Muley, ya suelto de su prisión, medía furioso su acero con
+                el rival que le había libertado.</p>
+               <p>María atiende, escucha, y ve entre la oscuridad las pálidos centellas de los aceros.
+                Adivina lo que puede ser; indecisa, no acierta a qué parte correr primero: en esto
+                oye un profundo gemido, y cree, ¡oh dolor!, ser el acento de su amante. Esto lo
+                vence todo; despavorida, retorna al puente, atraviesa ligera la mitad del arco,
+                encuentra la horrible brecha; como siempre, da el peligroso salto; mas en esto el
+                gozque, impaciente con tal tardanza, se avanzó descompuestamente por la parte
+                opuesta, impidiendo que el breve pie asentase donde debiera para no caer.</p>
+               <p>María vacila un instante; su agilidad repara tal peligro, afianzando los ramos de
+                espadaña que al lado crecían, un instante más y era salva; pero un torbellino de
+                aire que subía de aquellos senos oscuros, contrastando con tantos obstáculos, vuelve
+                a inclinar el ligero cuerpo, y por esta vez todo auxilio fue en balde. En vano el
+                gozque, trizando con los dientes las vestiduras, pugnó por salvar a su bienhechora,
+                evitando tan infeliz fracaso. Las fuerzas de la infeliz vencieron y la arrebataron
+                al horrible abismo, que proseguía siempre en su mugir incesante.</p>
+               <p>Un agudo gemido se oyó, y el aire los desapareció al punto.</p>
+               <p>El amante (ya vencido y herido Muley, pues de este fue aquel grito lastimero) venía a
+                recibir a María, avisado por los ladridos del perro, llegando al borde del puente al
+                propio punto de la cruel catástrofe, para sufrir así el agudísimo tormento de ver
+                morir ante sus ojos, y no salvar al único consuelo de su vida, y al blanco de sus
+                deseos, concluyendo en un punto y tan lastimosamente con todas sus dichas y
+                esperanzas. Desesperado, y viendo desaparecer a su amada por aquel tajo, llega a la
+                brecha, y furiosamente se derriba también por él, queriendo concluir su existencia
+                allí donde verdaderamente había ya perdido su vida.</p>
+               <p>El soldado y los demás sirvientes llegaron solo para escuchar el murmullo de las
+                aguas al tragarse los miembros del infeliz don Lope.</p>
+               <p>El desgraciado Gerif, que tanto tiempo le conservó el cielo la vida para presenciar
+                tamañas infelicidades, acertó a venir cuando aún duraba el primer espanto de los
+                continuos de don Lope. La desesperación del anciano infeliz, que engañaba en el
+                cariño de María las memorias de su esplendor pasado y del poder de su familia, dando
+                espantosos gritos, rasgándose los vestidos y arrancándose la barba, manifestaba su
+                intensísimo dolor, sin acordarse de Muley, que, exánime y bañado en su sangre, se
+                revolcaba a poco trecho de él.</p>
+               <p>Dado el grito de alarma, toda la aldea, moriscos y cristianos, chicos y grandes,
+                hombres y mujeres, corrieron al puente, y bajaron en todo lo largo de la orilla,
+                cuál con hachas encendidas, cuál con cuerdas, cuál con tablas, y todos con voluntad
+                de arriesgar su vida a trueque de salvar a la infeliz María. Pero todo fue en balde:
+                a la mañana siguiente, batidas bien ambas orillas, solo se encontró al miserable
+                gozque, todavía teniendo en su boca alguna parte de la vestidura blanca de
+                María.</p>
+               <p>El soldado, con las lágrimas en los ojos, recogiendo en su pecho aquella prenda de
+                dolor, iba inquiriendo de piedra en piedra por el río, y preguntando a cuantos
+                aldeanos encontraba:</p>
+               <p>-¿Has visto a María?</p>
+               <p>Al final de la tarde y en el desagüe para el Guadiana, un miserable pescador le dijo
+                que la noche anterior, a cierta hora, oyó dar por el río unos acentos lastimeros,
+                estremeciéndose tanto con ellos, que había afirmado las puertas de su choza,
+                temiéndose alguna prodigiosa aparición.</p>
+               <p>No volvió a saberse más de los amantes. La credulidad morisca, pintoresca e
+                imaginativa como la de los griegos, supuso que andaban encantados por las cuevas que
+                se abrían por las paredes de aquellos abismos, cuya subida o bajada, siendo
+                inaccesibles, daban mano por este mismo misterio a mil cuentos y supersticiones, y
+                muchos afirmaron haberlos visto suspendidos en medio de aquellos tajos.</p>
+               <p>Muley, más afortunado que su vencedor y María, sanando de sus heridas al fin,
+                prosiguió en sus proyectos de revueltas y rebelión, que si no los realizó por sus
+                propias manos, gracias al temor que inspiraba el emperador Carlos V, |los vio
+                puestos en práctica años después por un hijo suyo, que fue uno de los reyezuelos de
+                las Alpujarras.</p>
+               <p>Gerif no logró alcanzar ni aquel suspiro de la libertad morisca, ni el terrible
+                castigo que en los suyos se verificó, pues triste, pensativo y con el nombre de
+                María en los labios, tardó poco tiempo en seguir a la luz de los ojos suyos. El
+                soldado, perdido ya todo consuelo, y dando al olvido su condición andariega y de
+                aventuras, no pensó ni en más flotas, ni en más Indias, ni en más empresas. Trocando
+                el disfraz de mendigo y el vestido gentil de soldado por un sayal de ermitaño, hizo
+                su habitación de aquel mismo sitio, testigo de la catástrofe, y pensando siempre en
+                su desgraciada bienhechora y en su infeliz señor, todos los días sacaba aquel velo,
+                única prenda que le quedaba de María, y besándolo respetuosamente y agolpado el
+                llanto a los ojos, volvía a encerrarlo tiernísimamente en su pecho.</p>
+               <p>Mercado, cansado de la vida que llevaba en la aldea, y ya alterado con las relaciones
+                arriscadas que había escuchado del antiguo soldado, se resolvió a dejar a España y a
+                probar fortuna. Prevenido con las lenguas que le dio su amigo para Francisco
+                Carvajal y otros soldados de cuenta, se embarcó en Sevilla con otros mancebos
+                aventureros, y pasó a las tierras del Sur de América, donde ganó gran nombre bajo el
+                título del capitán Mercado.</p>
+               <p>Acaso en aquellas soledades, al resplandor de las hogueras, y cercado de aquellos
+                hombres que dejando a España no pensaban sino en España, entretenía las horas de la
+                noche relatándoles las desavenencias de los moriscos y cristianos y el triste fin de
+                don Lope y de María.</p>
+               <p>FIN DE «CRISTIANOS Y MORISCOS»</p>
+            </div>
+         </body>
+      </text>
+</TEI>

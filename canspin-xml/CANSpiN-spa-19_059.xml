@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>El triunfo de las castañuelas o Mi viaje a Crotalópolis</title>
+               <author ref="authors.xml/#P46">Fernández de Rojas, Juan</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">14894</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_059</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>Fernández de Rojas, Juan</author>
+                  <title>El triunfo de las castañuelas o Mi viaje a Crotalópolis</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <date when="2000">2000</date>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmc37776">https://www.cervantesvirtual.com/nd/ark:/59851/bmc37776</ref>
+                  <bibl type="print">
+                     <author>Fernández de Rojas, Juan</author>
+                     <title>El triunfo de las castañuelas o Mi viaje a Crotalópolis</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                     </pubPlace>
+                     <publisher>Imprenta de González</publisher>
+                     <date when="1792">1792</date>
+                     <bibl type="first">
+                        <author>Fernández de Rojas, Juan</author>
+                        <title>El triunfo de las castañuelas o Mi viaje a Crotalópolis</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                        </pubPlace>
+                        <publisher>Imprenta de González</publisher>
+                        <date when="1792">1792</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year">1792</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div type="chapter">
+               <head>Capítulo I</head>
+               <head>Ruido de las castañuelas</head>
+               <p>Gozaba toda la literatura de una paz tranquila y envidiable. Las guerras literarias,
+                tan ruidosas y funestas en otro tiempo, en este estaban enteramente apagadas.</p>
+               <p>La descarada sátira, la desapiadada crítica, la rabia, la maledicencia, y las demás
+                armas con que los literatos suelen acometerse, herirse y destrozarse, estaban
+                arrinconadas, y sin uso. Habianse pasado aquellos funestos siglos en que los
+                Escolásticos, agitados de un furor insano, estremecían las Aulas con sus
+                interminables disputas, alborotaban las Ciudades con sus escandalosos partidos, y
+                juntos en tumultuosos pelotones derramaban arroyos de sangre, llevaban por todas
+                partes el horror y la desolación, sólo por un ergo, en Bárbara, a Baralipton, el
+                ente de razón, o la materia prima.</p>
+               <p>Los partidos que los discípulos de Esculapio solían formar en tiempo de algún
+                descubrimiento o invento, las satíricas y obscuras producciones de su exaltada bilis
+                servían sólo de materia a la risa y a la mofa.</p>
+               <p>Se iban olvidando las desvergüenzas, los dicterios y baldones con que Mañer y demás
+                autorzuelos habían combatido, o por mejor decir, insultado al Autor del Teatro
+                Crítico.</p>
+               <p>Las esquinas, entapizadas en otro tiempo con cartelones de todos tamaños, figuras y
+                colores, se iban desahogando algún tanto: sólo se veía algún tratado de Medicina,
+                una u otra Comedia estrafalaria, tal cual frío e insulso unipersonal1, traducciones
+                francesas, o reimpresiones de libros de nuestro siglo de oro.</p>
+               <p>Vendianse algunos, no muchos ejemplares, y los demás iban a cargas a las tiendas para
+                ser convertidos en cucuruchos de especias, o a las tahonas para servir de pábulo al
+                fuego de sus hornos. Término fatal de todo inútil y ridículo libraco, y a veces de
+                alguna buena obra, por desgracia poco conocida.</p>
+               <p>Estaban muy descontentos y de mal humor los Autores y Libreros. Se quejaban estos de
+                su escasa venta, y lloraban la soledad y desamparo de sus tiendas: los Autores
+                blasfemaban de la ignorancia y poco gusto del público, y murmuraban em alta voz de
+                la falta de protección.</p>
+               <p>La Crotalogía vino a disipar esta especie de pereza literaria. La suerte de esta obra
+                ha sido bien de la de las anteriores: su aceptación ha sido universal, yo no iba a
+                parte alguna que no tropezase con ella; si salia a la calle, he aquí los carteles,
+                que la anunciaban con la añagaza de poder fácilmente, y sin necesidad de Maestro,
+                acompañarse (con ellas) en todas las mudanzas; si tomaba el Diario o la Gaceta, un
+                artículo sobre ella; si entraba en la tienda de un Mercader, la hallaba sobre el
+                mostrador; si en casa de una dama, en la más pulida mesa de su gabinete.</p>
+               <p>Uno me pedía muy gravemente mi voto, como si fuese alguno: se empeñaba otro en que
+                era una sátira universal de todos los vicios; me leía por fuerza un buen pedazo, y
+                fuese o no fuese satírico, él lo iba apropiando a aquel vicio que se le había puesto
+                en la idea estaba allí criticado.</p>
+               <p>Cómo se burla de los Geómetras, y de esos Autorzuelos modernos, decía un rancio
+                Escolástico, y sobre esto movía una interminable disputa. Los juicios de los hombres
+                son enteramente opuestos: otro estaba firmemente persuadido a que la sátira era
+                contra los antiguos: y muchas sencillas y bien intencionadas gentes la tomaban por
+                apología del bolero; y a buena cuenta yo tenía que sufrir cada vez de estas una
+                nueva lectura que apuraba más y más mi paciencia. Yo ya había leído esta obra una
+                vez, la había analizado y procurado descubrir su intención y objeto; y me bastaba;
+                ¿pero que sátira, aunque sea la del fino y delicado Cervantes, no fastidiará si se
+                lee y relee continuamente, y si siempre se oye hablar de ella?</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo II</head>
+               <head>La Puerta del Sol y el Café</head>
+               <p>Mi cabeza estaba ya cansada de tanta furia crotalógica; fuime a la Puerta del Sol a
+                desahogarla, y con intención firme de huir de todo aquello que oliese en lo más
+                mínimo a literato; pero mi suerte era bien fatal. Mezcléme en una tertulia de gente
+                alegre y nada instruida, y los hallé quejándose de la Crotalogía. Creíamos hallar,
+                decían todos, reglas ciertas y verdaderas para tocar las castañuelas, como parecía
+                anunciar el cartel; hemos gastado inútilmente nuestro dinero en comprar una multitud
+                de corolarios, teoremas, y cosas que ni entendemos, ni juzgamos propias para el arte
+                de tocar las castañuelas. Uno que denotaba no tener muchos cuartos juraba que cuando
+                viese al Autor de la Crotalogía no le había de decir en tono de elogio: Hay va el
+                Maestro de tocar las castañuelas, sino mofarse y reírse de él.</p>
+               <p>Escabullime como pude de entre estos insensatos; iba a huir hacia el Prado, y al
+                entrar por la Carrera de San Jerónimo vi venir hacia mí más ligero que un rayo un
+                Caballero que se decía mi protector, y a quien mis intereses me hacían mirar con el
+                mayor respeto. Llamabase Don Pistófilo, hombre poderoso, extravagante y majadero:
+                gustaba mucho de ser tenido por un sabio; protegía y estimaba al que se lo llamaba;
+                no hacía caso del que le hablaba ingenuamente; acababa de hacer un viaje a Italia
+                donde se había dejado el escaso juicio que tenía; bien es verdad que en cambio había
+                adquirido un gran fondo de fatuidad y locura; era muy afectado y zalamero en su modo
+                de hablar, de vestir y presentarse; su conversación insubstancial, y no muy
+                graciosa; mezclaba en ella una multitud de cuentecillos, anécdotas y frases, propias
+                sólo para agradar a los niños: sin embargo él ponía todo su mérito en estas
+                pequeñeces, que llamaba las sales de la conversación: su espíritu estaba adornado de
+                historia de las más célebres actrices de este país, y de una multitud de aventuras
+                galantes: había adquirido toda su instrucción en las obras periódicas y en algunos
+                librillos hechos por autores de tan poca cabeza como la suya: hablaba con el mayor
+                gusto sobre todo género de placeres, y nombraba con entusiasmo los que se disfrutan
+                en Italia, no olvidándose de mezclar algunas bufonadas contra su patria.</p>
+               <p>Mi buen Don Pistófilo me saludó con un beso y un abrazo, y con una ligereza increíble
+                dio conmigo en una tienda vecina, donde comenzó a hablarme sobre la Crotalogía.</p>
+               <p>¡Qué aplauso ha tenido la buena obrilla! aquí no están acostumbrados a estos papeles
+                chistosos, allá en Italia cada semana sale un cientos. ¡Pero qué originales! ¡qué
+                nuevos! ¡qué graciosos! hacen reír, divierten, entretienen, ocupan el tocador por un
+                instante; pero son reemplazados por otros; y así se están sucediendo con continuo
+                giro. El título de esta obra es chocante, algo bizarro; pero aseguro a que has
+                hallado el estilo excesivamente grotesco, y muy a la antigua. Los Españoles, es
+                menester confesarlo, son demasiado serios para la sátira; este género pide ligereza;
+                los Franceses han sobresalido en él, son inimitables. Despreaux es soberbio, el
+                Lutrin hace reír, y sus sátiras son cosa asombrosa; los Italianos han producido
+                mucho bueno, ellos sobresalen en las artes de diversión y recreo; yo leo con
+                complacencia el Dante. Es verdad que nosotros tenemos el Quijote, le hago justicia,
+                es original, es gracioso, aquello que antes se llamaba buen lenguaje, y ya no se
+                conoce; pero amigo, Cervantes no tiene espíritu: también es cierto que no se conocía
+                en su tiempo; siglos góticos, juicio, y nada más.</p>
+               <p>No sé como no eche a rodar toda mi fortuna, llamando tonto, vanidoso y desvergonzado
+                al desatinado Don Pistófilo; y haciendole conocer cuan injustamente trataba a su
+                patria, y la anteponía las Naciones extranjeras. Miré un poco a mi suerte, comparéla
+                con la suya, y hube de tomar paciencia, último consuelo del que no tiene otro. ¡Oh
+                cuántas veces un pobre, pero sabio y virtuoso ciudadano, tiene que sufrir y callar
+                delante de un poderoso ignorante!</p>
+               <p>De la conversación sobre las castañuelas vino a parar el célebre viajero en hablar
+                del lujo. Primero alabó el bolero, diciendo que tenía tanto mérito como el mejor
+                baile, e hizo la enumeración de las mejores boleras de la Corte, me contó los
+                caudales que tenía gastados en funciones de bailes, lo arruinada que estaba su casa,
+                el tren tan brillante que gastaba; y de aquí sólo tuvo que dar un paso para alabar
+                el lujo y echar el último sello a su locura.</p>
+               <p>Habíamos pasado en esto al Café, donde hallamos un tuerto endemoniado, hablador y
+                disputador eterno, el cual con una voz ronca, gangosa, y cuasi ininteligible se
+                quejaba amargamente de que el autor de la Crotalogía quisiese criticar el método
+                analítico o geométrico. Encajónos sin resollar una sarta de desatinos; habló
+                largamente de las ciencias demostrables; entretejió su historia; hizo la más
+                desatinada crítica que en mi vida he oído de todos los buenos geómetras. Dijo que
+                Euclides era obscuro y confuso; que el mérito de Newton era muy inferior a su
+                aplauso: vino a parar en quejarse de la fortuna, a quien llamaba traidora, y llenaba
+                de mil sucios y feos improperios: forjó en un instante la más horrorosa pintura de
+                su desgracia, miseria y pobreza: tuvo la osadía de compararse a Homero, a Cervantes
+                y Camoes, y para acabarlo de rematar añadió, alzando su cascarrona voz de rematar
+                añadió, alzando su cascarrona voz, y dirigiendo la palabra a Don Pistófilo, ahora se
+                verá quien es el Filo-Matemático Cantimplora; juro a brios que tengo de obscurecer
+                al Anglo y al Galo con mi recóndita y selecta Geometría, que ya tengo puesta en
+                limpio, y que he de publicar los dos tomos, donde descubro el movimiento perpetuo y
+                la cuadratura del círculo, si vos, o insigne coluna de la literatura, cuya riqueza y
+                munificencia es bien notoria, y cuya grandeza os rebosa por entre los ojales de la
+                casaca, me sostenéis y apoyáis con mano liberal y franca.</p>
+               <p>No en mi vida loco más furioso, ni hablador tan atrevido. Estuve más de cuatro veces
+                por sacudirle un buen part de cachetes, y bañar en sangre aquella infatigable boca;
+                pero contúvome la presencia de Don Pistófilo.</p>
+               <p>Disgustáronle a este infinito los desatinos de Cantimplora, y desagradóle la
+                adulación por primera vez; tan soez y baja era la del ridículo tuerto: dióle por
+                respuesta dos o tres amargas bufonadas, que le llenaron de bochorno y confusión; y
+                habiendo visto a un amiguito, nos dejó a los dos, y se fue a conversación con él. No
+                me movió el corazón a quedarme a consolar a nuestro Filo-Matemático, que estaba ya
+                bien marchito y mohíno, y cuya alegría y locuacidad se había repentinamente mudado
+                en una tristeza y silencio profundo: dejéle envuelto en sus pensamientos, y me
+                marché renegando de la caterva de pedantes que me había acometido en aquél día. Pero
+                el pintar cual ellos habían llegado a trastornar mi cabeza, y cual era la rabia que
+                yo les había ya concebido me parece cosa propia de otro capítulo, pues este se va
+                haciendo demasiado largo.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo III</head>
+               <head>Contra los pedantes</head>
+               <p>¿Por qué un libro sea bueno o malo, agrade o no agrade, mi miserable cabeza ha de
+                sufrir una continua descarga de necedades? ¿Es preciso para su mayor o menor aplauso
+                que me atolondren y confundan los zumbidos de tantos zánganos literarios, de tantos
+                pedantes, de tantos eruditos a la violeta? ¿Han de ensayar en mi estos malditos la
+                eficacia de sus discursos para causar convulsiones y muertes repentinas? Me agrada
+                oír en cuatro palabras el voto de un sabio, si gasta ocho me desagrada; la pesadez
+                es insufrible; ¡y cómo tolerar los reiterados asaltos de esta chusma, de ociosos y
+                pesados charlatanes!</p>
+               <p>Huyamos de esta gente incansable, y fuerte en la disputa, de duros y robustos
+                pulmones; sírvame de amparo y auxilio la casa de mi señora Doña Melisendra: jamás
+                casta alguna de literatos pisó sus umbrales; no se conoce en ella ni al sabio
+                modesto, ni al charlatán presumido; la entrada les está igualmente prohibida a los
+                dos. Madama Melisendra no sabe leer, ni su familia tampoco; nunca oyó pronunciar el
+                nombre de ciencias, ni se sabe qué son libros: un Mayordomo que deletrea y forma
+                algunos gurrapatos es el séneca de la casa.</p>
+               <p>¡Dichosa y feliz habitación, decía yo subiendo la escalera, centro de la paz y el
+                contento, morada dulce de la ociosidad y los placeres, nunca perturbados por algún
+                Filósofo analizador! Aquí no se han conocido las crueles guerras literarias, ni en
+                tus grandes salones resonaron enguisa de un trueno espantador los roncos gritos de
+                eternos disputadores. ¡Dichosas losas, jamás pateadas por estas gentes bulliciosas,
+                y felices mesas, nunca rotas ni abolladas por los fendientes puños de robustos y
+                fornidos escolásticos!</p>
+               <p>Embebido en estas imaginaciones llegue sin sentir hasta la puerta del gabinete, ¿pero
+                quién me diría que el que yo creía centro del sosiego lo era ya de la disputa? ¿qué
+                dónde pensaba refugiarme de los literatos que me perseguían los había de hallar
+                reunidos para acometerme con mas fuerza? Es el caso (según me refirió uno de la
+                casa) que la sin par Melisendra había oído leer la Crotalogía, y como vio tantos
+                preceptos, tantas reglas para tocar las castañuelas, infirió dos cosas; una, que el
+                bolero y las castañuelas no debían ser cosa despreciable, pues merecían la atención
+                de un sabio; y la otra, que las ciencias no eran como las había creído hasta
+                entonces, adustas y serias, antes muy al contrario, risueñas y afables, pues
+                recibían en su seno una arte tan vocinglera y divertida.</p>
+               <p>Desde entonces mudó enteramente de idea, y se llenó de la noble ambición de saber por
+                principios científicos, no la Filosofía, la Física o las Matemáticas, sino la
+                utilísima ciencia de las castañuelas. Dio comisión a su mayordomo (que si no era un
+                gran literato, era a lo menos el más hábil de todos sus conocidos) para que buscase
+                algunos sabios que la explicasen aquellos corolarios y problemas, y la enseñasen a
+                tocar debidamente las castañuelas. Condujo éste a su presencia un primo suyo, que
+                había sido tunante muchos años, y entonces pretendía por medio del Diario plaza de
+                mayordomo, paje, ayo, secretario, lacayo, o lo que saliese, era un gran disputador y
+                terrible sofista. Trajo también a un químico, que vivía en la guardilla de enfrente,
+                y estaba medio loco, o loco del todo, por buscar la piedra filosofal; dos
+                anticuarios, y un poeta, que trabajaba parar los ciegos, y enviaba algunas veces
+                versos al Diario.</p>
+               <p>Por mi desgracia era aquel el día en que el buen Toribio, nombre del mayordomo,
+                presentaba a su ama por primera vez la flor y nata de todos sus literatos
+                conocidos.</p>
+               <p>Estaban ellos alegres sobre manera con el nuevo honor; y para hacer ostentación de su
+                pedantesca ciencia hablaban sin tino, y disputaban sin miedo. Lleguéme con tiento a
+                la puerta, apliqué el oído, y percibiendo la bulla y algazara que había allí dentro,
+                me fui retirando paso entre paso.</p>
+               <p>Sea que la chusma de pedantes, decía yo, se ha unido contra mí, o que la casualidad
+                así lo dispone, ello es que no voy a parte alguna que estos malvados no me acometan
+                y cerquen, que se apoderan de todo, que mi cabeza no está ya para más fiestas, y que
+                sólo en la soledad de mi casa podré hallar asilo contra ellos.</p>
+               <p>Diciendo esto salgo más ligero que un águila de casa de la gran Melisendra, vuelvo la
+                calle adelante, busco los callejones más solitarios para no tropezar con mis
+                enemigos; llego a mi casa maldiciendo de Don Pistófilo, blasfemando del tunante, y
+                renegando del Geómetra, doy orden de que no dejan entrar a nadie, y enciérrome en mi
+                cuarto.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo IV</head>
+               <head>El Licor</head>
+               <p>Nueva escena a los ojos de mis lectores, nuevos personajes, nuevas acciones, nuevas
+                decoraciones; diferente país, diferentes objetos; no se habla ya de Melisendras, de
+                pedantes y de eruditos superficiales: acabáronse los Pistófilos, los Geómetras y los
+                Químicos. Mudóse todo; pero la Comedia siempre la misma, es decir, siempre el mismo
+                objeto, el mismo asunto; satirizar, criticar el vicio, aplaudir, alabar la
+                virtud.2</p>
+               <p>Apenas me hallé solo en mi cuarto, ya fuese sueño o ilusión de mi imaginación, que
+                alguna de estas dos cosas sería, ello es que vi delante de mí una persona que me
+                dijo: los viajes cultivan el entendimiento, y hacen al hombre prudente y sabio; pues
+                que eres uno de aquellos que tienen por oficio saber lo que otros hicieron y
+                pensaron, lo que pasó aquí y sucedió acullá, no ignorarás que los filósofos griegos
+                viajaban al Egipto a consultar a los Magos, y aun se internaban en las Indias para
+                aprender de los Bracmanes, y que los petimetres modernos, imitadores en esto, aunque
+                no en otra cosa de los filósofos antiguos, corren la Europa en silla de posta para
+                tener el gusto de oír cantar una aria al mejor capón de Italia, pasar un carnaval en
+                Venecia, frecuentar los teatros de París, ver los jardines de Inglaterra, y saber al
+                cierto cual es el mejor vino de la Europa, quien el mejor sastre, y cual la más
+                hermosa bailarina.</p>
+               <p>Soy un Genio benéfico, me llamo Isman, y quiero hacerte viajar, no por ningún país de
+                los conocidos, sino por uno del que jamás habrás oído hablar: quiero quitarte la
+                memoria de las cosas pasadas, que de nada puede servirte en este viaje, y dejarte el
+                entendimiento, que siempre te será útil. Isman me dio un frasquito con un sabroso
+                licor; bebí de él, y olvidóseme todo; quedé sin ideas, ni nociones algunas.
+                Emprendimos al instante nuestro viaje, cuya descripción voy a hacer a mis
+                lectores.</p>
+               <p>Si se hallan en esta historia de mi viaje muchos nombres enteramente parecidos a los
+                nuestros, no hay que criticarme por eso, un viajero cuenta lo que ha visto, y no
+                inventa como un autor de novelas. Tampoco hay que extrañar que me admire de algunas
+                cosas que siendo harto comunes entre nosotros, parece no deben causar admiración:
+                habiendo perdido la memoria de lo pasado, pero conservado el entendimiento, no
+                podría sucederme de otro modo.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo V</head>
+               <head>Nuevas ideas</head>
+               <p>¡Cuán bella cosa es esto de perder uno la memoria de todo lo pasado! ¡cuán libre y
+                despejada se queda la cabeza! ¡cuán tranquilo y sosegado el espíritu! si quiera por
+                no tener uno presente tantas ideas como le molestan y ofuscan pudiera desear muchas
+                veces beber este licor.</p>
+               <p>Creo seguramente, lectores míos, que sería útil a muchos de vosotros; también
+                serviría de remedio para varias dolencias habituales, de las que no podrá curaros el
+                médico mas hábil. ¡Qué específico tan bello para un loco proyectista, para un
+                pretendiente despreciado, para un celoso y desesperado amante, para un deudor
+                perseguido por sus acreedores, y para un escritor público.</p>
+               <p>En fin, perdida enteramente la memoria es cosa clara que ya no me acordaba de este
+                mundo que habitamos, ni de ninguna de las cosas que hay en él. Para mí la
+                Crotalogía, el bolero, y nuestros bailarines eran nombres tan nuevos como lo serían
+                para Micromegas, habitante de la estrella Siro.</p>
+               <p>Isman me condujo a muchos países, me enseñó diversos pueblos y naciones, hízome
+                observar sus usos y costumbres. No quiero dar ahora la relación de mis viajes.</p>
+               <p>Dejemos estos países, y hablemos sólo de Crotalópolis, nombre que según la
+                interpretación de algunos etimologistas (hombres siempre útiles en cualquiera
+                estado) significa país de gente alegre, regocijada, y de poco juicio. Hallamos
+                enmedio de una campiña árida y desierta una populosa ciudad, entramos por una puerta
+                de hermosa, arquitectura, pasamos por una ancha calle adornada de graciosos
+                edificios, fuentes y jardines, y llegamos a una plaza llena de inmenso gentío.</p>
+               <p>La alegría y el júbilo parecía reinar en el corazón de todos: la dicha y el contento
+                tenían allí su estable y permanente asiento. Todo era bailes, juegos y fiestas. Los
+                placeres se sucedían unos a otros, y formaban una cadena encantadora. Ved aquí, dije
+                yo, un pueblo verdaderamente feliz, en él fijaremos, creo yo, nuestro asiento.
+                Habiendo perdido mi espíritu toda idea de lo pasado, no pueden ser más bellas las
+                que nuevamente vienen a fijarse en él. Sonrióse Isman, y dejóme proseguir en mi
+                conversación.</p>
+               <p>A poco rato los Crotálogos, atraídos de la novedad de nuestro traje, se llegaron a
+                hablarnos; hiciéronnos mil preguntas inútiles, que nos molestaron algún tanto; pero
+                en pago nos recibieron con grande hospitalidad entre teniéndonos con sus alegres
+                bailes, sus músicas y festejos.</p>
+               <p>Isman observaba con la mayor circunspección; pero yo me abandonaba a los placeres:
+                por desgracia yo los creía eternos en Crotalópolis, y eran bien pasajeros y
+                momentáneos,</p>
+               <p>Después de haber pasado gran parte del día en banquetes y juegos, formóse un baile,
+                al que asistió un gran número de gente. Formaba la orquestra un instrumento llamado
+                guitarra: los bailarines llevaban colgados de los dedos unos pedazos de madera
+                llamados crótalos, que formando un gran ruido servían para acompañarlos en el baile,
+                que se llamaba bolero. Cuando los regocijados Crotalógicos estaban en lo mejor de su
+                baile les acometió una multitud de gente de distinto traje, y formaron al instante
+                una gran refriega: los unos gritaban que los crótalos daban un sonido dulce y
+                harmonioso, y que antes morirían que confesar lo contrario; sostenían los otros con
+                el mismo espíritu que el sonido de los crótalos era bronce y desapacible.</p>
+               <p>No me parecieron muy bien estas disputas, y comenzó a desagradarme Crotalópolis.
+                Isman, que ya había estado en él otras veces, me lo pintaba de un modo que me lo
+                hacía conocer mejor y amar menos.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VI</head>
+               <head>Antigua y nueva Crotalópolis</head>
+               <p>No hay duda que a primera vista Crotalópolis es un país agradable; pero no siempre la
+                felicidad acompaña a las risas y a los placeres: los Crotálogos son alegres, sin por
+                eso ser felices. Este pueblo estaba dividido en dos partidos: los antiguos
+                habitantes, llamados Semnopolítanos, que significa gente seria y formal, componían
+                el uno, y el otro los Crotapolítanos. Distinguianse estos dos partidos, no solo en
+                sus genios, que como ya hemos visto eran enteramente opuestos, sino también en sus
+                trajes, en sus usos y costumbres.</p>
+               <p>Los primeros eran sobrios, modestos y frugales: los segundos amaban el lujo, los
+                placeres y las diversiones con el mayor exceso. Un Semnopolítano gustaba atesorar
+                caudales para gastarlos en algún edificio que perpetuase su nombre. No tenían tal
+                vanidad los Crotalógicos, disipaban sus caudales (y los de cien bobos) en
+                diversiones pasajeras y superficiales, en modas, en equipajes, en banquetes y en
+                vestidos. Pasaban aquellos su juventud en las Armadas o en los Estudios públicos;
+                estos en cortejar, bailar y divertirse.</p>
+               <p>Aman, pues, los Crotálogos la novedad, varían continuamente de gustos, y de ideas; en
+                nada son constantes, menos en no tener juicio. Apenas han adoptado una moda, cuando
+                la dejan por otra, que pronto va a ser olvidada. No se creen hombres de mérito si no
+                son pródigos y disipan caudales. Un Semnopolítano se alaba de ser económico, de
+                seguir constantemente sus antiguos usos, de pensar con solidez, de amar sus deberes
+                sociales, y cumplirlos exactamente. Un Crotalógico dice con una cierta satisfacción;
+                estoy arruinado, he perdido tres mil doblas al juego, eso se usaba ayer, hoy ya es
+                viejo, el año pasado pensaba de ese modo, pero el tiempo se ha mudado, y es fuerza
+                que se muden mis pensamientos: se alaba de haberse separado de su esposa; tiene un
+                cortejo, y va con descaro a su casa: si logra escandalizar con su conducta, ser
+                tenido por un tronera, y perseguido por sus calaveradas, se cree un hombre de
+                espíritu.</p>
+               <p>El traje sirve para distinguir estos dos bandos. El de los Semnopolítanos es
+                incómodo, pero propio de gente de juicio; el de los Crotalógicos más cómodo, pero
+                menos modesto: los primeros tienen unos grandes bigotes, que les hace aun más serios
+                y graves: usan un vestido modesto, ajustado al cuerpo. Los segundos llevan por
+                divisa un crótalo sobre su cabeza, y lo demás del vestido se diferencia muy poco del
+                Semnopolítano, solo en el modo de llevarle.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VII</head>
+               <head>El Bolero</head>
+               <p>¿Pero cuál fue el origen de estos dos bandos? ¿cuál la causa de su división? esto es
+                lo que voy a referir según me lo contó el benéfico Genio que me conducía.
+                Crotalópolis se llamaba antes Semnópolis, habitaban en ella mucho tiempo había estos
+                hombres serios y formales, que se llamaban Semnopolítanos, y dieron nombre al país,
+                según algunos historiadores, o le tomaron de él, según otros, cuestión que tal vez
+                interesará muchísimo a un Crotalógico, y a nosotros nos hace poco al caso.</p>
+               <p>Las costumbres de Semnópolis habían pasado de padres a hijos sin variación ninguna
+                por una larga serie de años; pero nada hay constante. Mudaron su gusto la Naciones
+                vecinas, y mudaronlos también los habitantes de esta de ser arrastrados por su
+                ejemplo. Éste no pudo seducir a los ancianos, pero perturbó a los jóvenes,
+                naturalmente amantes de la novedad. Desagradándoles los trajes antiguos, y tomaron
+                otros: parecióles bien el lujo, dejaron la antigua sencillez y frugalidad, y dieron
+                entrada a los placeres. Todo se muda, dijeron ellos, nada hay constante pues
+                mudémonos también nosotros, y mudémonos en todo.</p>
+               <p>Los Semnopolítanos, que no podían mirar con indiferencia semejante trastorno,
+                procuraron ponerle algún freno; pero en vano: sus consejos, sus fuertes
+                declamaciones, sus sátiras, sus moralidades, fueron inútiles. El mal se aumenta cada
+                día; crecía el número de estos amantes de la novedad, al mismo tiempo se disminuía
+                el partido de los Semnopolítanos, y sólo permanecían en él algunos pocos, capaces
+                por su firmeza de espíritu de resistir al ímpetu de la depravación pública. En fin,
+                una pequeña chispa prendió el fuego de la discordia, que ya ardía interiormente en
+                el corazón de todos; formaronse dos partidos, y combatieronse al descubierto. Pero
+                lo más chistoso es el origen del nombre crotalógico. Una de las cosas que más
+                disgustaba a los jóvenes era el baile antiguo, parecíales demasiado serio, grave, y
+                sobre todo honesto, olvidaronle, y aprendieron uno nuevo llamado bolero. Este baile
+                ya hemos dicho que se arreglaba al compás de un instrumento músico llamado guitarra
+                o vihuela, y al son de unos círculos cóncavos de madera, llamados de tiempo
+                inmemorial castañuelas. Un gran literato, que se hallaba desocupado, cosa que sucede
+                comúnmente a los de aquel país, deseoso de darse a conocer, escribió un gran volumen
+                muy erudito, que nadie entendía, y por lo mismo era alabado, y probó en él que las
+                castañuelas eran muy antiguas, y que dos naciones sabias las habían conocido y usado
+                en sus bailes bajo el nombre de crótalos.</p>
+               <p>Agradóles a los boleros la noble y antigua descendencia de sus castañuelas, y
+                dieronlas desde entonces el nombre de crótalos; llamaronse ellos Crotálogos, y el
+                pueblo Crotalópolis.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo VIII</head>
+               <head>Descomunal combate</head>
+               <p>Los Crotálogos y Semnopolítanos se aborrecían en secreto, y se halagaban en público;
+                todo el Pueblo se hubiera hecho insensiblemente Crotálogo del modo más quieto y
+                pacífico, y los Semnopolítanos, aunque celosos defensores de las antiguas
+                costumbres, no se hubieran atrevido a sostener abiertamente su partido y perseguir
+                al contrario; pero lo que no pudo hacer una causa tan grande lo produjo la más
+                pequeña y ridícula.</p>
+               <p>Dividieronse los dos partidos, persiguiéndose enteramente, no ya por sostener las
+                antiguas costumbres, sino por el sonido dulce u agrio de los Crótalos.</p>
+               <p>Isman, que había presenciado, aunque invisiblemente, el primer combate, que fue el
+                principio de la pública desunión, me lo pintó en estos términos.</p>
+               <p>Había un baile público, al que concurrieron gran número de Semnopolítanos, Crotálogos
+                y Literatos, gente demasiado abundante en Crotalópolis: los primeros guardaban una
+                gran modestia y seriedad; los segundos parecían querer agotar la copa de los
+                placeres; los terceros se entretenían en filosofar y disertar largamente en tanto
+                que los demás bailaban.</p>
+               <p>Formaronse primero diferentes bailes al uso antiguo, pero los modernos quisieron
+                lucir también en los suyos; al instante se oyó resonar por toda la sala el risueño
+                nombre del bolero y los crótalos; comenzó la orquesta de las guitarras, entonaron
+                los cantores con despiadadas y fuertes voces las seguidillas, siguió luego el
+                vocinglero y atronador ruido de las castañuelas.</p>
+               <p>Salen los bailarines y bailarinas con sus lucientes y preciosas ropas, ciñense los
+                crótalos, preparanse, se miran, y comienza el baile. Los del bando crotálogo
+                alababan con entusiasmo la gracia, la ligereza y habilidad de los que bailaban;
+                elogiaban las diferentes posturas y mudanzas, de las que cada una tenía su nombre
+                propio en el idioma bolero, rico y abundante entre todos los idiomas.</p>
+               <p>Formabanse costosas apuestas de miles doblas, partidos y pandillas: los de un partido
+                vituperaban al bailarín estimado del otro, y colmaban de elogios al suyo. La voz de
+                bien parado, los vivas, las aclamaciones eran siempre el lisonjero y público premio
+                de una seguidilla bien bailada, porque el pueblo crotalógico, que podía ser muy bien
+                ignorante en las ciencias y cosas útiles, era muy hábil en punto a bolero. Tenía
+                buen gusto en este baile, y hacia justicia al mérito. Los bailarines apuraban toda
+                su habilidad, y aun tenían combates de emulación unos con otros.</p>
+               <p>Los nuevos que aun no tenían fama procuraban adquirirla, aventajándose a los
+                antiguos, y estos mantener su crédito; en esta noche muchos noveles boleros lograron
+                nombre, fama y fortuna, y algunos de los antiguos nuevos aplausos.</p>
+               <p>Al presentarse en la sala alguna de aquellas boleras cuyo mérito en el baile la había
+                adquirido un nombre famoso, un poderoso partido y un rico cortejo, todos fijaban en
+                ella sus miradas, y referían con entusiasmo sus hazañas y sus méritos boleros. Su
+                vestido, decían, regalo del señor Gavilán, ha costado tantos miles, bordólo en una
+                noche el celebre Chorlito. Cuando bailó la primera vez logró por amante al señor
+                Pelicano, el más rico y enamorado de los Crotalógicos; ¡qué regalos la hizo! ¡con
+                qué trenes, con que lujo, con qué esplendor tan loco la ha sostenido! Consumió con
+                ella sus innumerables riquezas; viose después reducido a la mayor pobreza, y ella
+                tan ingrata como hermosa le despreció dejandole por el que ahora tiene. Esta otra es
+                más hermosa y mejor bailarina que todas; pero desgraciada: nunca ha logrado un
+                amante poderoso. Aquella es aun más célebre por su constancia que por su bailar, que
+                no es obstante del mayor mérito, ama tiernamente a su compañero en el baile; sus
+                blancas manos le han bordado el vestido que lleva, y la cinta de sus Crótalos brilló
+                mucho tiempo en el lazo de su pelo.</p>
+               <p>Mientras que los Crotálogos alababan a las más célebres boleras, y se entregaban a
+                los placeres que se presentaban reunidos en aquel baile los Semnopolítanos miraban
+                con ceño adusto a los bailarines, y se elevaban en amargas quejas contra una
+                diversión tan poco modesta y decente a sus ojos: lo que era placer para los unos era
+                dolor y pesar para los otros.</p>
+               <p>¿Y nuestros literatos qué hacían? renuncianlo todo a sus ciencias, según su
+                inviolable costumbre; aquí disertaban largamente sobre los bailes antiguos y
+                modernos, y robaban sin miedo a los autores, que también se habían robado unos a
+                otros: allí declamaban contra la desenvoltura, y explicaban el significado de esta
+                palabra: otros sostenían que no había tal desenvoltura, y cual afirmaba que todo era
+                ilusiones.</p>
+               <p>Una bailarina llamada la Garza sacó a los literatos de sus disputas, y a los
+                Semnopolítanos de sus melancólicas reflexiones; tal era su primor en el baile que
+                robaba las atenciones de todos y aun de muchos adustos Semnopolítanos. Sólo el señor
+                Avestruz se mantenía inflexible, su negra melancolía y su colérico humor acabo de
+                exaltarse con los nuevos elogios tributados a la Garza; no pudo sufrir el general
+                entusiasmo, y levantándose furioso comenzó a dar desaforados gritos, diciendo que el
+                son de los crótalos era áspero, bronco y desapacible; que los Crotalógicos eran unos
+                hombres perjudiciales, y que era necesario destruirlos enteramente.</p>
+               <p>Acompañaba estas palabras con grandes denuestos y baldones, sus ojos parecían lanzar
+                rayos de fuego, sucedíanse los colores en su cara tan rápidamente como las olas del
+                tempestuoso mar. Sorprendió a todos este intempestivo suceso: pusieronse los
+                Crotalógicos en estado de acometer, empuñando cada uno el arma que primero halló a
+                mano. La Garza, creyéndose mal agraviada, se dejó ver al frente de la tumultuosa
+                multitud, y sin guardar ninguna de aquellas ceremonias o usanzas que se requieren en
+                toda bien formada guerra, antes dejándose llevar de su loca y ciega cólera, quitó a
+                uno de los músicos una gruesa y pesada guitarra, que bien podía servir por un buen
+                garrote, y arremetió furiosa y denodada al señor Avestruz.</p>
+               <p>No tuvo este tiempo de ponerse en defensa, ni menos tomar de la fuga; cayó sobre él
+                su enemiga con la rapidez de un rayo que se desgaja de las nubes, descargóle un buen
+                golpe, que le derribó en tierra, y siguió menudeando con la más implacable furia.
+                Pusieronse al instante en estado de defensa todos los Semnopolítanos, apelaron a las
+                mesas, sillas y taburetes que hallaron a mano, y desde entonces se comenzó una
+                descomunal y horrible batalla entre los dos furiosos y denostados partidos.</p>
+               <p>No quiero molestar a mis lectores con la descripción de toda la refriega, me
+                contentaré con hacer la pintura de algunos literatos, combatientes que aun enmedio
+                de la pelea no olvidaban sus manías literarias. Enmedio de la sala se veía un montón
+                de aquellos Crotalógicos, y Semnopolítanos furiosos, que habiendo caído unos sobre
+                otros, no cesaban de golpearse mutuamente. Servía de cimiento al montón un poeta del
+                partido de los Semnopolítanos, célebre no sé si tanto por el espíritu satírico y
+                maldiciente con que insultaba a todo el mundo, como por su fea y ridícula figura.
+                Acordóse en tan gran conflicto de su padre Apolo y de sus hermanas las Musas, y de
+                repente comenzó a entonar con gran seriedad y cachaza una especie de elegía,
+                haciendo en ella enumeración de todos los golpes que había recibido, y finalizando
+                por pedir al de los cabellos rubios que en atención a ser el mejor de los poetas
+                (tal vez lo diría porque era el más roto) le pusiese sobre el montón para poder
+                pagar con algunos cachetes y torniscones la nube de patadas que con tanta injusticia
+                y sin razón tenía recibidas.</p>
+               <p>No se dio por entendido el hijo de Latona, hicieronse sordas las Musas, y dejaronle
+                recibir los golpes, que venían a descargar sobre su disparatada cabeza. Persuadióse
+                el buen rimador que el desprecio u olvido de Apolo nacería sin duda de algún
+                descuidillo o lapsus linguae, como él decía, que habría tenido en su elegía o
+                canción, volvióla a repasar atentamente, midió los pies, contó los versos, analizó
+                las figuras, y halló que por su desgracia había mal medido algunos, y que algunas
+                frases no eran muy honestas para los delicados oídos del Padre de los Médicos y de
+                los Poetas. Preparabase para limarla y volverla al yunque, cuando vino sobre él un
+                cachete despedido por uno de los músicos Crotalógicos, y cayéndole sobre la boca, le
+                sepultó los dientes en el gaznate, y se la bañó en sangre. Nueva exclamación a
+                Apolo, nueva pintura de su amarga suerte; pero dejémosle disparatar, y hablemos de
+                otros.</p>
+               <p>Uno de aquellos que tienen por oficio poner lo negro sobre lo blanco; es decir, un
+                escritor público, clamaba a los de su partido que le libertasen de los que le
+                golpeaban, pues de otro modo juzgaba no podría acabar la Enciclopedia del bolero,
+                que ya tenía en buen estado. Otro literato se veía muy acosado de los que le
+                perseguían, y creyó que haciéndoles presente la grande pérdida que iba a
+                experimentar la literatura con su muerte, y una enumeración de sus sabias tareas y
+                obras que tenía ya publicadas, o en el borrador, alcanzaría perdón; pero dio con
+                gente zafia e ignorante, para quien nada suponía que las ciencias que las ciencias
+                se perdiesen o no, que hubiese o faltase un sabio, no hicieron caso de su arenga, y
+                le molieron bien las costillas.</p>
+               <p>No sucedió así con otro literato, que aunque no el más dotado en fuerzas morales, era
+                el más fuerte en las físicas, las únicas que se necesitaban en aquella ocasión: este
+                venció a muchos contrarios, y se hizo temer y respetar por su furia y denuedo.</p>
+               <p>Estaba retirado en un rincón de la sala un Geómetra que había sacado de la refriega
+                dos o tres disformes chichones; vile estar por mas de media hora haciendo gestos,
+                echando compases y líneas, y hablando entre sí de este modo: Según todos los ciertos
+                indefectibles principios de física y las segurísimas demostraciones matemáticas es
+                constante que si tiro este bronce antiguo que tengo a mi lado, siguiendo su línea de
+                proyección irá a parar sobre la cabeza de aquel Semnopolítano que se menea y sacude
+                con tanta ligereza: la fuerza de atracción por la cual los graves bajan a la tierra
+                le hará caer perpendicularmente sobre su cabeza, pues tal es la ley de la
+                gravitación; la velocidad de este cuerpo se aumentará en el descenso en razón de su
+                mayor volumen, y tanto su dureza será mayor, tanto mayor sera el golpe que reciba.
+                Tiróle según todos sus cálculos; pero a pesar de su certeza el bronce siguió muy
+                diferente camino, y fue a romper la cabeza a dos de su partido.</p>
+               <p>Cuando la refriega estaba en su mayor fuerza presentóse en medio un famoso Retórico
+                que había estado componiendo una arenga para apaciguar los ánimos y apagar el
+                alboroto. Comenzó a dar desaforados gritos, haciendo mil violentas exclamaciones, y
+                empleando mal a propósito las flores y figuras de la elocuencia; pero cuando él
+                creía que su discurso iba produciendo algún efecto, que ya tenía preparados los
+                ánimos con el exordio, y se disponía a emplear la mayor fuerza, que consistía, según
+                él, en lo que llamaba confirmación: su ridícula figura, sus horribles gestos y feas
+                contorsiones, movieron la risa y la indignación de todos, y le hicieron retirar a
+                palos. Iba diciendo por el camino a sus discípulos y amigos que él se tenia la
+                culpa, que en semejantes ocasiones es menester invertir el orden y método oratorio,
+                y poner las figuras más vehementes en el principio, para que así puedan detener cual
+                un fuerte dique que el torrente de la furia popular, y que desde la primera palabra
+                había de haber usado la epiphonema, la expolición, la hipotiposis, la polysindeton y
+                el poligtoton, las que seguramente hubieran producido todo el efecto.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo IX</head>
+               <head>Grandes efectos por pequeñas causas</head>
+               <p>Ved aquí todo un pueblo alborotado, y dividido en dos poderosos partidos, prontos a
+                destruirse con la mayor rabia y furor; un trastorno, una mutación universal en las
+                costumbres, en los trajes, en los gustos y en las ideas; ridiculizado todo lo
+                antiguo, ensalzado todo lo moderno; nuevos gustos, nuevos usos, todo nuevo; ¿y por
+                qué tan gran mutación? ¿qué causa produce unos tan grandes, tan particulares
+                efectos? la más pequeña, la más mínima, la más despreciable, el sonido bronco o
+                dulce de un ridículo crótalo.</p>
+               <p>¿Parecete que dos pedazos huecos de madera, tocándose mutuamente producen un sonido
+                áspero y desapacible? pierdes tus mayores, tus más íntimos amigos, te adquieres un
+                número considerable de enemigos, te haces el objeto del odio de un gran partido, y
+                ya eres ridículo a los ojos de una juventud atolondrada y superficial. ¿Crees por el
+                contrario que es dulce y armonioso el tal sonido, o agradate a lo menos por una
+                causa que no puedes comprender? Un buen número de aquellos que creen que hasta las
+                más pequeñas y menos útiles verdades se han de sostener a toda fuerza, y cuyo terco
+                tesón hace tan ridículas sus juiciosas ideas como la superficialidad de los otros,
+                te acomete y persigue abiertamente.</p>
+               <p>Yo no podía menos de hacer mil profundas reflexiones, pero el Genio Isman, que
+                conocía que todas ellas sólo servirían para afligirme, sin que fuesen útiles para
+                mudar el genio y carácter de los habitantes de Crotalópolis, me sacó de ellas, y
+                prosiguió su historia de los dos bandos. Después del tremendo día y de la batalla,
+                pintada bien a la larga en el capítulo anterior, declararonse abiertamente los dos
+                partidos, y tomaron medidas para destruirse mutuamente. Los Semnopolítanos, que
+                aunque eran los menores en número no eran los menos furiosos y tercos, apenas
+                escaparon de la refriega, cuando se juntaron y aunaron para la defensa. Algunos
+                antiguos Abogados escribieron varios manifiestos donde con mucha extensión y grande
+                aparato de erudición sostenían que el derecho estaba a su favor pues no solo
+                defendían que la proposición era verdadera en todas sus partes, sino también por
+                aquello de vim vi repellere licet, combatían justamente, pues era cierto que el
+                primer golpe lo había dado la Garza; es decir, el partido Crotalógico, sobre la
+                cabeza del señor Avestruz, o lo que es lo mismo sobre los Semnopolítanos. Otros
+                formaban disparatados planes de defensa, y varios locos forjaban extravagantes
+                proyectos: algunos sostenían en disertaciones musicales que el sonido de los
+                crótalos era bronco y desapacible.</p>
+               <p>Sin embargo este partido era bien débil; cada día desertaban infinitos, y se pasaban
+                al contrario, y sólo quedaban las viejas y testarudas cabezas. Conocían estos
+                Semnopolítanos muy bien que su partido se enflaquecía cada día notablemente, y que
+                al fin vendría a quedar destruido. Estas gentes querían antes experimentar todo
+                género de males y aumentar con su porfía las turbaciones que afligían su País que
+                decir una cosa contraria a su opinión. Había entre ellos algunos que mirando las
+                cosas con más serenidad querían ceder en una disputa tan funesta, y juzgaban que por
+                evitar tantos daños sería mejor contentar a los Crotalógicos, concediendo que los
+                crótalos daban un sonido suave y harmonioso; pero por desgracia estos eran los
+                menos, y nunca se les oía ni escuchaba. El bando Crotalógico estaba por el contrario
+                muy poderoso. Contabanse en su número las personas más ricas y opulentas, y la mayor
+                parte de la plebe.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo X</head>
+               <head>Las locuras</head>
+               <p>Introdujeronme un día en una tertulia de literatos del partido Semnopolítano; cuando
+                entramos estaban enredados en una terrible disputa, y no podía entenderse lo que
+                decían, porque gritaban como unos locos, dando al mismo tiempo fuertes golpes y
+                tremendas patadas: sosegaronse un poco, y pudimos entender que hablaban en estos
+                términos. Si el sonido de los crótalos es verdaderamente bronco y desapacible,
+                decían unos, debía afirmarse aunque se siguieran los mayores males. El sabio habla
+                siempre la verdad, la defiende y sostiene, y el señor Avestruz es un sabio profundo,
+                y en el lance de la Garza habló con la mayor sabiduría. Que los crótalos dan un
+                sonido desapacible, dijo un viejezuelo regordete, y no es instrumento musical, lo
+                tengo ya demostrado evidentemente en una disertación que he leído a la Academia de
+                los Cangrejos: allí lo pruebo con muchas demostraciones físicas y geométricas. Ahora
+                en si un sabio debe decir las verdades cuando no vienen al caso, ni nadie se las
+                pregunta, y las ha de sostener a costa de sus costillas, sufriendo en ellas una nube
+                de palos, eso no toca a mi ciencia, que es la Matemática pura; pero aunque no
+                entiendo la Ethica, sin embargo amo tanto mis huesos, y me incomodan de tal modo los
+                palos, que en semejantes ocasiones guardó el más profundo silencio.</p>
+               <p>Todo hombre prudente debe hacer lo mismo, dijo otro; no es un sabio el que expone su
+                vida en disputas del poco momento, es un loco, un entusiasta: la firmeza de corazón,
+                la serenidad de espíritu conviene en los grandes y arduos sucesos. El sonido de los
+                crótalos interesa bien poco, y la tranquilidad pública interesa infinito. Pero no
+                hay nada que temer, dijo un andrajoso tuerto; ya he hecho yo un proyecto para
+                destruir y aniquilar a todos los crotalógicos a una misma hora, y hoy tendré el
+                honor de hacerlo público.</p>
+               <p>También he trabajado yo, dijo un corcobadillo, un plan político para unir los dos
+                partidos; se decidirá que los crótalos son bronqui-sonoros; se establecerá que en
+                toda función se baile alternativamente el bolero y el baile antiguo; guardarase el
+                traje de los Semnopolítanos para los días de ceremonia, y usaráse del Crotalógico
+                comúnmente, y vedlo todo arreglado: este es el proyecto más fácil y pequeño de los
+                que tengo hechos; hay uno para pacificar todas las Naciones entre sí, y otro para
+                destruir la pobreza, y hacer que todos sean ricos y tengan una mesa abundante y
+                opípara, sin necesitar para eso de hacer ningún oficio ni trabajo penoso ni
+                mecánico.</p>
+               <p>Más valía, dijo uno de los que estaban conmigo, encerrar a estos delirantes que
+                dejarlos hablar libremente tales desatinos. Por esa razón, dijo otro, sería
+                necesario encerrar a cuasi todos los habitantes de este Pueblo, pues unos más, y
+                otros menos, todos padecen esta dolencia. ¿Quién hay que no tenga su extravagante y
+                ridícula manía? ¿quién que mientras se ríe de uno a quien juzga por un loco, no sea
+                el mismo objeto de la risa de los demás?</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XI</head>
+               <head>El Presumido y el Fastidioso</head>
+               <p>Hallamos una vez en la calle uno de aquellos que entre nosotros se llaman presumidos
+                pisaverdes, y cuya afectación ridícula es aborrecida en todos los Países; vengo, nos
+                dijo, de casa de Aguilita, acaba de comunicarme todos los proyectos que tiene
+                formados para destruir a los Semnopolítanos; esta muchacha tiene cabeza, y gobierna
+                tan bien como baila, porque, a propósito, es la mejor bolera, me parece que ya
+                podemos bailar con libertad y tocar los crótalos sin exponernos a los insultos de
+                estos rusticotes, montados a la antigua. ¡Pero qué gran baile hay esta noche en casa
+                de la señora Calandria, y mañana la de la señora Cotorra; durará hasta las ocho de
+                la mañana: yo soy el primero de los convidados, porque ya sabéis que la Calandria me
+                ama locamente, y que soy el favorito de la Cotorrilla desde un día que bailamos
+                juntos casa de la Abubilla. En tanto que hablaba de este modo su cabeza se volvía a
+                un lado y otro como una devanadera: unas veces componía su peinado, otras miraba sus
+                vestidos: de repente saca el reloj, eh, ya he faltado a la Oropéndola, que me
+                aguardaba para ir a comprar un vestido crotalógico; pero es buena hora para ir casa
+                del Maestro de baile, y diciendo partió más veloz que una saeta.</p>
+               <p>A poco se nos presenta un carácter enteramente opuesto; este caminaba grave y
+                pausadamente, midiendo sus pasos, y echándolos a compás; se acercó a nosotros, sacó
+                su caja, tomó un gran polvo, tiznóse con él todo el carrillo, y bañó su cara, tosió,
+                se sonó, escupió, y comenzó una pesada y enfadosa, conversación: hízonos en un
+                estilo hinchado y pedantesco una pintura de la inocencia que según él reinaba cuando
+                era joven; en aquel tiempo todo era bueno, pero en este ya no había más que maldad y
+                picardía, que cada día se iba más aumentando.</p>
+               <p>Detúvonos con esto por dos horas, y hubimos de dejarle, porque nunca acababa, pero él
+                cogió a otro, apartólo a un lado, y empezó de nuevo su conversación.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XII</head>
+               <head>Don Grajo, o el Sabio universal</head>
+               <p>Sucedióme un día una aventura singular: fui a visitar a un célebre sabio, a quien
+                todo Crotalópolis miraba como un oráculo; entré en una gran sala toda sembrada de
+                libros y de manuscritos confusamente mezclados; en medio de ellos había una mesa, y
+                a su lado Don Grajo (este era el nombre de nuestro sabio) con un gran gorro, y unos
+                disformes anteojos.</p>
+               <p>Comienza a hablar, pero sin mirarme, ni dar a entender que me ha visto; su
+                conversación era tan rápida y veloz, que apenas se le entendían las palabras:
+                después de un largo diálogo, del que comprehendí bien poco, veole enfurecerse de
+                repente, sacúdeme dos o tres palmadas bien recias, coge un puñado de libros y
+                tíralos al suelo; sin embargo por lo que después he podido inferir aun no me había
+                visto: dandome palmadas creía darselas a sí propio. En fin ya que salió algún tanto
+                de su enajenamiento comenzamos la conversación: él sólo la sostenía, yo tenía que
+                guardar silencio, y una sola palabra que soltase le daba materia para hablar dos
+                horas sin descansar; si le hablaba de leyes me hacía al instante un plan de
+                legislación; si le trataba de teatros me enseñaba un legajo de comedias y de
+                tragedias que había compuesto, y comenzaba a leermelas: una palabra de su comedia
+                que trata de la historia le conduce a hablar de los mejores historiadores de su
+                País, y me recita algunos pasajes. ¡Pero cuán sensible es que se hayan perdido los
+                libros de tal autor, que extendían unas luces muy claras sobre los puntos que se
+                disputan ahora! De allí pasa a quejarse de las pérdidas que la literatura había
+                padecido en sus diferentes ramos; con este motivo se acuerda de dos o tres libros
+                muy antiguos que acaban de encontrarse, y se llena de alegría. Pasea su imaginación
+                sobre las Naciones sabias que habían existido anteriormente, y me las describe con
+                tanta exactitud como si existiesen en aquel mismo instante; pasa de aquí a formar
+                dos o tres proyectos para adelantar perfeccionar las ciencias. Habla de los teatros
+                antiguos, y representa una escena entera de sus mejores comedias; trata de la
+                música, y me canta con mucha serenidad un pedazo de su composición; acuérdase del
+                baile, y salta enmedio de sus libros para ejecutar cuatro o cinco cabriolas, que me
+                hacen morir de risa; pero por desgracia tropieza entre los libros, y cae; advierte
+                uno que hay entre abierto, ponese a leerlo tranquilamente, y no se acuerda ya que
+                está caído; olvida la compañía, y pasa un gran rato en profundo silencio. Algunos
+                otros sabios entran en el cuarto; el ruido que mueven le hace salir otra vez de su
+                entusiasmo; viene a mí, y me habla como si acabase de e; entonces empieza a hacerme
+                una multitud de preguntas sobre mi país; dice que a mi vuelta quiere acompañarme,
+                afirma que los viajes instruyen muchísimo; me refiere cuantos ha hecho, y me lee la
+                historia de uno que acaba de componer.</p>
+               <p>En tanto yo me estaba riendo, y él no lo advertía; me despido, me hace mil
+                ofrecimientos, y los interrumpe fríamente por pasar a apuntar un pensamiento que le
+                ocurre.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XIII</head>
+               <head>Medicina del espíritu</head>
+               <p>Si yo quisiera hablar largamente del estado de la medicina en Crotalópolis llenaría
+                un volumen no menos extendido que las obras de Galeno, y aun más útil y gustoso:
+                aquellas han sido causa de la despoblación de una buena parte del globo; este,
+                presentando algunos provechosos desengaños, aumentaría por una consecuencia precisa
+                la población; pero yo no pienso hacer tratados, me contento con referir de paso lo
+                que he visto. Me se ofrecerán mil ocasiones en que sin ser molesto pueda instruir a
+                mis lectores de cuanto deseen saber sobre esta materia. Hablemos ahora del asunto de
+                este capítulo.</p>
+               <p>Un médico muy célebre llamado el Doctor Abubilla, había inventado una medicina del
+                espíritu enteramente nueva y original. Las librerías y las bibliotecas eran sus
+                boticas. A un hombre de gusto recetaba por vomitivo algún poema épico impertinente,
+                forjado por algún desatinado versificador; curaba los dolores de los Filósofos con
+                buenos libros antiguos; reanimaba los espíritus de los buenos poetas con unos
+                libritos, donde recogía las poesías más raras y selectas, y los llamaba frasquitos
+                de elixir, o espíritus de vida. Fortificaba el corazón desfallecido con excelentes
+                tratados de moral y política. La invención más útil puede convertirse en la más
+                dañosa. Un enemigo de los Semnopolítanos de malvada y pérfida intención, se servía
+                del utilísimo descubrimiento del Doctor Abubilla para destruir a sus enemigos. Este
+                asesino el más pérfido que puede imaginarse, sabía la complexión y el humor de cada
+                sujeto, y en lugar de recetarle libros que le aprovechasen, le prescribía venenos
+                que le mataban. Vi morir repentinamente a un Semnopolítano a quien para curar un
+                ligero resfriado había ordenado el Doctor Garduña (nombre del Médico mal
+                intencionado) un elogio de las castañuelas. ¡Fuerza eficaz del veneno! Apenas
+                comenzaron a leer el título, cuando se estremeció todo, y exhaló su alma envuelta en
+                un espantoso gesto.</p>
+               <p>Una Academia de adustos detractores del lujo fue víctima de este ta n cruel
+                desolador, leyóles una apología de él, y excitó y alteró de tal modo su sangre y
+                humores, que todos murieron agitados de los dolores más violentos.</p>
+               <p>Muchos de mis lectores querrían que yo copiase aquí algunas recetas; pero a qué si no
+                conocen ninguna de las drogas ni simples de Crotalópolis: sólo serviría de ganarme
+                enemigos. Tal vez a algún Autor malicioso se le ocurriría la idea de que yo
+                criticaba su obra, y sin mas ni mas me envestiría furioso con alguna denodada
+                sátira.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XIV</head>
+               <head>Raro modo de argüir</head>
+               <p>En todo el tiempo que duró la desunión entre los Crotalógicos y Semnopolítanos
+                sucedieron diversas refriegas bien particulares, que quiero pasar en silencio, como
+                también la mofa y el escarnio que hacía de los últimos la insolente y desenfrenada
+                plebe, pero diré a lo menos de un gracioso combate de que yo mismo fui testigo.</p>
+               <p>Halláronse un día en la plaza pública un criado de un erudito Crotalógico, y un
+                hombre particular del bando Semnopolítano. Disputaban sobre el grande asunto que
+                entonces agitaba aquel pueblo, esto es, el sonido de los crótalos. Sostenía, el
+                primero que no sólo era dulce y harmonioso, sino también que el crótalo era un
+                instrumento capaz de las voces musicales, y que la ciencia que enseñaba a tocarle
+                era supermusical, es decir, superior a la música. El contrario quería razones, y el
+                criado no daba ninguna; comenzaba por afirmar que no entendía de música, y que sus
+                oídos no eran capaces de la bellezas de este arte; pero la gran razón que me mueve a
+                sostener esta proposición, dijo, es la autoridad de mi amo, hombre sabio a todas
+                luces, escribe e imprime muchos libros, aunque no vende ninguno, porque el vulgo es
+                ignorante, y sólo gusta de lo malo, y un escritor público que estudia noche y día no
+                se engaña tan fácilmente.</p>
+               <p>Hacía poca fuerza al Semnopolítano la autoridad del erudito, a quien miraba como a un
+                ignorante, y afirmaba que el sonido de los crótalos era desapacible, porque
+                fastidiaba y molestaba, no a orejas tan duras como las del erudito y su criado, sino
+                a oídos bien organizados. Quiso exponer varias razones, pero no fue oído. El
+                Crotalógico dijo que su amo le había aconsejado que nunca se metiese en disputas de
+                palabras, pues daría con sofistas que al instante le embrollarían, que disputase a
+                puño cerrado argumento que no tenía fraude y del que sus fornidos nervios le
+                sacarían vencedor, que él así lo había ejecutado en sus disputas literarias,
+                saliendo triunfante de los hombres más hábiles de Crotalópolis. Entonces enseñando
+                un robusto brazo, e hinchando los tirantes nervios, provoca a su contrario a su
+                nuevo modo de argüir; era este prudente, y huía la contienda, pero encolerizado el
+                bárbaro enemigo, dijo: ahí va un silogismo en Bárbara con su proposición mayor,
+                menor y consecuencia, que lo son tres buenos cachetes que os descargo a puño
+                cerrado, y sin intermisión alguna.</p>
+               <p>El Semnopolítano, aunque literato, no era cobarde, y tenía mucho de chistoso, huyó el
+                cuerpo con ligereza al ver venir el golpe, y dijo en el mismo estilo, distingo la
+                menor, y niego la consecuencia; pero respondeme a este otro en Dari, y sacudióle uno
+                en la narices que se las deshizo todas. Duraron poco los silogismos, entraron al
+                punto en materia (hablando en términos de escuela), es decir, que se aferraron uno
+                contra otro, luchando como dos leones y pronunciando siempre que se sacudían algún
+                término silogístico. Acudió prontamente mucha gente admirados de la novedad del
+                argumento, y estuvieron presentes a la cuestión, que no duró mucho rato.</p>
+               <p>Por desgracia el que tenía menos razón concluyó y convenció al contrario, pues le
+                hundió dos costillas, y le quebró una pierna, quedando decidido de este modo que el
+                sonido de los crótalos era dulce y suave.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XV</head>
+               <head>Mi paseo</head>
+               <p>Los insultos de la plebe habían llegado a destruir enteramente los buenos
+                Semnopolítanos; los pocos que quedaron tuvieron que desamparar el pueblo y huirse a
+                un clima distante, donde aun no había llegado la furia crotalógica, y desde entonces
+                todo el pueblo fue verdaderamente crotalógico, y tomó nueva forma, pues de serio y
+                grave que era antes, se hizo enteramente alegre y regocijado; advertí mejor esta
+                absoluta y completa mutación en un paseo que di por el pueblo algunos días después
+                de la salida de los Semnopolítanos.</p>
+               <p>No iba por calle alguna que no viese los crótalos: después de los que adornaban las
+                cabezas de todos los habitantes, y los que continuamente sonaban entre sus dedos, se
+                advertían muchos pintados sobre los mismos edificios, y estaban llenas de ellos las
+                tiendas de los mercaderes. En unas no se vendían más que crótalos de diferentes
+                tamaños, hechuras y materias; en otras trajes y modas crotalógicas, que sólo eran
+                las antiguas y arrinconadas, sobre las que sus astutos dueños habían hecho pintar
+                algunos crótalos, y vendían como nuevas a un excesivo precio. En los portales y
+                rincones de las calles había otros mercaderes que vendían para la plebe modas
+                también crotalógicas, pero de menos valor.</p>
+               <p>Las fachadas de las casas estaban adornadas de diversos epígrafes crotalógicos; unos
+                anunciaban almacenes de modas crotalógicas; otros personas que hacían de vestir al
+                uso crotalógico, y en otras partes había Maestros para enseñar a bailar, cantar,
+                tocar, toser, hablar y andar a lo crotalógico.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XVI</head>
+               <head>Estudios Crotalógicos</head>
+               <p>Imaginaránse mis lectores por el título que voy a tratar ahora largamente del estado
+                de las ciencias en Crotalópolis, de su método de estudios, de sus libros, de sus
+                maestros y discípulos. Aguardarán tal vez una multitud de reflexiones filosóficas;
+                aquellos que en todo quieren hallar una analogía con las cosas de su país se
+                dispondrán a averiguar de qué libro, de qué Universidad, o de qué sabio habló bajo
+                tal nombre encubierto; pero se engañarán seguramente. Yo voy a decir de unos nuevos
+                estudios para aprender la ciencia de los crótalos, y no ninguna de las otras. Si
+                quisiera hablar de estas diría en pocas palabras que en algún tiempo florecieron en
+                Crotalópolis, que después reinó el mal gusto, y ahora la superficialidad: pero
+                hablemos de los estudios Crotalógicos. No quiero detenerme en hacer la pintura de
+                los diversos literatos que pretendieron formar estos estudios: la sátira para que
+                agrade ha de ser ligera, y aun las cosas más serias debían serlo también, según dice
+                un Autor que no sé cómo se llama.</p>
+               <p>Pero no podré dejar de hablar del señor Camello, cuyo plan fue el más extravagante, y
+                de consiguiente el único que se admitió. En cada parte hay su costumbre más o menos
+                sabia. En Crotalópolis hay la de juzgar del talento de un hombre por su presencia.
+                Un joven vivo y alegre que en la conversación se acomoda al modo de hablar común, y
+                sin nombrar las ciencias ni tomar el tono magistral dice las cosas más grandes y
+                filosóficas, es un ignorante. Por el contrario, un hombre que pasó ya de los
+                cincuenta años, tiene un genio adusto y regañón, huye la sociedad y los placeres, es
+                muy orgulloso y sobrado egoísta, habla en tono magistral y en estilo hinchado y
+                retumbante, es un sabio.</p>
+               <p>El señor Camello tenía toda la fisonomía de tal, y era esta copiada del original:
+                alto, y muy gordo, abultado de cara, y de carrillos elevados, tosco de facciones,
+                cabeza calva, pelo crespo y ensortijado, frente ancha, poblado de cejas, ojos gordos
+                y saltados, nariz ancha, boca grande, enormes orejas, color encendido tirando a
+                morado obscuro, hombros anchos, bastante cargado de espaldas, barriga redonda,
+                parecida a un tonel, piernas gruesas, y pie largo.</p>
+               <p>Su entendimiento era tan macizo coma su cuerpo, su memoria asombrosa, no le cansaba
+                el estudio más pesado, y pasaba un día entero recostado gravemente en un gran sillón
+                leyendo sin pestañear tomazos de a folio, porque jamás había tomado en sus manos
+                libros en cuarto ni en octavo. Parecía una biblioteca animada; sabía ad pedem
+                litterae gran porción de libros. Citaba sin cesar, y repetía continuamente trozos de
+                varios autores, cuya página, número y párrafo decía sin jamás equivocarse. Era
+                admirado de toda Crotalópolis como un asombro de erudición y como el mayor sabio;
+                teníase él a sí mismo en igual, o si cabe, mayor concepto; se miraba como superior a
+                los sabios antiguos, pues a los modernos no los juzgaba dignos de entrar en
+                comparación; se atribuía los retumbantes títulos de sol de la literatura y de
+                Maestro universal de todas las ciencias, despreciaba a sus contemporáneos, y
+                distinguía a sus discípulos con bajos y ridículos apodos.</p>
+               <p>El Señor Camello, cubierto ya de tantos laureles literarios, quiso adornar su calva y
+                venerable frente con la corona Crotalógica, superior a todas las demás en aquella
+                época; encerróse por algunos meses en su biblioteca, leyó todos los autores antiguos
+                y modernos, buenos y malos, que han tratado de educación, consultó los que tenían
+                relación con ellos; repasó las historias, y bien atestada su cabeza de doctrina y
+                noticias, tomó la pluma y calamo currente, cual un escribiente que copia o un
+                traductor que traslada por el vil interés, formó en poco tiempo el más desatinado y
+                pedantesco plan de educación de cuantos se han escrito, y se han escrito bien malos;
+                bien es verdad que él no había puesto nada de su propio talento, y que todo eran
+                retazos mal cosidos de diferentes autores.</p>
+               <p>No se contentó Camello con formar este difuso y pesado plan; así como por una especie
+                de ligero ensayo quiso dar algunas reglas y nociones elementales sobre el arte de
+                tocar los crótalos. ¿Pero cómo este gran erudito, que jamás había podido discurrir
+                por sí solo, cuyo romo entendimiento nunca había producido la más pequeña idea, y
+                que no sabía más que desfigurar copiando las de los otros, se avendría en formar un
+                arte enteramente nuevo? con gran facilidad: él no era hombre que se atolondraba o
+                apresuraba por cosa alguna: Leyó un tratado de Geometría, y aunque el arte de tocar
+                las castañuelas no se aprende por demostraciones, pues no es capaz de ninguna,
+                viniera o no viniera al caso, fuese bueno o fuese malo, allá embocó una taravilla de
+                teoremas y postulados, y llenóle de mil estampas y figuras. Acertó a hallar a mano
+                un libro de historia, y trajola a rastra y a empellones, pues de otro modo no podía
+                venir a su arte castañuelero.</p>
+               <p>Presentósele un tratado de física, embocólo también en su obra. Halló otro de
+                antigüedades, discurso infinito sobre los antiguos crótalos. Vio también un libro
+                silogístico, o que enseñaba a hacer argumentos y hallar la verdad por veinte o
+                treinta enredosos caminos, también entró en danza. En fin, no hubo ciencia, tratado
+                ni método que no apropiase ni acomodase a su obra, y dio a esta menestra literaria
+                el título modesto de elementos o primeras nociones de la Crotalogía: ¿os figuraréis
+                acaso por el título que los tales elementos eran algún libro poco voluminoso? sí,
+                bueno era el señor Camello para escribir papelillos, cuando sólo por juguete que
+                tomase la pluma ensuciaba resmas. Eran, pues, si no lo habéis por enojo cuatro
+                desmesurados tomazos de doble in folio, es decir, que eran dos veces más largos y
+                gruesos que un libro en folio.</p>
+               <p>Armóse el gran Camello con su plan y elementos, marchó gravemente seguido de sus
+                discípulos a presentarse a los literatos nombrados para juzgar las obras; llegó,
+                leyó y venció: despreciaron estos las de los demás, que aunque ridículas, no lo eran
+                tanto, y juzgaron excelentes las de Camello, porque eran las más pedantescas,
+                confusas y obscuras.</p>
+               <p>El plan de este gran literato, desembarazado de sus impertinentes digresiones, se
+                reducía a pocas líneas, creía, por haberlo leído en muchos libros, y no de los menos
+                celebrados, que la juventud aborrece el estudio, y establecía por vasa de su plan el
+                riguroso castigo. Pasaba a dividir la Ciencia de las castañuelas en teoría y
+                práctica, como si hubiese más que ésta: la primera se había de estudiar en las
+                Universidades y Colegios, de los que era forzoso desterrar los estudios antiguos,
+                como inútiles, en un país crotalógico, donde para ser hombre de merito sólo era
+                menester saber tocar las castañuelas y bailar el bolero; afirmaba que la ciencia de
+                los crótalos, tomada en toda su extensión, era bastante para ocupar la vida del
+                hombre por larga que fuese; quería que se animase a los literatos, para que
+                trabajasen sobre esta ciencia y disputasen las intrincadas cuestiones que contiene.
+                Los jóvenes habían de pasar muchos años estudiando sólo los elementos que había
+                compuesto, donde, aunque brevemente, estaban tratadas todas las cuestiones con el
+                mayor nervio; y luego que estuviesen bien hábiles podían pasar a la práctica, y
+                ceñir sus sapientísimos y literatos dedos con los crótalos.</p>
+               <p>¿Qué sucedió con el método del señor Camello? lo que debía suceder indefectiblemente;
+                los jóvenes aborrecieron el estudio, porque le veían inútil, pesado y majadero; los
+                que tenían algún talento, apenas salían de las Universidades, cuando olvidaban todos
+                aquellos libros ridículos, para estudiar otros de gusto, no sobre la Crotalogía,
+                sino sobre materias útiles. Los que carecían de él, disputaban eternamente en las
+                Aulas sobre una multitud de cuestiones fastidiosas y extravagantes, y se creían unos
+                sabios al mismo tiempo que todo lo ignoraban, pero ni los unos ni los otros
+                aprendieron a tocar jamás las castañuelas por el método del señor Camello.</p>
+               <p>Escribiéronse con el tiempo muchas obras, donde se trataba largamente del sonido de
+                los crótalos, como se producía, y cual era la causa de que se formase aquel, y no
+                otro: nacieron muchos partidos, formáronse grandes disputas, y extraviaronse en mil
+                cuestiones inconexas. Hubo mucha vanidad, mucho orgullo, y poca ciencia: por último,
+                se conoció lo inútil de este método, se satirizó, ridiculizó, y escribióse contra
+                él: la mayor parte del pueblo lo miró como despreciable; pero sin embargo, subsistió
+                largo tiempo.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XVII</head>
+               <head>El joven escritor</head>
+               <p>Publicaronse el plan elemental del señor Camello, tributaronsele todo género de
+                elogios, se le premió y recompensó liberalmente. Alabaronle los papeles periódicos
+                de Crotalópolis, porque ellos siempre alaban lo más malo; a los tontos, y estos
+                formaban el mayor número, les parecía sublime porque no lo entendían y los sabios lo
+                despreciaban, porque todo libro confuso e insubstancial es despreciable.</p>
+               <p>Murmuróse largamente contra él; publicaronse sátiras, formadas las más por sus
+                envidiosos rivales, injuriaronle sin combatir su obra.</p>
+               <p>De todas las que se publicaron contra los disparates del señor Camello solo una
+                estaba escrita con juicio e imparcialidad. Su autor era un joven cuya modestia le
+                hacía pasar en Crotalópolis por un ignorante: su excelente obra no mudó en nada este
+                concepto; leyeronla algunos, y gustó a pocos, porque en lugar de insolencias y
+                dicterios tenía razones que convencían. Sin embargo, en Crotalópolis hay algunos
+                sabios, aunque no muchos, estos conocieron todo su mérito, e hicieron de ella la
+                estimación debida. Gustóme a mí también, y creo no desagradará este ligero análisis
+                de ella.</p>
+               <p>Los más célebres boleros repiquetean con garbo las castañuelas, y bailan con primor
+                sin saber leer: los discípulos de Camello disputarán eternamente sobre el sonido de
+                los crótalos, y nunca sabrán tocarlos. Dice bien el señor Camello, que los jóvenes
+                aborrecen el estudio, pero es cuando este no les guía bien al fin; el deseo de saber
+                es natural, y las ciencias son amables cuando el camino que conduce a ellas es
+                florido y va derecho al fin, son aborrecibles cuando el camino es áspero y torcido.
+                Dejad a un joven que estudie aquello a que le llama su inclinación, presentarle
+                buenos modelos, darle pocas reglas, no fatigarle, y será un sabio.</p>
+               <p>Así es que para formar buenos poetas no les haría yo estudiar una multitud de obras
+                elementales ni cargaría su cabeza con reglas y preceptos teóricos, ni les metería en
+                confusas cuestiones sobre la poesía: pondríales en las manos los mejores poetas: si
+                su imaginación tenía aquel fuego, aquel calor propio de esta ciencia, bien pronto
+                ellos mismos harían piezas iguales o superiores a las que tenían delante, y
+                distinguirían naturalmente los buenos pasajes de los malos, lo bello de lo feo y
+                disforme, las gracias naturales de las fingidas o supuestas. ¿Pero, y si carecían de
+                este fuego poético? Todas las reglas, todos los buenos modelos, el estudio más
+                continuo, no les enseñaría a hacer un sólo buen verso.</p>
+               <p>En toda ciencia la práctica debe ser preferida a la teórica, ésta ha de caminar unida
+                con aquella, y servirla a lo más de guía. La naturaleza forma los grandes hombres, y
+                el arte los perfecciona; ¿pero qué es el arte? ¿lo serán acaso los elementos del
+                célebre Camello, tantos métodos de estudios, que sólo sirven para confundir y
+                ofuscar, tantas nociones, tantas ideas abstractas y metafísicas como se quieren
+                establecer por basa de los conocimientos científicos que han trastornado tantas
+                cabezas y ni aun han formado un sabio? No ciertamente, el arte es hijo de la misma
+                naturaleza, es ella misma; la atenta y juiciosa observación, el análisis, la
+                comparación, el raciocinio, este es el arte.</p>
+               <p>Pero cuando exclamo de este modo hablo en general de las ciencias y no de la de las
+                castañuelas, pues sólo la loca manía de los Crotalógicos, y la tontería del señor
+                Camello han podido hacer de la Crotalogía una ciencia, establecer para ella Estudios
+                públicos y Universidades. Estas deben dedicarse para asuntos más serios e
+                interesantes. Una sala de baile será la mejor escuela de Crotalogía.</p>
+               <p>Los-Estudios antiguos eran inútiles en la mayor parte, es bien hecho reformarlos,
+                pero era preciso haberles substituido otros útiles; esto es lo que no se ha hecho.
+                Quisiera yo que se hubiese desterrado el tal gusto de las Universidades y se hubiese
+                establecido el bueno. Quisiera también que los preceptos en las ciencias se
+                redujesen a un número muy corto. Quisiera que se quemasen tantos libracos ridículos,
+                y se dejasen los pocos que hay buenos. Quisiera que no hubiese tanta manía de saber,
+                y sólo se procurase adquirir los conocimientos provechosos. Quisiera; ¿pero, qué no
+                querría?</p>
+               <p>Miróse esta obra como superficial e insolente, escandalizó aquello de que la
+                Crotalogía no era ciencia; el señor Camello la miró con desprecio, porque era un
+                papelillo que no citaba, estaba escrito con claridad, y su autor era un joven. Sin
+                embargo sus discípulos se creyeron obligados a defender el plan de su maestro.
+                Hicieronlo asombrosamente, dijeron al joven escritor en varios papelillos que era un
+                charlatán, un hombre sin principios, y sus ideas ridículas por ser nuevas, y no
+                estar apoyadas en la autoridad de otro: aunaronse contra él y le persiguieron
+                personalmente hasta destruirle; tal fue el fruto que este joven sacó de sus útiles
+                verdades.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XVIII</head>
+               <head>El gran día de Crotalópolis</head>
+               <p>Triunfantes ya los Crotalógicos de sus tercos y serios enemigos, dueños enteramente
+                de la antigua Semnópolis, asegurado, a su entender, su bando con los nuevos
+                Estudios, restaba sólo celebrar con públicos regocijos tan prósperos sucesos.
+                Tomaronse de antemano todas las disposiciones, encargóse a un discípulo de Camello,
+                no menos pedante que su maestro, que dispusiese las fiestas y funciones
+                públicas.</p>
+               <p>¿Pero querréis que yo haga una relación circunstanciada, exacta y menuda de todas las
+                fiestas, que os diga lo que había en tal o cual calle, los versos buenos y malos,
+                inscripciones y epígrafes que se veían en todo el pueblo, sin omitir ni un punto, ni
+                una coma; luego tratar de las decoraciones de Arquitectura, Escultura y Pintura, con
+                los emblemas y jeroglíficos, explicandolos con la mayor cachaza, y que por horas,
+                minutos y segundos os cuente cuanto pasó? Nada de eso. Las fiestas están pintadas en
+                cuatro palabras. Bailóse locamente por muchos días en las calles, plazas y casas,
+                tocaronse desapiadadamente las guitarras y las castañuelas.</p>
+               <p>Un poeta publicó un desatinado poema en que pintaba la destrucción del bando
+                Semnopolítano, y el triunfo del Crotalógico: otros varios formaron descripciones
+                exactas e individuales de las fiestas las que copiaría aquí si solo pensara en
+                abultar mi libro a costa de la paciencia de mis lectores; se publicaron muchos
+                elogios, ya en verso, ya en prosa, pero todos malos, pesados y tontos. Sus
+                miserables autores dieron mucho que reír con sus disparates, y lograron su intento,
+                que seguramente no era el de adquirir una fama inmortal.</p>
+               <p>Los filósofos melancólicos declamaron sobre mil cosas, hicieron comparaciones de los
+                antiguos tiempos con los nuevos, meditaron, reflexionaron y analizaron. ¿Pero a qué?
+                Nadie los oyó, todos se hicieron sordos, y sus razones, buenas o malas, se las llevó
+                el viento. Se disiparon también muchos caudales, empeñaronse muchas casas, aumentóse
+                el lujo, y consumióse mucho, ganó el comercio: ¿pero ganaron las costumbres? En eso
+                no me meto. Sólo os diré que un papelillo declamó fuertemente, pero no hay que hacer
+                caso de declamaciones.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XIX</head>
+               <head>Retrato general</head>
+               <p>Crotalópolis, que me había agradado tanto al principio, me iba ya disgustando;
+                habíanme parecido tan mal las cosas que había visto hasta entonces, que no quise
+                permanecer más en este pueblo, y rogué a Isman dispusiese nuestra partida. Pero me
+                hizo permanecer algo más, para que pudiese formar un retrato de él, el cual se
+                contiene en estas observaciones sueltas.</p>
+               <p>Los Crotalógicos son inconstantes y superficiales, mudan continuamente de
+                pensamientos, y no se fijan en ninguno. Aquel que tiene más defectos, es el que más
+                levanta la voz contra los abusos; el más ignorante, y que no es capaz de formar una
+                obra mediana, el que juzga en un tono decisivo de todas. La vanidad es una pasión
+                que reina en todos los crotalógicos, y se advierte en todas las clases. El que tiene
+                un empleo diferente de su vecino se cree con derecho de insultarle y despreciarle.
+                Cada uno procura elevarse y hacerse respetar, aun de sus superiores. Hasta los más
+                humildes menestrales tienen este defecto. El sastre, se hace peinar gravemente por
+                el peluquero, y le recibe con una grande autoridad.</p>
+               <p>Una multitud de ceremonias de etiquetas y de ridículos cumplimientos hacen incómodo y
+                fastidioso el trato de Crotalópolis. Estas vagatelas se miran como una cosa seria, y
+                dos familias que no han pedido separarse por las causas mas grandes se enemistarán
+                por la más ligera falta en este punto. Los Crotálogos parece ignoran aquella gran
+                verdad de que en la sociedad la felicidad particular y general de los individuos
+                están íntimamente unidas, y dependen una de otra; cada uno procura por sí, y le
+                inquieta poco la suerte de los demás. Estas gentes tienen poco juicio y mucho
+                espíritu; examinandolos de cerca se les halla mucha imaginación y poca lógica, hacen
+                una pintura agradable, divierten con sus chistes, pero discurren y racionan mal, sin
+                fundamento.</p>
+               <p>La mayor parte del pueblo carece de instrucción, sigue tercamente las preocupaciones
+                más contrarias a su propio interés. Los hombres de una clase elevada o de grande
+                riquezas se creen infalibles, afirman y jamás dudan. Las ciencias florecieron algún
+                tiempo en Crotalópolis: ahora hay algunos sabios, pero son pocos; los conocimientos
+                del común de las gentes son bien limitados: y jamás ha habido más charlatanería y
+                superficialidad. Se creerá que los sabios que se proponen enseñar al pueblo estarán
+                más libres de defectos; pero regularmente tienen mil preocupaciones que los impiden
+                conocer la misma verdad que creen demostrar a los demás. En Crotalópolis las
+                apariencias toman de tal modo la máscara de la realidad, que se equivocan; vuestro
+                mayor enemigo os hará mil protestas de amistad, el hombre más indiferente y que
+                menos os estima os colmará de ofrecimientos.</p>
+               <p>Su modo de hablar es tan insubstancial y tan vacío de sentido como su cerebro. Hay
+                pocas palabras que signifiquen algo; las demás se prodigan, pero no significan
+                nada.</p>
+               <p>La sabiduría y la virtud son respetables, pero están ocultas, y en tanto el vicio
+                reina. Los malvados no se atreven a insultar a los virtuosos cara a cara, pero los
+                desprecian, los satirizan ocultamente.</p>
+               <p>Todo el estudio de un Crotálogo se reduce a agradar, y cree que este don puede
+                reemplazar a los demás. No temen tener que avergonzarse, con tal que el espíritu sea
+                ingenioso y los dichos graciosos. Bajo de una cierta máscara de civilidad se
+                encuentran los mayores defectos, y bajo la apariencia de dulzura, la crueldad; la
+                avaricia toma el nombre de economía, la prodigalidad de liberalidad, la bajeza de
+                humildad, y la hipocresía de virtud.</p>
+               <p>Ciertas palabras de moda, algunos dichos poco comunes, algo de tarto, y sobre todo
+                mucha libertad y resolución, pueden hacer pasar en Crotalópolis la plaza de
+                sabio.</p>
+               <p>El arte de aparentar y de engañar ha llegado allí a una gran perfección, hay muy
+                pocos que demuestren lo que son. El rico parece pobre, este pasa algunas veces por
+                poderoso el malvado es tenido por hombre de bien, y el impolítico por atento.</p>
+               <p>Los Crotálogos son muy amigos de la novedad, la más ligera friolera llama su
+                atención, y la fija por poco tiempo, la noticia más interesante, el suceso más
+                particular no dura ocho días, y es reemplazado por otro; así se está en una continua
+                mutación.</p>
+               <p>En Crotalópolis se trata mucho de educación, y generalmente hablando la que se da a
+                los hijos no es muy buena. Se pone más cuidado en formar el exterior que el
+                interior, el espíritu que el corazón. Se disimula a un joven algunos defectos con
+                tal que sea agradable, este defecto no se disimula nunca. La educación del bello
+                sexo está aun más abandonada: hay pocas mujeres que tengan el talento cultivado, y
+                que sepan formar una conversación útil; en saliendo de sus modas, de su perritos y
+                de sus amantes, enmudecen.</p>
+               <p>Cada clase de Ciudadanos tiene su modo particular de andar, y de presentarse, que
+                forma lo que algunos llaman maneras: es fácil a poco que se haya estado en aquel
+                pueblo distinguirlos por ellas. El médico está siempre observativo, el magistrado
+                camina gravemente, el militar con arrogancia, el menestral con timidez, el
+                comerciante nunca sosiega y está siempre inquieto, el petimetre parece risueño y
+                afable, y el filósofo ocupado en meditaciones.</p>
+               <p>En Crotalópolis hay muchas gentes que no tienen más empleo ni riquezas que su
+                industria, estos se mantienen de estafar al público, hoy comen aquí, mañana allí,
+                piden prestado a éste, y roban al otro. A uno le engañan con la esperanza de un
+                empleo, para el que prometen servir de empeño; llevan el humor a otro, y se fingen
+                sus mayores amigos. Introducen a aquel en una casa que se la hacen creer por de
+                distinción, y es un garito. Otros se hacen curanderos, y sólo sirven a empeorar las
+                enfermedades.</p>
+               <p>Divertirse en Crotalópolis es una ocupación; el teatro, los paseos, los bailes, las
+                visitas, las fiestas públicas, el juego, el amor, forman una cadena de placeres,
+                ¿pero creeréis que los que los disfrutan son felices? al contrario, son los mas
+                desgraciados.</p>
+               <p>Aunque en Crotalópolis se advierten estos defectos, muchos que quiero callar, y otros
+                que no tuve lugar de observar, sin embargo no diré que las costumbres estén
+                enteramente corrompidas; se ven familias virtuosas que educan bien a sus hijos y
+                viven con juicio, hombres honrados, sabios verdaderos, filósofos ilustrados, y
+                señoritas que hablan de cosas más elevadas que sus peinados, y que conocen y
+                cultivan las ciencias.</p>
+            </div>
+            <div type="chapter">
+               <head>Capítulo XX</head>
+               <head>Fin de mi viaje</head>
+               <p>Volvióme Isman a nuestro pequeño globo, y dióme un licor que restituyó la memoria que
+                el otro me había quitado: entonces conocí que las costumbres de Crotalópolis eran
+                bien semejantes a las nuestras, y que en muchas cosas solo nos diferenciamos de los
+                Crotálogos en el nombre.</p>
+               <p>Publicar sus memorias es la primera cosa que hace un viajero, al instante que vuelve
+                a su país: entróme a mi también la tentación harto común en estos tiempos de ser
+                autor, y pensé seriamente en publicar mi viaje: yo no digo que estará al lado del de
+                Enrique Wanton, ni menos del de Micrómegas: no soy ambicioso, me contento con que
+                divierta y recree por algunos días, y con que los títulos de los capítulos agraden a
+                las damas y a los petimetres.</p>
+               <p>No me lisonjeo como muchos de que mis sátiras y moralidades produzcan una feliz
+                revolución en las costumbres, haciéndolas puras y sencillas: la deseo, pero no la
+                aguardo. El mundo siempre ha sido el mismo ha sido el mismo, ha habido vicios, ha
+                habido virtudes; se han alabado éstas, se ha declamado contra aquellos. Los Poetas
+                han publicado siempre sátiras amargas; pero los Poetas que tanto agradan y
+                divierten, que pintan tan bien, ¿han reformado el mundo, le han corregido, le han
+                enmendado, han destruido el vicio? Quevedo ha satirizado cuasi los mismos defectos
+                que Juvenal, y el que escribe hoy en día no tiene otros que combatir.</p>
+               <p>¿Me lisonjearé yo de ser más feliz que ellos? El petimetre leerá mi obra, se reirá de
+                sí mismo bajo diferente nombre, y no se enmendará. El pedante después de haber visto
+                su retrato seguirá siendolo. El erudito a la violeta no cesará de adornarse con
+                plumas ajenas, y de lucirlo en las conversaciones con frases prestadas. Nuestras
+                tertulias serán tan poco substanciales, nuestro lenguaje tan afectado, nuestros
+                ofrecimientos tan exteriores y aparentes, y nuestro carácter tan inconstante y
+                mudable. Correremos como antes detrás de la novedad. Formaremos disputas y
+                altercados funestos por las más ligeras vagatelas: las defenderemos y sostendremos
+                con la mayor fuerza, y en tanto miraremos con indiferencia los asuntos más graves y
+                que más nos interesan. Aplaudiremos al ignorante presumido, y despreciaremos al
+                sabio modesto. Nuestros estudios serán tan llenos de defectos, nuestros
+                conocimientos serán tan limitados, y nuestras luces tan escasas. Sucederánse los
+                vicios, y se sucederán las sátiras.</p>
+               <p>Observaciones sobre la Crotalogía</p>
+               <p>El Autor de esta obra nos permitirá que hagamos algunas observaciones imparciales
+                sobre ella y que digamos libremente nuestro sentir, sin faltar a las reglas de la
+                urbanidad, y sin salir de los límites de la crítica. Se puede alabar sin ser un vil
+                adulador, criticarla sin ser un satírico atrevido y maldiciente. Un Autor que ama la
+                gloria, ¿y qué buen Autor no la ama? en lugar de sentir las críticas fundadas y
+                juiciosas, las recibe con tanto gusto cuanto le enfadan e irritan las insolentes y
+                atrevidas sátiras.</p>
+               <p>En la Crotalogía se ridiculizan muchos defectos, unos con razón, y otros, a mi
+                parecer, sin ella. Está muy bien satirizar los Prólogos impertinentes y pesados, la
+                manía de citar a cada paso, la de usar en las ciencias de nombres griegos de difícil
+                pronunciación, las confusas definiciones de muchos literatos, y sobre todo las
+                infundadas y ridículas conjeturas de los anticuarios. Dese fuertemente contra el
+                Diario por sus erratas, mal lenguaje y su poco gusto; combatase al Señor J. V. sobre
+                si las mujeres deben o no estudiar las ciencias abstractas.</p>
+               <p>Pero es menester contenernos en ciertos límites, si queremos ser tenidos por hombres
+                de gusto. Diríjase en hora buena el capítulo V y VI contra los anticuarios; ¿pero a
+                qué escribir la Ciencia de las castañuelas bajo el mismo estilo y método que si
+                fuesen unos elementos de Geometría? ¿A qué hacer una ridícula comparación del hombre
+                nuevo de Buffon, y la estatua animada de Condillac (p. 65) con un arte de cocina? ¿A
+                qué atreverse a satirizar a estos grandes hombres? ¿y a qué hablar contra las tres
+                unidades? (pág. 75)</p>
+               <p>Me temo que algunos estén persuadidos a que esta obra es alguna Apología del mal
+                gusto, y una sátira baja y común de los buenos Autores; no diré yo seguramente
+                tanto: he formado mi juicio de ella, y no me desdigo; pero no la daré la razón en
+                estos tres puntos. El método geométrico que satiriza en toda la Crotalogía es
+                seguramente el único que puede demostrar, y hacer evidente las verdades más útiles y
+                ocultas ed las ciencias naturales.</p>
+               <p>Cómo podrá el hombre asegurarse de la certeza de una cosa3. Como se le podrá hacer
+                una demostración que convenza su entendimiento, si comenzando por las verdades, que
+                él mismo conoce ya, no se le forma una especie de cadena de proposiciones, que unas
+                se deducen de otras, y le conducen a otras más distantes, y menos conocidas. Los
+                Matemáticos establecen por principio varias verdades, de las que el Autor llama de
+                Perogrullo; éstas, dice, siguiendo la autoridad de Lock4, que no sirven para la
+                consecución de una ciencia, pues sin embargo, sin ellas jamás ninguno me hará una
+                demostración del problema menos intrincado. Si las verdades matemáticas son las
+                únicas, fuera de las reveladas, y dentro de los límites de las ciencias naturales,
+                que pueden llamarse tales, es sólo porque se demuestran según este orden.</p>
+               <p>En lugar de parecerme ridículo este método, paréceme (y creo que en esto los
+                verdaderos sabios serán de mi opinión) que es muy útil, y el único que puede servir
+                para el verdadero adelantamiento de las ciencias naturales. Es muy escaso el número
+                de verdades que el hombre conoce por sí solo, o con el auxilio de la razón:
+                deberíamos comenzar nuestros estudios por afirmarlas y establecerlas: deduciríamos
+                luego las más inmediatas consecuencias, que servirían de base a otras mas remotas, y
+                así iríamos formando una serie de conocimientos, todos evidentes, y todos
+                demostrables. Nunca nos atreveríamos a dar un paso a ciegas: no estableceríamos por
+                principio ninguna proposición que no estuviese bien demostrada, ni caminaríamos sino
+                guiados por la experiencia: observaríamos, analizaríamos todas las cosas, y
+                formaríamos diferentes clases de nuestros conocimientos, según su mayor o menor
+                certeza. ¡Ojalá se hubiera caminado con igual tiento y precaución! No tendríamos
+                tantos sistemas ridículos, e infundados, tantos libros inútiles, tantos falsos
+                axiomas; no nos hubiéramos atrevido a querer escudriñar los profundos arcanos de la
+                naturaleza, ni la causa de las cosas; contentandonos con estudiar sus admirables
+                efectos, la conoceríamos mejor, y sabríamos aprovecharnos de los bienes que
+                encierra.</p>
+               <p>Al ver satirizado en el cap. I, lib. 2, al Genio inmortal, al incomparable Buffon, no
+                puedo menos de preguntar al Autor de la Crotalogía si ha leído las bellas
+                producciones de su pluma... ¡no habéis admirado, señor Florencio, con qué valentía
+                pinta el inmenso cuadro de la naturaleza, como su vasto, su profundo talento la
+                abraza toda, la analiza, la observa hasta en sus más pequeñas producciones! ¡Cual
+                cría, cual eleva, cual ensalza el estudio de la historia natural, y le lleva a su
+                mayor perfección! ¡Al leer sus obras no habéis admirado su genio criador y original,
+                y la extensión de sus profundos conocimientos! ¡los resplandecientes rayos de sus
+                bellas descripciones no os han deslumbrado, y la pluma no se os ha caído de las
+                manos!... ¡Cómo habéis podido estampar tan ridículas ironías contra este Autor, e
+                insultarle con tan bajas comparaciones! Pero Platón, Aristóteles, y cuatro mil
+                Filósofos5, hasta Descartes, trataron de otro modo de las primeras ideas, o
+                conocimientos humanos, ¿y por eso célebre Condillac, el Plinio moderno, que valen
+                seguramente más que esa sarta de cuatro mil filósofos, y tanto como Platón y
+                Aristóteles, no podrían inventar otro método? El asunto es saber quienes lo han
+                hecho con más facilidad, si los antiguos, o los modernos; tal vez daría yo la
+                preferencia a éstos, pese al autor de la Crotalogía.</p>
+               <p>¿Pero a qué criticar en todo el cap. 2 del lib. 2 las tres unidades con razón
+                famosas; pretende este Autor arrojarlas de la Poesía dramática, que es donde
+                principalmente se observan? ¿quisiera que siempre se representasen las desarregladas
+                piezas de Calderón, Lope, Cañizares y otros; y que el teatro en lugar de ser una
+                escuela de gusto lo fuese de desorden y confusión?</p>
+               <p>¿Que se pareciese a una linterna Mágica, donde tan pronto se viese una decoración que
+                representase el Palacio del Emperador de la China, como la Cárcel de Londres, o el
+                Castillo de Amberes: que los Actores estuviesen siempre de botas, prontos a marchar
+                al primer silbido del tramoyista, y después de haber encajado una relación en el
+                capitolio, enmedio de un senado compuesto de venerables pelucas; fuese volando a
+                mandar un ejército en Asia, para volver jadeando a tramar una conspiración en
+                España, y destruir a Cartago? Que los actores fuesen manejados por el desatinado
+                Poeta como unos maniquíes, ser jóvenes a la primera jornada, porque yo lo mando,
+                aunque hace solo una hora que se comenzó la comedia, yo he hecho ya que se pasea
+                treinta años, forzoso es que os envejezcáis de repente, poneros unas barbas, andad
+                corcovados y hablar gangoso, y crea buenamente el espectador que sois unos petates:
+                creedlo vosotros también mal que os pese.</p>
+               <p>¡Qué, la unidad de acción es un disparate, una pobreza, una miseria! Cada comedia ha
+                de ser un pedazo de historia, y si cabe toda la historia universal tanto mejor; allí
+                si que hay multitud de sucesos, cuales tristes, cuales alegres: Ya se ve al Rey Nino
+                que mata a su madre; a poco rato Carlos V da una batalla, y un minuto después sacan
+                al cadalso a María Estuarda; y apenas se corre el telón, aun se está viendo el
+                patíbulo, y hete aquí un campamento con sus vivanderas, y todo lo necesario, y
+                Federico II, que da una batalla, y sin menearse del teatro gana la Silesia.</p>
+               <p>Con esta endiablada mezcolanza si que se forman buenas y divertidas piezas, y no
+                pasar dos horas con una acción tan sola, sin salir de un sitio, viendo, por ejemplo,
+                la muerte de Semiramis, o el funesto efecto de los celos de Orosman.</p>
+            </div>
+         </body>
+      </text>
+</TEI>

@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Paulina o el amor desinteresado</title>
+               <author ref="authors.xml/#P51">Olavide, Pablo de</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">18269</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_069</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>Olavide, Pablo de</author>
+                  <title>Obras narrativas desconocidas</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <date when="2001">2001</date>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmc7m065">https://www.cervantesvirtual.com/nd/ark:/59851/bmc7m065</ref>
+                  <bibl type="print">
+                     <author>Olavide, Pablo de</author>
+                     <title>Obras narrativas desconocidas</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000056">Peru</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/7005821">Lima</settlement>
+                     </pubPlace>
+                     <publisher>Biblioteca Nacional del Perú</publisher>
+                     <date when="1971">1971</date>
+                     <bibl type="first">
+                        <author>Olavide, Pablo de</author>
+                        <title>El amor desinteresado</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                        </pubPlace>
+                        <publisher>D. Joseph Doblado</publisher>
+                        <date when="1800">1800</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year"/>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div>
+               <p>Una noche de invierno, que Doña Clara de Postigo volvia á recogerse á su casa,
+                despues de haber hecho oracion en Atocha, oyó cerca de la puerta de las Delicias los
+                gritos de una criatura, y pasando por delante de ella vió en efecto una niña, que
+                parecia de muy poco tiempo, y que lloraba sin consuelo. Se le acercó para
+                acariciarla, y viéndola pasada de frio y sola, se compadeció. Volvió los ojos á
+                todas partes por si veia alguna persona que la buscase, y no vió á nadie. No se
+                atrevió á dejarla tan abandonada, y le pareció esperar allí hasta que alguno
+                viniera. Pero habiendo estado mas de una hora traspasada ella misma de frio, se
+                resolvió á tomarla en sus brazos, y llevarla al Alcalde del cuartel, á quien dió
+                cuenta de todo.</p>
+               <p>El Alcalde envió al sitio en que se encontró, para examinar si habia alguno que la
+                buscase. Pero despues de largo tiempo le vinieron á decir, que no habia parecido
+                nadie. No se pudo saber como estaba tan abandonada esta criatura, y la conjetura mas
+                verosímil, fué que seria hija de una madre muy pobre, que no pudiendo mantenerla la
+                habia espuesto á la conmiseracion pública. Era pues indispensable buscarle algun
+                abrigo, y el Alcalde pensaba en enviarla á los huérfanos. Pero Doña Clara le dijo:
+                yo soy una pobre viuda de un teniente coronel, no tengo mas renta que mi viudedad,
+                que apénas me basta para vivir con escasez. Pero el cielo me ha enviado esta
+                criatura; pues haciéndome pasar junto á ella en el momento de su desamparo, me
+                indica que me la destina, y que su providencia me la encarga. El mismo cielo no
+                concedió á mi matrimonio la bendicion de la posteridad, y ahora parece que quiere
+                suplirme aquella falta con esta hija. Yo la adoptaré, y la misma providencia me dará
+                los medios, ó yo me sujetaré á algunas privaciones para mantenerla. Dádmela pues, y
+                si sus padres parecen la hallarán en mi casa.</p>
+               <p>El Alcalde, que conocia á Doña Clara, y que sabia que era muy estimada por su notoria
+                honradez y virtud, lejos de tener dificultad en confiársela, elogió su generosidad,
+                y se la entregó. Doña Clara la hizo criar, la dió el nombre de Paulina, porque la
+                encontró el dia de aquel Santo, y en breve tiempo la quiso como si fuera su propia
+                madre. Ya hubiera sentido el que sus padres viniesen á quitársela; pero cuando vió
+                que pasáron muchos años sin que nadie la reclamase, esperó conservarla. La tierna
+                Paulina se formaba, y cada dia parecia mejor. Cuando llegó á la edad de doce años,
+                ya era una muchacha hermosa. Su talle era fino y delicado, sus ojos negros despedian
+                centellas, sus cabellos copiosos eran rizados, sus dientes eran blancos, limpios y
+                puestos con un órden admirable. En fin, una sonrisa dulce y tierna, muchas gracias,
+                y un espíritu natural, vivo, chistoso y sensible, habian hecho de ella un sugeto
+                precioso, que inspiraba cariño á cuantos la veian.</p>
+               <p>Doña Clara no habia podido darla mas que una educacion muy sencilla; pero la habia
+                acostumbrado á la virtud, y á temer y amar á Dios, á estimar la honestidad, á mirar
+                el honor como la ley suprema, y la conciencia como el mas respetable soberano. En lo
+                demas no la pudo hacer aprender ninguna habilidad. Sus medios no se lo permitian, y
+                como por otra parte vivia retirada sin tratar mas que con un corto número de amigos,
+                tan virtuosos y retirados como ella, Paulina no pudo estender sus ideas, ni adquirir
+                ninguna esperiencia del mundo. Así conservó largo tiempo la feliz y tranquila
+                ignorancia, que no conoce los vicios, y que aleja la triste desconfianza. Paulina
+                inocente y buena, no sabia que era posible ser mala; juzgaba por su corazon que
+                todos eran buenos, y se habia figurado que los hombres no habian nacido mas que para
+                servir á Dios, para amarse unos á otros, y socorrerse mútuamente.</p>
+               <p>Con tantas gracias, y tantas prendas, Paulina no podia dejar de ser muy amable. Su
+                candor, su inocencia y su alegría la hacian interesante para todos. ¡Cuánto mas
+                debia serlo para Doña Clara, que veia tambien logrado el objeto de sus atenciones!
+                Solia decir, que la providencia la habia recompensado su ligera caridad, con la
+                abundancia digna de su grandeza, pues la daba en la hija que habia adoptado tantas
+                satisfacciones, que ellas solas hacian la felicidad de su vida. Pero por lo mismo
+                que la idolatraba, veia con dolor, que su muerte dejaria á Paulina sin asilo, y este
+                era el único torcedor que la afligia sin cesar.</p>
+               <p>En su cuarto bajo vivia un famoso pintor, llamado Cano, y su muger Doña Felipa.
+                Tambien vivia con ellos una hermana del pintor, llamada Doña Tomasa. Esta era una
+                familia honrada y recogida. Una vecindad tan inmediata, y la conformidad de genios y
+                costumbres los habian unido con mucha intimidad, y solian pasar juntos una parte de
+                la noche. Tomasa tenia ya mas de cuarenta años, y no habia querido casarse. Pero
+                habiendo sido criada por una pariente rica, y que trataba con gentes de modo, habia
+                adquirido la urbanidad, y delicadeza que se pega á los que tratan con ellas. No era
+                hermosa, y era pobre; pero su buen natural, su honestidad, y su dulzura la hacian
+                estimar de todo el mundo, y era amiga particular de Doña Clara.</p>
+               <p>Como Cano y su hermana venian con frecuencia á casa de Doña Clara, se hablaba mucho
+                de pintura. Paulina como niña se habia puesto muchas veces á dibujar groseramente
+                los objetos que le caian en la mano, y Cano creyó descubrir en ella una gran
+                disposicion para el dibujo. Ella retrataba flores, y formaba figuras, que no dejaban
+                de tener rasgos de semejanza, y proporciones que sorprendian al pintor. Al principio
+                se contentaba con indicarle los defectos, se los corregia con una pincelada de su
+                mano; pero observó, que cada instruccion suya era un golpe de luz para Paulina, que
+                todas sus lecciones eran útiles, que no volvia á caer en los mismos defectos, y en
+                fin, que jugando habia llegado á dar una gran correccion á sus obras. Como conoció
+                que la naturaleza la habia dotado de un genio estraordinario, y que si se aplicaba
+                seriamente, seria de un singular talento. Se lo dijo á Doña Clara, y se ofreció, si
+                queria, á darla algunas lecciones, y cultivar una disposicion tan feliz. Doña Clara
+                se lo agradeció mucho, le esplicó la pena con que vivia de no tener que dejarla, y
+                el consuelo que la daba, haciéndole esperar, que tendria una ocupacion honesta con
+                que poder vivir.</p>
+               <p>Desde aquel dia Cano se aplicó seriamente á enseñarla. La trajo modelos, corregia sus
+                copias, y en fin la puso en estado de que pudiese cultivar con utilidad este
+                estudio. Paulina, dócil, inteligente y atenta hizo tantos progresos, que el mismo
+                maestro estaba sorprendido, y decia, que con el tiempo su pincel seria distinguido y
+                admirado. Ya le era muy útil porque no solo le preparaba los trabajos, sino sacaba
+                con acierto sus copias. En esta situacion una fiebre maligna sorprende á Doña
+                Clara.</p>
+               <p>Paulina y Tomasa no se apartaban de su cabecera, y la sirvieron con todo el interes
+                de una hija, y de una amiga. Pero á pesar de todas sus atenciones, en cinco días la
+                muerte la arrebata de entre sus brazos. Tomasa arrancó á Paulina del lecho funesto,
+                la condujo al cuarto de su hermano, y se encerró con ella, la dió tiempo para que se
+                desahogara, derramando un diluvio de lágrimas, y tuvo la prudencia de permitirla
+                esta dulzura tan necesaria á los corazones afligidos. Hay almas duras, ó poco
+                reflexivas, que con el pretesto de aliviar las penas, pretenden impedirles gemir de
+                sus dolores. Los genios insensibles ó necios no ven otro remedio, que el de quitar ó
+                disminuir la libertad del llanto. Pero este celo indiscreto se acerca mucho á la
+                dureza, y en aquellos momentos, léjos de que puedan tranquilizar los discursos
+                vanos, y las frias consideraciones, traspasan una alma que ya está herida de su
+                dolor. Es insensato y ridículo pretender, que un infeliz que se siente atravesar el
+                corazon, parezca insensible al dardo que lo hiere.</p>
+               <p>Tomasa fué nombrada por la difunta, su albacea y tutora de Paulina, y desempeñó
+                altamente su confianza. Vendió los muebles y efectos y con ellos compuso una pequeña
+                cantidad que puso á interes en favor de su pupila. El pintor á quien era ya muy
+                útil, y que esperaba que cada dia lo seria mas, deseó quedarse con ella, prometiendo
+                cultivar sus disposiciones, y ponerla presto en estado de sostenerse con su
+                habilidad. Tomasa y Paulina aceptáron la oferta, y desde entónces se resolvió, que
+                se quedaria en casa del pintor, lo que tambien agradó á Doña Felipa su muger.</p>
+               <p>El dolor de Paulina fué mas serio y profundo de lo que parecia comportar su edad:
+                lloraba con mucha ternura á Doña Clara, y la lloraba amargamente, aunque no podia
+                conocer todavia lo que habia perdido con su muerte: lo que lloraba entónces era una
+                amiga dulce, buena y afable, una indulgente y tierna compañera. Felipa no era capaz
+                de recompensarle la pérdida de tan preciosa amiga. Su carácter era frívolo, ligero,
+                que no se ocupaba de nadie, ni pensaba mas que en divertirse, y una persona afligida
+                le parecia fastidiosa. Ya tenia mas de treinta años, y con todo no tenia otro
+                pensamiento que el de los pasatiempos y diversiones. Avara y de corto talento, ni
+                tenia valor de gastar para procurarse placeres, ni sabia privarse de ellos, y para
+                satisfacer sus deseos se acompañaba con mugeres, cuya reputacion no estaba
+                intacta.</p>
+               <p>Su marido era un buen hombre, siempre ocupado en las cosas de su profesion, y por
+                otra parte de una débil salud, la dejaba vivir á su gusto. Una sola criada anciana
+                gobernaba la casa, y era la que se encargaba de todo, hasta de atender á la salud de
+                su amo. Felipa iba á la comedia, al prado, no perdia paseo, volvia muy tarde á su
+                casa, en fin, no hacia otra cosa; y el buen marido tampoco la decia nada. Su
+                discípula siempre aplicada á su estudio, la veia poco. Apénas se encontraban á las
+                horas de comer, y entónces se hablaban con cortesia, pero con mútua
+                indiferencia.</p>
+               <p>Paulina pasó de esta manera cuatro años, sin que nada turbase la tranquila
+                uniformidad de su vida; pero ya era un prodigio de su arte. No solo habia llegado al
+                punto de perfeccion, á que su maestro pudo conducirla, sino que su gusto natural la
+                hizo subir muchos grados mas arriba. El lo conocia, y lo confesaba sin rubor. Se
+                aprovechaba del talento de su jóven discípula, la confiaba las obras mas encargadas,
+                y le valian no solo utilidades sino reputacion. Pero viéndose enfermo, y las mas
+                veces incapaz de trabajar por sí mismo, aconsejó á muchos que se dejasen retratar
+                por ella, y estos ensayos empezáron á hacerla conocer.</p>
+               <p>Fuera de estas ventajas, Paulina con el retiro en que se ejercitaba, habia conservado
+                la pureza de ideas, y la simplicidad de costumbres que habia aprendido en casa de
+                Doña Clara. Ya tenia diez y siete años, y todavía sin haber perdido ninguna de las
+                devociones, y toda la modestia con que habia venido á la casa, mantenia el mismo
+                candor, la misma ignorancia del mundo, y la ingenua y sencilla buena fe con que
+                creia, que todos eran tan buenos como ella. Ni conocia ni estimaba la cortesia
+                ceremoniosa con que se afecta la benevolencia, y se finge la amistad. Su corazon no
+                tenia ni aversion ni malicia. Sus atenciones eran simples, y despojadas de toda
+                afectacion; pero eran verdaderas y naturales, y este carácter añadido á sus gracias,
+                la hacian tan rara en su especie, como interesante y agradable.</p>
+               <p>El pintor la habia encargado que limpiase, y pusiese corriente una pintura, que habia
+                hecho en otro tiempo, y que era el retrato de un caballero. El tiempo y los acasos
+                la habian alterado, el dueño, cuyo retrato era, se la habia remitido, pidiéndole que
+                la compusiese, para dársela á una hermana suya, que debia ausentarse, y se la pedia.
+                La encargó la celeridad, porque ya estaba de partida; y el pintor, conociendo que
+                Paulina lo haria mejor, y mas presto, se la habia confiado, recomendándole la
+                diligencia. Paulina le prometió trabajar en ella con mucho celo, y en efecto se fué
+                al estudio en que trabajaba el pintor de ordinario, y puso manos á la obra.</p>
+               <p>Apénas habia empezado, cuando siente abrir la puerta. Vuelve los ojos, y ve entrar un
+                caballero, cuyo brillante trage, y los adornos que lo decoraban, debian escitar la
+                atencion. Pero la ingénua Paulina, con su candor acostumbrado, y embelesada en sus
+                ideas, no hizo mas que suspenderse, y no se ocupó en otra cosa sino de confrontar la
+                copia con el original, porque reconoció, que el que entraba era el modelo de la
+                pintura que componia. Embebida en este exámen, no se da tiempo para hablarle. Apénas
+                le baja la cabeza, le hace con la mano señal de que se siente, y él obedece sin
+                hablarla tampoco. Entónces Paulina fija los ojos sobre él, los vuelve después á la
+                pintura, toma el pincel, y paseando la vista alternativamente sobre el caballero y
+                la pintura, trabaja largo tiempo.</p>
+               <p>Este recibo singular divirtió mucho al Marques de San Leandro, que era el original
+                del retrato, y que venia para que á su presencia le dieran la última mano, y
+                recogerlo para dárselo á su hermana que lo esperaba. Había creido encontrar al
+                pintor en esta pieza, en que trabajan de ordinario, y le pareció una aventura
+                graciosa hallar en su lugar una linda muchacha, que se ocupaba tanto en
+                contemplarlo. Este acaecimiento, que era simple, le pareció curioso y agradable; le
+                divirtió, lo interesó y lo produjo una impresion muy viva; porque miéntras Paulina
+                comparaba el original con la copia, él admiraba su hermosura, el fuego de sus ojos,
+                y las gracias de su persona. Ya estaba impaciente por ver si su educacion y su
+                espíritu correspondían á un esterior tan agradable; pero cuando se disponia á
+                decirle alguna cosa, viene el pintor que le hace muchos cumplidos y largas escusas
+                sobre no haber acabado su retrato.</p>
+               <p>El Marques, que ya no tenia tanta prisa, lo interrumpió, y se acercó á ver el trabajo
+                de Paulina. Era inteligente, y observó que no solo lo habia retocado, sino que con
+                cortos rasgos le habia añadido mucha semejanza, dejándolo perfecto, pero no dijo
+                nada. El pintor sorprendido tambien de las mejoras, esplicó su admiracion; pero el
+                Marques para hacer durar el placer que sentia de ver los ojos de Paulina fijos sobre
+                los suyos, y poder mirarla mas á su gusto, fingió no estar contento. Halló muchos
+                defectos tanto en la semejanza, como en el colorido y en el dibujo, y como todas
+                estas críticas no eran justas, la linda discípula de Cano se burlaba de sus
+                censuras.</p>
+               <p>El Marques á quien las vivezas de Paulina divertian mucho, no quiso ceder, y
+                afectando que hablaba de veras, le pidió seriamente que se pusiese á su lado, y que
+                examinase atentamente sino tenia razon. Paulina consintió. Ella vuelve á hacer el
+                cotejo, y despues de algun examen declara, que la semejanza es perfecta, y que no
+                hay mas que hacer. El Marques se ostina, quiere que retoque el retrato todavia. Ella
+                no cede, dice que retocarlo es echarlo á perder, y con su ingenua sinceridad, y
+                algun enfado, concluye, que no lo hará. El dulce son de su melodiosa voz, la
+                propiedad de sus espresiones, y la viveza de su mal humor, escitado por las injustas
+                críticas del Marques, acabáron de encantarlo. Pidió que á lo menos, Paulina ya que
+                no quería retocar su retrato, sacase otra copia. Se lo prometió, y no teniendo ya
+                pretesto para prolongar mas la visita, salió con disgusto de aquella pieza. El
+                pintor lo acompañó hasta el coche, y le informó de quien era su discípula.</p>
+               <p>El acaso habia presentado á los ojos de Paulina uno de los jóvenes más amables de
+                Madrid. Su presencia era muy agradable, y su nacimiento distinguido. Descendia de
+                una antigua y noble familia; pero que no era rica. Sus padres no le habian dejado
+                mas bienes que las esperanzas de un pleito que sus abuelos seguían despues de muchos
+                años, y que estaba para terminarse. Su pretension era que se le declarase heredero
+                de una casa ilustre, que poseia cuantiosos mayorazgos, y si ganaba el pleito debia
+                ser un hombre poderoso. Un pariente suyo, que lo queria mucho, era entónces
+                Ministro, y como lo conocia y le estimaba, tenia mucho influjo con él. Así se veia
+                rodeado de lisonjeros, y gozaba de todas las distinciones que procura una tan alta
+                proteccion en la corte; pero su buen corazon no abusaba. Modesto por carácter, ni la
+                lisonja lo adulaba, ni la prosperidad lo pervertia. Era generoso por gusto, y huia
+                de la ostentacion. Su alma noble y delicada no estimaba su crédito sino podia hacer
+                servicios y no deseaba riquezas sino para socorrer los infelices.</p>
+               <p>Así era muy estimado: su natural dulce y tierno le procuraba amigos, y él mismo
+                deseaba tenerlos; pero se desconfiaba de su sinceridad; le parecia que los debia á
+                su crédito, y al favor de que gozaba en la corte. Hubiera querido debérselos á sí
+                mismo, y á la correspondencia de sus propios sentimientos. A los que reconocia
+                aduladores los desdeñaba, y estos le hacian sospechar motivos de intereses en todos
+                los que lo acariciaban.</p>
+               <p>Cuando el pintor volvió no dijo otra cosa á Paulina sino que era un señor muy
+                distinguido y de mucho crédito en la corte, y ella con su natural candor le
+                respondió: será lo que quisiere; pero es muy terco, y se mete á disputar sobre lo
+                que no entiende. A pesar de este enfado se puso desde luego á hacer la nueva copia
+                que le habia pedido el Marques. Este se aprovechó de la ocasion para ir á verla al
+                otro dia, y con el mismo pretesto se acostumbró á volver todas las mañanas. La
+                sencilla Paulina no atribuia tantas visitas sino á su deseo de ver acabar su
+                retrato. Su inocente corazon, que no distinguia los peligros, no era desconfiado, su
+                feliz ignorancia no le dejaba conocer el riesgo en que la vista de un hombre amable
+                puede esponer á una muger, y con la simplicidad de sus ideas no se alteraba su
+                seguridad. La que no tiene la pretension de gustar, gusta sin que ella misma se
+                aperciba; y el amor que procura esconderse se parece tanto á la amistad, que es
+                fácil engañarse.</p>
+               <p>El Marques cada dia mas encantado de Paulina, veia con disgusto que la copia se
+                adelantaba, y que presto no tendria pretesto para volver. Entónces imaginó aprender
+                á pintar, y como Cano estaba muy enfermo, y condenado á morir presto de un mal
+                incurable, se decidió que Paulina le daria las primeras lecciones. La jóven maestra
+                empezó á enseñarle el dibujo. El dócil discípulo procuraba imitarla; pero ella se
+                reia de su poca habilidad, y muchas veces le reñia, acusándolo de poca inteligencia;
+                y quejándose de sus distracciones, le solia decir, mostrándole dos niñas que ella
+                enseñaba, y que dibujaban en la misma pieza: estas dos criaturas se aprovechaban
+                mejor de mis lecciones, y no tienen la cabeza tan dura.</p>
+               <p>Jamas el Marques habia pasado momentos tan dulces. Era mucha delicia para él
+                conversar tan familiarmente con una muchacha de diez y siete años, que era tan
+                hermosa, sin saberlo; tan modesta, sin afectacion; tan inocente, cándida y pura, y
+                al mismo tiempo tan divertida, alegre y graciosa. Estaba encantado de ver que ni su
+                distincion, ni su crédito le daban la menor sujecion. Que desde que lo veia
+                manifestaba una satisfaccion sincera, y que su ingenuidad no le permitia mostrar mas
+                que sentimientos verdaderos. Y cuando se veia sentado á su lado, cuando la llamaba
+                su maestra, y la veia tomar una especie de autoridad, reprenderlo, darle con su
+                lápiz sobre sus dedos, cuando él se esforzaba á corregirse, á complacerla y
+                inspirarle alguna ternura, sin descubrirle su designio, todo esto era para el
+                Marques una ocupacion tan interesante, que poco á poco se olvidó de todas las vanas
+                diversiones, que el mundo llama placeres, y que no sirven más que de entretener á
+                los ociosos.</p>
+               <p>Felipa, que por la enfermedad de su marido, se veia forzada á pasar algun tiempo en
+                su casa, fué la primera que se apercibió del amor del Marques. Hasta allí habia
+                tratado á Paulina con mucha indiferencia y frialdad; pero viendo que era querida de
+                un hombre de esta distincion, mudó de conducta. Empezó á hacer muy buena cara al
+                Marqués, le hablaba con mucho alhago. Tuvo el arte de dejarlo muchos ratos á solas
+                con Paulina, como si fuera por acaso; en fin, ganó su confianza. Empezó tambien á
+                tratar mejor á Paulina. Parecia pesarosa de no haber reconocido su mérito, y
+                apreciar mas su amistad. Le hizo tiernas caricias; se informó de lo que habia
+                menester, de lo que deseaba, y la satisfacia. Por este medio su situacion se hizo
+                mas dulce, y su buen corazon agradecido olvidó presto la larga frialdad de esta
+                muger. Despues de todo, ella no se habia apercibido mucho, porque siempre ocupada no
+                pensaba en lo que la otra hacia, ni su indiferencia la habia hecho mal. Los defectos
+                de otros, cuando no nos perjudican, no suelen chocarnos demasiado.</p>
+               <p>Cano estaba ya en sus últimos días, y la certidumbre de su muerte hacia correr las
+                lágrimas de su discípula. Tambien estaba inquieta de su propio destino. Tomasa
+                estaba en un viage. Habia ido á consolar una amiga suya, que habia quedado viuda. Le
+                prometió escribirle siempre, y le escribió en efecto, los primeros correos; pero
+                despues de un mes no habia recibido carta suya. Paulina le escribió, esponiéndole su
+                situacion, y pidiéndole consejo; pero tampoco recibió respuesta, y esto era un nuevo
+                motivo de inquietud. Estaba enferma, ó no queria aconsejarla sobre el partido que
+                debia tomar á la muerte de su maestro. Con su natural franqueza declaró sus temores
+                á Felipa; pero esta le aseguró, que Tomasa estaba buena, y se quejó amorosamente de
+                que se creyese en la necesidad de pedirle consejos. ¿Me crees, le dijo, capaz de
+                abandonarte? ¿Quisieras tú dejarme? No, Paulina mia, jamás nos separaremos. Yo
+                partiré contigo lo poco que tenga.</p>
+               <p>Esto tranquilizó á Paulina, pero quedó picada de Tomasa, pareciéndole que la
+                abandonaba en el momento en que necesitaba mas de su amistad. No ostante, no podia
+                conciliar esta indiferencia con su carácter benéfico y caritativo, ni con las muchas
+                pruebas que la habia dado de amor, y buena voluntad. Las caricias de Felipa, y las
+                pequeñas comodidades que le procuraba, acabáron de ganarle el corazon, y su
+                resentimiento fué menos vivo, porque su alma buena, amante y generosa no sabia
+                conservar ningun movimiento desabrido.</p>
+               <p>Entónces llegó el tiempo en que el Marques debia ir á su regimiento, y esta idea lo
+                abatia. Cuanto mas se acercaba el momento de partir, tanto mas parecia disgustado y
+                pensativo. Paulina se apercibió de la mudanza de su humor. Le riñó por su silencio,
+                y se enfadó de verlo tan distraido. Al fin le conoció su tristeza, porque pasaba el
+                tiempo de la leccion en suspirar, en quejarse de un disgusto secreto, de una pena
+                interior, y no aprovechaba nada. Paulina se enterneció, y con su candor natural le
+                preguntó el motivo. El se escusaba. Ella insistió con mucha fuerza; pero viendo que
+                no se lo queria decir, y que sus instancias lo entristecian mas, no se atrevió á
+                porfiar, aunque no lo dejó de sentir. Se contentaba con mirarlo con ojos inquietos y
+                curiosos, y viendolo siempre melancólico, no se atrevia á hablarle. Se decia á si
+                misma. ¿Que tiene pues? Yo lo creia muy dichoso.</p>
+               <p>Pero miéntras ella estaba tan inquieta del dolor del Marques, este viendo el triste
+                desamparo en que debia quedar por la muerte del maestro, no podia disimularse que
+                Paulina le habia inspirado un sentimiento demasiado vivo y peligroso, y sospechaba
+                habérselo inspirado á ella; pero los estímulos del honor, y sus principios de
+                religion lo habian determinado á no abusar jamas del ascendiente, que habia podido
+                adquirir sobre una muchacha inocente é ingenua. Hasta allí habia gozado sin
+                reflexion ni designio del dulce trato que le presentó el acaso, con una jóven tan
+                interesante y amable. Y viendo ahora que el viage que estaba forzado á emprender
+                hacia nulo su propio peligro, y que ella quedaba en el mas miserable abandono, no
+                pensaba mas que en el modo de asegurarle una existencia independiente y honrada, y
+                por solo el interes de hacerla feliz.</p>
+               <p>No estimaba mucho á Doña Felipa; pero no teniendo á la mano otro medio mas decente,
+                se declaró con ella. Le pidió que si acaecia la muerte de su marido, no separarse de
+                Paulina, que él le haria recibir una mesada para que la pudiese mantener; pero que
+                le encargaba seriamente, que Paulina no supiese jamas la mano de donde venia. Este
+                proceder era estraño, y nuevo para Felipa. No podia concebir que un amante, que era
+                tan liberal, tuviese tanto empeño en esconderse: así le dijo: ¿cómo quereis que
+                Paulina os ame, si vos le escondeis la pasion que os inspira, si no quereis que sepa
+                el bien que le haceis? Sí, le respondió: deseo mucho que no lo sepa. Yo la amo
+                mucho, pero no quiero seducirla. Yo quiero que sea libre, y no forzarla con mis
+                beneficios á que me corresponda.</p>
+               <p>Felipa ofreció al Marques conformarse con sus intenciones, y guardarle secreto.
+                Tambien le prometió escribirle, y darle cuenta de todo lo que Paulina hacia; y
+                habiendo llegado la víspera del dia en que debia partir, á la misma hora en que
+                acostumbraba venir á tomar su leccion, Paulina recibió una caja muy rica en que
+                estaba el retrato suyo que ella habia retocado, y un papel que decia así:</p>
+               <p>«Yo voy á partir, mi querida maestra, un deber indispensable me priva del gusto de
+                veros, y aprovecharme de vuestras lecciones, pero no las olvidaré. En mi triste y
+                larga ausencia, mi único consuelo será acordarme de ellas, y repasarlas: ocupaos
+                algunos momentos en mirar ese retrato, y sacad muchas copias para multiplicar la
+                imagen de un amigo que os ama tiernamente. No me olvideis. Yo fuera muy dichoso, si
+                vos desearais verme.»</p>
+               <p>Paulina se quedó tan sorprendida como apesadumbrada leyendo este papel. En la primera
+                emocion se dijo: pero ¿porqué se va sin despedirse de mí, y sin haberme dicho nada?
+                Despues volvió á leer muchas veces el papel, y estaba como picada de que le hubiera
+                hecho tanto misterio. Poco á poco se enterneció, y la tristeza sucedió al enfado. Ya
+                estaba acostumbrada á ver al Marques todos los dias, á hablarle, y pasar con él
+                muchas horas, y de repente se veia privada hasta del placer de esperarlo. Sus ojos
+                se llenan de lágrimas, y los fija largo tiempo sobre el retrato. No lo examina ya
+                como pintura, y halló que el Marques tenia razon en no estar contento de la obra, y
+                se decia: sin duda que estas son sus facciones, que esta es su figura; pero ¿dónde
+                está el alma, el espíritu, y la gracia de su fisonomía? ¿Dónde estan sus miradas tan
+                penetrantes, y al mismo tiempo tan dulces, que pintaban todos los hechizos de la
+                amistad? ¿Cuántos rasgos delicados se me escapáron? ¿Dónde está su aire fino y
+                tierno, su sonrisa graciosa y delicada, su aspecto tan lleno de grandeza y dignidad?
+                Y en fin tantas gracias que derrama por todas partes. Diciendo esto tomó el pincel y
+                empezó otro retrato de memoria, pensando que lo haría mejor.</p>
+               <p>Pero se vió obligada á interrumpir este trabajo por la muerte del pobre Cano.
+                Paulina, que lo amaba mucho, lo lloró amargamente, y su viuda por no verse entre
+                lutos y tristezas, se apresuró á dejar aquella casa, y encargando á un pariente el
+                cuidado de todo, desde que pudo retirarse con decencia, se fué con Paulina á
+                Aranjuez, donde halló una casa muy linda, y todo lo necesario para estar bien.
+                Paulina lloraba todavía; pero el aspecto magnífico de este Sitio encantador,
+                sorprendiendo todos sus sentidos, empezó á calmar su disgusto. Poco á poco las
+                habitaciones, los jardines, el esmalte y perfume de las flores, y en fin la vista de
+                tantas hermosuras acabáron de serenarla. Estaba encantada, y decia á Felipa: ¿quién
+                te ha prestado esta casa tan linda? ¡Dichosos los que viven aquí!</p>
+               <p>Si para ser dichosa te basta vivir aquí, siempre lo serás porque sabe que esta casa
+                es mia, y que ahora soy rica, y con este motivo le contó una historia fingida de una
+                herencia que habia hecho. Como Paulina no conocia los usos, ni las cosas del mundo,
+                la creyó fácilmente. Se contentó con darla la enhorabuena, y le quedó muy
+                agradecida, porque Felipa la ofreció hacerla gozar de las ventajas de su nueva
+                fortuna. En efecto la dió el mejor cuarto de la casa, la hizo vestir lucidamente,
+                quiso que tuviese una criada. Despues la hizo tomar maestros de baile y de música, y
+                Paulina hacia grandes progresos en todo. El deseo de dar gusto á Felipa, á quien
+                debia tanto, la hacia aplicarse, y la esperanza de que el Marques la encontrase á su
+                vuelta mas instruida, mas amable, y mas digna de su amistad, no era el menor
+                estímulo de su aplicacion.</p>
+               <p>El Marques habia concertado con Felipa todo lo que esta hacia. Cuando partió se había
+                propuesto escribir con frecuencia á Paulina; pero habiendo esperimentado, que no
+                podia escribirla, sin que sin sentir su pluma, se abandonase á toda la ternura de su
+                corazon, despues de haber empezado y roto muchas cartas, se resolvió á contentarse
+                con recibir las cartas de Felipa. Esta le instruia todos los correos de la salud de
+                Paulina y sus ocupaciones, y supo con mucho placer los progresos que hacia. Pero dos
+                personas de carácter diferente, no pueden estar contentas en la misma situacion.
+                Felipa á fuerza de ver los mismos objetos, se empezó á cansar. Como sus diversiones
+                se reducian á paseos, y que allí no tenia ni comedias, ni las grandes concurrencias,
+                ni las visitas, ni el trato de sus amigas tan frívolas y necias como ella, empezó á
+                sentir la falta de todo esto, y como á arrepentirse de haberse obligado á una vida
+                tranquila, muy contraria á su gusto, y solo la sostenia el dinero que sacaba de su
+                condescendencia, y la esperanza de que á la vuelta del Marques todos se volverian á
+                Madrid.</p>
+               <p>Paulina por el contrario, acostumbrada al retiro vivia contenta, todo la divertia. No
+                solo las artes la repetian siempre espectáculos interesantes y agradables, pero la
+                naturaleza misma no le agotaba sus hermosuras. Los apreciables rayos de la Aurora,
+                las noches serenas de un brillante dia, los bosques, los prados, el canto de los
+                pájaros, y las producciones variadas de la tierra, eran para ella objetos de placer,
+                ó asuntos de meditaciones deliciosas. La memoria del Marques animaba su corazon sin
+                turbarlo. Gozaba de la dulzura del sentimiento, sin amargarla con la fuerza de la
+                pasion. Deseaba ver al Marques, pero sujeta siempre á la razon, este deseo no era
+                impaciente, ni le producia movimientos penosos. Así nada alteraba su felicidad.</p>
+               <p>Cuando una alma siente que está bien, no va mas adelante. Una situacion dichosa no
+                provoca á reflexionar, porque nadie se atormenta por conocer la causa de la dicha
+                que tiene. El bien estar nos parece un estado natural. Es su interrupcion la que nos
+                turba, la que nos agita. Las desgracias son las que nos instruyen, las que estienden
+                nuestras ideas, las que dan inquietud al alma, y actividad al espíritu, porque el
+                dolor nos obliga á buscar en nosotros fuerzas para sufrirlo, ó recursos para
+                desviarlo.</p>
+               <p>En fin llega el Otoño. El Marques vuelve á Madrid, y despues de haber cumplido con lo
+                que debia, se fué á Aranjuez, y se dirige á la linda casa que habia procurado á
+                Paulina. Esta estaba sola, y desde que oye el nombre del Marques, da un grito de
+                alegría, se levanta, vuela para encontrarlo, le hace muchas preguntas, le da otras
+                tantas quejas, y le muestra con su ingenuidad todo el gusto que siente de volverlo á
+                ver. El Marques conmovido, y penetrado de tan afectuoso recibo, se queda suspenso, y
+                está algun tiempo sin poder hablar. Contemplaba á Paulina con tanto asombro, como
+                satisfaccion. Hasta allí no la habia visto mas que con un trage aseado, pero simple,
+                y sin deber sus encantos mas que á la frescura y la perfeccion de su hermosura
+                natural. Pero entónces la veia vestida con todos los adornos de la moda, y con todas
+                las gracias de las artes.</p>
+               <p>Por otra parte, el despejo de sus movimientos, la nobleza de su presencia, y la
+                dignidad decorosa que sienta tanto á la hermosura inocente, le inspiráron una
+                especie de respeto. Le pareció verla por la primera vez, y que nunca la habia visto
+                tan hermosa, y estos sentimientos fueron tan vivos, que el Marques pasó muchos dias
+                con ella, sin poder sacudirse de un aire tímido y embarazado. Ya no se atrevia á
+                llamarla su maestra. Ya le costaba mucho tomar con ella su antiguo tono, alegre y
+                familiar. Y en fin pasó momentos de pena y sujecion. Pero al mismo tiempo le
+                consolaba ver gracias tan simples, y alagos tan sinceros. El ingenuo corazon de
+                Paulina le dejaba ver en sus ojos las espresiones del amor, con todos los hechizos
+                de la inocencia.</p>
+               <p>Todavia no se habia finalizado el pleito de que dependia su fortuna, y miéntras no se
+                terminaba, no podia tomar partido. La necesidad de no disgustar á un pariente, á
+                quien debia tanta gratitud, el temor de los discursos del mundo, y de las opiniones
+                recibidas eran otros tantos ostáculos que lo separaban de Paulina, y su razon sana y
+                decorosa, no pensaba en forzarlos. Pero cada dia su pasion se aumentaba, y cada dia
+                era mas visible el amor de Paulina. Ya no se podia desconocerlo. Ya no se podia
+                disimular, que habia encontrado el corazon que podia hacerlo feliz únicamente. Pero
+                la diferencia del nacimiento le quitaba toda esperanza de obtenerla por medio de un
+                matrimonio, y la honestidad de su alma, y la severidad de los principios religiosos,
+                no le permitian envilecer una jóven tan pura y estimable, ni comprar su honor con
+                sus beneficios. Pensó muchas veces en no verla, creyendo que este seria el medio de
+                distraerlo; pero cuando se repretaba la dureza del remedio, le repugnaba, y cuando
+                pensaba en el placer que recibia Paulina con su presencia, y la pena que con su
+                ausencia sufriria, no tenia valor para resolverse.</p>
+               <p>Esta idea fué tan poderosa en su corazon, que fijó sus vacilaciones, y se determinó á
+                no mudar de conducta. Es verdad que Paulina no veia en el mas que un amigo síncero,
+                continuo y obsequioso, que no pensaba mas que en divertirla, y se contentaba con el
+                placer de agradarla. Los momentos que estaban juntos pasaban rápidos. Aunque no se
+                daban mas que por amigos, sus corazones sentian que eran amantes, sus labios no lo
+                articulaban, pero con los ojos se lo repetian. Su deseo de agradarse era recíproco,
+                y tan vivo en el uno como en el otro. Las mas tiernas finezas, las mas delicadas
+                atenciones fomentaban este comercio íntimo. Al Marques le bastaba para ser feliz, y
+                la inocente Paulina, que no tenia otra idea, tampoco tenia ni más ambicion ni mas
+                deseos, y gozaba de tanta dulzura, sin temor ni inquietud. Pero su desgracia turbó
+                tanta tranquilidad, y haciéndole perder su feliz ignorancia, estuvo para hacerle
+                perder toda su dicha.</p>
+               <p>El invierno se acercaba, y el Marques tenia que estar en Madrid para hacer las
+                diligencias de su pleito, y para ver á Paulina con mas facilidad, le propuso que
+                viniese tambien. Paulina que no deseaba mas que darle gusto, consintió desde luego,
+                y Felipa, que despues de la ausencia de la Corte se cansaba mucho, recibió esta
+                proposición con ansia. El Marques hizo pues alquilar una casa pequeña, pero cómoda,
+                y las llevo allí. Al mismo tiempo la hizo dar vestidos mas lucidos por mano de
+                Felipa, y como si vinieran de ella. Paulina los admitia como pruebas de su amistad,
+                pero no mostraba mucho calor en vestirlos, y mostrarse con ellos. Como no deseaba
+                parecer bien á los hombres, ni causar envidia á las mugeres, no daba á las galas
+                todo el precio con que estas las estiman por lo comun. No ostante, un dia que Felipa
+                supo que el Marques iba al sitio, y que no volveria hasta muy tarde, la pidió que se
+                vistiera con los nuevos arreos, y la llevó á la comedia. Su designio era inspirarle
+                gusto á los placeres que ella preferia, y obligar al Marques á que les dejase gozar
+                de ellos.</p>
+               <p>La novedad de los objetos fijó toda la atencion de Paulina. Sorprendida y embelesada
+                con lo que veia, no se apercibió que el patio, los palcos, y la luneta tenian los
+                ojos sobre ella, y que todos parecian tan encantados de verla como espantados de no
+                conocerla, ni saber quién era. Como vieron la presencia decente de Felipa,
+                acompañada de una muchacha muy bien vestida, que parecia muy modesta, y de una
+                figura muy noble, se figuráron que eran dos señoras madre é hija, que acababan de
+                llegar de alguna provincia. Todo el tiempo que duró la comedia, los ojos del público
+                no se apartáron de Paulina; y cuando acabó y salió de su palco, se vió cercada de
+                todos los jóvenes majos que querian verla de mas cerca, y que la fastidiáron con sus
+                alabanzas venales, y sus ofrecimientos importunos.</p>
+               <p>Paulina se desembarazó de ellos, pero como estaba ya en la puerta esterior para tomar
+                la calle, ve pasar á Tomasa, que iba con otra muger. Verla, gritar, correr hacia
+                ella, echarla los brazos, y decirla, Tomasa mia, mi querida Tomasa, fué todo un
+                instante, y con movimiento tan rápido, que Tomasa no pudo ni prevenirla ni
+                detenerla; pero embarazada, y como corrida del encuentro, la recibió con mucha
+                frialdad. Procuraba alejarla de sí blandamente, y con voz baja la decía: ya se acabó
+                ese tiempo. ¿Porqué ahora tanto calor, después de tanto olvido? Déjame tranquila. Ya
+                no podemos andar juntas. Yo debo cuidar de mi reputacion, y tú no sentirás perder
+                una inútil amiga. -¡Perder mi amiga! ¿Y porqué la perderé? ¿Qué he hecho yo para
+                perderla? ¿Qué, querida Tomasa, ya no me quieres, y tienes el valor de decírmelo?
+                -Yo te quiero siempre; pero amable y mal aconsejada amiga ¿cómo es posible que yo te
+                vea, después que?... ¿Quién me hubiera dicho, que la virtuosa Paulina podia?... Muy
+                guapa te veo; pero estabas mil veces mas hermosa cuando eras inocente. Paulina
+                queria responderla, pero la muger que acompañaba á Tomasa la llamó, y esta se fué
+                con celeridad. Paulina quedó petrificada, inmóvil, y sin acertar á dar un paso.</p>
+               <p>Felipa no se habia atrevido á acercarse, ni hablar á su cuñada; pero viendo que se
+                alejaba, fue á tomar á Paulina por la mano, y la llevó á su casa. Tampoco se atrevia
+                á preguntarle nada, y esperaba que ella hablase la primera, para juzgar por sus
+                discursos lo que le habia dicho. Tomasa la parecia imposible, que en tan corto
+                tiempo hubiera podido decirle mucho; pero Paulina no hacia mas que gemir y suspirar.
+                Todos sus pensamientos se ocupaban en repetirse las palabras de Tomasa, y en
+                penetrar su sentido. Se veia sumergida en un abismo de ideas, sin poder detenerse en
+                ninguna que la tranquilizase. ¿Porqué está Tomasa disgustada conmigo? ¿Qué quiere
+                decir esas palabras interrumpidas y enigmáticas? ¿Porqué se ha mudado tanto mi mejor
+                amiga? ¿No es ella la que ha sido depositaria de lo que me ha dejado la generosa
+                Doña Clara? ¿No es ella la única que se interesaba por mi? ¿Qué he hecho yo para
+                desmerecer su amistad?</p>
+               <p>Luego haciendo otras reflexiones, decia: lo que parece le enfadaba mas era verme tan
+                guapa; y dice, que yo estaba mejor cuando era inocente; pero yo lo soy todavia. ¿Qué
+                es pues lo que imagina? Pero puede ser que no me crea inocente porque piensa que yo
+                no debia dejarme poner tan guapa: que los adornos no me convienen: que este trage
+                puede atraer los ojos sobre mí, recordar mi antigua pobreza, y despertar la envidia.
+                Tiene razon, los pobres no deben salir de su esfera. El retiro y el trabajo son su
+                único recurso, y la que como yo tiene una buena amiga, que me da todo lo que
+                necesito, no debe aceptar mas que lo necesario; y la que lo superfluo, es ridícula y
+                despreciable. Tienes razon, Tomasa: si este es el motivo de tu enfado, yo te lo
+                quitaré presto, y no me costará mucho dejar unos adornos que no me ponia mas que por
+                agradecimiento.</p>
+               <p>Pero, ¿qué te importan, la decia Felipa, las chocheras y ridiculeces de Tomasa? ¿Por
+                ventura, dependes de ella? ¿Tiene ningun derecho ni autoridad sobre tí? Tomasa es
+                siempre loca y estremada. Afecta ser rígida y severa, pero es porque siempre ha sido
+                fea, y porque ahora se ve olvidada sin que nadie le haga caso, ¿y en qué se mete
+                ella? Es mucha desvergüenza que no tenga á bien que yo te vista como se me antoje.
+                Te confieso que me diste mucha pena cuando te ví correr á hablarla tan desalada.
+                Porque esa muger me aborrece, y siempre ha estado envidiosa de mí: siempre me ha
+                querido gobernar. Pero después de la muerte de mi marido yo he sabido tenerla á
+                raya: si yo la hubiera dado entrada, hubiera querido gobernarnos á tí y á mí, pero
+                la he sacudido, cerrándola la puerta de mi casa. Bien se que se ha irritado mucho,
+                ¿pero qué me importa? Jamas hubiera consentido en que te asearas, ni en que nos
+                divirtieramos.</p>
+               <p>¿Tú le has cerrado la puerta de tu casa? le pregunta Paulina sorprendida. -Sin duda,
+                y sin eso no nos hubiera dejado sosegar. -¿Qué me dices Felipa? -La verdad, ¿pero
+                porqué lo sientes tanto? ¿Qué es lo que te puede afligir? Si pierdes una amiga
+                regañona, difícil y severa, ¿no tienes en mí otra que no piensa mas que en darte
+                gusto? Me parece que no has perdido nada en el trueque, y despues de lo que hago por
+                tí, me da mucho pesar que no te contentes conmigo, y qué sientas tanto perder una
+                muger que es mi enemiga, y que no hiciera mas que incomodarnos. Gocemos, pues que
+                Dios nos las da, de las comodidades que tenemos, y que tanto lastiman los ojos
+                envidiosos de Tomasa; y te pido, Paulina mia, que si otra vez te encuentras con ella
+                no la hables, que hagas como que no la ves. Tú me debes esta condescendencia, y yo
+                la exijo de tu amistad.</p>
+               <p>Paulina no se atrevió á replicarle por entónces, pero quedó muy triste, y toda la
+                noche la pasó agitada con diferentes reflexiones. ¿Porqué Felipa le habia asegurado
+                siempre que su cuñada estaba ausente? ¿Porqué la aborrecia tanto? Miéntras vivia
+                Cano no se buscaban, pero ella habia visto que vivian bien. ¿Porqué ahora tanta
+                oposicion de humores? ¿Cómo era posible que Tomasa, que era tan buena, y la queria
+                tanto, pudiera oponerse á cosas que podian serle útiles? ¿Cómo Felipa llamaba
+                regañona, difícil y envidiosa á Tomasa, cuando ella sabia que era una muger dulce,
+                indulgente y cariñosa? Todo esto le parecia tan difícil de conciliar, que Paulina, á
+                pesar de su candor, empezó á sospechar algun misterio en la conducta de Felipa. Esta
+                idea le inspiró desconfianza, y una especie de temor: con todo, le pareció que era
+                preciso dar á Felipa una prueba de deferencia, si la ocasion se presentaba.</p>
+               <p>Pero no le fué posible sosegar su interior, y quedarse en esta duda. Le parecia haber
+                visto en los ojos de Tomasa una especie de desprecio, y aun de indignacion. Es pues
+                necesario, se decía, que le hayan contado alguna cosa contra mí, y que me hayan
+                puesto mal con ella. La primera idea que le ocurrió, fué que quizas le habrian dicho
+                que ella fomentaba la desunion entre las dos cuñadas. Este pensamiento se apoderó de
+                su espíritu. No dudó que esta era la causa del enfado de Tomasa, y como Paulina no
+                estaba acostumbrada á moderar el ímpetu de sus movimientos, esperó el dia con
+                impaciencia. Se puso una basquiña y mantilla, deja á Felipa en su cama, y habiendo
+                sabido de una criada donde vivia Tomasa, corre á buscarla.</p>
+               <p>Tomasa sorprendida con una visita que no esperaba, la pregunta qué es lo que la trae.
+                Paulina la responde, que el asunto mas importante de su vida. Yo vengo á ver, le
+                dice, si la amiga de mi corazon, si la tierna y generosa amiga, que era tan sensible
+                á mis desgracias, cuyo corazon estaba siempre abierto á mis penas, y cuya mano
+                enjugaba mis lágrimas, ha perdido enteramente la memoria. Vengo á saber ¿porqué ayer
+                me ha afligido y tratado tan mal? ¿Porqué ha dejado de quererme? Vengo á saber ¿qué
+                es lo que he hecho para desmerecer su amistad? Yo me quejaba ántes de su descuido,
+                de su olvido, ahora tengo que quejarme tambien de su injusticia: ¿cómo es posible
+                que Tomasa se haya mudado tanto? Y tomándola entre sus brazos, la decia con la
+                espresion mas afectuosa: esplícame ¿cuál es mi culpa, y porqué te enfadas de la
+                feliz situación en que me veo?</p>
+               <p>¡Tú llamas, Paulina, feliz tu situacion! ¡Pobre Paulina! Una palabra sola bastaria
+                para desengañarte, y hacerte ver la reputacion que tienes en el mundo: pero es
+                inútil que yo te la pronuncie, y pues estás tan bien hallada con esa situacion, ¿á
+                qué vienes aquí? No me hagas hablar. Ya te he dicho bastante para que me entiendas.
+                -¿Pero cuál es mi delito? Porque me hablas con esa sequedad? ¿Qué hago que merezca
+                tu enojo? -Esas preguntas me espantan y confunden: ¿Tú te atreves á preguntármelo
+                tan desentendida, con ese tono tan sereno? ¿Tú quieres que yo ensucie mis labios con
+                horrores tan indecentes y repugnantes? Alejándote de la virtud, has perdido hasta su
+                memoria, ¿y no te queda la menor idea de pudor? Pero ya veo que bajas los ojos, y
+                que los colores se te asoman. Al fin, un resto de vergüenza te queda todavía. ¿Cómo
+                has podido sacudirla de tu corazon?</p>
+               <p>Yo me avergüenzo de tus palabras, y no de mis delitos. Yo soy la misma que era, y
+                nadie puede baldonarme nada. Tú me acusas de haberme alejado de la virtud, y de
+                haber perdido hasta la idea. ¿Quién te lo ha dicho? ¿Porqué me acusas con tanta
+                dureza? -Yo no te hubiera creido capaz de una firmeza tan desvergonzada, y te pido
+                que acabemos esta conversacion, porque temo que me obligues á decirte la impresion
+                que tu conducta me produce. ¡Ay Paulina, Paulina! ¡Qué diferente estás de lo que te
+                dejé! Es desgracia perder la virtud, pero es infamia no avergonzarse, y hacer gala
+                del propio deshonor. Tú se lo has sacrificado todo á la riqueza, pues ni siquiera te
+                ha dejado decencia para correrte del estado vergonzoso á que te ha conducido.</p>
+               <p>Aquí Paulina no pudo mas, y deshaciéndose en dos fuentes de llanto, le dice con una
+                voz alterada y compungida. ¡Qué! ¡Tomasa, la buena, la indulgente Tomasa, me trata
+                con esta indignidad! ¡Me dice que mi estado es vergonzoso! ¡Que ni siquiera tengo
+                decencia, y que la he sacrificado á la riqueza! ¿Qué quiere decir todo eso? ¿Qué es
+                pues lo que he hecho? ¿Cuando? ¿Cómo? ¿En qué ocasion? ¿Qué mas pudiera decir á la
+                mas vil de las mugeres? ¿Pues qué me tienes por alguna infame? ¿Me quieres dar á
+                entender que he cometido los mayores delitos?</p>
+               <p>Tomasa conmovida con las lágrimas de una jóven que habia querido tanto, no pudo
+                escitar su dolor sin sentirlo. Su indulgencia natural la inclinaba á disculparla, y
+                echar toda la culpa á su cuñada: pero aunque hubiese sido la seductora de una jóven
+                crédula y fácil de ser engañada, siempre habia habido de la parte de esta
+                consentimiento, y ahora creia ver en ella osadía y descaro. Se quedó un rato
+                pensativa, y despues tomando la mano de Paulina, la dijo con resolucion: dime la
+                verdad, y respóndeme sin titubear: ¿porqué no has respondido á mis cartas? ¿Porqué
+                cuando mi hermano estaba enfermo, y te escribí ofreciéndote en mi casa un asilo
+                decente y agradable, no quisíste admitirlo? Y en fin ¿porqué me hicíste escribir,
+                que no necesitabas de nada, y que no me inquietara de tu conducta?</p>
+               <p>Paulina no pudo oir estas preguntas sin asombro; pero al fin procuró satisfacerlas
+                todas, y en sus respuestas le descubrió que léjos de haber recibido sus cartas, se
+                quejaba de su ninguna correspondencia. Esto bastó para hacer comprender á Tomasa,
+                que las habian interceptado, y que habian engañado a Paulina, y por todos los otros
+                discursos no pudo dudar que Felipa estaba de inteligencia con el Marques, y que
+                ambos habian contribuido á su seduccion. Este descubrimiento no le quitó su pena,
+                pues aunque no dudase que Paulina habia sido conducida, era cierto siempre que su
+                comercio con el Marques subsistia. Así volviendo á ella, le dijo: veo Paulina, que
+                las dos hemos sido engañadas. Dos pérfidos se han burlado de mi poca malicia, y de
+                tu simple credulidad.</p>
+               <p>Sin duda han ocultado nuestras cartas, para cortar nuestra correspondencia. Pero ¿de
+                qué sirve conocer esto, si el daño ya está hecho, y no es esto lo peor, sino que tú
+                pareces contenta y te tienes por dichosa? Desde que te estás en esta disposicion no
+                comprendo ¿por qué vienes á verme? Yo no puedo esperar volverte á tus antiguos
+                principios. La que una vez ha gustado de las dulzuras de la opulencia, no se priva
+                de ellas fácilmente. Tampoco tendrás valor para abandonar tu pérfido Marqués, para
+                restituirle sus dones interesados, y huir de este hombre vil, y despreciarlo. -Pero
+                ¿porqué huirlo ni despreciarlo? Tomasa, el Marques no merece los nombres que le das.
+                Es hombre de bien, muy buen cristiano, y cuando le conozcas, le estimarás, y le
+                verás con otros ojos.</p>
+               <p>Tomasa se quedó espantada con este discurso, y le volvió á decir: Paulina, tú me
+                aturdes, y no puedo entenderte. ¿No recibes las visitas de este hombre? ¿No viene
+                todos los dias á tu casa? ¿No estás á solas con él la mayor parte de tu vida? ¿No es
+                verdad que le amas con delirio, pues no quieres dejar un comercio tan vergonzoso, y
+                que te deshonra? Si la sola idea de separarte de él te amotina y aflige, si á la
+                primera palabra que te digo me respondes con un grito de dolor, es claro que le
+                amas, que gustas de él, y que no piensas en dejar su amistad. Y si esto es, ¿á qué
+                vienes? ¿Pretendes justificar conmigo tu indecente conducta, ó esperas que yo la
+                apruebe? Ya me conoces: tú no conseguirás lo primero, y yo moriré ántes de lo
+                segundo. ¿A qué vienes pues? ¿Qué es lo que quieres de mí?</p>
+               <p>Paulina siempre inocente, y sin la menor idea de malicia, la vuelve á decir atónita:
+                tú me dices que la amistad del Marques me deshonra. Yo no creia que la amistad
+                pudiese deshonrar jamas. Yo no creia eso mas que del impuro amor. Sin duda que viene
+                todos los dias á mi casa, que está á solas conmigo; pero ¿cómo no ha de estar á
+                solas, si ninguna otra persona me viene á ver, si él es mi único amigo, mi único
+                conocimiento? Ya sabes que yo me he criado en un retiro, sin tratar ni conocer á
+                nadie, acostumbrada á ocuparme siempre, no sentia la necesidad de divertirme, ni el
+                deseo de tener amistades. Felipa tenia otro gusto, amaba mucho las diversiones y las
+                gentes; pero desde el dia en que tuvo la grande herencia que la ha hecho tan rica,
+                no ha pensado mas que en vivir conmigo, y desde entonces... -¿Cuál es la herencia de
+                Felipa? -¿Y cómo lo ignoras? Entónces le repite la historia que Felipa la habia
+                fingido. Sin apercibirse de la sorpresa de Tomasa, continúa: tú me das en cara con
+                la amistad del Marques; pero si tú le conocieras, tú le amaras, como yo lo amo. Sin
+                duda, que la idea de huirle, de no verle, de despreciarle, me repugna y me lastima
+                el corazon, porque se ha entablado entre nosotros una dulce confianza, una deliciosa
+                intimidad, que hace toda mi dicha, y creo tambien que hace la suya. Te confieso que
+                su presencia me causa un embeleso, que leo tambien en sus ojos que está contento:
+                pero todo esto es un instinto secreto de nuestros corazones. Yo le miro, unas veces
+                como el hombre con quien el cielo me suple la falta de un padre, que no he podido
+                conocer; otras veces me parece un hermano, que me quiere, que yo amo, y otras un
+                amigo tierno que Dios me da para que me sirva de apoyo en este mundo. ¿Y tú quieres
+                que yo sea tan ingrata, tan feroz, tan desalmada que huya, desprecie y trate mal á
+                un hombre que me hace tanto bien, y que no pretende de mí mas que sentimientos puros
+                y nobles?</p>
+               <p>Cuando Tomasa oyó este discurso dicho por la sincera Paulina, le rayó una luz de
+                esperanza, y creyó que todavía podia estar inocente. Levanta las manos al cielo, y
+                con voz entre tímida y consolada, la dice: querida Paulina, ¿será verdad...? ¿Es
+                posible que el cielo te haya sostenido, y que conserves todavía tu inocencia? En el
+                delirio de su alegría la toma entre sus brazos, la aprieta contra su pecho, y se
+                decia á sí misma. No, si el amor de Paulina fuera delincuente, no lo confesara con
+                tanta libertad. Puede ser que hasta ahora no la han hallado bastante pervertida, y
+                esperan á que lo este mas para corromperla. Quiza el cielo me la envía todavía á
+                tiempo para preservarla.</p>
+               <p>Desde entónces mudando de tono, y dejando la severidad, empezó á preguntarla con
+                dulzura, y á fuerza de preguntas y respuestas llegáron á entenderse. La conducta del
+                Marques asombraba á Tomasa, pero no se fiaba. Entónces esplicó á Paulina sus temores
+                y desconfianzas, y la ingenua Paulina se asombró mas cuando supo el precipicio á que
+                su conducta podia conducirla. ¡Qué! decia, ¡es posible que atenciones tan delicadas
+                y tiernas, que tantos beneficios derramados sobre mí con tanta profusion y secreto,
+                no tengan mas objeto que quitarme un bien, que todas las grandezas y riquezas del
+                mundo no me pudieran reparar! No, mi Marques no es capaz de esta iniquidad.</p>
+               <p>Pero Tomasa entró en largas conversaciones con ella, le abrió los ojos, y la
+                descubrió su peligro. La dijo que los hombres eran muy pérfidos, muy astutos, y que
+                disimulaban largo tiempo para conseguir sus malos instintos. -No, no compares a esos
+                malvados con mi Marques. No, no le atribuyas tan malas intenciones. Yo apostaré mi
+                vida que jamas ha pensado en seducirme, que su buen corazon no quisiera hacerme
+                despreciable y desdichada, y que su aficion es tan pura como la mia. Ay, Tomasa, si
+                le vieras... si le hablaras. -Pues bien, si quieres yo le veré, y le hablaré. Yo
+                deseo que su amistad sea tan desinteresada y pura como dices. Pero cuando lo fuera,
+                ¿quién lo querrá creer? ¿Cómo podrá justificar su imprudencia? ¿Porqué te hace vivir
+                en una casa que él paga? No es esto decir que dependes de él? ¿Y porqué te tiene tan
+                encerrada sin que nadie te vea? ¿No es dar á entender que vives para él solo? Es
+                verdad que te ocultaba sus dádivas; ¿pero puede ocultarlas á los otros? Todos saben
+                que Felipa no tiene nada, y sus antiguas amigas, de quienes se ha retirado, viéndola
+                con tanto tren, se han informado de todo, y no hacen otra cosa, que hablar contra
+                ella, y contra tí.</p>
+               <p>Despues de esto los amigos del Marques y sus parientes no pueden dejar de saber lo
+                que hace. Tus criados y los suyos lo ven, y dirán que todo el dia está encerrado
+                contigo. De aquí ya puedes discurrir cuántas ideas malignas y groseras correrán; y
+                cuánto la malicia y la envidia añadirán á la verdad. Ya has visto que este rumor ha
+                llegado hasta mí, y que yo que te conozco mejor, te creia culpada, discurre lo que
+                pensarán los demas. En fin, Paulina, tú dices que el Marques es tu amigo, y yo digo
+                que no lo es; porque el hombre que prefiere su entretenimiento, su diversion y sus
+                placeres á nuestra reputacion, no es ciertamente nuestro amigo: su amistad no es
+                pura, pues... ¡Pero tú lloras, tú te agitas, y ni siquiera me escuchas!</p>
+               <p>Demasiado te escucho, Tomasa, y no quisiera entenderte tanto. Tú acabas de quitarme
+                la paz del alma, tú acabas de destruir toda la felicidad de mi vida. ¿Porqué me has
+                arrancado mi agradable ilusion? Y ocultando su cara inundada en llanto en el seno de
+                su amiga, la decia con sollozos: perdóname, Tomasa, perdona la violencia de mi
+                dolor: no me es posible contenerla. Conozco que tienes razon, y no puedo dejar de
+                agradecer tu buena voluntad: ¡pero tú me haces ver una luz tan funesta, tan triste,
+                y mi error me hacia tan dichosa! ¡Ah! ¡qué yo aborrezco al mundo, sus usos, su
+                malicia, y sus injustas y odiosas censuras! Pero ¿qué me importa ese mundo en que no
+                vivo? ¿He de sacrificar toda mi felicidad á sus malignas intenciones? ¿Qué me
+                importan sus juicios falsos y temerarios, cuando estoy inocente, y mi corazon no me
+                condena en nada?</p>
+               <p>Tú me afliges, Paulina, le volvió Tomasa á decir, porque veo que quieres con demasía
+                á tu Marques: pero ¿porqué te acongoja tanto? ¿Porqué todos esos lamentos y
+                despechos? ¿Tú eres libre, tú eres dueño de tí misma? yo no tengo ni autoridad ni
+                derecho para darte ninguna sujecion: yo no tengo medios para privarte de esa
+                felicidad que tanto estimas: has cuenta que no te he dicho nada: olvida que me has
+                visto: pierde hasta la memoria de mi amistad, y de mis inútiles esfuerzos: anda á
+                consolarte con esa vil muger, que contribuye á tu felicidad pasagera; pero no te
+                quejes de mí: yo no he podido dispensarme de hacer lo que la amistad, la Religion y
+                la conciencia me imponen. Cuando abras los ojos agradecerás mi celo, y entónces te
+                quejarás de esa muger inconsiderada, que es la verdadera causa de tus penas, y
+                quiera Dios que no lo sea de tu vergüenza y tus remordimientos.</p>
+               <p>¡Ay, Tomasa! tú me destrozas el alma: ¡qué amargura viertes en mi corazon! ¡Tú temes
+                que yo llegue á la vergüenza y los remordimientos! ¡Tanto desprecias á tu pobre
+                amiga! No te ofendas de mis quejas: yo soy débil, y quizás injusta; pero escúsame,
+                porque el dolor me oprime, me abate, y estoy fuera de mí. Tú me has hecho sentir,
+                que aunque mi conducta sea pura, debo respetar mi reputacion: que esa muger recibe
+                los dones del Marques, y me os oculta, y que todos tienen razon de pensar mal de mí.
+                No me propongas pues que yo vuelva con ella, y yo no quiero fiarme en adelante mas
+                que en tus luces, tus consejos y tu amistad. Yo no siento perder la comodidad con
+                que vivia, ni la fortuna que esta muger me procuraba. Yo la recibia sin ardor, y
+                sólo por darla gusto.</p>
+               <p>Pero, Tomasa mia ¿cómo es posible abandonar á este querido amigo? ¿A este amigo tan
+                tierno, tan sincero, y que hasta ahora ha sido tan desinteresado? ¿A este amigo
+                generoso, que me llenaba de bienes, con la delicadeza de ocultarme su mano, y sin
+                exigir nada de mi gratitud? ¿A este amigo tan amable y tan querido, tan digno de mi
+                amistad y mi correspondencia que me habia acostumbrado á la dulzura de verle, de
+                hablarle, y estar siempre conmigo? ¿Podré tener valor para afligirle, inquietarle,
+                huirle, dejarle duramente y causarle los mismos tormentos que yo siento?</p>
+               <p>¿Y quién te dice nada de eso, Paulina? Al contrario, debes verle, hablarle,
+                esplicarte con él, y hacerle sentir la necesidad en que estás de separarte de una
+                muger de tan mala reputacion: tú le dirás que no lo sabias; pero que estando ahora
+                mejor instruida, no puedes vivir mas con ella, sin peligro de la tuya propia, y
+                entónces podrás recibir las visitas del Marques, sin necesidad de perder las
+                dulzuras de su inocente amistad; porque entónces ya no vivirás de sus beneficios, y
+                retirándote á un convento, ó en cualquier otro retiro decente, nadie puede quitarte
+                el consuelo de cultivar una amistad, que es tan dulce para tu corazon. Yo creo pues
+                que debes escribirle al instante, pidiéndole que venga aquí. En la primera
+                conversacion yo conoceré sus intenciones, y si son buenas, no desaprobará mis
+                consejos; pero despues de todo, si no le gustan, tú serás siempre dueña de hacer lo
+                que te parezca.</p>
+               <p>Vamos, responde Paulina. -Pues la virtud y mi reputacion exigen este sacrificio, yo
+                estoy pronta á todo: toma una pluma, y con la mano trémula escribe este papel.
+                «Acabo de saber lo que es, y la reputacion que tiene Felipa entre las personas
+                virtuosas. Yo no volvere pues á casa de esa muger. Se me ha hecho ver tambien, que
+                vos que despues de un año veo con tanto placer, que estimo y amo tanto, podeis ser
+                un hombre pérfido, y tener malas intenciones: yo no lo puedo creer. Si esto no es
+                verdad, y si podeis justificaros con una muger respetable, que es mi antigua y
+                verdadera amiga, venid á casa de Tomasa donde estoy. Yo os aguardo en ella con
+                impaciencia, y espero hallaros digno de todo el amor que os tengo». Al instante el
+                Marques obedece, y se presenta á Tomasa con aquella serenidad que inspira la
+                certidumbre de no haber violado las leyes del honor.</p>
+               <p>Se sorprende de hallarla sola, porque Paulina sintiéndole venir se habia retirado á
+                otra pieza desde donde podia oirlo todo; y esta fué la primera vez que la persona
+                del Marques la produjo una sensacion mezclada de inquietud. Sintió que temia su
+                presencia, y que deseaba esconderle los movimientos de su corazon. Desde que Tomasa
+                echó la vista sobre el Marques, no estrañó que una presencia tan agradable hubiera
+                hecho una impresion tan fuerte sobre una jóven sin malicia, que no sabia el riesgo
+                de las pasiones, y que estaba acostumbrada á no seguir mas que las inspiraciones de
+                su propio gusto. Le admiró, y deseaba que su natural y sus costumbres
+                correspondiesen á tan amable esterior. Despues que le hizo sentar, le dijo así.</p>
+               <p>Vos extrañaréis, señor, que sin autoridad ni derecho yo pretenda forzaros á una
+                confianza, que quiera penetrar vuestros secretos, y os pida la esplicacion de una
+                conducta, que no puede ser justificada sino por algun motivo secreto; pero el
+                interes que me ha inspirado Paulina por haberla criado, y porque la amo con todo mi
+                corazon, me autorizan á este atrevimiento. Dignaos pues de decirme cuáles son
+                vuestras intenciones. -En verdad, señora, que no me es posible satisfaceros, porque
+                yo mismo no lo sé, y lo único que puedo responderos es, que no tengo ninguna. No
+                concebiréis jamas cuánto me embarazais con una pregunta, que me he hecho mil veces á
+                mí mismo, sin poder jamas satisfacerme. El único sentimiento que hallo en mi corazon
+                es desear la felicidad y el bien estar de Paulina. Me he ocupado en los medios de
+                hacerla dichosa. Esto es todo lo que sé de mí, y no me conozco otras intenciones. Me
+                atreveré yo á preguntaros ¿si hallais en mi conducta algo que os parezca ménos
+                decente, y que sea digno de vuestra desaprobacion?</p>
+               <p>Siento mucho, señor Marques: sí, siento mucho que un hombre como vos pregunte si su
+                conducta es digna de censura, cuando espone la reputacion de una pobre muchacha, que
+                no tiene mas bienes que su honor. Decidme, señor, ¿quién os ha dado el derecho de
+                separarla de mí, de privarla de mis consejos, y de inducirla á dejar un estado
+                pobre, pero tranquilo y honrado, para hacerla gozar de las dulzuras de una opulencia
+                pasagera? Vos la habeis acostumbrado á gozar de ella, y la esponeis á que por
+                continuarla, sacrifique la honestidad de sus costumbres. ¡Qué! ¿vos no os baldonais
+                nada, cuando os habeis divertido en inspirarla una pasion, que la pondrá en la
+                triste necesidad de ser culpada, ó infeliz?</p>
+               <p>Confieso, Señora, que vuestra reflexion me turba y aflige: confieso que la merezco, y
+                que me la he hecho muchas veces á mí mismo. Reconozco que en la situacion de Paulina
+                y la mia, yo no debia ni dejar tomar fuerzas á mi inclinacion, ni fomentar en ella
+                una pasion que no podia ser feliz, sin que alguno de los dos no hiciese al otro
+                grandes sacrificios. Quizas hubiera sido mas prudente cortar el hilo de una
+                peligrosa amistad; pero despues de todo, yo no he intentado seducirla: yo no la he
+                engañado ni con falsas promesas, ni con lisongeras esperanzas: yo no he abusado de
+                su ingenua credulidad, y léjos de encenderla en discursos de amor, ni siquiera me he
+                permitido declararla mis sentimientos. Yo estaba satisfecho con el placer de amarla.
+                No tenia otro deseo que servirla, y gozaba de una felicidad superior á cuanto el
+                mundo puede presentarme. Me perece tambien que Paulina estaba contenta. ¡Ay, Señora!
+                ¡qué mal nos habeis hecho con las funestas luces que la habeis dado!</p>
+               <p>Tomasa, porque no creyera que un celo curioso é indiscreto la hicieran tomar tanta
+                parte en este asunto, le contó el encuentro que habia tenido con Paulina el dia
+                precedente, y no le ocultó nada de lo que habia pasado entre las dos; pero el
+                Marques la dijo: yo consiento, Señora, en que sepais todos mis secretos. No os
+                disputo vuestro derecho sobre una persona que habeis criado; pero nunca sabréis, que
+                yo haya intentado con ella nada que ofendiera su honor. Yo os diré mas: que habiendo
+                jugado en el ejército, hice ganancias considerables; que me propuse entónces
+                destinárselas á Paulina, y que las tengo ya puestas en su nombre en poder del mismo
+                sugeto, en quien vos habeis puesto sus primeros fondos, sin que tuviese otra
+                intencion, que asegurarla una existencia honrada. Yo me decia á mí mismo, pues que
+                tantos hacen estas liberalidades en favor de la bajeza del vicio, ¿porqué no lo haré
+                yo por la hermosura pobre, pero modesta y virtuosa? Ve aquí los motivos que me han
+                determinado, y ya podeis ver si es justo que se diga á Paulina, que yo puedo ser
+                pérfido, y tener malas intenciones.</p>
+               <p>Tomasa se quedó pensativa. La noble franqueza del Marques, su generosidad en amor tan
+                tierno y tan desinteresado, le parecian una cosa nueva; y aunque ella hubiese visto
+                mucho mundo, la parecia no tener idea de semejante ejemplo. Ya empezaba á mirar al
+                amigo de Paulina con una especie de veneracion; pero queriendo probarlo para
+                asegurarse mas, si aquel sentimiento tan raro era verdadero, se vuelve á él, y le
+                dice: respondédme, Señor: ¿Dejareis disfrutar a Paulina de vuestros beneficios en el
+                convento adonde pienso llevarla esta noche? -Al instante le responde el Marques, no
+                digo en el convento sino fuera de España, en el fin del mundo, donde quisiere. Yo no
+                deseo mas que su bien estar: yo no pretendo sujetarla á nada. No, Señora; Paulina es
+                libre, independiente, y yo me viera con horror, si por tan frívolos beneficios me
+                imaginara el menor derecho sobre ella.</p>
+               <p>Entónces Tomasa se levanta con viveza, corre al gabinete, toma á Paulína por la mano,
+                y trayéndola hacia el Marques la dice: da gracias á tu amable y generoso protector.
+                Ahora te digo que no debes avergonzarte de sus beneficios, ni tienes que temer de un
+                hombre de tan noble carácter. Los dones de una amistad tan desinteresada y decorosa,
+                no envilecen, y trata de merecer con una gratitud constante y viva el amigo que te
+                ha dado la bondad del cielo. Paulina, que lo habia escuchado todo en su retiro, y
+                que estaba penetrada de amor y de ternura, no pudo pronunciar una palabra, y por
+                largo tiempo las lágrimas fuéron la única espresion de su alma; pero al fin el
+                Marques con un tono tierno y afectuoso la dijo: ¿porqué lloras, Paulina? ¿Sientes
+                alguna repugnancia al asilo que se te5 propone?</p>
+               <p>Ay, señor, le respondió: yo no puedo sentir repugnancia para lo que aprobais. Yo
+                seguiré los consejos de Tomasa, y obedeceré á todo lo que me mandeis. -¿Lo qué yo os
+                mande? ¿Cómo me hablas con ese estilo? Yo no puedo ni quiero mandarte nada, y me
+                causa mucha pena oírtelo decir. Luego volviéndose á Tomasa, la dijo con un tono
+                enternecido, y casi triste: yo os suplico, señora, que pidais á vuestra amiga, que
+                me trate con mas confianza. Paulina le tendió la mano, quiso responderle, y no pudo,
+                porque le parecia que pues iba al convento, no volveria á ver al Marques. Este temor
+                la ataba la lengua, y el Marques lo conoció por algunas palabras interrumpidas que
+                se le escapáron. Su corazon se sintió movido, y lleno de ternura: la tomó la mano, y
+                apretándola dulcemente se la besó. Despues la dijo: enjuga tu llanto, yo iré á
+                visitarte, levanta ahora esos hermosos ojos sobre dos personas que te aman
+                verdaderamente, y son tus fieles amigos. Que yo tenga el gusto de mostrar á los de
+                tu amiga, que no he permitido á mis deseos nada que te obligue á bajar los tuyos en
+                su presencia.</p>
+               <p>Tomasa por su lado procuró tambien consolar á Paulina, y entre ella y el Marques
+                tomáron todas las disposiciones para que pudiese ir al convento, y que estuviera en
+                él con la mayor comodidad posible. El Marques se encargó de enviarla al instante su
+                criada, y le ahorró la pena de advertir á Felipa de su repentina separacion. Tomasa
+                consintió en recibir en su casa los mas preciosos muebles de Paulina, para
+                hacérselos pasar al convento, y tambien encargarse de cobrar sus rentas, cuyos
+                títulos prometió el Marques remitirla.</p>
+               <p>El Marques contribuyendo tanto á todas estas disposiciones, no se pudo disimular, que
+                iba á perder la libertad que tenia ántes de verla á todas las horas del dia; y
+                aunque se esforzaba á parecer tranquilo, como su carácter franco estaba poco
+                acostumbrado á disfrazar los sentimientos de su alma, sus ojos descubrian la
+                agitacion de una pasion inquieta y poco satisfecha. Tomó las manos de Paulina, y
+                mirándola con la espresion de la mas viva ternura, la dijo con las lágrimas
+                asomadas: querida amiga, no te olvides jamas de un hombre que ha pasado tanto tiempo
+                á tu lado, y que ha sabido reprimir un ardor, que podia hallar muchas disculpas. Ya
+                sabes que te amo; pero me es muy dulce repetírtelo. Sí, yo te amo, y me ha costado
+                mucho callártelo tanto tiempo; pero ahora siento un placer inesplicable, porque te
+                he respetado.</p>
+               <p>Mira Paulina, por lo mismo que mis deseos eran muy vivos, por lo mismo que tu
+                inesperiencia, tu ingenuidad, y la ternura de tu corazon me prometian una conquista
+                segura, por lo mismo mi alma está ahora ufana de haber conseguido una victoria tan
+                difícil sobre la violencia de mi inclinacion, y si tú crees deber alguna recompensa
+                á tan penoso sacrificio, solo te pido que me concedas una gracia, y es que no te
+                aflijas, que yo vea disipar tu tristeza, y que no pueda advertir en esos ojos tan
+                amables mas señales de lágrimas. Tú sabes, amiga mia, que toda mi felicidad consiste
+                en saber que eres feliz; y diciendo esto, sin esperar respuesta, se levantó, se
+                despidió de Tomasa, y cuando ya estaba cerca de la puerta, se volvió para
+                preguntarla con un aire tímido, si le daba licencia para volver á verla. Tomasa que
+                era dulce, cortes y virtuosa sin rudeza, desdeñaba la severidad muchas veces
+                afectada, y siempre violenta, que hace á la virtud incómoda mas que respetable, le
+                pareció que no debia privarle de la vista de Paulina, y le respondió con tono muy
+                comedido, que le haria placer con sus visitas.</p>
+               <p>Cuando llegó la hora de comer, Paulina no quiso ir á la mesa; diciendo que no tenia
+                gana. Tomasa no quiso importunarla; pero habiéndola visto abatida, llorosa, con la
+                cabeza baja, y tapándose la cara con un pañuelo, mojado con su llanto, la dijo: pero
+                Paulina, ¿qué motivo hay para tanta afliccion? ¿Qué es lo que puede ahora sacarte
+                lágrimas tan amargas? -No lo sé, pero me siento el corazon tan oprimido: yo misma no
+                me entiendo, porque yo no tenia ningun deseo, ni tampoco tenia esperanzas. Mi
+                situacion me parecia la felicidad suprema: ella me bastaba para satisfacerme por
+                entero, y no me daba lugar para desear otra cosa. Jamas esperé que el tiempo me
+                pudiera dar otro bien del que gozaba; y con todo, Tomasa mia, me parece que lo he
+                perdido todo.</p>
+               <p>Acuérdate, amiga, de las palabras que dijo el Marques, y que todavía me retumban en
+                los oidos. Esta pasion no puede ser feliz sin que alguno de los dos haga grandes
+                sacrificios al otro. Aquí se detuvo, suspiró y apartó los ojos por no encontrarse
+                con los de Tomasa; pero despues saliendo de un silencio profundo, ocasionado por una
+                fuerte distraccion, exclamó: ¡Ah, Marques! ¡Marques! No has menester hacer grandes
+                sacrificios para que Paulina sea dichosa. Ella no los exigirá jamas, ni jamas
+                deseará una felicidad que pudiera perjudicar á tu reposo ó á tu gloria. Ya he
+                abierto los ojos, ya veo todo lo que nos separa; pero ¿porqué me cuesta tanta pena
+                el desengaño de una esperanza que no tenia?</p>
+               <p>Las caricias de Tomasa, las visitas del Marques, el tiempo y la razon, disipáron un
+                poco los disgustos de Paulina; pero su humor ántes tan alegre y festivo, se
+                transformó en una dulce y habitual melancolía. Después de haber pasado algunos dias
+                en casa de Tomasa, entró por fin en el convento. Allí encontró una celda cómoda y
+                agradable, y en ella todas las atenciones de su amante, sobre todo, una pequeña
+                librería en que habia libros devotos y curiosos, escogidos por el Marques, que le
+                ofrecian una distraccion útil, y facilidad para adquirir conocimientos. Volvió otra
+                vez á tomar lecciones de música, y en especial se ejercitó en la pintura, que era su
+                primer talento, y que se le habia hecho mas precioso, por la ocasion que le daba de
+                multiplicar la imagen de su amigo. Aunque queria ocuparse en otros objetos, su
+                imaginacion no la presentaba mas modelo que el que tenia en su corazon. Así sin
+                quererlo, llenaba su cuarto de los retratos del Marques.</p>
+               <p>Tomasa iba á visitarla con frecuencia, y el Marques la acompañaba casi siempre,
+                porque no se permitia ir á verla solo. El Marques desde el instante que se determinó
+                á ponerla bajo la direccion de la virtuosa Tomasa, se resolvió seriamente á combatir
+                su pasion. El se decia: ni yo puedo hacerla feliz, ni es posible que lo sea con
+                ella. Seducido por mi inclinacion me he dejado llevar de mi gusto, y cada dia me
+                hallo mas enamorado; ¿pero en qué puede parar esta pasion? ¿Puedo yo desposarme con
+                ella sin echar por tierra todas las esperanzas de mi fortuna, sin perder la gracia
+                de mi pariente el Ministro, que no podrá aprobar esta boda, y sin irritarle, viendo
+                que la prefiero á la alianza ilustre y ventajosa que me propone con una familia
+                distinguida? ¿Y qué será, si pierdo mi pleito? Uno de estos dias debe decidirse, y
+                si la sentencia no me es favorable, y pierdo tambien el favor del Ministro, ¿qué
+                será de mí? ¿Cómo podré mantenerla, y en vez de hacerla dichosa, no la haré sino
+                indigente y miserable?</p>
+               <p>Estas reflexiones le afirmaban en el designio de resistir á su amor, y evitar todas
+                las ocasiones que lo pudieran fomentar. Ensayaba sus fuerzas, y aunque le costaba
+                mucha violencia, dejaba pasar muchos dias sin ir á verla, y sin escribirla; pero
+                despues de mucho trabajo y sacrificios, le faltaba valor para sujetarse á tanta
+                privacion, condenaba los motivos, se acusaba, y corria á verla con el ímpetu del
+                furor. Allí se consolaba con el placer de mirarla, la contemplaba, y hallándola
+                triste y abatida, á causa de sus ausencias, se moria de pena, se injuriaba á sí
+                mismo, se trataba de cruel y se preguntaba: ¿cómo podia ser tan bárbaro para
+                afligirla, y dar un movimiento de dolor á una alma tan sensible?</p>
+               <p>La tierna y modesta Paulina era muy diferente de ántes: ya habia perdido su natural y
+                sencilla alegría: ya no tenia ni su sincero candor, ni su noble franqueza, y parecia
+                tímida y desconfiada. No se atrevia pues á quejarse de las pocas visitas del
+                Marques, se avergonzaba, se afligia, y procuraba esconder su afliccion; pero sus
+                miradas lánguidas, sus tristes suspiros, y sus preguntas inquietas descubrian lo que
+                pasaba en su corazon, y el temor de no ser ya querida. El Marques desde que
+                apercibia esta desconfianza, olvidando todos sus propósitos, no pensaba mas que en
+                tranquilizarla, y entónces se abandonaba al gusto de hablarla de su amor. La
+                recordaba aquellos dichosos tiempos en que se hablaban sin temor, sin que nada
+                detuviese los ímpetus de su corazon, y en que pasaban juntos horas tan deliciosas. Y
+                como si Paulina tuviera la culpa, la daba quejas de que hubiera ido á buscar luces
+                funestas, que habian destruido su recíproca felicidad. ¿Porqué, le decia, has
+                aprendido á temerme y desconfiarte de tí misma?</p>
+               <p>Paulina, movida con estos discursos, y enternecida con sus propias ideas, callaba,
+                lloraba, y se afligia de haber perdido su antigua y feliz ignorancia. Así pasáron
+                todo el invierno, sin que hubiese en su suerte novédad; pero habiendo llegado la
+                primavera, el Marques se vió en la precision de ir á su regimiento. Los dos
+                sintiéron mucho que se acercara esta indispensable separacion. Su despedida fué
+                larga, tierna y acompañada de lágrimas; pero en vez de exortarse á quererse ménos,
+                se repitiéron mil veces que se amarian siempre.</p>
+               <p>El Marques parte, y Paulina no pudiendo ya esperar su visita, empezó á disgustarse
+                del convento. Hasta allí habia vivido gustosa, porque ó veia al Marques, ó le
+                esperaba, y su esperanza le daba gusto y valor para ocuparse en los momentos de su
+                ausencia con sus lecciones y demas ejercicios; pero desde que supo que no podia
+                venir mas, su corazon se anocheció, las lecciones se le hiciéron molestas, y el
+                convento insoportable. Entónces se volvió á acordar de la amenidad de Aranjuez, de
+                sus sitios deliciosos, y de los largos y solitarios paseos que hacia, pensando
+                siempre en el Marques, sin que nadie turbase la dulzura de sus meditaciones. Cuando
+                venia Tomasa á verla, se quejaba de la importunidad con que se vivia en el convento,
+                y del deseo que se sentia de ir al campo para vivir en soledad; pero Tomasa le
+                cerraba la boca, diciéndola: tú no puedes ir al campo á vivir sola. Paulina sentia
+                la fuerza de esta dificultad, aunque no le disgustaba ménos; pero el caso la hizo
+                desaparecer por un suceso, que se debia á su buen corazon.</p>
+               <p>En el convento vivia retirada una señora, llamada Doña Angela, viuda de un hombre de
+                distincion, que la habia dejado alguna fortuna; pero habiéndola confiado á un
+                Negociante, éste hizo quiebra, y la dejó espuesta á la mayor miseria. Obligada de la
+                necesidad tomó el partido de retirarse al mismo convento, donde podia subsistir con
+                ménos gasto, y estaba en él cuando Paulina vino. Doña Angela era muger de mucho
+                talento, y de grande virtud, y Paulina no pudo dejar de sentir todo su mérito.
+                Habiendo sabido su desgracia, el motivo porque vivia allí, y viendo la suma escasez
+                de sus medios, no solo se la acercó, y trató con el respeto que se debe á la
+                indigencia, sino la procuró aliviar, partiendo con ella todas las comodidades y
+                dulzuras que su situacion la prometia. Doña Angela, honrada y sensible, agradecia
+                mucho tantas finezas, y añadiendo la gratitud al mérito de Paulina, y á los
+                sentimientos que inspiraba, se formó entre ellas una íntima amistad. Angela queria á
+                Paulina con el amor de una madre tierna, y Paulina la miraba como una hija que la
+                debia respeto por su edad, sus desgracias y sus virtudes.</p>
+               <p>Habia ya tiempo que Doña Angela padecia de ciertos humores melancólicos, que
+                alteráron visiblemente su salud. Los médicos la aconsejáron que mudase de aire, y
+                que fuese á buscarlo mas puro en la espaciosa circunferencia de los campos. Paulina
+                se aprovechó de esta circunstancia para ofrecerse á acompañarla; y Doña Angela se
+                transportó de gozo con esta oferta. Tomasa que estaba para hacer otro viage
+                indispensable á casa de su amiga, no se opuso á este proyecto, pero exigió de
+                Paulina la palabra de que no esperaria la vuelta del Marques para volver al
+                convento, diciéndola, que ni era decente, ni gustaria al Marques encontrarla en el
+                mundo, y en una soledad con una muger, que aunque virtuosa y prudente, no le era
+                conocida. Paulina se la dió, asegurándola que no tardaría en volver.</p>
+               <p>Tomasa se va, y poco despues las dos amigas parten para el lugar en que Doña Angela
+                debia restablecer su salud. Como cada dia su amistad se fortificaba con el recíproco
+                conocimiento de sus escelentes calidades, la confianza se estableció entre ellas de
+                manera, que Paulina la contó toda su historia con el Marques, la leyó la carta en
+                que le daba cuenta de la salida del convento para tenerla compañía, y todas las
+                respuestas que recibia del Marques. Esta confianza desahogó mucho el corazon de
+                Paulina, por que la dió ocasion de hablar continuamente á Doña Angela de su amor, de
+                las obligaciones que tenia á este hombre incomparable, de su gratitud, de su
+                ternura, del consuelo que sentia cuando pensaba ó hablaba de su mérito, y en fin, se
+                lo pintaba como el hombre mas cumplido y perfecto, y esta era la única ocupacion
+                agradable de Paulina.</p>
+               <p>La prudente Doña Angela veia en sus espresiones la evidencia de su pasion, y no
+                dejaba de inquietarse, porque comparando el estado del Marques con el de su
+                apasionada amiga, preveia fatales consecuencias. Temiendo afligirla demasiado, se
+                contentaba con decirla: ¿pero en qué puede parar este amor tan vivo? ¿Cuáles son tus
+                esperanzas? Entónces Paulina interrumpia la efusion de su alma con lamentos y
+                suspiros, y le confesaba que no tenia ninguna. Doña Angela le daba consejos cuerdos
+                y cristianos, que ella escuchaba con dulzura y moderacion. Léjos de rechazarlos ó
+                amotinarse contra ellos, la respondia que decia bien, que sus razones eran buenas;
+                pero tambien la dejaba ver que no la persuadian, y que nada en el mundo la haria
+                olvidar al Marques ni perder el consuelo de amar y ser amada de un hombre de su
+                mérito.</p>
+               <p>En esto el Marques la escribe que está para volver á Madrid, y Paulina se acuerda de
+                la palabra que habia dado a Tomasa. Ya pensaba en volverse al convento, cuando
+                recibe otra carta del Marques, en que le dice, que pues su buena suerte ha permitido
+                que ella esté en la casa del lugar, en que habita con su amiga, al tiempo que él
+                debe llegar, la suplica que se mantenga en ella, para que él pueda gozar del gusto
+                de verla y hablarla mas tiempo, y con mas libertad: que ya le conoce, y que debe
+                estar segura de que no abusará de esta gracia: que en cuanto al qué dirán, la
+                presencia de Doña Angela debe bastarla para tranquilizarla y despreciar las críticas
+                que pudieran hacer los malignos. La misma súplica la repite en muchas cartas
+                posteriores y consecutivas, y se lo pide con tanto ardor, como si toda su felicidad
+                dependiera de esta gracia.</p>
+               <p>La débil Paulina no tuvo valor para negar un favor pedido con tanta instancia, y
+                decia á Doña Angela: yo se lo debo todo, ¿y no haré por él lo único que me pide?
+                ¿Seré tan ingrata que resista á su único deseo? Si resistiera, lo sentiria, ¿y me
+                toca á mí el afligirle? ¿No debo darle gusto en todo lo que me permite el honor?
+                ¿Porqué por el injusto temor de que no digan, le negaré yo la dulzura de obedecerle,
+                y le daré el pesar de resistirle? Yo no tengo nada que temer. Yo conozco su
+                moderacion y su virtud; fuera de esto, vos, Doña Angela, si fuera menester, vos me
+                sostuviérais contra él y contra mí misma. Vos os dignaréis de mírarme como hija, y
+                de tratarme como una madre tierna y vigilante. Vos no os apartaréis un instante de
+                mí: vos seréis testigo de toda mi conducta: vos me justificaréis con Tomasa, y
+                cuando ella y vos, que sois mis únicas amigas, esteis seguras de mi honradez, ¿qué
+                me importa lo demas del mundo? Vuestra estimacion es lo único que necesita para mi
+                tranquilidad. Doña Angela no aprobaba estos discursos, y dijo cuanto pudo á Paulina,
+                para que mudara de resolucion, haciéndola ver que no era cuerdo, ni decente que
+                esperase allí al Marques, y que viviese con él en la misma casa; pero no la pudo
+                determinar, y el Marques tuvo el gusto de hallarla en el lugar, y de saber que debia
+                esta condescendencia á sus instancias.</p>
+               <p>Muchos dias pasó con ella, sin mas deseos que gozar de la felicidad de verla; pero es
+                difícil que el amor, cuando se ha llegado á declarar, pueda contenerse en los
+                límites de la amistad. Desde que un gusto se satisface, otro comienza. Los deseos se
+                multiplican, las ideas se estienden, un favor recibido escita á pedir otro mayor. El
+                espacio que parecia inmenso, desde el primer punto hasta el último, poco á poco se
+                disminuye, y al fin el pensamiento se abanza hasta el objeto, que no se atrevia
+                ántes á entrever. El Marques insensiblemente se fué mudando, hasta mostrarse con mal
+                humor. La presencia continua de Doña Angela, que no se separaba un instante de
+                Paulina, empezó á causarle sujecion. El cuidado que ponia en no dejar sola á su
+                amiga, se le hizo insoportable, y no podia su semblante esconder este disgusto.</p>
+               <p>¿Qué necesidad tiene esta muger, decia á Paulina, de no dejarte nunca de la vista?
+                ¿Eres tú la que la has pedido esta atencion? ¿Te desconfias de mí? Ya no me estimas,
+                y me miras como un hombre vil, de quien se debe tener miedo. Si no ¿porqué tomas
+                tantas precauciones contra mí? ¿porqué me muestras una desconfianza tan injuriosa?
+                ¡Ay, Paulina, como te has mudado! Acuérdate de aquel tiempo feliz, en que tú corrías
+                á encontrarme con una viveza tan llena de alegria: cuando te apoyabas sobre mi
+                brazo, y nos paseábamos solos por los lugares mas solitarios, y ahora todo es
+                temores, frialdad y reservas. No eres la misma, tu amistad no es tan tierna, y tu
+                corazon no es tan ingenuo.</p>
+               <p>Estas quejas la traspasaban el alma, y la hacian deshacer en llanto. Peor fué cuando
+                vió que nada calmaba la pena del Marques, y que cada dia parecia mas pálido y
+                abatido. Su tierno corazon se asustó, temblando con el peligro de vida tan preciosa.
+                Procuraba consolarle, pero él la respondia con triste acento, y con los ojos
+                llorosos: no, no te inquietes, que presto no te volveré á importunar. Entónces
+                empezó á conocer y á arrepentirse de la condescendencia que habia tenido en
+                esperarle en aquel lugar, y decia á Doña Angela: ahora veo lo mal que hice en no
+                haberme vuelto al convento. Mi imprudencia ha irritado una pasion largo tiempo
+                reprimida; pero entónces yo no conocia mas que sus alhagos, y ahora siento todas sus
+                amarguras. Doña Angela, inquieta con el peligro de su amiga, la exorta á que vuelva
+                al convento, y Paulina se determina. Parten pues un dia que el Marques habia ido á
+                Madrid, y le deja una carta que decia así:</p>
+               <p>«¡Qué dolor me causa dar lugar á tus quejas! ¡Cuánto sufro de tus penas, y de
+                atribuirme el infeliz estado en que te veo! ¿Cómo es posible que sea yo la que te
+                aflija, cuando tu felicidad es el único deseo de mi corazon? ¿Porqué fatalidad
+                necesitas ahora para ser feliz, de que se pierda una muger que tú respetabas otra
+                vez? Mi reserva te ofende, pero ¿pudiera tratarte hoy con la familiaridad de mi
+                antigua ignorancia? Ella era entónces mi escusa. Antes no te miraba mas que como un
+                hermano muy querido. No conocia la diferencia de nuestras fortunas, ni la distancia
+                de nuestro nacimiento, y nada podia contener los efectos de mi corazon. Yo no me he
+                mudado, yo soy la misma; pero he sabido lo que ignoraba, y no te temo, sino me temo
+                á mí misma. Soy jóven, te debo todo lo que soy, y te amo. Sí, Marques mio, te amo,
+                te lo repito con placer, y no tengo vergüenza de amarte. Desde los primeros momentos
+                que te conocí, te amé. Este amor ha crecido cada dia en mi corazon, y este
+                sentimiento es el único que me hace amar la vida.</p>
+               <p>Tus beneficios podian hacer mi existencia ménos penosa; pero tu amor solo podia hacer
+                mi felicidad. Yo no conocia otra, que la de pensar en tí, conservar tu amistad, y
+                merecer la estimacion de mi único amigo y protector. No tenia otro deseo que verte,
+                leer en tus ojos que mi presencia te causaba alegría; con esto solo yo era dichosa.
+                ¿Porqué pues me han quitado una felicidad tan grande? ¿No me la pudieras volver,
+                Marques mio? Pero ¡ay! yo siento que no me la puedes volver.</p>
+               <p>Me has dicho que presto no me volverás á importunar. ¡Qué cruel espresion! No me es
+                posible sufrir la idea de ser causa de tus penas. Abandonando el lugar en que te
+                veia con libertad, he obedecido á consejos prudentes; pero no es para huirte, ni
+                para dejar de verte. Yo puedo hacerlo en el convento, y si tambien quieres
+                absolutamente que deje este asilo, tambien le dejaré, y someteré mi conducta entera
+                á tu soberana decision. Por dar consuelo á tus disgustos, no hay nada á que no me
+                disponga; pero yo interpelo tu generosidad».</p>
+               <p>El Marques leia con una emocion muy viva, y cuando acabó esclamó con lágrimas: ¿cómo
+                he sido tan tirano que haya forzado á Paulina á escribirme así? ¡Qué ternura! ¡Qué
+                bondad! ¡Qué alma tan noble y generosa! ¡Qué! Paulina adorable, ¿yo seria capaz de
+                envilecerte, de abusar de tu amor, y engañar tu noble confianza? ¡Ah! no lo temas de
+                tu amante, de tu amigo, del amigo que te respeta. Perezca el hombre injusto y cruel,
+                que compra su felicidad á costa de una dulce y sensible criatura, y por un grosero y
+                rápido placer la priva de la virtud y del honor. Al instante se pone á responderla.
+                La agitacion de su alma no le permitió dar mucho órden á su papel; pero la daba
+                gracias de sus espresiones. Se quejaba tiernamente de que pudiese temer sus
+                intenciones. ¿Cómo has podido recelar, la decia, que tu amigo quisiera ser tu
+                tirano? Y acababa por decirla, que iria á verla, y que la diria cosas que le costaba
+                mucha pena decírselas.</p>
+               <p>Paulina estaba con Doña Angela cuando recibió este papel, le tomó temblando, y le
+                tuvo en la mano largo tiempo sin abrirle. Una palidez mortal la cubria el semblante.
+                Al fin le abre, y lágrimas de alegria se le inundan. Aquel papel consolador calmó
+                sus inquietudes: mil veces le besó, y otras mil le estrechó contra su corazon, y
+                decia con un tono de júbilo alborozado: perdóname, amigo. Yo no debía temerte; pero
+                luego volviéndole á leer, se inquietó de lo que decia al fin, y preguntaba a Doña
+                Angela: ¿qué será lo que tiene que decirme, y que le cuesta tanta pena? ¿Será que no
+                quiere verme mas, que se va á separar de mí? Paulina esperó con impaciencia que el
+                Marques viniera. Cada instante se le hacia un siglo, y su inquietud creció cuando
+                vió que la noche habia llegado sin que pareciera; pero al otro día por la mañana
+                recibió un nuevo papel del Marques de este tenor.</p>
+               <p>«¿Cómo tendré valor para escribirte? ¿Cómo podré anunciarte mi partida, los motivos
+                de ella, y la necesidad de una separacion eterna entre nosotros? Sí, adorable
+                Paulina, es menester separarnos, y que yo me despida de tí para siempre. El honor,
+                la gratitud, la religión, y mi palabra, todo me esfuerza á sacrificio tan cruel.
+                ¡Qué pena es para mí, que yo no sea dueño de mi mano! Ya he perdido toda
+                esperanza... Pero ¡ay! ¿la he tenido jamas? No, jamas me he lisonjeado con idea tan
+                dulce. Mi culpa sola es haber dejado correr mi pasion sin contenerla, y haber quizas
+                contribuido á la tuya. ¿Me perdonarás tú, la dulce amiga de mi corazon? ¿No me
+                despreciarás? ¿No me aborrecerás?</p>
+               <p>Acaba de decidirse toda la desgracia de mi vida. Ha tiempo que se me proponia la boda
+                de la hija de los Condes del Risco, que habitan en Valencia, y que yo esperaba no
+                podria efectuarse por obstáculos diferentes; pero ayer mi pariente el Ministro los
+                ha vencido todos, y quiere que mañana parta para presentarme á la familia. Todo está
+                dispuesto para que nos casemos á mi llegada. Vé aquí, Paulina, mi terrible suerte.
+                Yo voy á casarme... y no es contigo.</p>
+               <p>Yo esperaba gozar mas tiempo de mi libertad, porque creí que la boda dependia de la
+                decision de mi pleito. El Conde del Risco esperaba la resulta para resolverse; pero
+                mi pariente, haciéndome donacion de sus bienes, lo ha determinado, y su generosidad
+                me hace esclavo.</p>
+               <p>¿Te rogaré que me olvides? No, ni yo podré hacerlo, ni deseo que tú lo hagas. Tú
+                estarás siempre presente á mi memoria, y á mi corazón. Yo te escribiré, te hablaré
+                de mi estimacion, de mi amistad, y aunque no de mi amor, no sé si podré perderle. Yo
+                sé que voy condenado á un eterno disgusto; pero ¿qué he de hacer? Así lo quiere el
+                cielo, y lo exijen mi reconocimiento y honor. En cuanto á tí, vive tranquila, vive
+                dichosa. Si la memoria de un constante y verdadero amigo te arranca algun suspiro,
+                pido al cielo que no sea doloroso... No me es posible contener mis lágrimas, que
+                borran lo que escribo. ¡Oh, amiga generosa! tú las derramarás tambien; pero que no
+                sean tan amargas como las mias. Yo sé lo que pierdo, y que soy el mas desgraciado de
+                los hombres».</p>
+               <p>¡Cómo se quedó Paulina con esta lectura! Mil veces la interrumpió para desahogar su
+                llanto y sus gemidos. Ya se va, decia: ya no volveré á verle, y va á unirse con su
+                esposa feliz, y me dice: que yo viva tranquila y dichosa. ¡Tranquila sin él!
+                ¡Dichosa léjos de él! ¡Ay! ¿cómo es posible? Todo el dia pasó en estas tristes
+                agitaciones: ¡qué crueldad! repetia. Si su honor le obligaba á partir, debia
+                hacerlo; pero ¿porqué partir sin verme, sin hablarme? ¿Temia que yo fuese tan vil,
+                que le disuadiera de lo que la razon, y la religion le prescribian? En fin ella
+                estuvo enferma muchos dias; pero los consuelos de Doña Angela, y la vuelta de
+                Tomasa, que venia todos los dias á verla, consiguieron sosegarla un poco. Ella
+                decia, que jamas habia esperado nada, que debia someterse á su suerte, y desear que
+                el Marques fuera feliz.</p>
+               <p>Dos meses pasáron de este modo. Paulina recibia todos los correos cartas del Marques;
+                pero jamas la decia en ellas si ya se habia casado, o no. Paulina no se atrevia á
+                preguntárselo; pero impaciente y disgustada de su situación, un dia que sus amigas
+                Angela y Tomasa estaban juntas, las dijo: miéntras podia ver al Marques, la vida me
+                era dulce. Yo la amaba, porque pasaba una parte en verle, y otra en pensar en él;
+                pero ahora que no puedo verle, y que no debo pensar en él, pues que va á casarse con
+                otra, me importuna; ¿qué puedo pues hacer ya en el mundo? Ya que no me es posible
+                dejar esta tierra de desgracias, quisiera á lo ménos sepultarme en ella, y atarme
+                con cadenas tan fuertes, que yo misma no pueda desatarlas. Yo he pensado pues,
+                amigas, tanto por mi propio reposo, como por el del Marques, tomar aquí el hábito de
+                Religiosa y pronunciar los votos irrevocables. De este modo mi imaginación sujeta
+                con el orden de la disciplina y la regla, no volará á las regiones en que ya no le
+                es permitido ir, y el Marques, sabiendo que estoy muerta para el mundo, podrá calmar
+                la suya, y gozar de su felicidad con ménos zozobra.</p>
+               <p>Angela y Tomasa se sorprendiéron con esta proposicion, y la dijéron que era muy seria
+                para no meditarla mucho. Yo no tengo que meditar las dijo: el mundo es malo para mí.
+                Desde que no puedo encontrar al Marques, todo lo demas me debe importunar, y ya que
+                al deseo de mi propio reposo, añado la idea de que este sacrificio puede contribuir
+                al suyo, nada me puede costar, y en esta sola esperanza hallo una inmensa
+                recompensa. No me separeis, amigas, de un pensamiento, que es la única felicidad que
+                me queda. Y dejadme tambien espiar á los ojos de Dios el delito de haber entregado á
+                una criatura todo mi corazon. Las dos la respondiéron, que no era su intencion
+                desviarla de idea tan cristiana, y solo la pedian que se tomase algun tiempo para
+                examinar mejor su resolucion. Quedó pues convenido, que si dentro de tres meses
+                persistia en la misma idea, tomaria el hábito.</p>
+               <p>Tomasa que queria distraerla de sus penas la contó, que una parienta suya, que vivia
+                en Ocaña, casaba á una hija suya con un hombre muy rico, que la habia convidado para
+                la boda, y la pidió que viniera con ella. Paulina resistió mucho tiempo. Tomasa la
+                replicó, que esta era la última fineza que podia hacer por ella, y se lo suplicó
+                tanto, que al fin se vió forzada á consentir. Encargó á Doña Angela que la enviase
+                con un propio las cartas que la vinieran del Marques, y partió con Tomasa. Por
+                desgracia pasó mucho tiempo, sin que el Marques escribiera á Paulina, temia que la
+                privase hasta de esta señal de su amistad.</p>
+               <p>Un dia después de la boda y de las fiestas llegó un caballero de Madrid, que estaba
+                convidado para ellas, y como se le daban quejas de que llegase tan tarde, respondió:
+                ¡pues qué! ¿No ha llegado hasta aquí la novedad? ¿Se ignora aquí todavía, que el
+                Ministro ha sido depuesto, y está en prision con otros muchos, y que su sobrino el
+                Marques de San Leandro ha sido desterrado? Al tiempo que decia estas palabras,
+                entraba Paulina á la pieza en que estaban, se detuvo, y se apoyó sobre una silla
+                para escuchar todo lo que decia.</p>
+               <p>El caballero continuó diciendo: nadie sabe porqué; pero el Ministro está
+                estrechamente encerrado, y han tomado todos sus papeles. Muchas personas de su
+                confianza están presas, y el Marques de San Leandro, que era el que trataba mas con
+                él, ha recibido el órden de no parecer en Madrid. Ahora estaba en Valencia, porque
+                iba á casarse con la hija del Conde del Risco; pero habiendo este sabido la
+                desgracia de su pariente, se le mostró frio, y el Marques picado ha roto la boda. No
+                es ésta toda su desgracia, pues tambien estaba para verse su pleito, y todos dicen,
+                que despues de la desgracia del Ministro, ciertamente lo perderá.</p>
+               <p>Tomasa oyendo esto, se levantó, fué al sitio en que estaba Paulina, y enlazándose con
+                ella por el brazo, la sacó de la pieza, la ayudó á marchar, y la llevó á su cuarto;
+                pero Paulina estaba tan pálida, desanimada y yerta, que parecia insensible. Sus ojos
+                estaban estúpidos, y no acertaba á hablar. Tomasa la persuadia que llorase; pero ni
+                esto podia, hasta que mirando fijamente á su amiga, y levantando las manos al cielo
+                dijo: ¡Dios mío! ¿porqué no me has quitado la vida antes de saber que el Marques es
+                infeliz? Entónces sus lágrimas que se redobláron con abundancia, aliviaron algo la
+                opresion de su pecho; pero ¡qué gritos salieron de sus labios! ¡Que, decia, perdido,
+                arruinado, desterrado! ¡Santo Dios!</p>
+               <p>De repente se sosiega, enjuga sus lágrimas, toma las manos de Tomasa, la mira un
+                instante, baja los ojos, los vuelve á levantar y parece como que duda si le dirá su
+                pensamiento. Al fin la dice: yo te aflijo, amiga, y quizas voy á enfadarte; pero yo
+                invoco tu amistad, y te ruego por ella, que no te opongas á mis designios. Aquí me
+                ha ocurrido una idea, y por Dios que no me des razones, ni me hagas discursos. No,
+                Tomasa mia, yo no abandonaré al Marques. El está perdido, su boda está deshecha, su
+                fortuna destruida, al fin está afligido, y es infeliz. No, Tomasa, yo no le
+                abandonaré: mi ánimo es vender cuanto me ha dado, juntar todo el dinero que pueda, y
+                llevárselo yo misma. Sí, yo se lo quiero llevar, ponerme al instante en camino, é
+                irlo a encontrar donde estuviere. Puede ser que mi vista le alivie, le consuele, y
+                sino puedo consolarlo, á lo ménos le acompañaré en sus penas; sufriré, gemiré y
+                moriré con él.</p>
+               <p>Tomasa espantada se disponia á responderla; pero ella se lo embaraza, diciéndola: no,
+                no me digas nada, no me digas nada. No me hables del qué dirán, ni de los crueles
+                miramientos del mundo. Yo desprecio todas esas ridículas decencias que obligan á la
+                ingratitud y la dureza. Como si la amistad no tuviera tambien sus santas leyes. Como
+                si hubiera mayor decencia que la del reconocimiento. ¿Y á quién debo yo tanta
+                sujecion? Yo no tengo parientes; si lo que hago es indecente, la vergüenza caerá
+                sobre mí sola. Cuando no estuviera ya resuelta á tomar el hábito religioso, esto
+                solo me determinaria para venderlo todo, pues no habré menester nada.</p>
+               <p>Tomasa era muy honrada para no aprobar una parte de los designios de su amiga, y en
+                cuanto á irle á buscar, la vió tan decidida, que no se atrevió á decirla nada,
+                temiendo que no conseguiria otra cosa que afligirla mas. No la dijo pues nada, y
+                esperó que con el tiempo podria hacerla entender mejor la razón: pero instada por
+                Paulina dió todas sus disposiciones para la vuelta. En el camino se acordó de un
+                cierto viejo, llamado Don Lázaro, criado antiguo del Marques que solia acompañarle
+                cuando venia á tomar lecciones de pintura, y en quien tenia mucha confianza. Lo
+                primero que hizo cuando llegó al convento fué escribirle un papel, pidiéndole que
+                fuera á verla.</p>
+               <p>Don Lázaro fué corriendo, y la presencia de un hombre que amaba, y era amado del
+                Marques, la escitó una emocion muy viva. Quiso esplicarse, empezó á hablar, pero las
+                lágrimas se lo impidieron. El buen anciano, encantado de ver la maestra de su amo,
+                procuró sosegarla, y se le ofreció á cuanto le mandara. Paulina le abrió su corazón,
+                le habló de los beneficios del Marques, de su reconocimiento, y poniéndole en la
+                mano sus alhajas, diamantes, y el caudal que tenia, le pidió que hiciera dinero de
+                todo, y se lo llevase al Marques; pero exigió su palabra de honor de que jamas le
+                diria la mano que se lo enviaba. Don Lázaro estaba tan admirado de lo que veia, que
+                no acertaba á hablar. Paulina, temblando de su silencio, le pregunta ¿si duda
+                servirla? No señora, la responde. Yo haré lo que me mandeis, y cumpliré con
+                fidelidad vuestro encargo; pero permitidme deciros, que mi amo ha sabido colocar
+                bien las aficiones de su corazon. Quisiera el cielo restituirle su pariente, su
+                fortuna y su salud, y le conserve siempre una amiga tan digna y respetable como
+                vos.</p>
+               <p>¡Su salud! esclama Paulina. ¿Pues qué está, enfermo? -No os inquieteis, señora. Lo ha
+                estado, y mucho; pero ya está mejor, y yo me dispongo á ir á verle. Despues de
+                algunos otros discursos, Paulina le apresuraba á que se fuera, para que no retardara
+                un instante su comision. El la saludó respetuosamente, se retiró; pero el corazon de
+                Paulina quedó herido con otra nueva flecha. El Marques está enfermo, y quizá de
+                peligro. No era posible sostener esta idea. El silencio de Tomasa la habia
+                acobardado, y el temor de disgustar á una amiga tan buena, habia enfriado un poco su
+                resolución; pero cuando supo que el Marques estaba enfermo, nada la pudo detener. Se
+                lo escribe á Tomasa y la pide con tanta instancia que la procure, y envíe una
+                calesa, asegurándola que Doña Angela iria con ella, que al fin de temor que no
+                tomase otro partido mas violento, la envía una calesa con un criado de confianza que
+                la acompañe, y Paulina y Doña Angela se ponen en camino.</p>
+               <p>Llegan á la casa en que el Marques estaba, y como los dos criados conocian á Paulina,
+                luego que la vieron corren á avisárselo á su amo. El Marques no podía creerlos; pero
+                ella entra, él la ve, y duda todavía. El estaba en la cama. Ella se le acerca
+                temblando. El dando un grito de gozo, la tiende la mano. Ella la toma, la besa, y la
+                inunda con sus lágrimas. ¿Es Paulina? decia: ¿es mi querida Paulina? ¡Dios santo!
+                ¡Qué favor! Siéntate aquí a mi lado, Paulina mia. ¡Mi amada amiga se ha dignado de
+                venirme a ver! ¡Qué dulce amistad! ¡Qué agradable sorpresa! Yo no esperaba una
+                fineza tan preciosa. ¿Y porqué no la esperábais, le respondió Paulina? ¿Pensais que
+                yo soy de esos falsos amigos, que se alejan de la desgracia? ¿Me teneis por
+                insensible ó por ingrata? ¿No sabéis que vos solo sois para mí todo el universo? Si
+                mi presencia, si mis atenciones pueden aliviaros, aquí estoy. Todos los momentos de
+                mi vida os serán consagrados.</p>
+               <p>El semblante del Marques, pálido ántes, se puso entónces encarnado. Tomó las manos de
+                Paulina, las besó y dijo con una especie de esclamacion: ¡y yo era capaz de
+                sacrificar mi única felicidad á vanos miramientos! ¡Mi único deseo al capricho de
+                otros! El iba a continuar; pero se oye un grande rumor en la antesala: era Don
+                Lázaro que venia entre los criados, que lo traían en peso, y entró gritando:
+                ¡Albricias! ¡albricias! señor, todo es felicidad, vuestro pariente el Ministro se ha
+                justificado. Ya está otra vez en su empleo, y sus acusadores en prisión. Ayer
+                vuestro pleito se ha visto, y vos le habéis ganado con costas. Yo estaba loco de
+                gozo, y no he querido que otro os diese tan buenas noticias.</p>
+               <p>¡Qué me dices Lázaro! ¿Mi pariente está reintegrado, y yo he ganado mi pleito? ¡Santo
+                Dios! ¡Cuántos favores de tu bondad! ¡Cuántas gracias te debe mi corazon! Y para
+                hacérmelas mas preciosas tú me dispensas tantas misericordias cuando ménos lo
+                esperaba. ¡Cuánta debe ser mi gratitud! Yo te bendigo, Dios piadoso, no permitas que
+                yo goce de tantos bienes, sino para tu gloria. En fin, Lázaro mio, pues que Dios me
+                ha hecho rico; ya puedo seguir las inspiraciones de mi corazon. Ya puedo pagar el
+                amor que debo, y recompensar por fin tantas finezas y virtudes. Ven, amada Paulina,
+                ven y abraza á tu esposo, y volviendo á sus criados, les dijo: reconoced á mi muger,
+                que es ya ama vuestra. Los criados que la adoraban se derretian en lágrimas de
+                alegría, y fueron todos á echarse á sus pies. El Marques se volvió despues a Don
+                Lázaro, y le dijo: celoso y honrado amigo, pues que tú eres el primero que me has
+                traido las noticias que me permiten casarme con Paulina, sé el primero también que
+                la estreches entre tus brazos.</p>
+               <p>No se oían entónces en aquel cuarto más que gritos de alegría. Paulina era amada,
+                respetada, y todos sentían que era digna de la prosperidad de que iba á gozar. Doña
+                Angela levantaba las manos al cielo, le daba gracias, abrazaba á su amigo, y echaba
+                bendiciones sobre el Marques y ella. Don Lázaro, faltando al secreto que se le había
+                encargado, contaba a todos la acción generosa de Paulina. Ella sola estaba inquieta,
+                temblando por la salud del Marques; pero todos la tranquilizaron, la hicieron ver
+                que aunque todavía débil, ya estaba convaleciente, y que tantas satisfacciones
+                debian restituirle la salud.</p>
+               <p>En efecto, el enfermo aliviándose cada instante más con tan dulces remedios, no tardó
+                en restaurarse, y poco tiempo despues se unió con el vínculo sagrado á su amada
+                Paulina. ¿Quién puede describir la felicidad de amantes tan nobles, tan honestos y
+                desinteresados? Tomasa y Doña Angela fueron sus amigas inseparables, y este
+                matrimonio feliz se vió multiplicar en muchos bellos y amables hijos.</p>
+            </div>
+         </body>
+      </text>
+</TEI>

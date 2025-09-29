@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>El brigadier y Carlota</title>
+               <author ref="authors.xml/#P37">García Malo, Ignacio</author>
+               <respStmt>
+                  <name>Anika Piotraschke</name>
+                  <resp>Editor</resp>
+               </respStmt>
+               <respStmt>
+                  <name>Nils Kellner</name>
+                  <resp>Editor</resp>
+               </respStmt>
+            </titleStmt>
+            <extent>
+               <measure unit="words">15822</measure>
+            </extent>
+            <publicationStmt>
+               <distributor>CANSpiN project</distributor>
+               <date when="2025">2025</date>
+               <pubPlace>Rostock</pubPlace>
+               <idno>CANSpiN-spa-19_047</idno>
+               <availability>
+                  <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl type="digital">
+                  <author>García Malo, Ignacio</author>
+                  <title>El brigadier y Carlota</title>
+                  <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
+                  <ref target="https://www.cervantesvirtual.com/nd/ark:/59851/bmcpn910">https://www.cervantesvirtual.com/nd/ark:/59851/bmcpn910</ref>
+                  <bibl type="print">
+                     <author>García Malo, Ignacio</author>
+                     <title>Voz de la naturaleza. Memorias ó anécdotas curiosas é instructivas. Tomo VI</title>
+                     <pubPlace>
+                        <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                        <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                     </pubPlace>
+                     <publisher>Imprenta Pantaleón Aznar</publisher>
+                     <date when="1792">1792</date>
+                     <bibl type="first">
+                        <author>García Malo, Ignacio</author>
+                        <title>Voz de la naturaleza. Memorias ó anécdotas curiosas é instructivas. Tomo VI</title>
+                        <pubPlace>
+                           <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                           <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+                        </pubPlace>
+                        <publisher>Imprenta Pantaleón Aznar</publisher>
+                        <date when="1792">1792</date>
+                     </bibl>
+                  </bibl>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="spa"/>
+            </langUsage>
+            <textClass>
+               <keywords>
+                  <term type="genre">novel</term>
+                  <term type="reference-year">1792</term>
+               </keywords>
+            </textClass>
+         </profileDesc>
+         <change when="2025-09-30" who="#NK">Initial version</change>
+      </teiHeader>
+      <text>
+         <body>
+            <div>
+               <p>Son innumerables las pasiones que continuamente nos agitan. Necesitamos estar siempre
+                con toda precaución para no dejarnos sorprender ni arrastrar de ellas. Entre las que
+                mayor dominio tienen sobre el corazón del hombre, la del amor suele tiranizarlo más.
+                Ruinas, sobresaltos, inquietudes, celos, iras, desvelos, éstos son los efectos más
+                frecuentes que produce. La experiencia nos enseña esto mismo, presentándonos cada
+                día a la vista muchos ejemplos; pero como es imposible extinguir en los hombres el
+                fuego de esta vehemente pasión, y es casi necesario concederla a las almas
+                sensibles, nos contentaremos con demostrar que, así como es loable cuando se funda
+                en la virtud, y admirable cuando se encamina al bien de la sociedad y de la patria,
+                así también es indigna, perniciosa y vituperable cuando sólo se dirige a saciar los
+                torpes apetitos. Como son tan frecuentes las cautelas de los hombres para seducir a
+                las mujeres incautas; como también es muy común que éstos se jacten de haber
+                triunfado de su honor cuando deberían avergonzarse y temer la justa ira del Señor,
+                vengador de los agravios, de los perjurios y de la perfidia, vamos a presentar en
+                esta anécdota el ejemplo de una inicua seducción, causa de lamentables consecuencias
+                y castigada por un medio impensado, como sucede cuando Dios, por sus inescrutables
+                secretos, quiere ejecutar sus venganzas sobre los malvados. ¡Ojalá que este ejemplar
+                contenga a los jóvenes en sus desórdenes y preserve a las doncellas de los lazos que
+                extiende la malicia contra su honor, para que no lleguen jamás las unas a
+                experimentar los deplorables efectos de tan perniciosos engaños, y los otros el
+                justo castigo que merecen tan horrorosos delitos!</p>
+               <p>Nació en Bohemia, de unos padres muy ilustres, una niña a quien pusieron por nombre
+                Carlota. Sus padres, que estaban bien persuadidos de que la mejor dote para los
+                hijos es la buena educación, no omitían diligencia alguna que pudiese conspirar a
+                dar a su hija la más perfecta, como hacían igualmente con otros dos hermanos que
+                tenía de mayor edad. No dejaban estos señores, como otros muchos, el cuidado de la
+                educación de sus hijos al de hombres mercenarios, que se buscan comúnmente para
+                descargar el peso de tan precisa obligación. Aunque les tenían maestros y ayos para
+                su enseñanza y asistencia, vigilaban atentamente sobre ellos para ver si cumplían
+                con exactitud sus encargos. Unían sus lecciones y cuidados a los suyos, y de esta
+                unión resultaba una continua atención a la crianza de aquellos niños, que venciendo
+                en ellos cualquiera inclinación viciosa de la naturaleza, formaba sus corazones,
+                elevaba sus pensamientos, los hacía sensibles, humanos, caritativos, ingenuos y
+                humildes sin bajeza, como deberían ser los que por un efecto de la casualidad nacen
+                superiores a los demás hombres y llegan más fácilmente a gobernarlos y a decidir de
+                su fortuna y felicidad.</p>
+               <p>Éste era el medio con que estos sabios padres procuraban criar a sus hijos, para que
+                con el tiempo fuesen buenos cristianos y ciudadanos útiles. Pero la muerte, que
+                destruye todos los proyectos e intenciones de los hombres, cortó la vida a estos
+                padres antes de que tuviesen el gusto de ver adultos a todos sus hijos, y como
+                deseaban. El mayorazgo, como mayor de edad, pudo recoger más frutos de tan preciosa
+                educación; pero el otro niño, y particularmente Carlota, se quedaron sólo con
+                algunas semillas. Apenas murieron sus padres cuando el primogénito cargó con casi
+                toda la hacienda, que era vinculada; puso al otro hermano a servir al Emperador de
+                cadete en un regimiento, y conociendo que la niña no estaba bien en su poder, porque
+                un hombre solo no podía atender a su educación, la envió a Viena con una tía suya,
+                creyendo que a su lado estaría preservada de los peligros y riesgos a que están
+                expuestas las jóvenes si no hay quien con interés vigile sobre su conducta.</p>
+               <p>La idea y precaución de este joven era propia de un hombre prudente y bien educado;
+                pero los efectos no correspondieron a sus deseos. Carlota, acostumbrada a encontrar
+                en sus amados padres no unos rígidos y severos correctores sino unos amigos tiernos
+                que, interesándose sólo en su mayor bien, reprendían sus acciones con dulzura y
+                amor, no hallando en su tía aquella amable confianza que hace menos gravosa la
+                autoridad, lejos de adelantar en su educación perdía la que había adquirido. El
+                carácter suave, amoroso y tierno de sus padres hacía a Carlota franca e ingenua; el
+                carácter de su tía, rígido, hipócrita, austero y gazmoño la hacía disimulada y
+                fingida. No temía confesar a sus padres cualquiera error que cometía, porque hallaba
+                una corrección amorosa que, sin exasperarla, excitaba en su corazón un horroroso
+                aborrecimiento a lo malo. Siempre temblaba al presentarse delante de su tía, porque
+                aun las acciones más indiferentes se las reprendía con rigidez, y lejos de
+                confesarle sus debilidades y flaquezas le aparentaba una virtud afectada que tocaba
+                en gazmoñería. Con esto lograba, aunque no ver a la tía con semblante afable, a lo
+                menos que no fuesen tan severas ni frecuentes sus reprensiones; pero esta conducta
+                producía en el corazón de Carlota muy diferentes efectos de los que creía la tía. El
+                aborrecimiento a su persona y a todo cuanto le decía y aconsejaba, el despecho, el
+                deseo de la libertad y de sacudir tan pesado yugo, he aquí lo que sacaba la tía con
+                tanta austeridad. Lo mismo sacarán cuantos quieran inspirar la virtud a tanta costa.
+                La dulzura y suavidad la imprimen mucho mejor en los corazones que el rigor y la
+                severidad. Oímos con gusto, o a lo menos sin exasperarnos, las reprensiones de
+                nuestros superiores cuando vemos que las dicta la razón, el deseo de nuestro bien y
+                el amor que nos tienen; pero jamás escuchamos sin despecho las que nacen de un
+                espíritu caustico, de un genio insufrible, agitado de la cólera, y que se dirigen a
+                mortificar nuestro amor propio, más porque son de carácter tan enfadoso que no puede
+                estar contentos ni aun consigo mismos, que porque nos aman y anhelan nuestra
+                felicidad. Siempre nos es repugnante vernos reprendidos y mortificados, aunque sea
+                con razón; por lo mismo es necesario acompañar las correcciones con alguna dulzura
+                que nos las haga apreciables, sin excitar en nosotros otro efecto que la aversión al
+                vicio y el amor a la virtud. Si reflexionamos un poco sobre el particular,
+                hallaremos dentro de nosotros mismos el fondo de esta verdad. El que se vea
+                precisado a corregir a otro se ha de poner en el lugar de aquel a quien corrige, y
+                considerando la distancia y circunstancias que median entre los dos lo ha de hacer
+                de aquel modo que él mismo pueda persuadirse interiormente que producirá el efecto
+                que desea. Esta regla se ha de observar con todos, y especialmente con los niños, y
+                mucho más con aquellos que por su calidad llegarán algún día a mandar a muchos
+                hombres. Si el ayo o maestro que cuida de su educación es de genio irritable y
+                colérico, y lejos de moderarlo al reprender a su alumno le habla siempre con la
+                aspereza propia de su carácter, en vez de lograr su corrección le formará un corazón
+                duro, áspero, pronto a abandonarse al furor, y cuando sea adulto y se conozca
+                superior a los que lo rodean, lejos de tratarlos con humanidad, considerando que en
+                el orden de la naturaleza todos somos iguales y que la diferencia sólo consiste en
+                la más o menos fortuna con que se nace, los tratará del mismo modo que con él lo
+                hacía la imprudencia de su ayo. ¡Qué atentos deben estar siempre los padres de
+                familia para que los encargados de la educación de sus hijos no les inspiren
+                semejantes sentimientos! La virtud es suave, dulce, amable; con suavidad, con
+                dulzura, con cariño se ha de inspirar.</p>
+               <p>La tía de Carlota, que no conocía la importancia de estas máximas, dejándose
+                arrebatar de su genio colérico y furioso siempre reprendía a su sobrina con la mayor
+                aspereza, al paso que quería hacerla humilde y virtuosa. Carlota tenía, al morir sus
+                padres, unos diez años, y era un prodigio de hermosura y de candor. Las
+                extravagancias y ridiculeces de su tía iban rápidamente pervirtiendo sus
+                inclinaciones, y sobre todo excitando en ella un insaciable deseo de su libertad, a
+                que da lugar la excesiva opresión y rigor. Llegó con esta educación a los catorce
+                años, siendo cada día más bella, pero menos ingenua y cándida. Aunque la tía era de
+                aquellas mujeres que hacen consistir su virtud en ser poco sociables, no dejaba
+                alguna vez de ir a visitar a algunas de sus antiguas amigas con su sobrina. En una
+                casa de éstas vio a Carlota un brigadier, joven, de gallarda presencia y rico. Quedó
+                admirado de su exterior compostura y graciosa belleza. Sin embargo de que no pudo
+                hablarle particularmente, ni aun se atrevió a significarle con alguna indirecta su
+                sorpresa, porque le era bien notorio el genio raro de su tía, con todo no dejó, a
+                hurto de ésta, de dirigirle alguna de aquellas penetrantes miradas que a veces
+                suelen demostrar, más que las mismas palabras, los internos sentimientos. Carlota,
+                aunque de corta edad, era sumamente advertida, y no dejó tampoco de conocer alguna
+                inclinación en el brigadier, a que correspondió con bastante disimulo y modestia,
+                impelida del anhelo que tenía de librarse de las extravagancias de la tía. Nada notó
+                ésta de la muda y recíproca demostración que los dos se hicieron casi al mismo
+                tiempo, estimulados de igual afecto. Se despidieron tía y sobrina de la visita, y el
+                brigadier les tributó aquellos simples obsequios que exige la cortesanía. Carlota se
+                retiró con una cierta pena interior, y el brigadier quedó no menos agitado y
+                confuso.</p>
+               <p>Al momento comenzó a discurrir medios que le facilitasen hablar a Carlota, para poder
+                manifestarle el amor que a primera vista había excitado en su corazón. Pero el genio
+                ridículo de la tía, que sólo permitía frecuentar su casa a gentes antiguas que tenía
+                bien conocidas, y muy pocas veces que aun éstas viesen a su sobrina, le hacía cada
+                día encontrar más inconvenientes. Como el amor se aviva y crece cuantos más
+                obstáculos tiene que vencer, al paso que el brigadier hallaba más impedimentos que
+                superar conocía que en su corazón su aumentaba la vehemencia de su pasión. Carlota
+                igualmente, desde el punto que lo vio, sentía en el suyo una continua y penosa
+                agitación, que ni aun se mitigaba con una ligerísima esperanza. Después de haber
+                pasado algunos días, no hallando el brigadier modo para hablar a Carlota, se dedicó
+                a pasear su calle, por si lograba verla alguna vez en los balcones. Infructuosamente
+                practicó esta diligencia bastante veces, pues la tía, siempre atenta al recogimiento
+                de Carlota (aunque con imprudencia), no la dejaba ni aun asomarse a las ventanas que
+                daban a la calle. Crecía el desconsuelo del brigadier, viendo cada día más remota la
+                esperanza de poder manifestar a Carlota sus amorosos sentimientos. No menos se
+                afligía ésta considerando la imposibilidad de volver a ver a aquel joven que tanto
+                había interesado su corazón, y las penas que tenía que sufrir bajo la rigurosa
+                potestad de su tía. Cuando estaban ambos sumergidos en su dolor, y menos
+                esperanzados de verse, lograron esta dicha en la misma visita que antes, y aunque
+                con bastante disimulo se dieron a entender recíprocamente el amor que alimentaban en
+                sus corazones. El brigadier, que era hombre de ingenio, sumamente apasionado a la
+                poesía dramática, y poseía el arte y gracia de bien hablar, con que brillaba en las
+                concurrencias, hizo recaer la conversación sobre el inmortal Metastasio, que
+                entonces se hallaba tan justísimamente aplaudido en Viena. De aquí tomó pie para
+                alabar sus composiciones dramáticas, los rasgos sublimes de elocuencia y de virtud
+                que se hallan en ellas, los delicados pensamientos, las vivísimas pinturas de las
+                pasiones, los razonamientos enérgicos y nerviosos, la sublime virtud de sus
+                personajes, sus situaciones interesantes, sus vuelos pindáricos, sus gracias
+                anacreónticas y cuantas bellezas adornan sus melodramas. Para venir a su intento,
+                con disimulo recitó algunos pasajes sublimes de La Clemencia de Tito, del Atilio
+                Régulo, de La gran Cenobia, del Temistocles y de otros, y finalmente dijo así:
+                «Sobre todo me encanta la dulzura y precisión de este poeta para expresar la fuerza
+                de un sentimiento; nunca dice más palabras que aquellas que se necesitan para
+                explicarlo, y a veces en cuatro o cinco versos dice más que otros en una larga
+                relación. Cuando en el Demofoonte desembarcan a tierra Creusa y Querinto, no hay
+                cosa que iguale a la ternura de su diálogo. Pregunta la princesa a Querinto la causa
+                de hallarlo triste en Creta, cuando no lo había estado en Frigia. Resiste Querinto a
+                manifestarle el motivo de su pena; enójase Creusa, dándole a entender que es por
+                desconfianza; Querinto quiere hablar, pero el temor y respeto se lo impiden; Creusa,
+                con palabras de resentimiento y algo irónicas, le obliga a romper el silencio, y al
+                fin Querinto, temiendo disgustarla, agitado de su pasión dice así:</p>
+               <p>«Hablaré, no te enojes. Paz no tengo; </p>
+               <p>tú eres quien me la roba. </p>
+               <p>Tu bello rostro adoro, </p>
+               <p>sé que lo adoro en vano, </p>
+               <p>y me siento morir: he aquí el arcano» </p>
+               <p>Dijo el brigadier estos versos con la mayor expresión y ternura; dirigió al mismo
+                tiempo una mirada penetrante a Carlota; y ella, percibiendo enteramente el objeto a
+                que todo se encaminaba, le dio a entender, lo más que pudo, que no sería su amor en
+                vano. El brigadier prosiguió, sin detenerse, su conversación, haciendo con ingenioso
+                artificio comprender más a Carlota la viveza de su tierno amor. En fin, después de
+                algún tiempo se concluyó la visita, sin que nadie conociese ni aun sospechase la
+                menor cosa, y cada uno de los concurrentes se retiró a su casa, como hicieron
+                igualmente Carlota y su tía.</p>
+               <p>Procuró Carlota disimular, hasta en su semblante, la agitación y sobresalto de su
+                corazón, hasta que retirándose a su lecho pudo con libertad dar algún desahogo a su
+                dolor. Considerando las bellas prendas del brigadier, las gracias y atractivos de su
+                conversación, el amor que le había manifestado ingeniosamente, el genio raro y
+                caprichoso de su tía y su continuo encierro, que se oponían a que pudiese fundar aun
+                la más ligera esperanza de conseguir sus deseos, no podía contener sus lágrimas ni
+                reprimir sus suspiros. Un confuso tropel de ideas asaltaba su agitada imaginación; y
+                para mitigar algún tanto la opresión de su corazón decía entre sí de este modo:</p>
+               <p>«¡Que mi desgraciada suerte haya presentado ante mis ojos al brigadier! Ay, Dios, ¿no
+                hubiera sido mejor no haberlo visto jamás? ¡Qué dulzura, qué gracia tiene en la
+                conversación! ¡Qué prendas personales lo hacen amable! ¡Con qué arte, con qué
+                sutileza me ha significado los tiernos sentimientos de su corazón! Sin duda alguna
+                me ama; su semblante manifestaba su interna agitación. Yo me consideraría feliz si
+                lograse vivir en su amable compañía el resto de mi vida. Pero, ¡ay de mí!, no es
+                posible que yo consiga tanta ventura. El Cielo sabe cuándo volveré a verlo. Las
+                extravagancias de mi tía son tan públicas que nunca se atreverá a venir a esta casa.
+                Si no nos podemos ver ni hablar, ¿cómo es fácil que tengan consuelo mis pesares? Yo
+                viviré continuamente al lado de esta mujer ridícula, que me hará consumir de
+                tormento y pena; y mi amable brigadier se olvidará de mí, no pudiendo verme jamás ni
+                explicarme su amorosa pasión. ¿Qué deberé hacer en tan amarga confusión? ¿Podré
+                hallar algún medio para ver a este gracioso joven, para manifestarle... Pero, ¡qué
+                digo! ¿Es acaso propia de una mujer de mis circunstancias esta manera de pensar? El
+                deseo de la libertad, el anhelo de separarme del lado de una tía tan caprichosa,
+                ¿puede hacerme olvidar aquellos sabios consejos que incesantemente me daban mis
+                venerados padres? No, Carlota, no. Aunque vivo tan mortificada, aunque el trato que
+                me da mi tía es bastante para excitar en mí un género de despecho que me guíe a la
+                desesperación, yo debo proceder siempre como quien soy, prefiriendo las penas que
+                estoy sufriendo al deshonor que me resultaría de obrar sin prudencia, arrebatada de
+                una ciega pasión».</p>
+               <p>Así discurría Carlota consigo misma; y a pesar del genio raro de su tía, que tanto la
+                atormentaba, el recuerdo de las sabias lecciones de sus padres contenía los impulsos
+                de su amor. Aquí se ve cuánta fuerza tienen en el corazón humano las primeras
+                impresiones, pues sin embargo de que el bárbaro sistema que observaba la tía en la
+                educación de Carlota iba extinguiendo en ella las prudentes y virtuosas máximas
+                inspiradas por la que le habían dado sus difuntos padres, con todo aun eran capaces
+                de contener sus excesos.</p>
+               <p>El brigadier, más encantado de la suma belleza de Carlota, y lisonjeado de obtener su
+                correspondencia, padecía el más insufrible dolor porque no hallaba medio para
+                tratarla. Procuró buscar algún conducto para introducirse en su casa, pero el
+                carácter de la tía le tenía cerradas las puertas. Crecía su desesperada confusión, y
+                la misma imposibilidad que hallaba aumentaba más sus vivos deseos. Como el amor es
+                atrevido y sutil, al fin, a fuerza de indagaciones, encontró un medio que le
+                facilitó cuanto anhelaba. Tenía la tía de Carlota un criado antiguo muy sagaz; éste,
+                conociendo el genio de su ama, había podido captar su voluntad aparentando ser muy
+                virtuoso, y de este modo había logrado su total confianza. El manejaba sus caudales,
+                disponía de cuanto había en la casa y era el único a quien permitía la señora tratar
+                a Carlota. Con mañosa sutileza obraba en todo según el genio y gusto de su ama.
+                Hipócrita sin igual, iba con tía y sobrina a la iglesia; allí de rodillas mucho
+                tiempo oraba, al parecer con el mayor fervor; en su casa estaba siempre leyéndoles
+                libros devotos, dando a Carlota muy serios consejos y a veces reprendiéndola
+                agriamente como hacía la tía, lo que era para ella de la mayor complacencia. Cuando
+                podía obrar secreta e impunemente y dejar correr sus malas inclinaciones, era hombre
+                indigno y vicioso. El interés lo dominaba, y sólo por el que le resultaba servía a
+                su ama con tan aparente celo y virtud, sufriendo con una paciencia excesiva sus
+                muchas impertinencias y ridiculeces. El genio de esta señora, para todos áspero y
+                duro, era la causa de que su criado fuese tan disimulado e hipócrita, porque sólo de
+                este modo podía subsistir en su casa y granjear su favor. Lo mismo que sacan los
+                padres tratando a sus hijos siempre con rigor, sacan los amos que tratan a sus
+                criados con aspereza. El interés, y no el amor, les hace aparentar el mayor afecto y
+                celo en servirlos, pero cuando pueden se vengan de los ultrajes que reciben, porque
+                falta en ellos la lealtad y cariño que se granjean aquellos amos que, lejos de
+                engreírse viéndose colocados por la fortuna superiores a sus domésticos, compadecen
+                el abatimiento a que los obliga la necesidad, y sin perder cosa alguna de su
+                autoridad los tratan con humanidad y beneficencia.</p>
+               <p>El brigadier halló en el criado de la tía de Carlota el conducto más seguro y fácil
+                para conseguir sus deseos. El oro, causa de tantos desastres, injusticias y maldades
+                en el mundo, conquistó el corazón de este criado, y lo obligó a cooperar a los
+                inicuos deseos del brigadier. Éste lo buscó, y regalándole antes cien doblones le
+                manifestó el amor que profesaba a Carlota y sus vivos deseos de verla a pesar de la
+                vigilancia de su tía. Como Bernardo (así se llamaba el criado) poseía la confianza
+                de su ama y estaba tenido por ella en el más alto concepto, no encontró la menor
+                dificultad en prestarse a las intenciones del brigadier, y olvidado de la obligación
+                que tiene un criado de ser fiel a sus amos le prometió hacer cuanto le fuese posible
+                en su favor. Discurrieron entre ambos el medio de comunicar a Carlota sus
+                pensamientos, y como el brigadier estaba ya bastante lisonjeado de obtener su
+                correspondencia, resolvió escribirle un papel declarándole su amor, y que Bernardo
+                se lo entregase, manifestando a éste que sus intenciones eran dirigidas a los fines
+                más honestos. Con efecto, se convinieron en hacerlo así, y el brigadier escribió a
+                Carlota un papel diciéndole que desde que la había visto en la visita no había
+                tenido un momento de sosiego, que su amor era verdadero y que sus deseos se dirigían
+                únicamente a contraer matrimonio, si creía que esta unión podría formar su felicidad
+                y si lo consideraba digno de obtener su mano, con otras muchas y tiernas expresiones
+                que ni remotamente manifestaban en el brigadier otras intenciones que las que
+                permiten la Religión y la modestia y son propias de los hombres timoratos y
+                honestos.</p>
+               <p>Entregó Bernardo este papel a Carlota, y creyendo ésta que las expresiones del
+                brigadier eran sinceras, que el admitir la proposición que le hacía no se oponía de
+                ningún modo a su virtud, y que por su calidad y circunstancias era un caballero que
+                le convenía, sorprendida de gozo dio repetidas gracias a Bernardo y le rogó muy
+                encarecidamente que guardase secreto y que concluyese la obra que había comenzado,
+                persuadiéndose de que sin su auxilio no podrían jamás tener efecto sus honestos
+                deseos. Bernardo le prometió cooperar a ellos en cuanto pudiese, manifestándole que
+                nada le interesaba más que verla colocada como merecía por sus prendas recomendables
+                y su ilustre calidad, aunque realmente toda su oficiosidad era nacida de su interés
+                propio, por lo que le había regalado el brigadier y por lo que esperaba que aun le
+                regalaría. Con esta misma idea rogó a Carlota que contestase al brigadier y que lo
+                hiciese luego, supuesto que su tía estaba en misa y tenía entonces lugar. La
+                inocente Carlota, que todavía no tenía edad para precaver los engaños de los hombres
+                ni conocer los medios de que se valen para ocultarlos, creyó que no podría ser falaz
+                el corazón del brigadier y que desde luego debía demostrarle su fina
+                correspondencia, y así dijo a Bernardo: «Dadme vuestro recado de escribir ahora que
+                mi tía no está aquí, pues ya sabéis que desde que vine a esta casa no ha querido
+                absolutamente que tome la pluma en la mano. Aunque ha tanto tiempo que no escribo,
+                no se me ha olvidado todavía. Despachaos, amado Bernardo, y pondré dos letras al
+                brigadier, cuya carta le entregaréis para su consuelo y el mío».</p>
+               <p>Fue Bernardo corriendo y le trajo recado de escribir; tomó la pluma Carlota, y
+                agitada de mil diversos sentimientos escribió estos renglones:</p>
+               <p>«Señor, no es fácil que pueda yo explicaros con la pluma todos los sentimientos de
+                amor y gratitud que han excitado en mi corazón las tiernas expresiones de vuestra
+                carta. Sólo puedo deciros, porque me estrecha el tiempo, que no me amáis en vano,
+                como ingeniosamente me disteis a entender en la última visita, si son tan honestos,
+                como decís, vuestros deseos. Los míos se encaminan al mismo fin. Pensad bien en
+                ello; y si enteramente os resolvéis, contad con el fino amor y correspondencia de
+                vuestra servidora Carlota».</p>
+               <p>Apenas cerró la carta la dio a Bernardo, y quitó éste el recado de escribir, cuando
+                sintieron que venía de misa la tía de Carlota; y aunque quería encargarle dijese a
+                su amado brigadier muchas cosas, sólo pudo recomendarle encarecidísimamente que le
+                entregase la carta lo más pronto que fuese posible, cuya diligencia ofreció hacer
+                Bernardo con la mayor eficacia y prontitud.</p>
+               <p>Cuando entró la tía en el cuarto de Carlota halló a ésta con su labor, y a Bernardo
+                leyendo un libro devoto en voz alta y con tono místico, de lo cual se alegró mucho
+                la señora, creyendo que sólo en aquello se habían ocupado durante su ausencia. Véase
+                aquí cómo el rigor y la aspereza sólo producen hipócritas y disimulados, los cuales
+                hacen más daño que los más perversos, porque de éstos podemos guardarnos y
+                precavernos y de aquéllos no; antes bien, creyéndolos por la apariencia hombres
+                virtuosos, nos fiamos de ellos, y cuando menos lo pensamos nos hallamos vendidos y
+                engañados. ¡Ah, maldita hipocresía! ¡Cuántas ruinas ha causado y causará en el
+                mundo! No están seguros de sus astucias el honor de la doncella, la honestidad de la
+                casada, la confianza de un amigo, la estimación de un amo ni los vínculos más
+                preciosos que unen a los hombres en sociedad. Todo lo trastorna, todo lo arruina,
+                sin que baste para contener sus ímpetus perniciosos la más prudente precaución, como
+                aquellas inundaciones súbitas y nocturnas que, cogiendo descuidados a los infelices
+                pastores, durmiendo tranquilamente en sus pobres lechos, se llevan tras sí las
+                miserables cabañas en que reposan al abrigo de las inclemencias del cielo. Así
+                acometen los hipócritas, destruyendo con sus asechanzas cuanto se les pone delante,
+                siempre que pueden hacerlo en secreto e impunemente. ¡Ah, cómo debemos estar
+                vigilantes en el curso de la vida para tratar con los hombres y fiarnos de ellos! El
+                estudio del corazón humano es el más necesario de todos, pero particularmente en los
+                que han de mandar algún día a los otros. Sin este estudio, en vano procurarán
+                formarles el corazón y querer que sean sabios; todo será inútil si no conocen a los
+                hombres para saber confiar o desconfiar de ellos, cómo y en qué circunstancias, y
+                precaver con prudencia los muchos daños que resultan de la falta de esta ciencia,
+                sin la cual ninguno ha llegado a ser verdaderamente sabio. Quien lo sea no dará
+                lugar a que los que lo sirven y rodean sean fingidos y disimulados. Su trato afable
+                y compasivo los hará ingenuos y sencillos, su amor a la verdad los hará francos y
+                poco lisonjeros. Quien sabe compadecer las flaquezas de los otros encuentra quien se
+                las confiese sin temor; quien gusta de oír la verdad desnuda halla quien se la diga
+                sin adulación. Nosotros mismos somos la causa de que nos engañen, de que nos oculten
+                la verdad, de que nos adulen; y mientras no nos dediquemos atentamente a conocer a
+                los hombres, a tratarlos como nosotros quisiéramos que nos tratasen en iguales
+                casos, nos expondremos a cada paso a los riesgos más inevitables. Los brutos se
+                amansan con el rigor y la aspereza; los hombres se sujetan con la razón y la
+                prudencia.</p>
+               <p>Luego que pudo Bernardo salir de su casa, fue a buscar al brigadier y a entregarle la
+                carta de Carlota. Éste la recibió y leyó con tanto júbilo que, no hallando
+                expresiones para significar a Bernardo su gratitud, le dio un reloj de repetición en
+                premio de su buena diligencia. Después de haber leído y releído la carta, arrebatado
+                de la mayor alegría le preguntó varias cosas acerca de la complacencia con que
+                Carlota había recibido su papel. A todas satisfizo completamente Bernardo, y
+                comenzaron a tratar sobre el medio que tomarían para ver a Carlota sin que su tía
+                pudiese notarlo. No dejaba el criado de hallar muchos inconvenientes que vencer para
+                conseguirlo, pero al fin, atropellando con todos y estimulado del maldito interés,
+                discurrió el modo de facilitar al brigadier cuanto deseaba. Aunque la tía tenía la
+                precaución de que su sobrina durmiese sola en un cuarto al que se entraba por su
+                misma alcoba, se acordó Bernardo de que había una ventana con su vidriera que caía a
+                otro cuarto, del cual tenía él la llave porque custodiaba en él algunos géneros y
+                comestibles para el consumo de la casa. Esta proporción, y la casualidad de dormir
+                sola Carlota porque su tía no quería que la acompañase ninguna criada, abrió camino
+                al perverso Bernardo para facilitar que los dos amantes se viesen por la noche sin
+                que persona alguna de la casa pudiese penetrarlo. Como toda la familia se recogía en
+                sus dormitorios respectivos a las diez de la noche, y Bernardo era el único
+                encargado de vigilar sobre esto y cerrar todas las puertas, no encontró obstáculo
+                que pudiese embarazar la ejecución de tan pérfidas ideas. Con efecto, quedaron
+                acordes Bernardo y el brigadier en la hora en que debía ir a casa de Carlota y en el
+                modo como se habían de ver y hablar, por cuya oficiosidad le repitió el brigadier
+                las más expresivas gracias y ofrecimientos, y se separaron.</p>
+               <p>Al punto que pudo Bernardo hablar a Carlota la instruyó de cuanto había meditado para
+                que pudiese hablarle su amante aquella noche, y de todo lo demás que había ocurrido.
+                Sin embargo de que Carlota tenía mucho temor a su tía, conociendo que de la manera
+                que lo había dispuesto Bernardo no había peligro de que su tía lo llegase a saber,
+                condescendió muy gustosa en todo. Bernardo quitó la vidriera del cuarto de Carlota y
+                preparó cuanto era necesario para que pudiesen hablarse por la ventana. Recogiéronse
+                todos los de la casa a las diez de la noche como acostumbraban, y a las diez y
+                media, conociendo Bernardo que estaban ya dormidos, abrió una puerta excusada (donde
+                ya en virtud de la cita lo esperaba el brigadier), y lo condujo hasta el cuarto por
+                donde había de hablar a Carlota.</p>
+               <p>Hicieron la seña acordada y Carlota se asomó a la ventana. El brigadier, lleno de
+                gozo, le manifestó la fuerza de su amor, las penas que había padecido desde el
+                instante que la había visto, su excesivo júbilo y complacencia de haber podido
+                lograr, a pesar de tantos inconvenientes, la ocasión de hablarle, diciéndole además
+                cuantas expresiones le sugería su vehemente pasión. Carlota, aunque algo
+                sobresaltada, correspondió a sus finezas con toda aquella ternura e ingenuidad de
+                que es capaz un corazón sensible enamorado. En varios y afectuosísimos coloquios
+                pasaron los dos amantes hasta más de las doce de la noche, en que, temerosos de que
+                alguno de la casa pudiese sentirlos, se separaron con muchas lágrimas, repitiéndose
+                mutuamente sus ternuras y promesas y quedando citados para la noche siguiente.
+                Bernardo condujo al brigadier hasta la puerta por donde había entrado, y después de
+                cerrarla se retiró a su cuarto sin que nadie advirtiese la menor cosa.</p>
+               <p>Causó el mayor dolor al brigadier el separarse de su amada Carlota, y no menor fue el
+                que padeció ésta cuando se quedó sola. Reclinada en su lecho, al paso que estaba
+                llena de gozo por haber logrado la suerte de ver y hablar a su amante, no dejó de
+                derramar lágrimas y exhalar suspiros hasta que la venció el sueño. Tampoco disfrutó
+                del sosiego mientras durmió. Excitáronse en su fantasía un tropel de ideas que la
+                tuvieron inquieta toda la noche. Cuando despertó por la mañana se sintió fatigada de
+                luchar con tantas imaginaciones, pero procuró hasta en su semblante disimular su
+                interna agitación, para no dar el menor motivo de sospechar a su tía.</p>
+               <p>A la noche siguiente volvió el brigadier a ver a Carlota a la misma hora y en el
+                mismo paraje de la anterior, conducido por Bernardo. Se repitieron mutuamente las
+                expresiones más afectuosas y cariñosas promesas, haciendo el brigadier los mayores
+                esfuerzos para persuadir a su querida Carlota de la sinceridad y constancia de su
+                amor. No menos fina y afectuosa se manifestó Carlota, y con repetidas lágrimas y
+                suspiros se separaron a una hora proporcionada.</p>
+               <p>Así continuaron algunas noches, pasándolas en amorosos y tiernos coloquios. Trataron
+                largamente sobre su casamiento y el modo de ejecutarlo a la mayor brevedad; pero
+                manifestando Carlota alguna desconfianza a su amante, éste le llevó un papel en que
+                le ofrecía ser su esposo. Lo que pareció a Carlota un efecto del excesivo e ingenuo
+                amor del brigadier era de su malicia y perversa intención, pues cuando se camina con
+                engaño siempre se promete mucho, porque no hay ánimo de cumplirlo. Así lo hacía el
+                brigadier en su papel, llevando la inicua idea de seducir a Carlota con la fuerza de
+                sus ofrecimientos.</p>
+               <p>La misma noche que le dio el papel le hizo las más eficaces instancias para que le
+                permitiese entrar por la ventana a su cuarto. Carlota, aunque niña, ciega y
+                apasionada, no dejó de penetrar las malas resultas que podía traer su
+                condescendencia y no quiso consentirlo de ningún modo, manifestándole que aun no era
+                su esposo y que una mujer de sus circunstancias no debía permitir al que no lo fuese
+                semejante libertad, con que exponía su honor al mayor riesgo. Insistió el brigadier
+                en su solicitud, pero no pudo vencer la resistencia de Carlota. Aunque su amante
+                sintió vivísimamente esta repugnancia, procuró disimularlo para no darle sospechas
+                de que sus intentos eran poco rectos, esperanzado de que la continuación de sus
+                súplicas, sus repetidas lágrimas y tiernas expresiones llegarían a vencer su
+                obstinación.</p>
+               <p>A la noche siguiente repitió sus instancias, pero nada consiguió con la ternura y el
+                llanto. Viendo que por estos medios no lograba sus inicuos designios, tomó el
+                partido de manifestarse resentido a Carlota de su desconfianza, atribuyéndola a poco
+                amor, y así con un género de enojo se despidió de ella, dejándola anegada en un mar
+                de confusiones. Carlota, apasionada ciegamente del brigadier y poco experimentada de
+                los engaños y cautelas que usan los hombres para seducir la inocencia y la virtud,
+                se afligió excesivamente, creyendo que su amante enojado no volvería a verla. Todo
+                el resto de la noche lo pasó llena de sobresaltos y penas, y se aumentaron más éstas
+                viendo que al otro día por la noche no parecía su brigadier. Éste, siguiendo en sus
+                pérfidas ideas, no quiso ir a verla como acostumbraba, para dar más bien a entender
+                a Carlota que estaba sumamente resentido de su repugnancia. La pobre joven, confusa
+                y angustiada, no pudo sosegar en toda aquella noche; por una parte se reprendía a sí
+                misma su obstinación: por otra, conociendo el peligro que la amenazaba, se exhortaba
+                a perseverar en ella a pesar del resentimiento de su amante; pero al fin, después de
+                varias reflexiones, juzgándose capaz de resistir a cualquiera acción poco honesta
+                que pudiese intentar el brigadier, estimulada de su ciego amor, deseosa de librarse
+                de la esclavitud en que la tenía su tía y temerosa de perder el amor del brigadier,
+                casi resolvió condescender con su solicitud, no considerando que jamás debemos
+                exponernos a los peligros por más que nos creamos con fuerzas para superarlos.</p>
+               <p>Luego que se levantó y pudo hablar a Bernardo, le manifestó sencillamente lo que
+                había pasado con el brigadier, sus dudas, sus confusiones y sus penas, y le pidió
+                consejo sobre lo que debía hacer. El pérfido criado, que estaba seducido y advertido
+                por el brigadier, sin temor al Cielo le aconsejó que le permitiese entrar en su
+                cuarto, respecto de que tenía en su mano la seguridad de que sería su esposo, y que
+                no convenía manifestarle desconfianza ni darle motivo para que, resentido de su
+                resistencia y creyéndola efecto de poco amor, no volviese a verla y la dejase
+                abandonada a los rigores y caprichos de su tía. La constancia de la incauta Carlota,
+                que ya estaba vacilante, acabó de arruinarse con tan depravado consejo, y llena de
+                lágrimas rogó a Bernardo fuese a buscar a su amante y lo obligase a que aquella
+                noche viniese a verla, asegurado de su tierno amor y de que deseaba complacerlo en
+                todo cuanto le permitiese su honor. Así sucede frecuentemente a las almas débiles
+                cuando se aconsejan de gentes perversas, que aprovechándose de su flaqueza les
+                inspiran sentimientos indignos y las inclinan a cometer atentados y maldades y a
+                caer en los más peligrosos precipicios. ¡Cuánto debemos examinar la conducta e
+                inclinaciones de las personas a quienes hemos de pedir consejo, particularmente en
+                aquellos asuntos que tocan a nuestro honor y reputación! ¡Cuánto debemos alegrarnos
+                de tener hombres ingenuos, incapaces de inspirar pensamientos inicuos y de ocultar
+                la verdad, a quienes poder consultar en materias graves que conspiran a nuestro bien
+                y buena fama! Todos debemos desear hallarnos rodeados de amigos fieles, de hombres
+                llenos de probidad, para tomar de ellos consejo cuando nos vemos en algún lance de
+                honor y no nos atrevemos a resolver por nosotros mismos, temerosos de errar; pero,
+                ¡cuánto más deben desearlo los que nos mandan y gobiernan, persuadidos de que sus
+                aciertos o yerros dependen las más veces del bueno o mal consejo de aquellos que
+                tienen destinados para que los informen de los negocios y les adviertan lo
+                mejor!</p>
+               <p>El perverso Bernardo, aprovechándose de la debilidad de la joven Carlota y deseoso
+                (por su propio interés) de complacer al brigadier, fue a buscarlo al punto que halló
+                oportunidad y le refirió cuanto le había pasado con Carlota y lo que le había
+                aconsejado. Lleno de gozo el brigadier con aquellas noticias que le facilitaban el
+                logro de sus malvados designios, repitió regalos y gracias a Bernardo, y quedaron
+                acordes en que iría aquella misma noche a ver a Carlota a la hora acostumbrada.
+                Volvió el criado a su casa y atemperó la amargura de su señorita diciéndole que ya
+                quedaba su amante desenojado, y deseando que llegase la noche para ir a verla.
+                Aunque Carlota deseaba lo mismo, con todo no dejó de tenerla un poco agitada la
+                consideración de que se exponía mucho permitiendo entrar en su cuarto al brigadier;
+                mas el excesivo amor que le tenía triunfó de sus temores y dudas.</p>
+               <p>En fin, llegó la noche, y Bernardo, siguiendo en su perniciosa oficiosidad, introdujo
+                como las anteriores al brigadier hasta el cuarto opuesto al de Carlota. Sobresaltóse
+                ésta al oír la seña para que se asomase a la ventana, pero el anhelo de ver a su
+                amante la condujo a ella como a su pesar. Es indecible el gozo que ambos recibieron
+                al llegar a hablarse. El brigadier, que ya iba sobre sí y enterado por Bernardo de
+                las demostraciones de Carlota, comenzó a hablarle con la más penetrante ternura y
+                expresión. Carlota correspondió con la mayor dulzura a sus finezas, y de aquí tomó
+                pie el brigadier para repetir sus instancias, suplicándole muy encarecidamente le
+                permitiese entrar por la ventana en su aposento. Carlota se resistió al principio,
+                manifestándole que su tía podía sentir algún ruido, levantarse de su lecho y
+                cogerlos de sorpresa; pero viendo que su amante volvía a tomar un aire de enojo y
+                resentimiento cedió a sus importunaciones. Como la idea del brigadier era muy
+                diferente de la que creía la incauta Carlota, luego que entró en el aposento
+                principió a tentar todos los medios de seducirla. Carlota, agitada y confusa, le
+                demostró su repugnancia con las razones más convincentes; el brigadier, con
+                repetidos ofrecimientos y promesas, hacía los mayores esfuerzos para vencerla, y al
+                fin, después de un largo contraste y de muchas lágrimas, se rindió a la voluntad de
+                su amante. A una hora regular se separaron, y quedaron convenidos en volverse a ver
+                en el mismo paraje a la noche siguiente.</p>
+               <p>Apenas se retiró el brigadier cuando Carlota, considerando el horror de su delito, se
+                deshizo en lágrimas y suspiros; pero la esperanza, o por mejor decir la seguridad
+                que ella concebía de que sería su esposo, como le había ofrecido con repetidos
+                juramentos, mitigó algún tanto la vehemencia de su dolor. Sin embargo, cuando se
+                presentó por la mañana a su tía fue necesario que se armase de toda su constancia
+                para no darle a entender en su semblante el rubor que le causaba su mismo crimen.
+                Éstas son las consecuencias funestas del delito: el que lo comete, aun cuando sea en
+                secreto, juzga que todos los que lo miran leen en su rostro su maldad, y el mismo
+                remordimiento le hace confundirse a vista de las gentes. ¡Infeliz el que a fuerza de
+                la costumbre y repetición de culpas no siente este desasosiego interior al
+                considerarlas!</p>
+               <p>Así le sucedió al brigadier, cuyo corazón, con su misma relajación de vida y
+                costumbres, se había hecho insensible a estos internos impulsos. Por esta razón,
+                lejos de reflexionar el daño que había causado a su incauta amante, volvió la noche
+                siguiente a verla y a multiplicar sus excesos, seducido de la pasión más torpe.
+                Mientras se mantuvo ésta en su vigor fueron añadiendo delitos a delitos a la sombra
+                del pérfido Bernardo, que por su particular interés manifestaba tener complacencia
+                en ser cómplice en ellos. Después de que por bastante tiempo sació el brigadier sus
+                inicuos apetitos, comenzó a discurrir medios para separarse de la infeliz Carlota,
+                víctima deplorable de sus engaños y cautelas. Para que no sospechase ella mutación
+                alguna en su falso amor, compuso con el Ministro de Guerra, amigo suyo, sin
+                revelarle la causa, que lo enviase fuera de Viena a evacuar una comisión del Real
+                servicio. Con este pretexto se despidió de Carlota, manifestándole el mayor
+                sentimiento por aquella inopinada ausencia, y derramando copiosas lágrimas como en
+                señal de su excesiva pena. Carlota lo acompañó en el angustioso llanto, lamentándose
+                de la miserable suerte que los separaba, pero no sospechando en manera alguna las
+                falsedades de su amante. Al fin se separaron ambos dándose las más seguras pruebas
+                de su tierno amor y protestando mutuamente que jamás se olvidarían. Sin embargo de
+                que Carlota no creía capaz al brigadier de usar con ella una infamia, desde el mismo
+                instante en que se despidieron empezó a sentir en su corazón una continua pena que
+                no le dejaba un momento de reposo. Hacía los mayores esfuerzos para no abandonarse a
+                una profunda melancolía; pero por una parte la ausencia de su querido amante, y por
+                otra no sé qué impulso secreto (sin duda presagio de su desventura) la tenían
+                sumamente inquieta. El brigadier, siguiendo en su idea de engañar a la infeliz
+                Carlota, le escribió desde el pueblo a donde fue a evacuar su comisión en los
+                términos más cariñosos, asegurándole que su dolor era insoportable por verse en
+                aquella amarga ausencia, y que esperaba con la mayor ansia el momento afortunado en
+                que poder lograr su hermosa mano. Carlota le contestó con toda la efusión de su
+                corazón, demostrándole las penas que realmente padecía; y en vez de ablandarse el
+                corazón del brigadier con las tiernas y afectuosas expresiones de la inocente
+                Carlota, se aumentaban en él los pérfidos sentimientos de dejarla entregada a su
+                rubor y perpetuo dolor.</p>
+               <p>Es imponderable el que padecía Carlota por la ausencia de su amante, con quien tenía
+                muy frecuente correspondencia, ingenua y sencilla por parte de ella, pero
+                artificiosa e inicua por la del brigadier. Aunque las expresiones fingidas de éste
+                mitigaban algún tanto su dolor, ya llegó el caso de que Carlota sintiese los efectos
+                de su flaqueza y conociese la vergüenza a que la había expuesto su condescendencia a
+                las pérfidas seducciones de su amante. La puso inconsolable, llena de rubor y
+                penetrada de los más crueles remordimientos este acontecimiento, que no había
+                previsto por su poca experiencia, y rodeada de las mayores confusiones y angustias
+                escribió al brigadier el vergonzoso estado en que se hallaba, el temor de que su tía
+                llegase a conocerlo, el ningún arbitrio que tenía para evitarlo y las ansias que en
+                tal lance padecía su acongojado corazón, recordándole sus repetidas promesas y
+                rogándole, con las expresiones más tiernas y llena de lágrimas, viniese a cumplirle
+                sus reiteradas palabras y a precaver su deshonor, ruina y desconsuelo.</p>
+               <p>Recibió esta carta el pérfido brigadier; ninguna compasión excitaron en su corazón
+                empedernido las angustias y desvelos de Carlota, ni sintió aquellos remordimientos
+                que debería tener por haber seducido la inocencia y triunfado de una joven que se
+                había confiado de sus promesas. Pero, conociendo que si no le contestaba de un modo
+                que no le hiciese desconfiar de su amor podría Carlota demandarlo en justicia,
+                valida del papel que le había dado, maquinó el medio de desarmarla, y con este fin
+                respondió a su carta en estos términos:</p>
+               <p>«Carlota mía, me sería muy sensible tu deplorable estado si no estuviese en mi mano
+                el remediarlo; pero consuélate, no te aflijas, pues hoy mismo salgo para esa ciudad.
+                Estaré ahí el próximo viernes; ten prevenido a Bernardo y aquella misma noche nos
+                veremos, y todo se dispondrá como desea tu fiel Eugenio».</p>
+               <p>Le dirigió esta carta como lo había hecho con las anteriores, por medio de un criado
+                suyo, el cual las daba a Bernardo, y éste cautelosamente a Carlota. Fue indecible el
+                gozo que ésta recibió al leer la carta de su amante, y como poco experta en los
+                engaños y falacias de los hombres libertinos creyó que muy prontamente se
+                desvanecería el deshonor que la amenazaba, y vería logradas sus esperanzas. Los
+                momentos se le hacían horas hasta ver a su brigadier. Llegó éste, con efecto, a la
+                ciudad el mismo día que le había ofrecido, y aquella misma noche, conducido por
+                Bernardo, fue a la hora acostumbrada a la casa de Carlota. Sobresaltóse mucho al oír
+                la seña desde la ventana de su aposento, y llena de alegría se asomó a ver a su
+                amante. Comenzó éste a hablarle, después de una breve suspensión, como nacida del
+                contento de volverse a ver, y a decirle las expresiones más tiernas. Carlota le
+                correspondía con toda la sencillez propia de su verdadero amor, y luego que en un
+                corto coloquio se repitieron mutuamente las pruebas de su constancia y fidelidad,
+                entró el brigadier por la ventana al cuarto de Carlota. Aunque no sin bastante
+                resistencia suya reiteró sus delitos el brigadier, asegurando a la incauta Carlota
+                que dentro de pocos días la sacaría de casa de su tía y sería su esposo. Volvió a la
+                noche siguiente con solo el objeto de añadir torpezas a torpezas para poder burlarse
+                mejor de Carlota. Como se había extinguido la pasión en el corazón del brigadier, y
+                no eran ya dictadas de ella las expresiones que decía a Carlota, empezó ésta a
+                sospechar alguna traición en él, aunque procuró disimular y tratarlo con la misma
+                franqueza y cariño que antes.</p>
+               <p>Para poder conseguir sus pérfidas intenciones el brigadier, creyendo que le sería
+                fácil engañar a Carlota le dijo que ya tenía dispuesto todo lo necesario para
+                efectuar su casamiento, que nada faltaba más que determinar el cómo y cuándo había
+                de sacarla de allí. A pesar de los recelos que tenía Carlota, no pudo imaginar que
+                tales razones fuesen fingidas y dirigidas a concluir su engaño; y así le respondió
+                que el modo era salirse por donde él entraba, supuesto que la ventana estaba tan
+                baja y proporcionada, y que lo ejecutaría la noche que él determinase. «Bien,
+                replicó el brigadier, después de mañana en la noche vendré yo, tú tendrás prevenido
+                cuanto hayas de llevar contigo y desde aquí nos iremos a casa de un cura que ya está
+                advertido de todo y nos desposará al momento, de modo que cuando tu tía comience a
+                hacer diligencias en tu busca ya serás públicamente mi esposa, sea con gusto suyo o
+                sin él. Consuélate, Carlota mía, que todo sucederá a medida de mi deseo, pues el oro
+                allana los caminos más ásperos, y nada puede oponerse a nuestra felicidad según las
+                precauciones que tengo tomadas».</p>
+               <p>Más asegurada Carlota con estas palabras le respondió: «Convengo en cuanto tú
+                dispongas. Mi mayor satisfacción es darte gusto. Pero, ¿no vendrás mañana en la
+                noche?»</p>
+               <p>«Ah, sí, preciso, porque no puedo vivir sin verte. Pero, ahora que me acuerdo,
+                ¿conservas las cartas que te he escrito?»</p>
+               <p>«No. El temor de que mi tía pudiese algún día hallarlas me hizo quemarlas, aunque a
+                costa de muchas lágrimas, porque en mi amarga soledad sólo leyéndolas encontraba
+                consuelo».</p>
+               <p>«Bien hecho. Me gusta esa precaución. ¿Has hecho lo mismo con el papel de casamiento
+                que te di?»</p>
+               <p>«No, lo guardo en parte muy oculta, como abulta poco».</p>
+               <p>«¿Adónde lo tienes, Carlota?»</p>
+               <p>«En el fondo de un baúl, extendido entre el forro».</p>
+               <p>«¿Y está aquí ese baúl?»</p>
+               <p>«No, está allá fuera. ¿Por qué lo preguntas?»</p>
+               <p>«Porque lo necesitaba precisamente para presentarlo al cura, a fin de que, viendo la
+                obligación que tengo hecha, no ponga el menor reparo en desposarnos al momento que
+                lleguemos a su casa». Conociendo Carlota que éste era un frívolo pretexto para
+                sacarle cautelosamente el papel, le dijo: «Mañana en la noche, cuando vengas, te lo
+                entregaré».</p>
+               <p>«Lo mismo es, replicó el brigadier. Así haré lo vea el cura después de mañana, y
+                cuando tú salgas de aquí ya estará todo corriente».</p>
+               <p>Después de tratar otras varias cosas relativas a este particular, se retiró el
+                brigadier protestando a Carlota, con las expresiones más enérgicas, el desconsuelo
+                de separarse de ella y los deseos vivísimos de vivir en dulce paz y unión. Carlota
+                quedó, a pesar de estas demostraciones, llena del mayor desconsuelo y confusión,
+                considerando entre sí todas las palabras que le había dicho su amante y sospechando
+                por ellas que su objeto era sólo dejarla abandonada a su deshonor y afrenta. No
+                podía apartar de su imaginación este pensamiento; el sueño había huido de sus
+                párpados, todo se le representaba horror y desconsuelo; y agitado su espíritu con
+                tanto cavilar decía repetidas veces entre sí: «¿Es posible que un hombre de honor
+                haya de pensar tan bajamente? ¿Es posible que sólo haya seducido mi virtud para
+                saciar sus pasiones vergonzosas? Aquellas expresiones tiernas, aquellas palabras,
+                juramentos y promesas que mil veces me ha repetido, ¿podrán ser fingidas, podrán ser
+                dirigidas a dejarme llena de rubor y angustia toda mi vida? No, no es fácil que haya
+                hombres capaces de tanta maldad. Pero, ¿y el pedirme el papel y el aprobar que yo
+                haya quemado sus cartas, qué objeto puede tener? No, no es bueno: la alegría que he
+                notado en su semblante, a pesar de su disimulo, cuando le he dicho había quemado sus
+                cartas; el disgusto que he observado cuando le he dicho que no tenía aquí el papel;
+                el pretexto que me ha alegado para sacarlo de mi poder, todo, ¡ay Dios!, todo me
+                anuncia que se dirige a mi ruina, a mi oprobrio, a mi afrenta. Sus expresiones no
+                son tan sinceras como antes; sus ansias, sus desvelos, sus suspiros al despedirse de
+                mí no son verdaderos. ¡Pérfido, indigno! No eres caballero; eres un monstruo, un
+                bárbaro, un inhumano. ¿Así has sabido aprovecharte de mi tierna edad, de mi poca
+                experiencia? ¡Cómo no te confundes al pensar en el agravio que haces al honor, a la
+                inocencia, a la humanidad! Yo tomaré la venganza que merece tu enorme traición, yo
+                te arrancaré ese corazón malvado, yo privaré al mundo de una fiera tan cruel como
+                tú. Nada me asusta: mi deshonor ha de ser forzosamente público, pues sea pública mi
+                venganza. Valor. Ningún respeto me detendrá; piérdase todo, ya que perdí mi virtud y
+                mi honor. Muera este enemigo; cubra su muerte mis afrentas y mi confusión».</p>
+               <p>Con esta agitación se quedó algo dormida, cansada de luchar con tan diversas ideas
+                como se le presentaban a su angustiada fantasía. Ni aun así lograba reposo. Un
+                tropel de confusiones la tuvieron toda la noche llena de sobresalto y horror.
+                Despertó muy temprano; volvió a repetir sus exclamaciones. Combatían entre sí,
+                dentro de su corazón, el amor y la venganza; y finalmente, venciendo ésta a fuerza
+                de sus reflexiones, determinó, ciega y desesperada, hacer una acción que dejase
+                vindicados sus agravios y castigada la traición execrable del brigadier, sin reparar
+                en los riesgos a que se exponía. Éste es el fruto frecuente, éstas son las
+                consecuencias más regulares de los excesos de esta naturaleza. Un delito guía
+                necesariamente a otro, y a veces tomamos venganza de los otros cuando deberíamos
+                tomarla de nosotros mismos por nuestra flaqueza, por nuestra vil condescendencia y
+                por nuestra falta de precaución. Las más veces nos acarreamos nosotros, por nuestra
+                mala conducta, los males, y luego nos irritamos contra los que nos han hecho caer en
+                ellos por no tener bastante virtud para resistir a la seducción y al engaño.</p>
+               <p>Así sucedía a la incauta Carlota. Disimulando como pudo su sobresalto en todo aquel
+                día delante de su tía, llegó la noche, y arrebatada de su furor resolvió tomar
+                venganza por sí misma de la traición de su pérfido amante. Después de discurrir el
+                medio más acertado para conseguir sus intentos, y meditar el modo más seguro de
+                sorprenderlo, no encontraba instrumento para ejecutar su venganza. «Un cuchillo,
+                decía ella, no es suficiente, porque mis fuerzas son débiles; con un golpe solo no
+                podré acabar con la vida de un monstruo tan infame, y tal vez o no tendré valor para
+                repetirlo, o él me lo impedirá. No, éste no es un buen medio. Un veneno...; pero ni
+                lo tengo, ni sé, aunque lo tuviera, cómo podría hacérselo tomar. ¿Qué haré para
+                vengar mi honor?». En esto se acuerda de que Bernardo tenía colgadas en un cuarto un
+                par de pistolas, que regularmente llevaba cuando salía a caballo a recorrer la
+                quinta y haciendas de su ama. Una pistola le pareció instrumento más apto para su
+                venganza, porque si bien consideraba que al ruido del tiro acudiría su tía y los
+                demás de la casa, ya estaba tan despechada que no temía hacer pública su afrenta si
+                lograba tomar venganza del infiel que se la había causado. Con este designio tomó
+                cautelosamente una de las dos pistolas, la ocultó en su cuarto y con el mayor ánimo
+                se resolvió a quitar la vida al brigadier aquella noche.</p>
+               <p>Llegó ésta; recogiéronse todos los de la casa, y a la hora acostumbrada entró el
+                brigadier, conducido del inicuo Bernardo, al cuarto de Carlota. Procuró ésta al
+                verlo reprimir su justa indignación, y esforzándose cuanto pudo comenzó a hablarle
+                con la misma ternura que las demás noches. El brigadier, disimulando sus dañadas
+                intenciones le dijo así: «Querida Carlota mía, estoy como confuso y sobresaltado;
+                tan grande es la alegría de verme ya muy cerca de ser tu esposo. Tan excesivo es mi
+                amor y tan vivas mis ansias de lograr tu hermosa mano, que me parecen siglos los
+                momentos que tardará el que seas mía».</p>
+               <p>«Ya días ha que lo soy, le respondió Carlota, y como tú no me abandones lo seré
+                gustosa hasta la muerte».</p>
+               <p>«¿Yo abandonarte, Carlota mía? ¿Yo separarme de ti? No, no tengas semejantes
+                sospechas. Ya todo está prevenido para desposarnos mañana en la noche; sólo falta
+                que me des el papel, porque he ofrecido entregárselo al cura mañana temprano. Por la
+                noche, a estas mismas horas, vendré por ti, y después de mañana ya se sabrá en toda
+                la ciudad, a despecho de tu tía, que eres mi esposa. Ea, dame el papel y verás como
+                todo se compone a medida de mi deseo».</p>
+               <p>«Sí, le dijo Carlota, yo espero que todo saldrá como deseamos. Toma el papel». Va a
+                dárselo, alarga la mano el brigadier, y teniendo ya Carlota amartillada la pistola y
+                en disposición de cogerla, sin que la viese le dice furiosa: «Toma, pérfido traidor,
+                éste es el papel que mereces»; pero no habiendo dado fuego, porque había tiempo que
+                estaba cargada, no salió el tiro. Carlota, viendo frustrado el golpe y
+                considerándose ya perdida, cae desmayada encima de su misma cama. El pérfido
+                brigadier, en medio de la confusión que le causó tan impensado acaso, arrebata el
+                papel de entre las manos a Carlota, y sin tener compasión del estado en que quedaba
+                aquella infeliz e inocente joven por su perfidia y engaño, se va y la deja entregada
+                al dolor que le oprimía el corazón y la había privado de sentido, contento de haber
+                conseguido tan infame triunfo.</p>
+               <p>Apenas volvió en sí la infeliz Carlota cuando, mirando a todas partes y no viendo al
+                brigadier ni el papel que antes tenía en la mano, fue tan grande su confusión y
+                angustia que, oprimido de nuevo su corazón, volvió a caer desmayada. A poco rato
+                recuperó otra vez el sentido, y considerando la ingratitud, cautela, perfidia y
+                engaño de su falso amante, y no menos el miserable estado en que se hallaba, toda
+                llena de desesperación, confusión y dolor decía entre sí: «¡Pérfido seductor,
+                monstruo inhumano, hombre vil! ¿Así has seducido mi inocencia, así has triunfado de
+                mi virtud? ¿Así me has dejado abandonada a un eterno tormento, a una irreparable
+                afrenta y oprobrio? ¡Bárbaro perjuro! ¿Así cumples tus repetidas promesas, así
+                correspondes a mis tiernas finezas y cariños? ¡Ah, inicuo! Aunque mujer, débil y
+                joven, sabré buscarte hasta los más remotos climas y arrancarte, dividido en mil
+                pedazos, ese pérfido corazón engañoso. No, no podrás huir de mi justa y rigurosa
+                venganza. Cuando yo no pueda tomarla por mis propias manos, apelaré a la Justicia
+                para que castigue tu maldad... Pero, ¿con qué documentos he de pedir contra ti,
+                cruel, indigno? Tú, no contento con haberme despojado de mi honor, has arrancado de
+                mis manos un papel que acreditaba tus engaños y falsedades; pero si no hay justicia
+                en la tierra para castigar tu maldad y delitos, el Cielo justo, sí, el justo Cielo
+                usará contigo de sus venganzas para escarmiento de viles y protervos seductores.
+                ¡Ay, Dios, qué confusión me rodea! Yo no pienso más que en la venganza, y no conozco
+                que soy la más culpable. Mi infame flaqueza, mi poca precaución, mi ciega pasión, y
+                no los engaños y cautelas de un infiel amante, son la causa de mi ruina. ¡Ay de mí!
+                Yo pensaba que no podía haber hombres en el mundo capaces de tal maldad... ¡Dios
+                mío, qué tribulación es la mía! Ya estoy perdida..., ya no hay para mí consuelo...;
+                mis días serán amargos..., mi confusión y dolor eternos... ¡Ay, Cielos! ¿A dónde
+                iré, adónde me ocultaré? Mi vergüenza... ¡Ah, tía, ah, tía! Tus ridiculeces y
+                rigores me han conducido a tan infeliz y mísero estado. ¿Qué será de mí cuando sepa
+                mi liviandad y desenvoltura? ¿Cómo tendré valor para presentarme a su vista? ¡Oh,
+                miserable Carlota, oh, joven inconsiderada! Si yo no muero de congoja y aflicción es
+                mentira, las penas no matan. ¿Quién ha visto jamás un corazón asaltado de tantos y
+                tan diversos afectos? Un amante pérfido..., una tía inhumana..., yo sin amparo
+                alguno..., próxima a ser la burla y el oprobrio de la ciudad..., el objeto más
+                odioso de mi tía y hermanos..., la fábula de las conversaciones..., la víctima
+                desgraciada de mi indiscreción... ¡Cielos, quitadme una vida que aborrezco, sí, una
+                vida que no servirá sino para mi afrenta y deshonor!»</p>
+               <p>En estas exclamaciones y otras semejantes pasó la infeliz Carlota toda la noche, sin
+                poder conciliar el sueño ni aun por un momento, siempre derramando lágrimas y
+                quejándose de su falso amante, y aun más de sí misma. Sin embargo del tumulto
+                interno que padecía su triste corazón, se salió de su cuarto la mañana siguiente, a
+                la hora que acostumbraba todos los días levantarse, y procuró disimular cuanto pudo
+                su turbación y afán delante de su tía, a quien hizo creer que estaba fuertemente
+                constipada y que toda la noche había padecido una gran fluxión que no la había
+                dejado dormir, para que no se presumiese, viéndole los ojos hinchados, que había
+                estado llorando. Dio crédito la tía a esta ficción, y aun le mandó hiciese algunos
+                medicamentos domésticos para que se desvaneciese la fluxión; con lo cual pudo
+                Carlota algunos ratos desahogar su dolor con la continuación del llanto.</p>
+               <p>El brigadier, temeroso de que Carlota pudiese buscar algún medio para reconvenirlo en
+                justicia sobre su engaño y traición, aunque tenía en su poder el papel, determinó
+                ausentarse de la ciudad por algún tiempo. Fue aquella misma mañana a ver a su amigo
+                el Ministro de Guerra: contóle muy por menor el lance que le había sucedido, y el
+                Ministro, que tenía una conciencia depravada, le aconsejó que se ausentase y dejase
+                a la inocente Carlota abandonada, y aun le dio una comisión para que de orden del
+                Emperador pasase a Londres a varios negocios. El brigadier, olvidado enteramente de
+                su obligación y promesas, marchó aquel mismo día tan gozoso de su triunfo como si
+                hubiese hecho la acción más heroica. ¡Cuántos pérfidos hay en el mundo que se jactan
+                de la seducción como del triunfo más glorioso! ¡Cuántos hay que, sin temor al Cielo
+                ni el menor remordimiento de conciencia, se valen de los mismos viles e inicuos
+                medios que el brigadier para contrastar la virtud y pervertir la inocencia! Jóvenes
+                bellas que vivís en el mundo, guardaos de todos los hombres sin distinción. Cada uno
+                os llamará su bien, su vida, y os jurará constancia y fidelidad; cada uno os
+                persuadirá que no vive ni sosiega un momento, que pasa los días delirando, las
+                noches sin poder cerrar los párpados, que sólo anhela que llegue el día de lograr
+                vuestra mano; llorará, suspirará, os pintará su amor del modo más seductivo: no los
+                creáis, inexpertas doncellas, todo se dirige a engañaros. Considerad que la virtud y
+                el pudor son los objetos más amables del mundo, y que el que intenta despojaros de
+                tan preciosas prendas es un pérfido que sólo pretende engañaros, que sólo desea
+                contentar sus apetitos y que se vale de estas astucias para rendir vuestra
+                constancia. Los que son virtuosos aman la virtud, y no intentan seducirla; los
+                viciosos sólo aman el vicio, y ponen todo su estudio y conato en pervertir vuestra
+                inocencia y candor. Huid, huid, jóvenes, de estos monstruos de la humanidad, y no os
+                veréis jamás en el deplorable estado y situación que la desgraciada e incauta
+                Carlota. Y vosotros, padres de familia, tratad, educad a vuestras hijas con dulzura,
+                y no las expondréis por vuestro rigor y aspereza a que se hagan disimuladas e
+                hipócritas, ni a que, despechadas, comentan excesos que causarán su deshonor y
+                vuestra amargura y remordimiento.</p>
+               <p>La angustiada Carlota ignoraba la ausencia de su pérfido amante y lloraba sin cesar;
+                pero su mismo deseo le hacía no perder todavía alguna esperanza de que se
+                reconociese y volviese a cumplir su obligación. Pronto se disipó esta lisonjera
+                esperanza, sabiendo por el criado Bernardo que se había marchado el brigadier de la
+                ciudad a evacuar una comisión del Real Servicio a Londres. Esta noticia acabó de
+                consternarla vivísimamente. No pudo disimular su interna agitación, y derramando un
+                torrente de lágrimas refirió a Bernardo cuanto le había sucedido con el brigadier.
+                Quedó Bernardo asombrado al oírla (¡tan horrorosos son el vicio y la iniquidad, que
+                no pueden menos de vituperarlos aun los mismos viciosos y malvados!), y con las más
+                tiernas expresiones procuró consolar a Carlota y ofrecerle cuanto pudiese en su
+                favor. Pensaron en emplear los medios de la Justicia para obligar al brigadier al
+                cumplimiento de sus promesas, pero considerando que les faltaba el documento
+                justificativo del papel y que tenía la protección del Ministro de Guerra, conocieron
+                sería inútiles todas las diligencias que practicasen. Así sucede en el mundo: la
+                maldad encuentra por lo regular protectores, y la virtud opresores. Si los poderosos
+                de la tierra considerasen bien los designios de Dios en haber puesto en sus manos la
+                autoridad y el poder, no dispensarían su protección a los hombres viles, pérfidos y
+                aduladores; la emplearían solamente en proteger la virtud y amparar la inocencia.
+                Pero la lástima es que mientras gimen y suspiran, oprimidos y arrinconados, los
+                hombres honrados y virtuosos, triunfan y prosperan los inicuos y viciosos, que a
+                fuerza de sus repetidos delitos elevan su fortuna y se levantan sobre las ruinas de
+                los infelices. ¡Dichosos los protectores de la iniquidad y los protegidos depravados
+                e indignos, si no hubiese otra vida más que la presente! Pero, ¡desgraciados cuando,
+                en aquel Tribunal recto donde no valen el favor ni el engaño, serán acusados y
+                confundidos! Allí, allí conocerán el error en que viven, y llegará el
+                arrepentimiento cuando no tendrán remedio y cuando se verán castigados por toda una
+                eternidad.</p>
+               <p>Mucho se desconsolaba la triste Carlota reflexionando su deplorable situación; pero
+                llegó al mayor colmo su desconsuelo y amargura cuando conoció era indispensable que
+                se hiciesen ya públicos los efectos de su flaqueza. Entonces fue cuando más resintió
+                el golpe de su adversidad, y conoció a lo que había dado lugar su credulidad y débil
+                condescendencia. El fruto frecuente del error es el arrepentimiento. ¡Infeliz el que
+                antes de caer en el precipicio no procura precaverse! Rodeada Carlota de la más
+                negra confusión, no sabía cómo evitar una afrenta irreparable y huir del furor de su
+                tía. Estuvo varias veces para desesperarse; pero era virtuosa, aunque había caído en
+                aquella flaqueza, y considerando que era añadir delitos a delitos, suspendía la
+                ejecución de tan abominable pensamiento. Pensando y meditando sin cesar, al fin
+                resolvió informar de todo a Bernardo. Llamólo, y llena de rubor y de lágrimas le
+                confesó el doloroso estado en que se hallaba. Bernardo, compadecido de su lamentable
+                suerte y reflexionando que él tenía la mayor culpa por haber hecho tan indignos
+                oficios, aseguró a Carlota que la defendería y protegería hasta el último aliento de
+                su vida. Carlota estaba traspasada de dolor; y con una novedad que aumentaba su
+                pena, se sentía bastante débil y con poca salud. Bernardo le aconsejó que se echase
+                en cama, diciéndole que lo dejase a él obrar, y que todo se procuraría ocultar a su
+                tía. Esto reanimó el oprimido corazón de Carlota, y con muchas lágrimas y tiernas
+                expresiones dio gracias repetidas a Bernardo.</p>
+               <p>Carlota tomó su consejo, se echó en cama, y aunque realmente estaba mala fingió algo
+                más para persuadir a su tía. Bernardo procuró también persuadirla de que la señorita
+                estaba muy echada a perder, y aun le dio a entender que podría provenir de la
+                opresión en que la tenía, de sus ridiculeces y de estar siempre en aquella soledad y
+                retiro. Esto convenía a sus ideas. La tía, a pesar de su genio raro y duro, sintió
+                mucho que su sobrina estuviese enferma, y como ya había muchos días que la veía
+                melancólica, sin embargo de su disimulo, no dejó de creer que podría tener razón
+                Bernardo y le mandó fuese a llamar al médico. Fue a buscarlo al momento, lo enteró
+                muy por menor de la verdad del caso, le manifestó los medios de poder precaver a
+                aquella desgraciada joven de una afrenta escandalosa, atendido el genio de su tía; y
+                el médico, que era muy prudente, le ofreció manejar el asunto con la mayor reserva.
+                Vio el médico a la señorita, le dijo que ya estaba informado de todo, la animó, la
+                consoló y le aseguró que lo dispondría todo de modo que nadie supiese su flaqueza.
+                Después dijo a la tía que su sobrina padecía una grande hipocondría, que ésta podría
+                degenerar en una hidropesía, que procuraría aplicarle algunas medicinas para
+                atajarla y que, cuando esto no bastase, tomaría aquel medio más proporcionado para
+                su perfecta curación. Le encargó que la cuidase mucho, que no le diese que sentir, y
+                finalmente le aseguró que con alguna paciencia se lograría su perfecto
+                restablecimiento. La tía, que ni remotamente podía imaginarse lo que era, porque
+                apenas se separaba de su lado por el día, y por la noche le hacía dormir sola en un
+                cuarto a donde, como se ha dicho, se entraba por su dormitorio, creyó ser cierto
+                cuanto le dijo el médico, y mucho más la persuadió que no podía ser otra cosa el que
+                en aquella casa no entraba persona alguna más que el maestro de música, que era un
+                hombre anciano y siempre daba lección a Carlota en presencia de su tía.</p>
+               <p>El médico visitaba a Carlota, y ésta, tomando algunas aguas propias para el mal que
+                padecía, y unos días levantada y otros en cama para mejor disimulo, llegó ya a
+                entrar en los nueve meses de su embarazo, siempre persuadiendo el médico a su tía
+                que, lejos de ceder la hidropesía, iba rápidamente aumentándose. Ya creyó el médico,
+                de acuerdo con Bernardo, que era indispensable sacar a Carlota de casa de su tía,
+                aunque conocían las muchas dificultades que había que vencer. Con este objeto dijo
+                el médico a la tía que ya no encontraba otro remedio para la señorita sino que fuese
+                a tomar los aires a algún pueblo fuera de la ciudad, respecto de que ya había
+                llegado la primavera, tiempo en que podía hacer ejercicio a pie, que era lo que más
+                necesitaba. Discurrieron el médico y Bernardo este medio justamente, porque en
+                aquella sazón, como la señora era anciana y padecía algunos achaques, se hallaba
+                bastante enferma y no podía ir con Carlota. Al principio se resistió fuertemente la
+                tía, diciendo que ella no dejaba sola de ningún modo a su sobrina; pero ofreciéndole
+                Bernardo que iría a acompañar a su señorita con una criada, y que no la abandonaría
+                un momento, y afirmándose el médico en que de lo contrario perdería indubitablemente
+                la vida, al fin condescendió en que se fuesen su sobrina, Bernardo y una criada a su
+                quinta, que distaba de la ciudad unas tres leguas y era de un temperamento muy
+                saludable, y muy deliciosa; añadiendo que luego que ella se pusiese mejor, iría a
+                acompañarlos y a pasar la primavera en ella, como acostumbraba hacerlo todos los
+                años por este tiempo y por el otoño.</p>
+               <p>Con efecto, eligió Carlota a una de las criadas, de quien tenía mayor confianza y a
+                quien ya había confiado mucha parte de sus sucesos, y a otro día se fueron a la
+                quinta los tres en un coche. Apenas había quince que estaban en ella cuando
+                acometieron a Carlota algunos dolores, y asistida de su criada, Bernardo y el
+                médico, a quien avisaron y fue al instante, dio a luz un robusto niño
+                felicísimamente. Pensó Bernardo en llevarlo a la ciudad, a la Casa de Expósitos;
+                pero a ruegos de Carlota, que transportada del amor de madre no podía sufrir el
+                separarse de su hijo, lo llevó a unas caserías no muy distantes de la quinta, y allí
+                lo dejó encargado a una labradora para que lo criase, sin decirle de dónde ni de
+                quién era, sólo sí que lo cuidase, que no lo perdería. Carlota se alegró mucho de
+                esto, esperanzada de que, como su tía era muy anciana, podría después, con su
+                hacienda y la que ésta le dejaría, vivir retirada en compañía de su hijo, a lo menos
+                con algún consuelo en medio de sus desgracias; y de que entretanto, ayudada de
+                Bernardo o vendiendo algunas alhajas que tenía sin que lo supiese su tía, podría
+                mantenerlo y educarlo. Estas consideraciones mitigaban algún tanto el dolor de su
+                sensible suerte, y en pocos días se restableció enteramente. Quiso después de
+                levantarse que Bernardo hiciese a la nodriza que le llevase el niño para verlo; pero
+                de ningún modo lo consintió éste, diciéndole que tuviese paciencia, y que ya que
+                había podido ocultarse hasta entonces su flaqueza, no convenía exponerse a que se
+                hiciese pública. No le replicó Carlota, aunque le era muy sensible no ver al hijo de
+                sus entrañas; y hallándose ya perfectamente buena y sabiendo que su tía estaba
+                bastante agravada de su enfermedad, resolvió volverse a la ciudad a asistirla.</p>
+               <p>Llegó Carlota con su criada y Bernardo a casa de su tía, la cual, sin embargo de
+                hallarse muy quebrantada de salud, se alegró mucho de ver buena a su sobrina. Ésta
+                la cuidaba y asistía con la mayor atención y desvelo, y siempre que se hallaba sola
+                con su criada no sabía hablar sino de su hijo. «¡Qué hermoso es, le decía! ¡Qué
+                gracioso! ¡Cuánto diera yo por ver ahora al hijo de mi alma! ¡Qué desgracia es la
+                mía! Apenas salió de mis entrañas cuando lo arrebataron de mis brazos, y no lo he
+                vuelto a ver más. ¿Cómo estará el hijo de mi vida? ¡Ay, Dios! En medio de mis
+                infortunios, éste me faltaba que sufrir. Yo soy ya bastante infeliz, y sin mi amado
+                hijo no espero tener un momento de consuelo. ¡Pobre Enrico mío, quién te viera!
+                ¡Quién pudiera darte mil besos! ¡Quién te estrechara ahora entre mis brazos! Tú no
+                conoces a tu tierna madre, ¿quién sabe si llegarás a conocerla? Tal vez mis
+                infortunios me agobiarán y tú quedarás huérfano y sin apoyo alguno, sin saber a
+                quién debes el ser, mientras que tu inicuo padre, olvidado de su obligación, quizá
+                andará seduciendo incautas para hacerlas infelices como a tu desgraciada madre. ¡Ah,
+                cuántas deplorables consecuencias han causado mi imprudencia y facilidad! Yo las
+                lloraré eternamente, y eternamente agitada del más cruel remordimiento, seré
+                desventurada».</p>
+               <p>Así desahogaba su pena la triste Carlota con su criada, la cual procuraba consolarla
+                en sus aflicciones. La tía de Carlota se puso buena en lo que restaba de primavera;
+                pasó el verano en su casa, y luego que refrescó el tiempo en el otoño se fue con su
+                sobrina y demás familia a la quinta. Alegróse mucho Carlota de esta determinación de
+                su tía, pareciéndole que estando en la quinta podría quizá alguna vez ver a su hijo
+                amado. Como todas las tardes salía con su tía a pasearse por las inmediaciones de la
+                quinta, rogó a Bernardo muy encarecidamente y con muchas lágrimas que hiciese a la
+                nodriza llevase el niño, como casualmente, por donde ellas iban a paseo. Bernardo se
+                resistió, manifestándole que no convenía porque el amor de madre podría ser causa de
+                que llegase su tía a descubrir todo el secreto; pero asegurándole Carlota que no
+                haría con él demostración alguna, le ofreció cumpliría con lo que le encargaba.
+                Efectivamente, aquella misma tarde hizo a la nodriza que sacase a pasear al niño por
+                el mismo paraje por donde iban sus amas, advirtiéndole que en caso de que algunas
+                gentes la encontrasen y le preguntasen de quién era, dijese que de unos caballeros
+                de una villa inmediata, cuyos nombres ignoraba. A la hora acostumbrada salieron a
+                pasearse Carlota, su tía y la criada, que estaba enterada de todo; encontraron a la
+                nodriza con el niño, que ya tenía unos seis meses y era sumamente gracioso. No sabía
+                Carlota cómo acercarse a él y cogerlo en sus brazos hasta que la criada, conociendo
+                la pena de la madre y la fuerza que se hacía para resistir a los impulsos de su
+                corazón, se acercó a la nodriza, tomó el niño y lo presentó a su ama mayor diciendo:
+                «Mirad, señora, ¡qué criatura tan graciosa! ¡Qué rubio! ¡Qué ojos tan vivos! ¡Qué
+                color tan fino!» No pudo menos la señora, oyendo las alabanzas de su criada y viendo
+                que no eran exageradas, de coger al niño, besarlo y hacerle muchos cariños diciendo:
+                «Muy gracioso es; Dios lo bendiga». Lo mismo dijo Carlota; lo tomó en los brazos y
+                le hizo las mayores caricias, aunque siempre reprimiendo su maternal afecto para que
+                su tía no llegase a sospechar cosa alguna. Como después supo Bernardo que Carlota se
+                había contenido y que su tía nada había notado, hizo a la nodriza que saliese con el
+                niño a pasearse por el mismo paraje muchos días, en los cuales repitieron Carlota y
+                su tía las demostraciones de afecto al niño, siendo siempre más tierna y agradable
+                aquella escena para la triste Carlota, que no vivía ni sosegaba un momento hasta que
+                llegaba la hora de salir a paseo para ver a su amado hijo, al cual siempre seguía
+                con los ojos luego que la nodriza lo separaba de ellos. Ya una tarde, después de
+                haber estado con el niño la madre, la tía y la criada, al apartarse de ellas la
+                nodriza fue a pasar por un puentecillo de un arroyo que estaba allí inmediato. Como
+                Carlota no dejaba de volver la cabeza a mirar a su hijo hasta que estaba muy
+                distante, vio que se deslizó la nodriza y cayó con el niño en el arroyo. El amor de
+                madre la arrebata, la ciega, y sin saber lo que hacía exclama: «¡Ay, hijo de mi
+                alma!», y va corriendo, se arroja al arroyo, lo saca entre sus brazos, y viendo que
+                tenía en la cara una poca sangre de una pequeña herida que se había hecho al caer,
+                comienza a llorar y a dar gritos como loca. Queda su tía asombrada de ver tales
+                extremos en su sobrina; se acerca a donde estaba, confusa y sobresaltada, y Carlota,
+                agitada y sin saber lo que le sucedía, se arroja a sus pies llorando amargamente con
+                su hijo y le confiesa todo cuanto le había sucedido sin la menor reserva, resuelta
+                ya a no abandonar a su hijo, aunque le costase la vida. Irrítase la tía, se arranca
+                los cabellos de cólera, y sin considerar que exponía con su imprudencia a un público
+                deshonor y afrenta a su sobrina, le dice que no la admitirá jamás en su casa, que
+                huya lejos de su vista, a donde nunca supiese de ella; la llena de vituperios, y en
+                una palabra, la trata con el mayor rigor y crueldad. Carlota llora, suplica; nada
+                basta a vencer a su tía ni a calmar su furor, antes bien la lleva a la quinta, le da
+                su ropa y despide a Bernardo y a la criada, diciendo a los tres que jamás esperasen
+                su conmiseración ni pensasen en volver a verla. Quiso Bernardo representarle que
+                eran intempestivos y crueles aquellos procedimientos; no lo escuchó, y viendo que
+                por ningún medio podían ablandar la dureza de su corazón, sacaron al campo sus
+                baúles y ropa, buscó Bernardo un carro de un labrador de una de las caserías
+                inmediatas, y los tres, con la nodriza y el niño, se fueron a la más cercana villa
+                para determinar lo más conveniente en situación tan amarga. No tenía consuelo la
+                infeliz Carlota, ni sabía qué resolver; parecíale un sueño cuanto le sucedía, y
+                tomando en los brazos a su inocente hijo, entre lágrimas, suspiros y ternuras
+                desahogaba su profundísimo dolor.</p>
+               <p>Pensó Carlota en ir a buscar el amparo y protección de su hermano; pero el temor de
+                que se irritaría y la recibiría mal, y su misma vergüenza, la tenían indecisa en el
+                partido que debería tomar en tan deplorable suerte. Bernardo procuraba consolarla y
+                calmar la continua agitación de su espíritu, diciéndole que todo cuanto él tenía lo
+                gastaría gustoso con ella; nada era suficiente para minorar su aflicción y
+                remordimiento. Estando todavía sin saber qué resolver murió el niño, y esto aumentó
+                más la confusión y amargura de Carlota. Pero no teniendo ya objeto alguno a que
+                atender, entre avergonzada y despechada determinó irse a Nápoles acompañada de
+                Bernardo y de su criada, si querían seguirla, con ánimo de que nunca supiesen más de
+                ella ni dónde estaba sus hermanos y tía. Llamó a los dos, les comunicó su resolución
+                y ambos ofrecieron acompañarla hasta perder la vida; la criada, por amor que tenía a
+                su señorita, y Bernardo porque, aunque malo, le daba compasión haber sido causa de
+                la desgracia de su ama, y el instrumento de su ruina. Inmediatamente enviaron a su
+                aldea a la nodriza, dándole un buen regalo, y los tres se encaminaron a Nápoles.
+                Luego que llegaron a aquella ciudad, se mudó Carlota el nombre y apellido, tomaron
+                una casa, y como era aficionada a la música hizo buscar un maestro bueno que le
+                continuase las lecciones. Tenía una voz admirable, mucho ingenio y bastantes
+                principios con lo cual hacía los más rápidos progresos en la música y en el canto.
+                Así pasaron unos tres o cuatro meses, manteniéndose con el dinero de Bernardo; pero
+                como éste era muy apegado al interés y se gastaba bastante, considerando que dentro
+                de algún tiempo no tendrían con qué vivir hizo presente a Carlota que era necesario
+                buscar algún modo de vida, porque de lo contrario se expondrían a tener que pedir
+                una limosna. Oyendo Carlota estas expresiones a su criado Bernardo se contristó en
+                extremo, y temiendo verse constituida en la miseria y recordándose de todos sus
+                infortunios y adversidades, estuvo algunos días tan triste y melancólica que no
+                cesaba de llorar.</p>
+               <p>Joven y bella, no dejaba de atraerse las miradas y atenciones de muchos jóvenes ricos
+                de aquellos que emplean su opulencia no en amparar la virtud sino en seducirla.
+                Hasta entonces se había resistido Carlota a las continuadas instancias y repetidas
+                solicitudes de estos hombres libertinos. Pero como un delito abre la puerta para
+                otro y conduce al precipicio, al fin Carlota permitió que algunos entrasen en su
+                casa. Regalos exquisitos, importunaciones y lágrimas vencieron en ella aquel resto
+                de pudor que aun conservaba después de haber cometido la primera flaqueza; y
+                entregada a una vergonzosa prostitución se dio a una vida desarreglada que le
+                producía para mantenerse con el mayor fausto entre delicias y diversiones. Éste es
+                el fruto que sigue al primer error; éstos los dolorosos efectos que produjo la
+                perversa seducción y engaño del brigadier y la imprudencia y aspereza de la tía de
+                Carlota, siguiendo ésta en su rencor implacable de tal modo que nunca quiso saber
+                más de ella ni avisar a su hermano lo que había sucedido, para que no la buscase y
+                le diese algún socorro y alivio en sus adversidades. Llegó a tal extremo su odio,
+                que murió a los seis o siete meses de haberse separado de ella su sobrina y dejó
+                todos sus bienes libres a los extraños. El hermano mayor de Carlota, sabiendo que
+                había muerto su tía, fue a tomar posesión de un pingüe mayorazgo que obtenía, y
+                cuando creyó encontrar a su hermana se halló con la dolorosa novedad de que se había
+                ausentado. Contáronle los motivos y le informaron de todo lo ocurrido. Hizo en su
+                busca las mayores diligencias, y no pudiendo hallar quien le diese la menor noticia
+                de ella se retiró a su casa sumamente contristado y afligido.</p>
+               <p>Carlota pasó dos años en Nápoles una vida alegre y viciosa, continuando en sus
+                criminales excesos con la mayor desenvoltura. Cansada de estar en aquella ciudad y
+                deseando hacerse célebre en otra parte por su viciosa y libertina conducta, se fue a
+                Venecia con Bernardo y la criada, dejando burlados a todos sus apasionados después
+                que le habían dado muchos regalos en dinero y alhajas de grande valor. Llegó a
+                aquella ciudad, comenzó a tratarse con el mayor fausto, atrajo desde luego a los
+                jóvenes más principales a su casa, y siguió con sus desórdenes escandalosos. Como
+                cantaba primorosamente, y en el tiempo que estuvo en Nápoles había adquirido mucha
+                destreza en la música y perfección en la pronunciación y conocimiento de la lengua
+                italiana, se puso a cómica, entrando a cantar de segunda dama en el teatro de la
+                Opera Seria. La primera noche que salió a la escena cantó tan preciosamente que
+                fueron infinitos los aplausos que le dieron. Animada con ellos se propuso continuar
+                en aquel ejercicio, en el cual hizo los mayores progresos, logrando mucha aclamación
+                y siendo su casa una de las más concurridas de la ciudad, y ella regalada
+                magníficamente de todos los sujetos más visibles, tanto por su excelente habilidad
+                como por el primor de su hermosura.</p>
+               <p>La experiencia de los engaños del brigadier le hacía desconfiar de todos los hombres,
+                y jamás quiso sujetarse particularmente a ninguno, por más dádivas que le
+                prometiese. Trataba indistintamente a todos los que le agradaban, prestándose a sus
+                solicitudes y deseos, enteramente abandonada ya a la más deplorable prostitución. Su
+                criada, que era joven no desgraciada pero de arreglada conducta, la reprendía
+                algunas veces, acordándole quien era y su primera educación; pero Carlota no hacía
+                caso de ella, y sólo le respondía que viéndose distante de sus hermanos y parientes,
+                a quienes no quería presentarse jamás después de sus excesos, no tenía otros medios
+                de vivir. Bernardo, por la cuenta que le tenía y como hombre perverso e interesado,
+                le daba la razón y la animaba a continuar en sus desarreglos, representándole que
+                sería mal recibida de sus hermanos y tratada con el mayor rigor.</p>
+               <p>Carlota siguió en su depravada vida y ejercicio seis o siete años; corrió los más
+                principales teatros de Italia con el mayor aplauso, ganó inicuamente y lo gastó del
+                mismo modo mucho dinero, y pasó así, entre lisonjeros y pérfidos obsequios, hasta
+                que el Cielo, por sus incomprensibles decretos, quiso dar fin a sus desórdenes, y el
+                castigo merecido al que había sido la causa de ellos. Yendo Carlota desde Módena a
+                Milán, no muy lejos de esta ciudad se quedó en una hostería una noche, a causa de un
+                terrible temporal que la cogió en el camino. El brigadier, que se hallaba de
+                gobernador en una de las plazas o ciudades inmediatas a Milán, iba de viaje aquel
+                mismo día, y por el mismo camino; y acosado también del temporal se acogió aquella
+                noche en la hostería donde estaba Carlota. Luego que entró, preguntó al huésped
+                quién había en la hostería, y éste le respondió que una señorita muy hermosa y
+                magníficamente vestida, que según había dicho un criado suyo era cantarina. Alegróse
+                mucho el brigadier, pensando en obsequiarla aquella noche y tal vez en otra cosa muy
+                diferente de lo que le sucedió, y dio por muy bien empleado el mal rato que había
+                pasado aquella tarde con el temporal, porque le había deparado tan buen encuentro.
+                Como estaba acostumbrado a tratar con mujeres siempre escandalosas, le pareció que
+                aquélla sería lo mismo, y que eran excusados los cumplimientos; y así se entró en el
+                cuarto donde estaba Carlota con su criada, las saludó con mucha marcialidad en
+                idioma italiano, le contestaron cortésmente y desde luego comenzó a explicarse con
+                la mayor franqueza. Al pronto no lo conoció bien Carlota, porque los vicios y
+                desórdenes lo habían aniquilado y envejecido; pero fijándose a contemplar sus
+                facciones lo conoció, y al momento pensó en tomar venganza del fabricador de su
+                ruina. Sin embargo de que se le representaron en su imaginación las penas que le
+                había causado su perfidia y los desórdenes a que se había abandonado por sus
+                engaños, procuró disimular su sorpresa y sobresalto. El brigadier vio un semblante
+                parecido al de Carlota, aunque algo diferente por la edad, y nunca se persuadió que
+                podía ser ella, mayormente encontrándola sola, en un traje como el que comúnmente
+                usan las de su ejercicio, hablando como hablaba perfectamente el italiano,
+                habiéndole dicho ella que era cantarina, que pasaba a Milán con ánimo de cantar
+                aquel año en uno de sus teatros, y oyendo a la criada que la llamaba Amalia. Para
+                más asegurarlo Carlota y que no pudiese venir en conocimiento de que era ella, salió
+                del cuarto, buscó a Bernardo, le refirió lo que estaba sucediendo y le encargó se
+                fingiese malo y no se dejase ver del brigadier, temerosa de que si lo conocía, como
+                era regular, porque había mudado poco o nada de su fisonomía, se le frustrarían sus
+                intentos. Volvió a su cuarto Carlota y prosiguió su conversación con el brigadier
+                con tanto desenfado y desenvoltura que éste, lejos de percibir ni aun la más mínima
+                sombra de las intenciones que tenía, se lisonjeaba de obtener sus más señalados
+                favores. Así Carlota procuraba disimular para mejor lograr sus deseos. Cenaron
+                juntos con mucha alegría del brigadier, en la cual lo acompañó Carlota, como que
+                estaba bien acostumbrada a fingir; pero cada vez que miraba aquel semblante
+                impostor, aquel hombre pérfido que había seducido su virtud y triunfado de su
+                inocencia, se encendía interiormente de cólera y furor y sólo deseaba que llegase la
+                hora en que había meditado tomar de él la más cruel venganza. Pasaron en finos
+                coloquios hasta cerca de las doce y media de la noche, entreteniéndolo Carlota con
+                alegres esperanzas hasta aquella hora, con pretexto de que esperaba se recogiesen
+                los que estaban en la hostería. Ya que Carlota conoció que con efecto se habrían
+                recogido, salió del cuarto diciendo al brigadier que iba a ver si estaba la gente
+                dormida; fue a donde estaba Bernardo y le previno que hiciese preparar el carruaje
+                con mucho silencio, porque quería partir dentro de media hora; y aunque Bernardo
+                quiso enterarse de la causa de aquella precipitación, Carlota sólo le dijo que
+                convenía hacerlo así, y que después lo sabría. Dicho esto, el criado se fue a
+                ejecutar la orden de su ama y ésta volvió a su cuarto, donde ya la esperaba el
+                brigadier con la mayor impaciencia, ansioso de lograr sus finezas. Apenas entró
+                cuando mandó a su criada se fuese al otro cuarto donde estaba Bernardo, y que los
+                dejase solos. La criada obedeció a su pesar, creyendo que su ama tenía otras
+                diferentes intenciones, muy conformes a su desarreglada y viciosa conducta.</p>
+               <p>Luego que quedaron solos quiso el brigadier propasarse, incitado de su torpeza, pero
+                Carlota lo contuvo, diciéndole que no tendría con ella la menor libertad si antes no
+                le escuchaba un secreto muy importante que se veía en necesidad de revelarle. El
+                brigadier le ofreció no sólo oírla, sino protegerla en caso necesario en cuanto
+                pudiese. Asegurada de este modo, sacó Carlota un papel de la faltriquera para mayor
+                disimulo, y con él en la mano le dijo así: «Yo soy napolitana; mi nombre, Amalia, y
+                mi ejercicio, cantarina. Vengo por este país no a buscar los teatros de Milán sino a
+                un pérfido amante, que con palabra de casamiento ha triunfado de mi honor y me ha
+                dejado abandonada. Mi deseo es vengarme de su infame traición, y para esto os pido
+                vuestro auxilio. Decidme, ¿no merece que traspase el corazón con un cuchillo a un
+                hombre tan inicuo?»</p>
+               <p>«Sí, le respondió el brigadier; quien comete tal infamia y traición merece el mayor
+                castigo y la más rigurosa venganza».</p>
+               <p>«Pues bien, replicó Carlota, tú, pérfido monstruo, tú mismo te has dado la sentencia.
+                Yo soy Carlota, mírame, infame; por tus engaños me hallo en el estado en que me ves,
+                y este cuchillo vengará en tu inicua sangre mis agravios y afrentas»; y dándole un
+                fiero golpe con él, le traspasó el corazón y cayó muerto en el suelo, sin poder
+                proferir la menor palabra. Así el Cielo permitió por tan extraño medio que viniese
+                este inicuo impostor a pagar los funestos y desgraciados efectos de su perfidia y
+                cautela, cuando él estaba tan ajeno a este castigo que, sin temor al justo Juez de
+                los hombres, se preparaba a cometer mayores delitos, añadiendo torpezas a sus
+                depravados triunfos y desórdenes; y así pagarán sus culpas todos los seductores de
+                la inocencia, que por saciar sus viles apetitos no temen contrastar la virtud más
+                constante, y cuando deberían emplear su poder y riquezas en defenderla los emplean
+                en abatirla y arruinarla, sin causarles el menor remordimiento los daños que
+                ocasionan su falsedad y engaños.</p>
+               <p>Viendo Carlota saciada ya su venganza, y a sus pies muerto al fabricador de su ruina,
+                considerando los enormes delitos a que ciegamente la habían conducido su credulidad
+                y flaqueza, y que había tomado por sus propias manos una venganza que debía haber
+                reservado al justo Cielo, se consternó tan vivamente que, horrorizada de sí misma,
+                no sabía dónde ocultarse. Anegada en un profundo llanto, llena de rubor y de
+                arrepentimiento, fue adonde estaba Bernardo, preguntóle si estaba puesto el
+                carruaje, y respondiéndole que sí llamó a la criada y se entró con los dos en el
+                coche. Salieron de la hostería, y ofreciendo gratificar bien a los postillones si
+                caminaban de priesa, empezaron a seguir su camino con velocidad. Los criados del
+                brigadier, que creyeron estaría su amo con la cantarina, se echaron a dormir; y
+                hasta que siendo ya las nueve de la mañana y no saliendo nadie del cuarto, entraron
+                en él y vieron al brigadier revolcado en su sangre, no supieron nada de lo que había
+                sucedido. Alborotáronse todos y desde luego conocieron que la cantarina le había
+                dado la muerte. Avisaron del caso al momento a la Justicia inmediata, y comenzaron a
+                practicar las correspondientes diligencias. Entretanto Carlota llegó a Milán,
+                habiendo referido en el viaje a sus domésticos el lance acaecido, de que se quedaron
+                justamente atónitos y admirados. Viéndose Carlota rodeada de la mayor confusión y
+                agitada del arrepentimiento que oprimía su corazón por los innumerables delitos que
+                había cometido, creyó que ya no tenía otro recurso para calmar sus rigurosos
+                remordimientos que expiar con la penitencia sus muchas y graves culpas. Movida de un
+                superior impulso, recordándose de los principios de educación que sus amados y
+                virtuosos padres habían impreso en su alma tierna, determinó acabar sus días en el
+                retiro y soledad de un claustro, para implorar de la Misericordia Divina el perdón
+                de sus criminales excesos. Al punto llamó a sus dos criados, les dio por iguales
+                partes sus ropas, alhajas y dinero, les encargó se fuesen inmediatamente a Viena
+                para evitar que los prendiesen si se descubría que ella había dado muerte al
+                brigadier, y llena de lágrimas y arrepentimiento fue a arrojarse a los pies del
+                arzobispo y a implorar su protección y amparo para lograr sus cristianos deseos.
+                Deshecha en llanto le hizo la confesión más tierna y patética de toda la serie de su
+                miserable vida, informándolo de su calidad, circunstancias y desgracias. Compadecido
+                el arzobispo de su deplorable suerte, le proporcionó la entrada en un convento de
+                religiosas y dispuso todas las cosas de modo que la Justicia diese libertad a varias
+                personas que estaban presas de resultas de la muerte del pérfido brigadier, y no
+                persiguiese a Bernardo y a la criada, que sin pérdida de tiempo se marcharon de
+                Milán. Carlota vivió en su monasterio sin darse a conocer a nadie, siempre retirada
+                y ocupada en santos ejercicios y haciendo la más austera penitencia para lavar la
+                mancha de sus innumerables culpas. El rigor de las penitencias, a pesar de su
+                robustez y fresca edad, la consumió en pocos años, y murió con las mayores
+                demostraciones de arrepentimiento y dejando a las religiosas sus compañeras muchos
+                motivos de llorar su pérdida, y muchos ejemplos de humildad, de paciencia y de
+                virtud que imitar.</p>
+               <p>Éste es el fin que tuvo el pérfido brigadier, y éste será el que tendrán todos los
+                malvados seductores de la inocencia y de la virtud, a los cuales nunca deja el
+                Cielo, de un modo u otro, sin el castigo que merece su perfidia y engaños. Aprended,
+                jóvenes libertinos; aprended por este ejemplar funesto a conteneros en vuestros
+                vicios y desórdenes; y vosotras, inexpertas doncellas, conservad vuestra virtud y
+                candor, que así seréis más amables; y si por vuestra desgracia de un precipicio vais
+                cayendo insensiblemente en otros, despertad de vuestro letargo y tomad ejemplo de la
+                desgraciada Carlota, imitando su arrepentimiento. ¡Ojalá que la lectura de esta
+                deplorable historia contenga los desórdenes de la juventud y enseñe a los padres de
+                familia y a los encargados de la educación que la dulzura y la prudencia forman
+                corazones sinceros y virtuosos, y la aspereza y rigor sólo hipócritas y malvados, y
+                no causen con su imprudencia la ruina de sus hijas, como causó la de la infeliz
+                Carlota la inconsideración de su tía!</p>
+            </div>
+         </body>
+      </text>
+</TEI>

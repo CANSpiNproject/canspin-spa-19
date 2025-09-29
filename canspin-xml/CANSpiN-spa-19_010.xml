@@ -4,7 +4,7 @@
          <fileDesc>
             <titleStmt>
                <title>Anatomía del corazón</title>
-               <author ref="authors.xml/#P10">Guerrero, Teodoro</author>
+               <author ref="authors.xml#P10">Guerrero, Teodoro</author>
                <respStmt>
                   <name>Nils Kellner</name>
                   <resp>Editor</resp>

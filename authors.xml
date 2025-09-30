@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>List of authors for the corpus CANSpiN-spa-19</title>
+            <respStmt>
+               <name>Nils Kellner</name>
+               <resp>Editor</resp>
+            </respStmt>
+            <respStmt>
+               <name>Anika Piotraschke</name>
+               <resp>Editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>CANSpiN project</distributor>
+            <date when="2025">2025</date>
+            <pubPlace>Rostock</pubPlace>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2025-09-30">Created author list for CANSpiN-spa-19</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="P1">
+               <persName type="main">
+                  <forename>Enrique</forename>
+                  <forename>María</forename>
+                  <forename>Manuel</forename>
+                  <surname>Gil</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Carrasco</surname>
+               </persName>
+               <persName type="short">EnriqueG</persName>
+               <idno type="VIAF">27087132</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1815" to="1844" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1844" to="1846" ref="http://vocab.getty.edu/page/tgn/7000084">Germany</residence>
+               <birth>
+                  <date when="1815-07-15">15.07.1815</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062633">Villafranca del Bierzo</settlement>
+               </birth>
+               <death>
+                  <date when="1846-02-22">22.02.1846</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7000084">Germany</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7003712">Berlin</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P2">
+               <persName type="main">
+                  <forename>Pablo</forename>
+                  <forename>Alonso</forename>
+                  <nameLink>de</nameLink>
+                  <nameLink>la</nameLink>
+                  <surname>Avecilla</surname>
+               </persName>
+               <persName type="short">PabloA</persName>
+               <idno type="VIAF">9453280</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1810" to="1860" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1810-09-27">27.09.1810</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008561">Salamanca</settlement>
+               </birth>
+               <death>
+                  <date when="1860-12-30">30.12.1860</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P3">
+               <persName type="main">
+                  <forename>Teresa</forename>
+                  <surname>Arróniz</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Bosch</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Gabriel de los Arcos</addName>
+               </persName> 
+               <persName type="short">TeresaA</persName>
+               <idno type="VIAF">268680340</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1827" to="1890" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1827-10-15">15.10.1827</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007590">Cartagena</settlement>
+               </birth>
+               <death>
+                  <date when="1890-04">04.1890</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P4">
+               <persName type="main">
+                  <forename>Braulio</forename>
+                  <surname>Foz</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Burges</surname>
+               </persName>
+               <persName type="short">BraulioF</persName>
+               <idno type="VIAF">22213455</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1791" notAfter="1811" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <residence from="1811" to="1814" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence> 
+               <residence notAfter="1814" notBefore="1821" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <residence notBefore="1821" to="1835" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence> 
+               <residence from="1835" to="1865" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1791">1791</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7336294">Fórnoles</settlement>
+               </birth>
+               <death>
+                  <date when="1865-04-20">20.04.1865</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1061853">Borja</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P5">
+               <persName type="main">
+                  <forename>Cecilia</forename>
+                  <forename>Francisca</forename>
+                  <forename>Josefa</forename>
+                  <surname>Böhl</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Faber</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Ruiz</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Larrea</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Fernán Caballero</addName>
+               </persName>
+               <persName type="short">CeciliaF</persName>
+               <idno type="VIAF">9859150</idno>
+               <nationality>Spanish</nationality>
+               <residence notBefore="1796" to="1805" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1805" to="1813" ref="http://vocab.getty.edu/page/tgn/7000084">Germany</residence>
+               <residence from="1813" to="1816" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1816" to="1818" ref="http://vocab.getty.edu/page/tgn/7004643">Puerto Rico</residence>
+               <residence from="1818" to="1877" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1796-12-25">25.12.1796</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7011731">Switzerland</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007414">Morges</settlement>
+               </birth>
+               <death>
+                  <date when="1877-04-07">07.04.1877</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P6"> 
+               <persName type="main">
+                  <forename>José</forename>
+                  <forename>María</forename>
+                  <surname>Amado</surname>
+                  <surname>Salazar</surname>
+               </persName>
+               <persName type="short">JoséAS</persName>
+               <idno type="VIAF">100145856960022920719</idno>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P7">
+               <persName type="main">
+                  <forename>María</forename>
+                  <forename>Rosalía</forename>
+                  <forename>Rita</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Castro</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Murguía</surname>
+               </persName>
+               <persName type="short">RosalíaC</persName>
+               <idno type="VIAF">51711491</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1837" to="1885" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1837-02-23">23.02.1837</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008643">Santiago de Compostela</settlement>
+               </birth>
+               <death>
+                  <date when="1885-07-22">22.07.1885</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062322">Padrón</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P8">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <nameLink>de</nameLink>
+                  <forename>Dios</forename>
+                  <surname>Mora</surname>
+               </persName>
+               <persName type="short">JuanM</persName>
+               <idno type="VIAF">87109591</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1827" to="1884" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1827">1827</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007513">Córdoba</settlement>
+               </birth>
+               <death>
+                  <date when="1884-05-28">28.05.1884</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P9">
+               <persName type="main">
+                  <forename>Antonio</forename>
+                  <forename>José</forename>
+                  <forename>Teodoro</forename>
+                  <surname>Ros</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Olano</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Perpiñá</surname>
+               </persName>
+               <persName type="short">AntonioR</persName>
+               <idno type="VIAF">60729092</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1808" to="1814" ref="http://vocab.getty.edu/page/tgn/1000059">Venezuela</residence>
+               <residence from="1814" to="1886" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1808-12-09">09.12.1808</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000059">Venezuela</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7005022">Caracas</settlement>
+               </birth>
+               <death>
+                  <date when="1886-07-24">24.07.1886</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P10">
+               <persName type="main">
+                  <forename>Teodoro</forename>
+                  <surname>Guerrero</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Pallarés</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Juan Diente</addName>
+                  <addName type="pseudonym">Tomás García Piñeiro</addName>
+                  <addName type="pseudonym">Goliat</addName>
+                  <addName type="pseudonym">Mr. Papillon</addName>
+                  <addName type="pseudonym">Tadmir el Medyched</addName>
+                  <addName type="pseudonym">Fanny Warrior</addName>
+                  <addName type="pseudonym">Juan sin miedo</addName>
+               </persName> 
+               <persName type="short">TeodoroG</persName>
+               <idno type="VIAF">39156046</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1824" notAfter="1879" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1879" to="1881" ref="http://vocab.getty.edu/page/tgn/7004643">Puerto Rico</residence>
+               <residence from="1884" to="1886" ref="http://vocab.getty.edu/page/tgn/7004643">Puerto Rico</residence>
+               <residence from="1888" to="1904" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1824-11-09">09.11.1824</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7006453">Havana</settlement>
+               </birth>
+               <death>
+                  <date when="1904-10-06">06.10.1904</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P11">
+               <persName type="main">
+                  <forename>Pedro</forename>
+                  <forename>J.</forename>
+                  <surname>Domínguez</surname>
+               </persName>
+               <persName type="short">PedroD</persName>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P12">
+               <persName type="main">
+                  <forename>Victoria</forename>
+                  <forename>Carolina</forename>
+                  <surname>Coronado</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Romero</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Tejada</surname>
+               </persName>
+               <persName type="short">CarolinaC</persName>
+               <idno type="VIAF">5738205</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1820" to="1873" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1873" to="1911" ref="http://vocab.getty.edu/page/tgn/1000090">Portugal</residence>
+               <birth>
+                  <date when="1820-12-12">12.12.1820</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007261">Almendralejo</settlement>
+               </birth>
+               <death>
+                  <date when="1911-01-15">15.01.1911</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000090">Portugal</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010978">Lisbon</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P13">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <forename>María</forename>
+                  <nameLink>de</nameLink>
+                  <nameLink>las</nameLink>
+                  <surname>Mercedes</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Campoamor</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Campoosorio</surname>
+               </persName>
+               <persName type="short">RamónC</persName>
+               <idno type="VIAF">2542317</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1817" to="1901" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1817-09-24">24.09.1817</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062293">Navia</settlement>
+               </birth>
+               <death>
+                  <date when="1901-02-11">11.02.1901</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P14">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <surname>Ortega</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Frías</surname>
+               </persName>
+               <persName type="short">RamónO</persName>
+               <idno type="VIAF">11235414</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1825" to="1883" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1825-03-01">01.03.1825</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007703">Granada</settlement>
+               </birth>
+               <death>
+                  <date when="1883-02-16">16.02.1883</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P15">
+               <persName type="main">
+                  <forename>Nicasio</forename>
+                  <forename>Camilo</forename>
+                  <surname>Jover</surname>
+               </persName>
+               <persName type="short">NicasioJ</persName>
+               <idno type="VIAF">3785113</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1821" to="1881" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1821-12-14">14.12.1821</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </birth>
+               <death>
+                  <date when="1881-09-19">19.09.1881</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P16">
+               <persName type="main">
+                  <forename>Manuel</forename>
+                  <surname>Torrijos</surname>
+               </persName>
+               <persName type="short">ManuelT</persName>
+               <idno type="VIAF">309734949</idno>
+               <nationality>Spanish</nationality>
+               <residence notBefore="1835" to="1865" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1835">1835</date>
+               </birth>
+               <death>
+                  <date when="1865-08-06">06.08.1865</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062332">Paracuellos de Jarama</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P17">
+               <persName type="main">
+                  <forename>José</forename>
+                  <forename>María</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Andueza</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Aben-Zaide</addName>
+                  <addName type="pseudonym">El Fisgón</addName>
+               </persName> 
+               <persName type="short">JoséA</persName>
+               <idno type="VIAF">102336641</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1809" to="1825" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1825" to="1830" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1830" notAfter="1836" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1836" to="1839" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence notBefore="1839" to="1865" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1809-03-12">12.03.1809</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008811">Vitoria-Gasteiz</settlement>
+               </birth>
+               <death>
+                  <date when="1865">1865</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007904">A Coruña</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P18">
+               <persName type="main">
+                  <forename>María</forename>
+                  <forename>Gertrudis</forename>
+                  <nameLink>de</nameLink>
+                  <nameLink>los</nameLink>
+                  <surname>Dolores</surname>
+                  <surname>Gómez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Avellaneda</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Arteaga</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">La Peregrina</addName>
+                  <addName type="pseudonym">Tula</addName>
+                  <addName type="pseudonym">Amadora de Almonte</addName>
+               </persName> 
+               <persName type="short">GertrudisA</persName>
+               <idno type="VIAF">76328537</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1814" to="1836" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1836" to="1858" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> <!--The residence may have ended after 1858.-->
+               <residence from="1859" to="1863" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence> <!--The residence may have ended after 1863.-->
+               <residence from="1864" to="1873" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1814-03-23">23.03.1814</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1016323">Camagüey</settlement>
+               </birth>
+               <death>
+                  <date when="1873-02-01">01.02.1873</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P19">
+               <persName type="main">
+                  <forename>Manuel</forename>
+                  <surname>Fernández</surname>
+                  <nameLink>y</nameLink>
+                  <surname>González</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">El Diablo con Antiparras</addName>
+               </persName> 
+               <persName type="short">ManuelF</persName>
+               <idno type="VIAF">10223685</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1821" to="1888" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1821-12-06">06.12.1821</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </birth>
+               <death>
+                  <date when="1888-01-06">06.01.1888</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P20">
+               <persName type="main">
+                  <forename>Francisco</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Borja</surname>
+                  <surname>Navarro</surname>
+                  <surname>Villoslada</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Navarro</surname>
+                  <surname>Villoslada</surname>
+               </persName>
+               <persName type="short">FranciscoN</persName>
+               <idno type="VIAF">76396892</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1818" to="1895" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1818-10-09">09.10.1818</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7294131">Viana</settlement>
+               </birth>
+               <death>
+                  <date when="1895">29.08.1895</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7294131">Viana</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P21">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>Pastor</surname>
+                  <nameLink>de</nameLink>
+                  <nameLink>la</nameLink>
+                  <surname>Roca</surname>
+               </persName>
+               <persName type="short">JoséR</persName>
+               <idno type="VIAF">87642331</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1824" to="1875" ref="http://vocab.getty.edu/page/tgn/1000054">Spain</residence>
+               <birth>
+                  <date when="1824-02-20">20.02.1824</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000054">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1061989">Dolores</settlement>
+               </birth>
+               <death>
+                  <date when="1875-10-22">22.10.1875</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P22">
+               <persName type="main">
+                  <forename>Antonio</forename>
+                  <surname>Altadill</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Teixidó</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Antonio de Padua</addName>
+                  <addName type="pseudonym">Alfredo Román de Luna</addName>
+               </persName> 
+               <persName type="short">AntonioA</persName>
+               <idno type="VIAF">4772168453545266300008</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1828" to="1880" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1828-04-17">17.04.1828</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008749">Tortosa</settlement>
+               </birth>
+               <death>
+                  <date when="1880-01-15">15.01.1880</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007426">Barcelona</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P23">
+               <persName type="main">
+                  <forename>María</forename>
+                  <nameLink>del</nameLink>
+                  <forename>Pilar</forename>
+                  <surname>Sinués</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Marco</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">María del Pilar Sinués y Navarro</addName>
+                  <addName type="pseudonym">Laura</addName>
+               </persName> 
+               <persName type="short">MaríaS</persName>
+               <idno type="VIAF">59398413</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1835" to="1893" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1835-12-19">19.12.1835</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008813">Zaragoza</settlement>
+               </birth>
+               <death>
+                  <date when="1893-11-20">20.11.1893</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P24">
+               <persName type="main">
+                  <forename>Pedro</forename>
+                  <forename>Pablo</forename>
+                  <surname>Gatell</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Carnicer</surname>
+               </persName>
+               <persName type="short">PedroG</persName>
+               <idno type="VIAF">37223568</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1745" to="1792" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1745-04">04.1745</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062401">Reus</settlement>
+               </birth>
+               <death>
+                  <date when="1792-10-31">31.10.1792</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062007">El Puerto de Santa María</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P25">
+               <persName type="main">
+                  <forename>Pedro</forename>
+                  <surname>Montengón</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Paret</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Filópatro</addName>
+               </persName> 
+               <persName type="short">PedroM</persName>
+               <idno type="VIAF">22223341</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1745" to="1767" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> <!--The residence may have ended after 1767.-->
+               <residence notBefore="1767" to="1824" ref="http://vocab.getty.edu/page/tgn/1000080">Italy</residence>
+               <birth>
+                  <date when="1745-07-17">17.07.1745</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </birth>
+               <death>
+                  <date when="1824-11-18">18.11.1824</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000080">Italy</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7004474">Naples</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P26">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>Mor</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Fuentes</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">José Mor y Pano</addName>
+               </persName>
+               <persName type="short">JoséM</persName>
+               <idno type="VIAF">139212</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1762" to="1848" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1762-06-11">11.06.1762</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008093">Monzón</settlement>
+               </birth>
+               <death>
+                  <date when="1848-12-03">03.12.1848</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008093">Monzón</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P27">
+               <persName type="main">
+                  <forename>Luis</forename>
+                  <surname>Gutiérrez</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Luis Gutiérrez Vázquez</addName>
+                  <addName type="pseudonym">Luis Gonzoga Gutiérrez y Vázquez</addName>
+               </persName>
+               <persName type="short">LuisG</persName>
+               <idno type="VIAF">19844085</idno>
+               <nationality/>
+               <residence from="1771" notAfter="1802" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence notAfter="1802" notBefore="1808" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <birth>
+                  <date when="1771-06-22">22.06.1771</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </birth>
+               <death>
+                  <date when="1809-04-09">09.04.1809</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008771">Valladolid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P28">
+               <persName type="main">
+                  <forename>Antonio</forename>
+                  <surname>Marqués</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Espejo</surname>
+               </persName>
+               <persName type="short">AntonioM</persName>
+               <idno type="VIAF">53780881</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1762" to="1830" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1762-06-11">11.06.1762</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7333251">Gárgoles de Abajo</settlement>
+               </birth>
+               <death>
+                  <date when="1830">1830</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P29">
+               <persName type="main">
+                  <forename>Alonso</forename>
+                  <surname>Bernardo</surname>
+                  <surname>Ribero</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Larrea</surname>
+               </persName>
+               <persName type="short">AlonsoB</persName>
+               <idno type="VIAF">41496711</idno>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P30">
+               <persName type="main">
+                  <forename>Antonio</forename>
+                  <surname>Valladares</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Sotomayor</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Anastasio Valderosal y Montedoro</addName>
+                  <addName type="pseudonym">Anselmo Tovalina Ordaso de Tiroa</addName>
+                  <addName type="pseudonym">Valerio Llamas Dávalos y Resa</addName>
+                  <addName type="pseudonym">Leonardo Evaristo Lasa y Montado</addName>
+                  <addName type="pseudonym">Thomas Valerio Roldan de Santoyoa</addName>
+                  <addName type="pseudonym">Antonio Valdasreal</addName>
+                  <addName type="pseudonym">Antonio Resaldoval Tosoyorma</addName>
+               </persName>
+               <persName type="short">AntonioV</persName>
+               <idno type="VIAF">100955027</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1737" to="1820" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1737-07-30">30.07.1737</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007904">A Coruña</settlement>
+               </birth>
+               <death>
+                  <date when="1820">1820</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P31">
+               <persName type="main">
+                  <forename>Cándido</forename>
+                  <forename>Melchor</forename>
+                  <forename>María</forename>
+                  <surname>Trigueros</surname>
+                  <surname>Díaz</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Lara</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Luján</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">El Poeta filósofo</addName>
+                  <addName type="pseudonym">Melchor María Sánchez de Toledo</addName>
+                  <addName type="pseudonym">Melchor Díaz de Toledo</addName>
+                  <addName type="pseudonym">Maestro Crispín Caramillo</addName>
+                  <addName type="pseudonym">Crispin Caramillo</addName>
+                  <addName type="pseudonym">E.A.D.L.M.</addName>
+               </persName>
+               <persName type="short">CándidoT</persName>
+               <idno type="VIAF">40177724</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1736" to="1798" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1736-09-04">04.09.1736</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062314">Orgaz</settlement>
+               </birth>
+               <death>
+                  <date when="1798-05-20">20.05.1798</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P32">
+               <persName type="main">
+                  <forename>Gaspar</forename>
+                  <surname>Zavala</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Zamora</surname>
+               </persName>
+               <persName type="short">GasparZ</persName>
+               <idno type="VIAF">17246561</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1762" to="1825" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1762-01-07">07.01.1762</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1061769">Aranda de Duero</settlement>
+               </birth>
+               <death>
+                  <date when="1825">1825</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P33">
+               <persName type="main">
+                  <forename>Jerónimo</forename>
+                  <surname>Martín</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Bernardo</surname>
+               </persName>
+               <persName type="short">JerónimoM</persName>
+               <idno type="VIAF">1242293</idno>
+               <nationality/>
+               <residence notBefore="1767" notAfter="1814" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date notBefore="1767" notAfter="1770">1767-1770</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date notAfter="1814-08-23">23.08.1814</date>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P34">
+               <persName type="main">
+                  <forename>Eugenio</forename>
+                  <forename>Vicente</forename>
+                  <surname>Ferrer</surname>
+                  <nameLink>de</nameLink>
+                  <forename>Tapia</forename>
+                  <surname>García</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Ernesto</addName>
+                  <addName type="pseudonym">El Licenciado Machuca</addName>
+                  <addName type="pseudonym">Valentín del Mazo y Correa</addName>
+               </persName>
+               <persName type="short">EugenioT</persName>
+               <idno type="VIAF">69279289</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1776" to="1860" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1776-07-18">18.07.1776</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007090">Ávila</settlement>
+               </birth>
+               <death>
+                  <date when="1860-08-04">04.08.1860</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P35">
+               <persName type="main">
+                  <forename>Mariano</forename>
+                  <surname>Madramany</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Calatayud</surname>
+               </persName>
+               <persName type="short">MarianoM</persName>
+               <idno type="VIAF">193795771</idno>
+               <nationality/>
+               <residence from="1746" to="1822" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1746">1746</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008769">Valencia</settlement>
+               </birth>
+               <death>
+                  <date when="1822">1822</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007959">Mallorca</settlement>
+               </death>
+               <sex></sex>
+            </person>
+            <person xml:id="P36">
+               <persName type="main">
+                  <forename>Vicente</forename>
+                  <surname>Martínez</surname>
+                  <surname>Colomer</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Francisca Boronat y Borja</addName>
+               </persName>
+               <persName type="short">VicenteM</persName>
+               <idno type="VIAF">54172431</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1762" to="1820" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1762-01-26">26.01.1762</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1061838">Benisa</settlement>
+               </birth>
+               <death>
+                  <date when="1820">1820</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008769">Valencia</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P37">
+               <persName type="main">
+                  <forename>Ignacio</forename>
+                  <forename>María</forename>
+                  <forename>Antonio</forename>
+                  <surname>García</surname>
+                  <surname>Malo</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Mariano de Anaya</addName>
+                  <addName type="pseudonym">Gil Cano Moya</addName>
+                  <addName type="pseudonym">el Misántropo</addName>
+               </persName>
+               <persName type="short">IgnacioM</persName>
+               <idno type="VIAF">20488828</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1760" to="1812" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1760-02-01">01.02.1760</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7338292">Castillo de Garcimuñoz</settlement>
+               </birth>
+               <death>
+                  <date when="1812-06-25">25.06.1812</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008232">Palma de Mallorca</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P38">
+               <persName type="main">
+                  <forename>Francisco</forename>
+                  <surname>Brotons</surname>
+               </persName>
+               <persName type="short">FranciscoB</persName>
+               <birth>
+                  <date when="1786">1786</date>
+               </birth>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P39">
+               <persName type="main">
+                  <forename>Basilio</forename>
+                  <surname>Sebastián</surname>
+                  <surname>Castellanos</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Losada</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Santos Bueno del Castillo</addName>
+                  <addName type="pseudonym">El Tío Pilili</addName>
+               </persName>
+               <persName type="short">BasilioL</persName>
+               <idno type="VIAF">64134418</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1807" to="1891" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1807-06-14">14.06.1807</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1891-06-06">06.06.1891</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P40">
+               <persName type="main">
+                  <forename>Estanislao</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Kostka</surname>
+                  <surname>Vayo</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Lamarca</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Estanislao de Kostka Vayo de la Fuente</addName>
+                  <addName type="pseudonym">Juan Pérez y García</addName>
+                  <addName type="pseudonym">El bachiller valenciano</addName>
+               </persName>
+               <persName type="short">EstanislaoK</persName>
+               <idno type="VIAF">17276596</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1804" notAfter="1864" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1804-11-17">17.11.1804</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008769">Valencia</settlement>
+               </birth>
+               <death>
+                  <date when="1864">1864</date>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P41">
+               <persName type="main">
+                  <forename>Vicenta</forename>
+                  <surname>Maturana</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Vázquez</surname>
+               </persName>
+                <persName type="other">
+                  <addName type="pseudonym">Vicenta Maturana de Gutiérrez</addName>
+                  <addName type="pseudonym">Celmira</addName>
+               </persName>
+               <persName type="short">VicentaM</persName>
+               <idno type="VIAF">89864868</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1793" to="1809" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1809" to="1811" ref="http://vocab.getty.edu/page/tgn/1000090">Portugal</residence>
+               <residence from="1811" to="1833" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1833" to="1836" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1836" to="1838" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1838" to="1847" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1847" to="1859" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1793-07-06">06.07.1793</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007512">Cádiz</settlement>
+               </birth>
+               <death>
+                  <date when="1859-05-15">15.05.1859</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007139">Alcalá de Henares</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P42">
+               <persName type="main">
+                  <forename>Joaquín</forename>
+                  <forename>Telesforo</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Trueba</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Cosío</surname>
+               </persName>
+               <persName type="short">TelesforoT</persName>
+               <idno type="VIAF">69787522</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1799" to="1812" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1812" to="1818" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence from="1818" to="1822" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1822" to="1825" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1825" to="1834" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence notBefore="1834" to="1835" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <birth>
+                  <date when="1799-01-05">05.01.1799</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008639">Santander</settlement>
+               </birth>
+               <death>
+                  <date when="1835-10-04">04.10.1835</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000070">France</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008038">Paris</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P43">
+               <persName type="main">
+                  <forename>Manuel</forename>
+                  <surname>Benito</surname>
+                  <surname>Aguirre</surname>
+               </persName>
+               <persName type="short">ManuelB</persName>
+               <idno type="VIAF">4151533631002771476</idno>
+               <birth>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7002842">Soria</settlement>
+               </birth>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P44">
+               <persName type="main">
+                  <forename>Ángela</forename>
+                  <surname>Grassi</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Trechi</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Ángela de Cuenca</addName>
+               </persName>
+               <persName type="short">ÁngelaG</persName>
+               <idno type="VIAF">85064176</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1823" to="1829" ref="http://vocab.getty.edu/page/tgn/1000080">Italy</residence>
+               <residence from="1829" to="1883" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1823-08-02">02.08.1823</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000080">Italy</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7005874">Crema</settlement>
+               </birth>
+               <death>
+                  <date when="1883-09-17">17.09.1883</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P45">
+               <persName type="main">
+                  <forename>María</forename>
+                  <surname>Josefa</surname>
+                  <surname>Cabeza</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Mier</surname>
+               </persName>
+               <persName type="short">MaríaJ</persName>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P46">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <surname>Fernández</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Rojas</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Liseno</addName>
+                  <addName type="pseudonym">Francisco Agustín Florencio</addName>
+                  <addName type="pseudonym">Cornelio Suárez de Molina</addName>
+               </persName>
+               <persName type="short">JuanF</persName>
+               <idno type="VIAF">21209422</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1752" to="1819" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1752-06-23">23.06.1752</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007635">Colmenar de Oreja</settlement>
+               </birth>
+               <death>
+                  <date when="1819-04-18">18.04.1819</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P47">
+               <persName type="main">
+                  <forename>Sebastián</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Miñano</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Bedoya</surname>
+               </persName>
+               <persName type="short">SebastiánM</persName>
+               <idno type="VIAF">73979372</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1779" to="1812" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1812" to="1816" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1816" to="1830" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence notBefore="1830" to="1845" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <birth>
+                  <date when="1779-01-20">20.01.1779</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7346945">Becerril de Campos</settlement>
+               </birth>
+               <death>
+                  <date when="1845-02-06">06.02.1845</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000070">France</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008192">Bayonne</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P48">
+               <persName type="main">
+                  <forename>Rafael</forename>
+                  <forename>José</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Crespo</surname>
+                  <surname>Roche</surname>
+               </persName>
+               <persName type="short">RafaelC</persName>
+               <idno type="VIAF">6896907</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1779" to="1842" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1779-10-24">24.10.1779</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/4000532">Alfajarín</settlement>
+               </birth>
+               <death>
+                  <date when="1842-11-03">03.11.1842</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/4000532">Alfajarín</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P49">
+               <persName type="main">
+                  <forename>Mariano</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Rementería</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Fica</surname>
+               </persName>
+               <persName type="short">MarianoR</persName>
+               <idno type="VIAF">40994352</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1786" to="1841" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1786-04-07">07.04.1786</date>
+               </birth>
+               <death>
+                  <date when="1841-12-05">05.12.1841</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P50">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>Cadalso</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Vázquez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Andrade</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Dalmiro</addName>
+                  <addName type="pseudonym">Juan del Valle</addName>
+               </persName>
+               <persName type="short">JoséC</persName>
+               <idno type="VIAF">5817</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1741" to="1779" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1779" to="1782" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <birth>
+                  <date when="1741-10-08">08.10.1741</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007512">Cádiz</settlement>
+               </birth>
+               <death>
+                  <date when="1782-02-26">26.02.1782</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1041929">Gibraltar</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P51">
+               <persName type="main">
+                  <forename>Pablo</forename>
+                  <forename>Antonio</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Olavide</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Jaúregui</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Anastasio Céspedes y Monroy</addName>
+                  <addName type="pseudonym">Conde de Pilos</addName>
+               </persName>
+               <persName type="short">PabloO</persName>
+               <idno type="VIAF">71413188</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1725" notAfter="1752" ref="http://vocab.getty.edu/page/tgn/1000056">Peru</residence>
+               <residence from="1752" to="1780" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1780" to="1798" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1798" to="1803" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1725-01-25">25.01.1725</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000056">Peru</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7005821">Lima</settlement>
+               </birth>
+               <death>
+                  <date when="1803-02-25">25.02.1803</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007405">Baeza</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P52">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <forename>Jacinto</forename>
+                  <surname>Rodríguez</surname>
+                  <surname>Calderón</surname>
+               </persName>
+               <persName type="short">JuanR</persName>
+               <nationality>Spanish</nationality>
+               <birth>
+                  <date when="1770">1770</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007904">A Coruña</settlement>
+               </birth>
+               <death>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004643">Puerto Rico</country>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P53">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Mesonero</surname>
+                  <surname>Romanos</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">El Curioso Parlante</addName>
+               </persName>
+               <persName type="short">RamónM</persName>
+               <idno type="VIAF">54265472</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1803" to="1882" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1803-07-19">19.07.1803</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1882-04-30">30.04.1882</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P54">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <surname>López</surname>
+                  <surname>Soler</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Lopecio Tilino</addName>
+                  <addName type="pseudonym">Gregorio Pérez de Miranda</addName>
+               </persName>
+               <persName type="short">RamónL</persName>
+               <idno type="VIAF">12355264</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1799" to="1836" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1799-10-05">05.10.1799</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062208">Manresa</settlement>
+               </birth>
+               <death>
+                  <date when="1836-08-21">21.08.1836</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P55">
+               <persName type="main">
+                  <forename>Patricio</forename>
+                  <nameLink>de</nameLink>
+                  <nameLink>la</nameLink>
+                  <surname>Escosura</surname>
+                  <surname>Morrogh</surname>
+               </persName>
+               <persName type="short">PatricioE</persName>
+               <idno type="VIAF">61588102</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1807" to="1824" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1824" to="1826" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1826" to="1840" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1840" to="1843" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1843" to="1862" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1862" to="1865" ref="http://vocab.getty.edu/page/tgn/1000135">Philippines</residence>
+               <residence from="1865" to="1872" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1872" to="1874" ref="http://vocab.getty.edu/page/tgn/7000084">Germany</residence>
+               <residence from="1874" to="1878" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1807-11-05">05.11.1807</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1878-01-22">22.01.1878</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P56">
+               <persName type="main">
+                  <forename>Serafín</forename>
+                  <surname>Estébanez</surname>
+                  <surname>Calderón</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">El Solitario</addName>
+               </persName>
+               <persName type="short">SerafínE</persName>
+               <idno type="VIAF">2492370</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1799" to="1867" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1799-12-27">27.12.1799</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007942">Málaga</settlement>
+               </birth>
+               <death>
+                  <date when="1867-02-05">05.02.1867</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P57">
+               <persName type="main">
+                  <forename>José</forename>
+                  <forename>Ignacio</forename>
+                  <forename>Javier</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Espronceda</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Delgado</surname>
+               </persName>
+               <persName type="short">JoséE</persName>
+               <idno type="VIAF">20632</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1808" to="1827" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1827" to="1829" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence from="1829" to="1833" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1833" to="1842" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1808-03-25">25.03.1808</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007261">Almendralejo</settlement>
+               </birth>
+               <death>
+                  <date when="1842-05-23">23.05.1842</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P58">
+               <persName type="main">
+                  <forename>Mariano</forename>
+                  <forename>José</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Larra</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Sánchez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Castro</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Fígaro</addName>
+                  <addName type="pseudonym">El Bachiller Pérez de Munguía</addName>
+                  <addName type="pseudonym">Andrés Niporesas</addName>
+                  <addName type="pseudonym">Ramón de Arriala</addName>
+                  <addName type="pseudonym">El pobrecito hablador</addName>
+                  <addName type="pseudonym">El Duende</addName>
+               </persName>
+               <persName type="short">MarianoL</persName>
+               <idno type="VIAF">68923955</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1809" to="1813" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1813" to="1818" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1818" to="1837" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1809-03-24">24.03.1809</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1837-02-13">13.02.1837</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P59">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <forename>José</forename>
+                  <forename>Jaime</forename>
+                  <surname>Bonal</surname>
+                  <surname>Cortada</surname>
+               </persName>
+               <persName type="short">JuanB</persName>
+               <idno type="VIAF">89720352</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1769" to="1829" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1769-08-24">24.08.1769</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007697">Girona</settlement>
+               </birth>
+               <death>
+                  <date when="1829-08-19">19.08.1829</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062670">Zuera</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P60">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>García</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Villalta</surname>
+               </persName>
+               <persName type="short">JoséG</persName>
+               <idno type="VIAF">23972586</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1801" to="1824" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence notBefore="1824" to="1830" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence from="1830" notAfter="1833" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1833" notAfter="1844" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1844" to="1846" ref="http://vocab.getty.edu/page/tgn/1000074">Greece</residence> <!--The residence may have started before 1844.-->
+               <birth>
+                  <date when="1801-08-01">01.08.1801</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </birth>
+               <death>
+                  <date when="1846-05-21">21.05.1846</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000074">Greece</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7001393">Athens</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P61">
+               <persName type="main">
+                  <forename>José</forename>
+                  <forename>María</forename>
+                  <surname>Blanco</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Crespo</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">José Blanco White</addName>
+               </persName>
+               <persName type="short">JoséB</persName>
+               <idno type="VIAF">49268120</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1775" to="1810" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1810" to="1832" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence from="1832" to="1835" ref="http://vocab.getty.edu/page/tgn/1000078">Ireland</residence>
+               <residence from="1835" to="1841" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <birth>
+                  <date when="1775-07-11">11.07.1775</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </birth>
+               <death>
+                  <date when="1841-05-20">20.05.1841</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010597">Liverpool</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P62">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <surname>Valera</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Alcalá-Galiano</surname>
+               </persName>
+               <persName type="short">JuanV</persName>
+               <idno type="VIAF">46770556</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1824" to="1851" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1851" to="1853" ref="http://vocab.getty.edu/page/tgn/1000047">Brasil</residence>
+               <residence from="1853" notAfter="1855" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1855" to="1857" ref="http://vocab.getty.edu/page/tgn/7000084">Germany</residence> <!--The residence may have started before 1855.-->
+               <residence notBefore="1857" to="1905" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1824-10-18">18.10.1824</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007570">Cabra</settlement>
+               </birth>
+               <death>
+                  <date when="1905-04-18">18.04.1905</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P63">
+               <persName type="main">
+                  <forename>Benigno</forename>
+                  <surname>Carballo</surname>
+                  <surname>Wangüemert</surname>
+               </persName>
+               <persName type="short">BenignoW</persName>
+               <idno type="VIAF">86819750</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1826" to="1864" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1826-02-13">13.02.1826</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062179">Los Llanos de Aridane</settlement>
+               </birth>
+               <death>
+                  <date when="1864-04-17">17.04.1864</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P64">
+               <persName type="main">
+                  <forename>José</forename>
+                  <forename>María</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Pereda</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Sánchez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Porrúa</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Paredes</addName>
+               </persName>
+               <persName type="short">JoséP</persName>
+               <idno type="VIAF">54167127</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1833" to="1906" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1833-02-06">06.02.1833</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008639">Santander</settlement>
+               </birth>
+               <death>
+                  <date when="1906-03-01">01.03.1906</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008639">Santander</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P65">
+               <persName type="main">
+                  <forename>Benito</forename>
+                  <surname>Pérez</surname>
+                  <surname>Galdós</surname>
+               </persName>
+               <persName type="short">BenitoP</persName>
+               <idno type="VIAF">71395987</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1843" to="1920" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1843-05-10">10.05.1843</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010417">Las Palmas de Gran Canaria</settlement>
+               </birth>
+               <death>
+                  <date when="1920-01-04">04.01.1920</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P66">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <surname>Tamayo</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Calvillo</surname>
+               </persName>
+               <persName type="short">RamónT</persName>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P67">
+               <persName type="main">
+                  <forename>Emilio</forename>
+                  <surname>Castelar</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Ripoll</surname>
+               </persName>
+               <persName type="short">EmilioC</persName>
+               <idno type="VIAF">27085279</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1832" to="1865" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> <!--The residence may have ended after 1865.-->
+               <residence notBefore="1865" to="1868" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1868" to="1899" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1832-09-07">07.09.1832</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007512">Cádiz</settlement>
+               </birth>
+               <death>
+                  <date when="1899-05-25">25.05.1899</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7324309">San Pedro del Pinatar</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P68">
+               <persName type="main">
+                  <forename>Eleuterio</forename>
+                  <surname>Llofriu</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Sagrera</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Evaristo Llorente y Salazar</addName>
+               </persName>
+               <persName type="short">EleuterioL</persName>
+               <idno type="VIAF">232440021</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1835" to="1880" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <birth>
+                  <date when="1835-08-29">29.08.1835</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </birth>
+               <death>
+                  <date when="1880-02-16">16.02.1880</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007785">Huesca</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P69">
+               <persName type="main">
+                  <forename>Eusebio</forename>
+                  <surname>Martínez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Velasco</surname>
+               </persName>
+               <persName type="short">EusebioM</persName>
+               <idno type="VIAF">202683359</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1836" to="1893" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1836-09-15">15.09.1836</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007510">Burgos</settlement>
+               </birth>
+               <death>
+                  <date when="1893-03-06">06.03.1893</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P70"> 
+               <persName type="main">
+                  <forename>Eduardo</forename>
+                  <surname>López</surname>
+                  <surname>Bago</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Peñalver</surname>
+               </persName>
+               <persName type="short">EduardoL</persName>
+               <idno type="VIAF">100260835</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1853" to="1888" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence notBefore="1888" notAfter="1931" ref="http://vocab.getty.edu/page/tgn/7006477">Argentina</residence>
+               <birth>
+                  <date when="1853-03-27">27.03.1853</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007284">Aranjuez</settlement>
+               </birth>
+               <death>
+                  <date when="1931-10-30">30.10.1931</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P71">
+               <persName type="main">
+                  <forename>Rafael</forename>
+                  <nameLink>del</nameLink>
+                  <surname>Castillo</surname>
+                  <nameLink>de</nameLink>
+                  <nameLink>la</nameLink>
+                  <surname>Cuesta</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Florencio Castellano</addName>
+                  <addName type="pseudonym">Álvaro Carrillo</addName>
+                  <addName type="pseudonym">Olivier Duhamel</addName>
+                  <addName type="pseudonym">Roger de Flor</addName>
+                  <addName type="pseudonym">Carlos de Lafalleti</addName>
+                  <addName type="pseudonym">Martín de Mora</addName>
+               </persName>
+               <persName type="short">RafaelCC</persName>
+               <idno type="VIAF">46419719</idno>
+               <nationality>Spanish</nationality>
+               <residence notBefore="1830" notAfter="1908" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date notBefore="1830" notAfter="1840">1830-1840</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007590">Cartagena</settlement>
+               </birth>
+               <death>
+                  <date notBefore="1900" notAfter="1908">1900-1908</date>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P72">
+               <persName type="main">
+                  <forename>Leopoldo</forename>
+                  <forename>Enrique</forename>
+                  <surname>García-Alas</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Ureña</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Clarín</addName>
+               </persName>
+               <persName type="short">LeopoldoA</persName>
+               <idno type="VIAF">17218138</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1852" to="1901" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1852-04-25">25.04.1852</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008812">Zamora</settlement>
+               </birth>
+               <death>
+                  <date when="1901-06-13">13.06.1901</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008910">Oviedo</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P73">
+               <persName type="main">
+                  <forename>Emilia</forename>
+                  <forename>Antonia</forename>
+                  <forename>Socorro</forename>
+                  <forename>Josefa</forename>
+                  <forename>Amalia</forename>
+                  <forename>Vicenta</forename>
+                  <forename>Eufemia</forename>
+                  <surname>Pardo</surname>
+                  <surname>Bazán</surname>
+                  <nameLink>y</nameLink>
+                  <nameLink>de</nameLink>
+                  <nameLink>la</nameLink>
+                  <surname>Rúa-Figueroa</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Condesa de Pardo Bazán</addName>
+               </persName>
+               <persName type="short">EmiliaP</persName>
+               <idno type="VIAF">51699645</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1851" to="1921" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1851-09-16">16.09.1851</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007904">A Coruña</settlement>
+               </birth>
+               <death>
+                  <date when="1921-05-12">12.05.1921</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P74">
+               <persName type="main">
+                  <forename>Vicente</forename>
+                  <surname>Blasco</surname>
+                  <surname>Ibáñez</surname>
+               </persName>
+               <persName type="short">VicenteB</persName>
+               <idno type="VIAF">73848096</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1867" to="1909" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1909" to="1913" ref="http://vocab.getty.edu/page/tgn/7006477">Argentina</residence>
+               <residence notBefore="1913" notAfter="1928" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1867-01-29">29.01.1867</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008769">Valencia</settlement>
+               </birth>
+               <death>
+                  <date when="1928-01-28">28.01.1928</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000070">France</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7009337">Menton</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P75">
+               <persName type="main">
+                  <forename>Julia</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Asensi</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Laiglesia</surname>
+               </persName>
+               <persName type="short">JuliaA</persName>
+               <idno type="VIAF">87707610</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1849" to="1921" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1849-05-04">04.05.1849</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1921-11-07">07.11.1921</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P76">
+               <persName type="main">
+                  <forename>Antonio</forename>
+                  <surname>Barreras</surname>
+               </persName>
+               <persName type="short">AntonioB</persName>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P77">
+               <persName type="main">
+                  <forename>Luis</forename>
+                  <surname>Coloma</surname>
+                  <surname>Roldán</surname>
+               </persName>
+               <persName type="short">LuisC</persName>
+               <idno type="VIAF">59211037</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1851" to="1872" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1874" to="1877"  ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1877" to="1915" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1851-01-09">09.01.1851</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007901">Jerez de la Frontera</settlement>
+               </birth>
+               <death>
+                  <date when="1915-06-10">10.06.1915</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P78">
+               <persName type="main">
+                  <forename>Ginés</forename>
+                  <surname>Alberola</surname>
+               </persName>
+               <persName type="short">GinésA</persName>
+               <idno type="VIAF">78581932</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1855" to="1935" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1855">1855</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007304">Aspe</settlement>
+               </birth>
+               <death>
+                  <date when="1935">1935</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P79">
+               <persName type="main">
+                  <forename>Alejandro</forename>
+                  <surname>Sawa</surname>
+                  <surname>Martínez</surname>
+               </persName>
+               <persName type="short">AlejandroS</persName>
+               <idno type="VIAF">59126336</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1862" to="1889" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <residence from="1889" to="1896" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1896" to="1909" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1862-03-15">15.03.1862</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008676">Seville</settlement>
+               </birth>
+               <death>
+                  <date when="1909-03-03">03.03.1909</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P80">
+               <persName type="main">
+                  <forename>Eduardo</forename>
+                  <surname>Zamacois</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Quintana</surname>
+               </persName>
+               <persName type="short">EduardoZ</persName>
+               <idno type="VIAF">51728159</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1873" to="1877" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1878" to="1883" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1883" to="1939" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence notBefore="1939" to="1971" ref="http://vocab.getty.edu/page/tgn/7006477">Argentina</residence>
+               <birth>
+                  <date when="1873-02-17">17.02.1873</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1016408">Pinar del Río</settlement>
+               </birth>
+               <death>
+                  <date when="1971-12-31">31.12.1971</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7006477">Argentina</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7006287">Buenos Aires</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P81">
+               <persName type="main">
+                  <forename>Ángel</forename>
+                  <surname>Ganivet</surname>
+                  <surname>García</surname>
+               </persName>
+               <persName type="short">ÁngelG</persName>
+               <idno type="VIAF">76339208</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1865" to="1892" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1892" to="1896" ref="http://vocab.getty.edu/page/tgn/1000063">Belgium</residence>
+               <residence from="1896" to="1898" ref="http://vocab.getty.edu/page/tgn/1000069">Finland</residence>
+               <birth>
+                  <date when="1865-12-13">13.12.1865</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007703">Granada</settlement>
+               </birth>
+               <death>
+                  <date when="1898-11-29">29.11.1898</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7006541">Latvia</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7006484">Riga</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P82">
+               <persName type="main">
+                  <forename>Jacinto</forename>
+                  <forename>Octavio</forename>
+                  <surname>Picón</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Bouchet</surname>
+               </persName>
+               <persName type="short">JacintoP</persName>
+               <idno type="VIAF">35252653</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1852" to="1878" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1878" to="1880" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence> <!--The residence may have started before 1878.-->
+               <residence from="1880" to="1923" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1852-09-08">08.09.1852</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1923-11-19">19.11.1923</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P83">
+               <persName type="main">
+                  <forename>Armando</forename>
+                  <forename>Francisco</forename>
+                  <forename>Bonifacio</forename>
+                  <surname>Palacio</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Rodríguez</surname>
+                  <surname>Valdés</surname>
+               </persName>
+               <persName type="short">ArmandoP</persName>
+               <idno type="VIAF">61554068</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1853" to="1938" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1853-10-04">04.10.1853</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7333904">Entralgo</settlement>
+               </birth>
+               <death>
+                  <date when="1938-01-29">29.01.1938</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P84">
+               <persName type="main">
+                  <forename>Juan</forename>
+                  <forename>Bautista</forename>
+                  <surname>Amorós</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Vázquez</surname>
+                  <nameLink>de</nameLink>
+                  <surname>Figueroa</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Silverio Lanza</addName>
+               </persName>
+               <persName type="short">JuanA</persName>
+               <idno type="VIAF">24624818</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1856" to="1912" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1856-11-05">05.11.1856</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </birth>
+               <death>
+                  <date when="1912-05-30">30.05.1912</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P85">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>Ortega</surname>
+                  <surname>Munilla</surname>
+               </persName>
+               <persName type="short">JoséO</persName>
+               <idno type="VIAF">42728255</idno>
+               <nationality>Spanish</nationality>
+               <residence notBefore="1856" to="1922" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1856-10-26">26.10.1856</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1016316">Cárdenas</settlement>
+               </birth>
+               <death>
+                  <date when="1922-12-30">30.12.1922</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P86">
+               <persName type="main">
+                  <forename>Salvador</forename>
+                  <surname>Rueda</surname>
+                  <surname>Santos</surname>
+               </persName>
+               <persName type="short">SalvadorR</persName>
+               <idno type="VIAF">17371849</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1857" to="1933" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1857-12-03">03.12.1857</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement>Benaque</settlement>
+               </birth>
+               <death>
+                  <date when="1933-04-01">01.04.1933</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007942">Málaga</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P87">
+               <persName type="main">
+                  <forename>José</forename>
+                  <surname>Selgas</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Carrasco</surname>
+               </persName>
+               <persName type="short">JoséS</persName>
+               <idno type="VIAF">74118486</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1822" to="1882" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1822-11-27">27.11.1822</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062178">Lorca</settlement>
+               </birth>
+               <death>
+                  <date when="1882-02-05">05.02.1882</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P88">
+               <persName type="main">
+                  <forename>María</forename>
+                  <forename>Pilar</forename>
+                  <surname>Pascual</surname>
+                  <nameLink>e</nameLink>
+                  <surname>Ibars</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">María Pilar Pascual de Sanjuán</addName>
+                  <addName type="pseudonym">María Pilar Pascual y Fuentes</addName>
+               </persName>
+               <persName type="short">PilarP</persName>
+               <idno type="VIAF">86993429</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1827" to="1899" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1827-10-23">23.10.1827</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007590">Cartagena</settlement>
+               </birth>
+               <death>
+                  <date when="1899-11-18">18.11.1899</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007426">Barcelona</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P89">
+               <persName type="main">
+                  <forename>Ramiro</forename>
+                  <surname>Blanco</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Ramiro Blanco Fernández</addName>
+               </persName>
+               <persName type="short">RamiroB</persName>
+               <idno type="VIAF">86973454</idno>
+               <nationality>Spanish</nationality>
+               <residence notBefore="1857" notAfter="1913" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1857">1857</date>
+               </birth>
+               <death>
+                  <date when="1913">1913</date>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P90">
+               <persName type="main">
+                  <forename>Felipe</forename>
+                  <surname>Trigo</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Sánchez-Mora</surname>
+               </persName>
+               <persName type="short">FelipeT</persName>
+               <idno type="VIAF">79060694</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1864" to="1916" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1864-02-13">13.02.1864</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7295526">Villanueva de la Serena</settlement>
+               </birth>
+               <death>
+                  <date when="1916-09-02">02.09.1916</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P91">
+               <persName type="main">
+                  <forename>Gabriel</forename>
+                  <forename>Francisco</forename>
+                  <forename>Víctor</forename>
+                  <surname>Miró</surname>
+                  <surname>Ferrer</surname>
+               </persName>
+               <persName type="short">GabrielM</persName>
+               <idno type="VIAF">29542991</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1879" to="1930" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1879-07-28">28.07.1879</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </birth>
+               <death>
+                  <date when="1930-05-27">27.05.1930</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P92">
+               <persName type="main">
+                  <forename>Miguel</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Unamuno</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Jugo</surname>
+               </persName>
+               <persName type="short">MiguelU</persName>
+               <idno type="VIAF">88844103</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1864" to="1924" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1924" to="1930" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <residence from="1930" to="1936" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1864-09-29">29.09.1864</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007483">Bilbao</settlement>
+               </birth>
+               <death>
+                  <date when="1936-12-31">31.12.1936</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008561">Salamanca</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P93">
+               <persName type="main">
+                  <forename>Ramón</forename>
+                  <forename>José</forename>
+                  <forename>Simón</forename>
+                  <nameLink>del</nameLink>
+                  <surname>Valle</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Peña</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Ramón María del Valle-Inclán</addName>
+               </persName>
+               <persName type="short">RamónV</persName>
+               <idno type="VIAF">68936773</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1866" to="1936" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1866-10-28">28.10.1866</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7295745">Villanueva de Arosa</settlement>
+               </birth>
+               <death>
+                  <date when="1936-01-05">05.01.1936</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008643">Santiago de Compostela</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P94">
+               <persName type="main">
+                  <forename>Joaquín</forename>
+                  <surname>Dicenta</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Joaquín Dicenta Benedicto</addName>
+                  <addName type="pseudonym">Joaquín Dicenta y Benedicto</addName>
+                  <addName type="pseudonym">Don Hermógenes</addName>
+               </persName>
+               <persName type="short">JoaquínD</persName>
+               <idno type="VIAF">68949187</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1862" to="1917" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1862-02-03">03.02.1862</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008719">Toledo</settlement>
+               </birth>
+               <death>
+                  <date when="1917-02-21">21.02.1917</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007259">Alicante</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P95">
+               <persName type="main">
+                  <forename>María</forename>
+                  <nameLink>del</nameLink>
+                  <forename>Carmen</forename>
+                  <forename>Ramona</forename>
+                  <forename>Loreta</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Burgos</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Seguí</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Colombine</addName>
+                  <addName type="pseudonym">Gabriel Luna</addName>
+                  <addName type="pseudonym">Perico el de los Palotes</addName>
+                  <addName type="pseudonym">Raquel</addName>
+                  <addName type="pseudonym">Honorine</addName>
+                  <addName type="pseudonym">Marianela</addName>
+               </persName>
+               <persName type="short">CarmenB</persName>
+               <idno type="VIAF">95256735</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1867" to="1932" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1867-12-10">10.12.1867</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007262">Almería</settlement>
+               </birth>
+               <death>
+                  <date when="1932-10-08">08.10.1932</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P96">
+               <persName type="main">
+                  <forename>Manuel</forename>
+                  <surname>Ciges</surname>
+                  <surname>Aparicio</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Escipión</addName>
+               </persName>
+               <persName type="short">ManuelC</persName>
+               <idno type="VIAF">4959739</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1873" to="1896" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <residence from="1896" to="1898" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1898" to="1936" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1873-01-14">14.01.1873</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1062012">Enguera</settlement>
+               </birth>
+               <death>
+                  <date when="1936-08-04">04.08.1936</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007090">Ávila</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P97">
+               <persName type="main">
+                  <forename>Ramiro</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Maeztu</surname>
+                  <nameLink>y</nameLink>
+                  <surname>Whitney</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Rotuney</addName>
+                  <addName type="pseudonym">Cualquiera</addName>
+                  <addName type="pseudonym">Van Poel Krupp</addName>
+               </persName>
+               <persName type="short">RamiroM</persName>
+               <idno type="VIAF">34495436</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1874" to="1891" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence> 
+               <residence from="1891" to="1894" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1894" to="1905" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1905" to="1919" ref="http://vocab.getty.edu/page/tgn/7008591">United Kingdom</residence>
+               <residence from="1919" to="1927" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1927" to="1929" ref="http://vocab.getty.edu/page/tgn/7012149">United States</residence>
+               <residence from="1929" to="1936" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1874-05-04">04.05.1874</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008811">Vitoria-Gasteiz</settlement>
+               </birth>
+               <death>
+                  <date when="1936-10-29">29.10.1936</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7344386">Aravaca</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P98">
+               <persName type="main">
+                  <forename>Emilio</forename>
+                  <surname>Bobadilla</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Emilio Bobadilla y Lunar</addName>
+                  <addName type="pseudonym">Fray Candil</addName>
+               </persName>
+               <persName type="short">EmilioB</persName>
+               <idno type="VIAF">86959601</idno>
+               <nationality>Cuban</nationality>
+               <nationality>Spanish</nationality>
+               <residence from="1862" to="1868" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence from="1887" to="1909" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <residence from="1909" to="1911" ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</residence>
+               <residence notBefore="1911" to="1921" ref="http://vocab.getty.edu/page/tgn/1000070">France</residence>
+               <birth>
+                  <date when="1862-07-24">24.07.1862</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/7004624">Cuba</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/1016316">Cárdenas</settlement>
+               </birth>
+               <death>
+                  <date when="1921-01-01">01.01.1921</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000070">France</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008951">Biarritz</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P99">
+               <persName type="main">
+                  <forename>Joaquín</forename>
+                  <surname>Costa</surname>
+                  <surname>Martínez</surname>
+               </persName>
+               <persName type="short">JoaquínC</persName>
+               <idno type="VIAF">59098193</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1846" to="1911" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1846-09-14">14.09.1846</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008093">Monzón</settlement>
+               </birth>
+               <death>
+                  <date when="1911-02-08">08.02.1911</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7330872">Graus</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+            <person xml:id="P100">
+               <persName type="main">
+                  <forename>Teresa</forename>
+                  <surname>Mañé</surname>
+                  <surname>Miravet</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Soledad Gustavo</addName>
+               </persName>
+               <persName type="short">TeresaM</persName>
+               <idno type="VIAF">102144648418827440923</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1865" to="1939" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1865-11-30">30.11.1865</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008807">Villanueva y Geltrú</settlement>
+               </birth>
+               <death>
+                  <date when="1939-02-05">05.02.1939</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000070">France</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7008383">Perpignan</settlement>
+               </death>
+               <sex>female</sex>
+            </person>
+            <person xml:id="P101">
+               <persName type="main">
+                  <forename>Pedro</forename>
+                  <forename>Antonio</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Alarcón</surname>
+               </persName>
+               <persName type="other">
+                  <addName type="pseudonym">Pedro Antonio de Alarcón y Ariza</addName>
+                  <addName type="pseudonym">Pedro Antonio Joaquín Melitón Alarcón y Ariza</addName>
+               </persName>
+               <persName type="short">PedroA</persName>
+               <idno type="VIAF">44294383</idno>
+               <nationality>Spanish</nationality>
+               <residence from="1833" to="1891" ref="http://vocab.getty.edu/page/tgn/1000095">Spain</residence>
+               <birth>
+                  <date when="1833-03-10">10.03.1833</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7007775">Guadix</settlement>
+               </birth>
+               <death>
+                  <date when="1891-07-19">19.07.1891</date>
+                  <country ref="http://vocab.getty.edu/page/tgn/1000095">Spain</country>
+                  <settlement ref="http://vocab.getty.edu/page/tgn/7010413">Madrid</settlement>
+               </death>
+               <sex>male</sex>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>

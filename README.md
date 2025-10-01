@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1066679668.svg)](https://doi.org/10.5281/zenodo.17237966)
+
 # canspin-spa-19
 CANSpiN corpus of 19th-century spanish novels (1790-1920)
 

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "canspin-spa-19"
+version: 0.5.1
+license: "CC-BY-4.0"
+type: dataset
+abstract: "The release makes the first part of the novel corpus CANSpiN-spa-19 available. In it's first version it consists of 124 novels an will be expanded in the near future."
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Nils
+    family-names: Kellner
+    affiliation: University of Rostock
+    orcid: "https://orcid.org/0009-0002-3966-5635"
+  - given-names: Ulrike
+    family-names: Henny-Krahmer
+    affiliation: University of Rostock
+    orcid: "https://orcid.org/0000-0003-2852-065X"
+keywords:
+  - CANSpiN
+  - SPP 2207
+  - Digital Humanities
+  - Computational Literary Studies
